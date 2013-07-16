@@ -6,31 +6,29 @@ You may want these for a presentation, a blog post or for the site featuring you
 
 All other trademarks, logos and copyrights are the property of their respective owners.
 
-Repo maintained by [@alrra](https://github.com/alrra)
+Repo maintained by [@alrra](https://github.com/alrra).
+
+Also relevant: [browser ponies](http://paulirish.deviantart.com/favourites/51528712)
 
 <hr><hr><hr>
 
 All logos from the repo follow:
 
 
-![](https://rawgithub.com/paulirish/browser-logos/master/chrome-canary.png)
-![](https://rawgithub.com/paulirish/browser-logos/master/chrome.png)
-![](https://rawgithub.com/paulirish/browser-logos/master/chrome.svg)
-![](https://rawgithub.com/paulirish/browser-logos/master/chromium.png)
-![](https://rawgithub.com/paulirish/browser-logos/master/chromium.svg)
-![](https://rawgithub.com/paulirish/browser-logos/master/firefox-aurora.png)
-![](https://rawgithub.com/paulirish/browser-logos/master/firefox-beta.png)
-![](https://rawgithub.com/paulirish/browser-logos/master/firefox-nightly.png)
-![](https://rawgithub.com/paulirish/browser-logos/master/firefox.png)
-![](https://rawgithub.com/paulirish/browser-logos/master/ie-256.png)
-![](https://rawgithub.com/paulirish/browser-logos/master/ie.svg)
-![](https://rawgithub.com/paulirish/browser-logos/master/ie10.png)
-![](https://rawgithub.com/paulirish/browser-logos/master/ie10.svg)
-![](https://rawgithub.com/paulirish/browser-logos/master/ie6.png)
-![](https://rawgithub.com/paulirish/browser-logos/master/ie8-700.png)
-![](https://rawgithub.com/paulirish/browser-logos/master/maxthon.png)
-![](https://rawgithub.com/paulirish/browser-logos/master/opera-next.png)
-![](https://rawgithub.com/paulirish/browser-logos/master/opera-next.svg)
-![](https://rawgithub.com/paulirish/browser-logos/master/opera.png)
-![](https://rawgithub.com/paulirish/browser-logos/master/safari.png)
-![](https://rawgithub.com/paulirish/browser-logos/master/webkit.png)
+
+<img width=200 src="https://raw.github.com/paulirish/browser-logos/master/chrome-canary.png">
+<img width=200 src="https://raw.github.com/paulirish/browser-logos/master/chrome.png">
+<img width=200 src="https://raw.github.com/paulirish/browser-logos/master/chromium.png">
+<img width=200 src="https://raw.github.com/paulirish/browser-logos/master/firefox-aurora.png">
+<img width=200 src="https://raw.github.com/paulirish/browser-logos/master/firefox-beta.png">
+<img width=200 src="https://raw.github.com/paulirish/browser-logos/master/firefox-nightly.png">
+<img width=200 src="https://raw.github.com/paulirish/browser-logos/master/firefox.png">
+<img width=200 src="https://raw.github.com/paulirish/browser-logos/master/ie-256.png">
+<img width=200 src="https://raw.github.com/paulirish/browser-logos/master/ie10.png">
+<img width=200 src="https://raw.github.com/paulirish/browser-logos/master/ie6.png">
+<img width=200 src="https://raw.github.com/paulirish/browser-logos/master/ie8-700.png">
+<img width=200 src="https://raw.github.com/paulirish/browser-logos/master/maxthon.png">
+<img width=200 src="https://raw.github.com/paulirish/browser-logos/master/opera-next.png">
+<img width=200 src="https://raw.github.com/paulirish/browser-logos/master/opera.png">
+<img width=200 src="https://raw.github.com/paulirish/browser-logos/master/safari.png">
+<img width=200 src="https://raw.github.com/paulirish/browser-logos/master/webkit.png">
