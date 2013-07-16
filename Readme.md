@@ -28,6 +28,7 @@ All logos from the repo follow:
 <img width=200 src="https://raw.github.com/paulirish/browser-logos/master/ie6.png">
 <img width=200 src="https://raw.github.com/paulirish/browser-logos/master/ie8-700.png">
 <img width=200 src="https://raw.github.com/paulirish/browser-logos/master/maxthon.png">
+<img width=200 src="https://raw.github.com/paulirish/browser-logos/master/opera-developer.png">
 <img width=200 src="https://raw.github.com/paulirish/browser-logos/master/opera-next.png">
 <img width=200 src="https://raw.github.com/paulirish/browser-logos/master/opera.png">
 <img width=200 src="https://raw.github.com/paulirish/browser-logos/master/safari.png">
