@@ -6,6 +6,8 @@ You may want these for a presentation, a blog post or for the site featuring you
 
 All other trademarks, logos and copyrights are the property of their respective owners.
 
+Repo maintained by [@alrra](https://github.com/alrra)
+
 <hr><hr><hr>
 
 All logos from the repo follow:
