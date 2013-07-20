@@ -54,4 +54,4 @@ print_success_msg() {
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 generate_img "all-desktop.png" \
-             "chrome.png" "firefox.png" "ie-256.png" "opera.png" "safari.png"
+             "chrome.png" "firefox.png" "ie9-10.png" "opera.png" "safari.png"
