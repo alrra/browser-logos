@@ -39,6 +39,12 @@ All other trademarks, logos and copyrights are the property of their respective 
 |---|
 | <a href="https://raw.github.com/paulirish/browser-logos/master/midori/midori.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/midori/midori_256x256.png"></a> |
 
+### NetSurf
+
+| NetSurf |
+|---|
+| <a href="https://raw.github.com/paulirish/browser-logos/master/netsurf/netsurf.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/netsurf/netsurf_256x256.png"></a> |
+
 ### Opera
 
 | Opera | Opera Next | Opera Developer |
