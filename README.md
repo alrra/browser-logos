@@ -33,6 +33,12 @@ All other trademarks, logos and copyrights are the property of their respective 
 |---|
 | <a href="https://raw.github.com/paulirish/browser-logos/master/konqueror/konqueror.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/konqueror/konqueror_256x256.png"></a> |
 
+### Maxthon
+
+| Maxthon |
+|---|
+| <a href="https://raw.github.com/paulirish/browser-logos/master/maxthon/maxthon.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/maxthon/maxthon_256x256.png"></a> |
+
 ### Midori
 
 | Midori |
