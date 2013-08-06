@@ -14,6 +14,12 @@ All other trademarks, logos and copyrights are the property of their respective 
 |---|---|---|
 | <a href="https://raw.github.com/paulirish/browser-logos/master/chrome/chrome.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/chrome/chrome_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/chrome-canary/chrome-canary.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/chrome-canary/chrome-canary_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/chromium/chromium.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/chromium/chromium_256x256.png"></a> |
 
+### Dolphin
+
+| Dolphin |
+|---|
+| <a href="https://raw.github.com/paulirish/browser-logos/master/dolphin/dolphin.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/dolphin/dolphin_256x256.png"></a> |
+
 ### Firefox
 
 | Firefox | Firefox Beta | Firefox Aurora | Firefox Nightly |
@@ -25,7 +31,6 @@ All other trademarks, logos and copyrights are the property of their respective 
 | Internet Explorer 6  | Internet Explorer  7/8 | Internet Explorer 9/10 | Internet Explorer 10 |
 |---|---|---|---|
 | <a href="https://raw.github.com/paulirish/browser-logos/master/ie6/ie6.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/ie6/ie6_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/ie7-8/ie7-8.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/ie7-8/ie7-8_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/ie9-10/ie9-10.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/ie9-10/ie9-10_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/ie10/ie10.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/ie10/ie10_256x256.png"></a> |
-
 
 ### Konqueror
 
