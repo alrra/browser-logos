@@ -35,9 +35,9 @@ All other trademarks, logos and copyrights are the property of their respective 
 
 ### Maxthon
 
-| Maxthon |
-|---|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/maxthon/maxthon.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/maxthon/maxthon_256x256.png"></a> |
+| Maxthon | Maxthon Beta |
+|---|---|
+| <a href="https://raw.github.com/paulirish/browser-logos/master/maxthon/maxthon.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/maxthon/maxthon_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/maxthon-beta/maxthon-beta.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/maxthon-beta/maxthon-beta_256x256.png"></a> |
 
 ### Midori
 
