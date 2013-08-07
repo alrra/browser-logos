@@ -16,9 +16,9 @@ All other trademarks, logos and copyrights are the property of their respective 
 
 ### Dolphin
 
-| Dolphin |
-|---|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/dolphin/dolphin.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/dolphin/dolphin_256x256.png"></a> |
+| Dolphin | Dolphin Beta |
+|---|---|
+| <a href="https://raw.github.com/paulirish/browser-logos/master/dolphin/dolphin.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/dolphin/dolphin_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/dolphin-beta/dolphin-beta.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/dolphin-beta/dolphin-beta_256x256.png"></a> |
 
 ### Firefox
 
