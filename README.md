@@ -74,6 +74,12 @@ All other trademarks, logos and copyrights are the property of their respective 
 |---|
 | <a href="https://raw.github.com/paulirish/browser-logos/master/safari/safari.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/safari/safari.png"></a> |
 
+### Skyfire
+
+| Skyfire (iPhone) |
+|---|
+| <a href="https://raw.github.com/paulirish/browser-logos/master/skyfire-iphone/skyfire-iphone.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/skyfire-iphone/skyfire-iphone_256x256.png"></a> |
+
 ### WebKit
 
 | WebKit |
