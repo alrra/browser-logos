@@ -76,9 +76,9 @@ All other trademarks, logos and copyrights are the property of their respective 
 
 ### Skyfire
 
-| Skyfire (iPhone) |
-|---|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/skyfire-iphone/skyfire-iphone.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/skyfire-iphone/skyfire-iphone_256x256.png"></a> |
+| Skyfire (iPhone) | Skyfire (iPad) |
+|---|---|
+| <a href="https://raw.github.com/paulirish/browser-logos/master/skyfire-iphone/skyfire-iphone.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/skyfire-iphone/skyfire-iphone_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/skyfire-ipad/skyfire-ipad.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/skyfire-ipad/skyfire-ipad_256x256.png"></a> |
 
 ### WebKit
 
