@@ -92,6 +92,12 @@ All other trademarks, logos and copyrights are the property of their respective 
 |---|---|---|
 | <a href="https://raw.github.com/paulirish/browser-logos/master/skyfire-android/skyfire-android.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/skyfire-android/skyfire-android_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/skyfire-iphone/skyfire-iphone.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/skyfire-iphone/skyfire-iphone_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/skyfire-ipad/skyfire-ipad.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/skyfire-ipad/skyfire-ipad_256x256.png"></a> |
 
+### Sleipnir
+
+| Sleipnir (Mac) |
+|---|
+| <a href="https://raw.github.com/paulirish/browser-logos/master/sleipnir-mac/sleipnir-mac.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/sleipnir-mac/sleipnir-mac_256x256.png"></a> |
+
 ### WebKit
 
 | WebKit |
