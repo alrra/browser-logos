@@ -58,9 +58,9 @@ All other trademarks, logos and copyrights are the property of their respective 
 
 ### ONE
 
-| ONE (Android) |
-|---|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/one-android/one-android.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/one-android/one-android_256x256.png"></a> |
+| ONE (Android) | ONE (iPhone)
+|---|---|
+| <a href="https://raw.github.com/paulirish/browser-logos/master/one-android/one-android.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/one-android/one-android_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/one-iphone/one-iphone.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/one-iphone/one-iphone_256x256.png"></a> |
 
 ### Opera
 
