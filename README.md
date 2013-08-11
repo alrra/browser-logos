@@ -56,6 +56,12 @@ All other trademarks, logos and copyrights are the property of their respective 
 |---|
 | <a href="https://raw.github.com/paulirish/browser-logos/master/netsurf/netsurf.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/netsurf/netsurf_256x256.png"></a> |
 
+### ONE
+
+| ONE (Android) |
+|---|
+| <a href="https://raw.github.com/paulirish/browser-logos/master/one-android/one-android.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/one-android/one-android_256x256.png"></a> |
+
 ### Opera
 
 | Opera | Opera Next | Opera Developer |
