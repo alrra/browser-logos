@@ -44,6 +44,12 @@ All other trademarks, logos and copyrights are the property of their respective 
 |---|---|
 | <a href="https://raw.github.com/paulirish/browser-logos/master/maxthon/maxthon.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/maxthon/maxthon_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/maxthon-beta/maxthon-beta.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/maxthon-beta/maxthon-beta_256x256.png"></a> |
 
+### Mercury
+
+| Mercury |
+|---|
+| <a href="https://raw.github.com/paulirish/browser-logos/master/mercury/mercury.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/mercury/mercury_256x256.png"></a> |
+
 ### Midori
 
 | Midori |
