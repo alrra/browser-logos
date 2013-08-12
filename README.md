@@ -100,9 +100,9 @@ All other trademarks, logos and copyrights are the property of their respective 
 
 ### UC
 
-| UC |
-|---|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/uc/uc.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/uc/uc_256x256.png"></a> |
+| UC | UC (iPhone) |
+|---|---|
+| <a href="https://raw.github.com/paulirish/browser-logos/master/uc/uc.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/uc/uc_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/uc-iphone/uc-iphone.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/uc-iphone/uc-iphone_256x256.png"></a> |
 
 ### WebKit
 
