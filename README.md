@@ -10,9 +10,9 @@ All other trademarks, logos and copyrights are the property of their respective 
 
 ### Boat
 
-| Boat |
-|---|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/boat/boat.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/boat/boat_256x256.png"></a> |
+| Boat | Boat Mini |
+|---|---|
+| <a href="https://raw.github.com/paulirish/browser-logos/master/boat/boat.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/boat/boat_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/boat-mini/boat-mini.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/boat-mini/boat-mini_256x256.png"></a> |
 
 ### Chrome
 
