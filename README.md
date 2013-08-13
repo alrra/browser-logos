@@ -26,6 +26,12 @@ All other trademarks, logos and copyrights are the property of their respective 
 |---|---|
 | <a href="https://raw.github.com/paulirish/browser-logos/master/dolphin/dolphin.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/dolphin/dolphin_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/dolphin-beta/dolphin-beta.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/dolphin-beta/dolphin-beta_256x256.png"></a> |
 
+### Exsoul
+
+| Exsoul |
+|---|
+| <a href="https://raw.github.com/paulirish/browser-logos/master/exsoul/exsoul.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/exsoul/exsoul_256x256.png"></a> |
+
 ### Firefox
 
 | Firefox | Firefox Beta | Firefox Aurora | Firefox Nightly |
