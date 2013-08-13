@@ -8,6 +8,12 @@ All other trademarks, logos and copyrights are the property of their respective 
 
 ---
 
+### Boat
+
+| Boat |
+|---|
+| <a href="https://raw.github.com/paulirish/browser-logos/master/boat/boat.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/boat/boat_256x256.png"></a> |
+
 ### Chrome
 
 | Chrome | Chrome Canary | Chromium |
