@@ -10,7 +10,7 @@ All other trademarks, logos and copyrights are the property of their respective 
 
 ### AllInOne
 
-| [AllInOne](www.allinonebrowser.com/) |
+| [AllInOne](http://www.allinonebrowser.com/) |
 |---|
 | <a href="https://raw.github.com/paulirish/browser-logos/master/allinone/allinone.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/allinone/allinone_256x256.png"></a> |
 
@@ -64,9 +64,9 @@ All other trademarks, logos and copyrights are the property of their respective 
 
 ### Lunascape
 
-| [iLunascape (Android)](http://www.lunascape.tv/) | [iLunascape (iOS)](http://www.lunascape.tv/) |
-|---|---|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/ilunascape-android/ilunascape-android.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/ilunascape-android/ilunascape-android_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/ilunascape-ios/ilunascape-ios.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/ilunascape-ios/ilunascape-ios_256x256.png"></a> |
+| [iLunascape (Android)](http://www.lunascape.tv/) | [iLunascape (iOS)](http://www.lunascape.tv/) |[iLunascape Lite (iOS)](http://www.lunascape.tv/) |
+|---|---|---|
+| <a href="https://raw.github.com/paulirish/browser-logos/master/ilunascape-android/ilunascape-android.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/ilunascape-android/ilunascape-android_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/ilunascape-ios/ilunascape-ios.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/ilunascape-ios/ilunascape-ios_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/ilunascape-lite-ios/ilunascape-lite-ios.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/ilunascape-lite-ios/ilunascape-lite-ios_256x256.png"></a> |
 
 ### Maxthon
 
