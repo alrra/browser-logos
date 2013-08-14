@@ -134,6 +134,13 @@ All other trademarks, logos and copyrights are the property of their respective 
 |---|---|
 | <a href="https://raw.github.com/paulirish/browser-logos/master/sleipnir-mac/sleipnir-mac.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/sleipnir-mac/sleipnir-mac_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/sleipnir-mobile/sleipnir-mobile.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/sleipnir-mobile/sleipnir-mobile_256x256.png"></a> |
 
+### Terra
+
+| [Terra](http://readdle.com/products/terra/) |
+|---|
+| <a href="https://raw.github.com/paulirish/browser-logos/master/terra/terra.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/terra/terra_256x256.png"></a> |
+
+
 ### UC
 
 | [UC](http://www.ucweb.com) | [UC (iPhone)](http://www.ucweb.com) |
