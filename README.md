@@ -74,6 +74,13 @@ All other trademarks, logos and copyrights are the property of their respective 
 |---|
 | <a href="https://raw.github.com/paulirish/browser-logos/master/netsurf/netsurf.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/netsurf/netsurf_256x256.png"></a> |
 
+### Next
+
+| [Next](http://nextbrowser.goforandroid.com/) |
+|---|
+| <a href="https://raw.github.com/paulirish/browser-logos/master/next/next.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/next/next_256x256.png"></a> |
+
+
 ### ONE
 
 | [ONE (Android)](http://one-browser.com/mobile/home) | [ONE (iPhone)](http://one-browser.com/mobile/home) |
