@@ -14,6 +14,12 @@ All other trademarks, logos and copyrights are the property of their respective 
 |:---:|
 | <a href="https://raw.github.com/paulirish/browser-logos/master/allinone/allinone.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/allinone/allinone_256x256.png"></a> |
 
+### Baidu
+
+| [Baidu](http://imobile.baidu.com/browser/) |
+|:---:|
+| <a href="https://raw.github.com/paulirish/browser-logos/master/baidu/baidu.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/baidu/baidu_256x256.png"></a> |
+
 ### Boat
 
 | [Boat](http://www.boatmob.com/) | [Boat Mini](http://www.boatmob.com/) |
