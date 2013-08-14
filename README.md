@@ -50,6 +50,12 @@ All other trademarks, logos and copyrights are the property of their respective 
 |---|
 | <a href="https://raw.github.com/paulirish/browser-logos/master/konqueror/konqueror.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/konqueror/konqueror_256x256.png"></a> |
 
+### Lightning
+
+| [Lightning](https://github.com/anthonycr/Lightning-Browser/) |
+|---|
+| <a href="https://raw.github.com/paulirish/browser-logos/master/lightning/lightning.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/lightning/lightning_256x256.png"></a> |
+
 ### Maxthon
 
 | [Maxthon](http://www.maxthon.com/) | [Maxthon Beta](http://www.maxthon.com/) |
