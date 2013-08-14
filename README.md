@@ -80,6 +80,11 @@ All other trademarks, logos and copyrights are the property of their respective 
 |---|
 | <a href="https://raw.github.com/paulirish/browser-logos/master/next/next.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/next/next_256x256.png"></a> |
 
+### Ninesky
+
+| [Ninesky](http://www.ninesky.com/) |
+|---|
+| <a href="https://raw.github.com/paulirish/browser-logos/master/ninesky/ninesky.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/ninesky/ninesky_256x256.png"></a> |
 
 ### ONE
 
