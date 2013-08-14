@@ -8,6 +8,12 @@ All other trademarks, logos and copyrights are the property of their respective 
 
 ---
 
+### AllInOne
+
+| [AllInOne](www.allinonebrowser.com/) |
+|---|
+| <a href="https://raw.github.com/paulirish/browser-logos/master/allinone/allinone.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/allinone/allinone_256x256.png"></a> |
+
 ### Boat
 
 | [Boat](http://www.boatmob.com/) | [Boat Mini](http://www.boatmob.com/) |
