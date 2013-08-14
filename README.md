@@ -104,6 +104,12 @@ All other trademarks, logos and copyrights are the property of their respective 
 |---|---|---|
 | <a href="https://raw.github.com/paulirish/browser-logos/master/opera/opera.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/opera/opera_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/opera-next/opera-next.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/opera-next/opera-next_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/opera-developer/opera-developer.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/opera-developer/opera-developer_256x256.png"></a> |
 
+### Photon
+
+| [Photon](http://www.appsverse.com/Index) |
+|---|
+| <a href="https://raw.github.com/paulirish/browser-logos/master/photon/photon.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/photon/photon_256x256.png"></a> |
+
 ### rekonq
 
 | [rekonq](http://rekonq.kde.org/) |
