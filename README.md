@@ -138,7 +138,13 @@ All other trademarks, logos and copyrights are the property of their respective 
 
 | [Safari](http://www.apple.com/safari/) |
 |:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/safari/safari.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/safari/safari.png"></a> |
+| <a href="https://raw.github.com/paulirish/browser-logos/master/safari/safari.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/safari/safari_256x256.png"></a> |
+
+### Silk
+
+| [Silk](http://www.amazon.com/silk) |
+|:---:|
+| <a href="https://raw.github.com/paulirish/browser-logos/master/silk/silk.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/silk/silk_256x256.png"></a> |
 
 ### Skyfire
 
