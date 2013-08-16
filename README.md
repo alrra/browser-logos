@@ -32,6 +32,12 @@ All other trademarks, logos and copyrights are the property of their respective 
 |:---:|:---:|:---:|
 | <a href="https://raw.github.com/paulirish/browser-logos/master/chrome/chrome.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/chrome/chrome_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/chrome-canary/chrome-canary.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/chrome-canary/chrome-canary_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/chromium/chromium.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/chromium/chromium_256x256.png"></a> |
 
+### Cruz
+
+| [Cruz](http://cruzapp.com/) |
+|:---:|:---:|
+| <a href="https://raw.github.com/paulirish/browser-logos/master/cruz/cruz.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/cruz/cruz_256x256.png"></a> |
+
 ### Dolphin
 
 | [Dolphin](http://dolphin.com/) | [Dolphin Beta](http://dolphin.com/beta/) |
