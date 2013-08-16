@@ -134,6 +134,12 @@ All other trademarks, logos and copyrights are the property of their respective 
 |:---:|
 | <a href="https://raw.github.com/paulirish/browser-logos/master/photon/photon.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/photon/photon_256x256.png"></a> |
 
+### QQ
+
+| [QQ](http://mb.qq.com/) |
+|:---:|
+| <a href="https://raw.github.com/paulirish/browser-logos/master/qq/qq.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/qq/qq.png"></a> |
+
 ### rekonq
 
 | [rekonq](http://rekonq.kde.org/) |
