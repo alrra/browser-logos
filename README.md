@@ -142,9 +142,9 @@ All other trademarks, logos and copyrights are the property of their respective 
 
 ### Safari
 
-| [Safari](http://www.apple.com/safari/) |
-|:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/safari/safari.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/safari/safari_256x256.png"></a> |
+| [Safari](http://www.apple.com/safari/) | [Safari (iOS)](http://www.apple.com/safari/) |
+|:---:|:---:|
+| <a href="https://raw.github.com/paulirish/browser-logos/master/safari/safari.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/safari/safari_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/safari-ios/safari-ios.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/safari-ios/safari-ios_256x256.png"></a> |
 
 ### Silk
 
