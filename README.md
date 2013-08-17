@@ -188,6 +188,12 @@ All other trademarks, logos and copyrights are the property of their respective 
 |:---:|
 | <a href="https://raw.github.com/paulirish/browser-logos/master/terra/terra.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/terra/terra_256x256.png"></a> |
 
+### Torch
+
+| [Torch](http://www.torchbrowser.com/) |
+|:---:|
+| <a href="https://raw.github.com/paulirish/browser-logos/master/torch/torch.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/torch/torch.png"></a> |
+
 ### UC
 
 | [UC](http://www.ucweb.com) | [UC (iPhone)](http://www.ucweb.com) |
