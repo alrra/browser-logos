@@ -206,6 +206,12 @@ All other trademarks, logos and copyrights are the property of their respective 
 |:---:|
 | <a href="https://raw.github.com/paulirish/browser-logos/master/webkit/webkit.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/webkit/webkit_256x256.png"></a> |
 
+### Wyzo
+
+| [Wyzo](http://www.wyzo.com/) |
+|:---:|
+| <a href="https://raw.github.com/paulirish/browser-logos/master/wyzo/wyzo.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/wyzo/wyzo_256x256.png"></a> |
+
 ### Yandex
 
 | [Yandex](http://browser.yandex.com/) |
