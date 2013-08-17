@@ -44,6 +44,12 @@ All other trademarks, logos and copyrights are the property of their respective 
 |:---:|:---:|
 | <a href="https://raw.github.com/paulirish/browser-logos/master/dolphin/dolphin.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/dolphin/dolphin_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/dolphin-beta/dolphin-beta.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/dolphin-beta/dolphin-beta_256x256.png"></a> |
 
+### Dooble
+
+| [Dooble](http://dooble.sourceforge.net/) |
+|:---:|
+| <a href="https://raw.github.com/paulirish/browser-logos/master/dooble/dooble.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/dooble/dooble_256x256.png"></a> |
+
 ### Exsoul
 
 | [Exsoul](http://www.exsoul-browser.com/) |
