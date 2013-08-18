@@ -182,6 +182,12 @@ All other trademarks, logos and copyrights are the property of their respective 
 |:---:|
 | <a href="https://raw.github.com/paulirish/browser-logos/master/stainless/stainless.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/stainless/stainless_256x256.png"></a> |
 
+### Super Fast
+
+| [Super Fast](http://www.sfbrowser.com/) |
+|:---:|
+| <a href="https://raw.github.com/paulirish/browser-logos/master/superfast/superfast.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/superfast/superfast_256x256.png"></a> |
+
 ### Terra
 
 | [Terra](http://readdle.com/products/terra/) |
