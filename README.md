@@ -140,6 +140,12 @@ All other trademarks, logos and copyrights are the property of their respective 
 |:---:|
 | <a href="https://raw.github.com/paulirish/browser-logos/master/photon/photon.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/photon/photon_256x256.png"></a> |
 
+### Puffin
+
+| [Puffin](http://www.puffinbrowser.com/) |
+|:---:|
+| <a href="https://raw.github.com/paulirish/browser-logos/master/puffin/puffin.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/puffin/puffin_256x256.png"></a> |
+
 ### QQ
 
 | [QQ](http://mb.qq.com/) |
