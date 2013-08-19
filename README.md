@@ -182,6 +182,12 @@ All other trademarks, logos and copyrights are the property of their respective 
 |:---:|:---:|
 | <a href="https://raw.github.com/paulirish/browser-logos/master/sleipnir-mac/sleipnir-mac.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/sleipnir-mac/sleipnir-mac_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/sleipnir-mobile/sleipnir-mobile.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/sleipnir-mobile/sleipnir-mobile_256x256.png"></a> |
 
+### Spearmint
+
+| [Spearmint](http://www.spearmintbrowser.com/) |
+|:---:|
+| <a href="https://raw.github.com/paulirish/browser-logos/master/spearmint/spearmint.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/spearmint/spearmint_256x256.png"></a> |
+
 ### Stainless
 
 | [Stainless](http://www.stainlessapp.com/) |
