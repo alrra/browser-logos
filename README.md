@@ -158,6 +158,12 @@ All other trademarks, logos and copyrights are the property of their respective 
 |:---:|:---:|:---:|
 | <a href="https://raw.github.com/paulirish/browser-logos/master/opera/opera.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/opera/opera_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/opera-next/opera-next.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/opera-next/opera-next_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/opera-developer/opera-developer.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/opera-developer/opera-developer_256x256.png"></a> |
 
+### Perfect
+
+| [Perfect](http://www.perfectbrowser.com/) |
+|:---:|
+| <a href="https://raw.github.com/paulirish/browser-logos/master/perfect/perfect.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/perfect/perfect_256x256.png"></a> |
+
 ### Photon
 
 | [Photon](http://www.appsverse.com/Index) |
