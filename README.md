@@ -80,6 +80,12 @@ All other trademarks, logos and copyrights are the property of their respective 
 |:---:|:---:|:---:|:---:|
 | <a href="https://raw.github.com/paulirish/browser-logos/master/firefox/firefox.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/firefox/firefox_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/firefox-beta/firefox-beta.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/firefox-beta/firefox-beta_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/firefox-aurora/firefox-aurora.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/firefox-aurora/firefox-aurora_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/firefox-nightly/firefox-nightly.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/firefox-nightly/firefox-nightly_256x256.png"></a> |
 
+### iCab
+
+| [iCab Mobile](http://www.icab.de/mobile.html) |
+|:---:|
+| <a href="https://raw.github.com/paulirish/browser-logos/master/icab-mobile/icab-mobile.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/icab-mobile/icab-mobile_256x256.png"></a> |
+
 ### Internet Explorer
 
 | [Internet Explorer 6](http://www.microsoft.com/en-us/download/details.aspx?id=1)  | [Internet Explorer 7](http://www.microsoft.com/en-us/download/internet-explorer-7-details.aspx) / [8](http://www.microsoft.com/en-us/download/internet-explorer-8-details.aspx) | [Internet Explorer 9](http://windows.microsoft.com/en-gb/internet-explorer/ie-9-worldwide-languages) / [10](http://windows.microsoft.com/en-us/internet-explorer/ie-10-worldwide-languages) | [Internet Explorer 10](http://windows.microsoft.com/en-us/internet-explorer/ie-10-worldwide-languages) |
