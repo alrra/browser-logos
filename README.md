@@ -28,9 +28,15 @@ All other trademarks, logos and copyrights are the property of their respective 
 
 ### Chrome
 
-| [Chrome](https://www.google.com/chrome/) | [Chrome (Android)](http://www.google.com/intl/en/chrome/browser/mobile/android.html) | [Chrome Beta (Android)](http://www.google.com/intl/en/chrome/browser/mobile/android.html) | [Chrome Canary](https://www.google.com/intl/en/chrome/browser/canary.html) | [Chromium](http://www.chromium.org/Home) |
-|:---:|:---:|:---:|:---:|:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/chrome/chrome.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/chrome/chrome_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/chrome-android/chrome-android.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/chrome-android/chrome-android_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/chrome-beta-android/chrome-beta-android.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/chrome-beta-android/chrome-beta-android_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/chrome-canary/chrome-canary.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/chrome-canary/chrome-canary_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/chromium/chromium.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/chromium/chromium_256x256.png"></a> |
+| [Chrome](https://www.google.com/chrome/) | [Chrome (Android)](http://www.google.com/intl/en/chrome/browser/mobile/android.html) | [Chrome Beta (Android)](http://www.google.com/intl/en/chrome/browser/mobile/android.html) | [Chrome Canary](https://www.google.com/intl/en/chrome/browser/canary.html) |
+|:---:|:---:|:---:|:---:|
+| <a href="https://raw.github.com/paulirish/browser-logos/master/chrome/chrome.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/chrome/chrome_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/chrome-android/chrome-android.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/chrome-android/chrome-android_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/chrome-beta-android/chrome-beta-android.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/chrome-beta-android/chrome-beta-android_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/chrome-canary/chrome-canary.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/chrome-canary/chrome-canary_256x256.png"></a> |
+
+### Chromium
+
+| [Chromium](http://www.chromium.org/Home) |
+|:---:
+| <a href="https://raw.github.com/paulirish/browser-logos/master/chromium/chromium.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/chromium/chromium_256x256.png"></a> |
 
 ### Cruz
 
