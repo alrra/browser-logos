@@ -182,6 +182,12 @@ All other trademarks, logos and copyrights are the property of their respective 
 |:---:|:---:|
 | <a href="https://raw.github.com/paulirish/browser-logos/master/safari/safari.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/safari/safari_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/safari-ios/safari-ios.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/safari-ios/safari-ios_256x256.png"></a> |
 
+### Seyyah
+
+| [Seyyah](http://seyyah.mozkan.com/) |
+|:---:|
+| <a href="https://raw.github.com/paulirish/browser-logos/master/seyyah/seyyah.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/seyyah/seyyah_256x256.png"></a> |
+
 ### Silk
 
 | [Silk](http://www.amazon.com/silk) |
