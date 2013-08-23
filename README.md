@@ -44,6 +44,12 @@ All other trademarks, logos and copyrights are the property of their respective 
 |:---:|:---:|
 | <a href="https://raw.github.com/paulirish/browser-logos/master/cruz/cruz.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/cruz/cruz_256x256.png"></a> |
 
+### Diigo
+
+| [Diigo](https://www.diigo.com/tools) |
+|:---:|:---:|
+| <a href="https://raw.github.com/paulirish/browser-logos/master/diigo/diigo.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/diigo/diigo_256x256.png"></a> |
+
 ### Dolphin
 
 | [Dolphin](http://dolphin.com/) | [Dolphin Beta](http://dolphin.com/beta/) |
