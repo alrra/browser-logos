@@ -152,6 +152,12 @@ All other trademarks, logos and copyrights are the property of their respective 
 |:---:|
 | <a href="https://raw.github.com/paulirish/browser-logos/master/ninesky/ninesky.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/ninesky/ninesky_256x256.png"></a> |
 
+### OmniWeb
+
+| [OmniWeb](http://www.omnigroup.com/products/omniweb/) |
+|:---:|
+| <a href="https://raw.github.com/paulirish/browser-logos/master/omniweb/omniweb.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/omniweb/omniweb_256x256.png"></a> |
+
 ### ONE
 
 | [ONE (Android)](http://one-browser.com/mobile/home) | [ONE (iPhone)](http://one-browser.com/mobile/home) |
