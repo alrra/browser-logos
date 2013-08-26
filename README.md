@@ -116,6 +116,12 @@ All other trademarks, logos and copyrights are the property of their respective 
 |:---:|:---:|:---:|
 | <a href="https://raw.github.com/paulirish/browser-logos/master/ilunascape-android/ilunascape-android.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/ilunascape-android/ilunascape-android_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/ilunascape-ios/ilunascape-ios.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/ilunascape-ios/ilunascape-ios_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/ilunascape-lite-ios/ilunascape-lite-ios.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/ilunascape-lite-ios/ilunascape-lite-ios_256x256.png"></a> |
 
+### Maven
+
+| [Maven](http://www.creamycheesy.com/maven/) |
+|:---:|
+| <a href="https://raw.github.com/paulirish/browser-logos/master/maven/maven.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/maven/maven_256x256.png"></a> |
+
 ### Maxthon
 
 | [Maxthon](http://www.maxthon.com/) | [Maxthon Beta](http://www.maxthon.com/) |
