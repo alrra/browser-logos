@@ -74,6 +74,12 @@ All other trademarks, logos and copyrights are the property of their respective 
 |:---:|:---:|
 | <a href="https://raw.github.com/paulirish/browser-logos/master/diigo/diigo.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/diigo/diigo_256x256.png"></a> |
 
+### Docler
+
+| [Docler](http://doclerbrowser.com/) |
+|:---:|:---:|
+| <a href="https://raw.github.com/paulirish/browser-logos/master/docler/docler.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/docler/docler_256x256.png"></a> |
+
 ### Dolphin
 
 | [Dolphin](http://dolphin.com/) | [Dolphin Beta](http://dolphin.com/beta/) |
