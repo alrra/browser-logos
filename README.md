@@ -8,6 +8,12 @@ All other trademarks, logos and copyrights are the property of their respective 
 
 ---
 
+### Adrenaline
+
+| [Adrenaline](http://adrenalinemobility.com/) |
+|:---:|
+| <a href="https://raw.github.com/paulirish/browser-logos/master/adrenaline/adrenaline.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/adrenaline/adrenaline_256x256.png"></a> |
+
 ### AllInOne
 
 | [AllInOne](http://www.allinonebrowser.com/) |
