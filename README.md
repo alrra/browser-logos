@@ -44,6 +44,12 @@ All other trademarks, logos and copyrights are the property of their respective 
 |:---:|:---:|
 | <a href="https://raw.github.com/paulirish/browser-logos/master/boat/boat.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/boat/boat_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/boat-mini/boat-mini.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/boat-mini/boat-mini_256x256.png"></a> |
 
+### Cheetah
+
+| [Cheetah](http://www.liebao.cn/) |
+|:---:|
+| <a href="https://raw.github.com/paulirish/browser-logos/master/cheetah/cheetah.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/cheetah/cheetah_256x256.png"></a> |
+
 ### Chrome
 
 | [Chrome](https://www.google.com/chrome/) | [Chrome (Android)](http://www.google.com/intl/en/chrome/browser/mobile/android.html) | [Chrome Beta (Android)](http://www.google.com/intl/en/chrome/browser/mobile/android.html) | [Chrome Canary](https://www.google.com/intl/en/chrome/browser/canary.html) |
