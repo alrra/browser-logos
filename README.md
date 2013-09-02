@@ -160,9 +160,15 @@ All other trademarks, logos and copyrights are the property of their respective 
 
 ### NLIA
 
-| [NLIA](http://e.netpia.com/ |
+| [NLIA](http://e.netpia.com/) |
 |:---:|
 | <a href="https://raw.github .com/paulirish/browser-logos/master/nlia/nlia.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/nlia/nlia_256x256.png"></a> |
+
+### Omega
+
+| [Omega](http://ddmsite.ucoz.ru/) |
+|:---:|
+| <a href="https://raw.github .com/paulirish/browser-logos/master/omega/omega.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/omega/omega_256x256.png"></a> |
 
 ### OmniWeb
 
