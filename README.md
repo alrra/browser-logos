@@ -158,6 +158,12 @@ All other trademarks, logos and copyrights are the property of their respective 
 |:---:|
 | <a href="https://raw.github.com/paulirish/browser-logos/master/ninesky/ninesky.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/ninesky/ninesky_256x256.png"></a> |
 
+### NLIA
+
+| [NLIA](http://e.netpia.com/ |
+|:---:|
+| <a href="https://raw.github .com/paulirish/browser-logos/master/nlia/nlia.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/nlia/nlia_256x256.png"></a> |
+
 ### OmniWeb
 
 | [OmniWeb](http://www.omnigroup.com/products/omniweb/) |
