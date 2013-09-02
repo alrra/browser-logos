@@ -146,6 +146,12 @@ All other trademarks, logos and copyrights are the property of their respective 
 |:---:|
 | <a href="https://raw.github.com/paulirish/browser-logos/master/mercury/mercury.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/mercury/mercury_256x256.png"></a> |
 
+### MetaCert
+
+| [MetaCert](https://metacert.com/) |
+|:---:|
+| <a href="https://raw.github.com/paulirish/browser-logos/master/metacert/metacert.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/metacert/metacert_256x256.png"></a> |
+
 ### Midori
 
 | [Midori](http://www.midori-browser.org/) |
