@@ -284,6 +284,12 @@ All other trademarks, logos and copyrights are the property of their respective 
 |:---:|:---:|
 | <a href="https://raw.github.com/paulirish/browser-logos/master/sleipnir-mac/sleipnir-mac.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/sleipnir-mac/sleipnir-mac_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/sleipnir-mobile/sleipnir-mobile.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/sleipnir-mobile/sleipnir-mobile_256x256.png"></a> |
 
+### SlimBoat
+
+| [SlimBoat](http://www.slimboat.com/) |
+|:---:|
+| <a href="https://raw.github.com/paulirish/browser-logos/master/slimboat/slimboat.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/slimboat/slimboat_256x256.png"></a> |
+
 ### Spearmint
 
 | [Spearmint](http://www.spearmintbrowser.com/) |
