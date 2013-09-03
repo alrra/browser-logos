@@ -8,6 +8,12 @@ All other trademarks, logos and copyrights are the property of their respective 
 
 ---
 
+### 360 Secure
+
+| [360 Secure](http://se.360.cn/) |
+|:---:|
+| <a href="https://raw.github.com/paulirish/browser-logos/master/360-secure/360-secure.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/360-secure/360-secure_256x256.png"></a> |
+
 ### Adrenaline
 
 | [Adrenaline](http://adrenalinemobility.com/) |
