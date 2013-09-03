@@ -230,12 +230,6 @@ All other trademarks, logos and copyrights are the property of their respective 
 |:---:|
 | <a href="https://raw.github.com/paulirish/browser-logos/master/perfect/perfect.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/perfect/perfect_256x256.png"></a> |
 
-### Photon
-
-| [Photon](http://www.appsverse.com/Index) |
-|:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/photon/photon.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/photon/photon_256x256.png"></a> |
-
 ### Puffin
 
 | [Puffin](http://www.puffinbrowser.com/) |
