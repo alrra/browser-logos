@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# This script automatically generates the `all-desktop.png` image as well as
+# This script automatically generates the `main-desktop.png` image as well as
 # all the different sized versions of the logos. In order for it to work, you
 # will need to have `ImageMagick Command-Line Tools` installed.
 # http://www.imagemagick.org/script/command-line-tools.php.
@@ -12,7 +12,7 @@
 
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-declare groupImgName="all-desktop"
+declare groupImgName="main-desktop"
 
 declare -a imgGroup=(
     "chrome"
