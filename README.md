@@ -260,6 +260,12 @@ All other trademarks, logos and copyrights are the property of their respective 
 |:---:|:---:|
 | <a href="https://raw.github.com/paulirish/browser-logos/master/safari/safari.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/safari/safari_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/safari-ios/safari-ios.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/safari-ios/safari-ios_256x256.png"></a> |
 
+### SeaMonkey
+
+| [SeaMonkey](http://www.seamonkey-project.org/) |
+|:---:|
+| <a href="https://raw.github.com/paulirish/browser-logos/master/seamonkey/seamonkey.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/seamonkey/seamonkey_256x256.png"></a> |
+
 ### Seyyah
 
 | [Seyyah](http://seyyah.mozkan.com/) |
