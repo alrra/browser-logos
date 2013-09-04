@@ -208,6 +208,12 @@ All other trademarks, logos and copyrights are the property of their respective 
 |:---:|
 | <a href="https://raw.github.com/paulirish/browser-logos/master/nlia/nlia.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/nlia/nlia_256x256.png"></a> |
 
+### Ocean
+
+| [Ocean](http://www.compal.com/apps/oceanbrowser/) |
+|:---:|
+| <a href="https://raw.github.com/paulirish/browser-logos/master/ocean/ocean.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/ocean/ocean_256x256.png"></a> |
+
 ### Omega
 
 | [Omega](http://ddmsite.ucoz.ru/) |
