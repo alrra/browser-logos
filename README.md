@@ -40,6 +40,12 @@ All other trademarks, logos and copyrights are the property of their respective 
 |:---:|
 | <a href="https://raw.github.com/paulirish/browser-logos/master/atomic/atomic.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/atomic/atomic_256x256.png"></a> |
 
+### Avant
+
+| [Avant](http://www.avantbrowser.com/) |
+|:---:|
+| <a href="https://raw.github.com/paulirish/browser-logos/master/avant/avant.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/avant/avant_256x256.png"></a> |
+
 ### Baidu
 
 | [Baidu](http://imobile.baidu.com/browser/) |
