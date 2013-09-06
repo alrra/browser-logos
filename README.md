@@ -262,6 +262,12 @@ All other trademarks, logos and copyrights are the property of their respective 
 |:---:|:---:|:---:|
 | <a href="https://raw.github.com/paulirish/browser-logos/master/opera/opera.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/opera/opera_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/opera-next/opera-next.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/opera-next/opera-next_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/opera-developer/opera-developer.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/opera-developer/opera-developer_256x256.png"></a> |
 
+### Orweb
+
+| [Orweb](https://guardianproject.info/apps/orweb/) |
+|:---:|
+| <a href="https://raw.github.com/paulirish/browser-logos/master/orweb/orweb.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/orweb/orweb_256x256.png"></a> |
+
 ### Perfect
 
 | [Perfect](http://www.perfectbrowser.com/) |
