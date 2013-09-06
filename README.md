@@ -352,6 +352,12 @@ All other trademarks, logos and copyrights are the property of their respective 
 |:---:|
 | <a href="https://raw.github.com/paulirish/browser-logos/master/terra/terra.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/terra/terra_256x256.png"></a> |
 
+### Tor
+
+| [Tor](https://www.torproject.org/) |
+|:---:|
+| <a href="https://raw.github.com/paulirish/browser-logos/master/tor/tor.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/tor/tor.png"></a> |
+
 ### Torch
 
 | [Torch](http://www.torchbrowser.com/) |
