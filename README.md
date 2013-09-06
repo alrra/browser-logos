@@ -250,6 +250,12 @@ All other trademarks, logos and copyrights are the property of their respective 
 |:---:|:---:|
 | <a href="https://raw.github.com/paulirish/browser-logos/master/one-android/one-android.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/one-android/one-android_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/one-iphone/one-iphone.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/one-iphone/one-iphone_256x256.png"></a> |
 
+### Onion
+
+| [Onion](https://mike.tig.as/onionbrowser/) |
+|:---:|
+| <a href="https://raw.github.com/paulirish/browser-logos/master/onion/onion.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/onion/onion_256x256.png"></a> |
+
 ### Opera
 
 | [Opera](http://www.opera.com/) | [Opera Next](http://www.opera.com/next/) | [Opera Developer](http://www.opera.com/developer) |
