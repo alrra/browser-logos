@@ -190,6 +190,12 @@ All other trademarks, logos and copyrights are the property of their respective 
 |:---:|
 | <a href="https://raw.github.com/paulirish/browser-logos/master/midori/midori.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/midori/midori_256x256.png"></a> |
 
+### Mobicip
+
+| [Mobicip](http://www.mobicip.com/products) |
+|:---:|
+| <a href="https://raw.github.com/paulirish/browser-logos/master/mobicip/mobicip.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/mobicip/mobicip_256x256.png"></a> |
+
 ### NetSurf
 
 | [NetSurf](http://www.netsurf-browser.org/) |
