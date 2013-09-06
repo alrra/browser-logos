@@ -136,6 +136,12 @@ All other trademarks, logos and copyrights are the property of their respective 
 |:---:|
 | <a href="https://raw.github.com/paulirish/browser-logos/master/k9/k9.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/k9/k9_256x256.png"></a> |
 
+### KidZui
+
+| [KidZui](http://www.kidzui.com/) |
+|:---:|
+| <a href="https://raw.github.com/paulirish/browser-logos/master/kidzui/kidzui.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/kidzui/kidzui_256x256.png"></a> |
+
 ### Konqueror
 
 | [Konqueror](http://www.konqueror.org/) |
