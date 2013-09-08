@@ -196,6 +196,12 @@ All other trademarks, logos and copyrights are the property of their respective 
 |:---:|
 | <a href="https://raw.github.com/paulirish/browser-logos/master/midori/midori.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/midori/midori_256x256.png"></a> |
 
+### MIHTool
+
+| [MIHTool](http://www.iunbug.com/mihtool) |
+|:---:|
+| <a href="https://raw.github.com/paulirish/browser-logos/master/mihtool/mihtool.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/mihtool/mihtool_256x256.png"></a> |
+
 ### Mobicip
 
 | [Mobicip](http://www.mobicip.com/products) |
