@@ -4,7 +4,7 @@ You may want these for a presentation, a blog post or for the site featuring
 your brand new awesome lightbox script (please no!). All logos are high
 resolution without background.
 
-![Main desktop logos](https://raw.github.com/paulirish/browser-logos/master/main-desktop.png)
+![Main desktop logos](main-desktop.png)
 
 All other trademarks, logos and copyrights are the property of their respective owners.
 
@@ -14,391 +14,391 @@ All other trademarks, logos and copyrights are the property of their respective 
 
 | [360 Secure](http://se.360.cn/) |
 |:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/360-secure/360-secure.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/360-secure/360-secure_256x256.png"></a> |
+| <a href="https://raw.github.com/paulirish/browser-logos/master/360-secure/360-secure.png"><img width=140 src="360-secure/360-secure_256x256.png"></a> |
 
 ### Adrenaline
 
 | [Adrenaline](http://adrenalinemobility.com/) |
 |:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/adrenaline/adrenaline.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/adrenaline/adrenaline_256x256.png"></a> |
+| <a href="https://raw.github.com/paulirish/browser-logos/master/adrenaline/adrenaline.png"><img width=140 src="adrenaline/adrenaline_256x256.png"></a> |
 
 ### AllInOne
 
 | [AllInOne](http://www.allinonebrowser.com/) |
 |:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/allinone/allinone.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/allinone/allinone_256x256.png"></a> |
+| <a href="https://raw.github.com/paulirish/browser-logos/master/allinone/allinone.png"><img width=140 src="allinone/allinone_256x256.png"></a> |
 
 ### Apollo
 
 | [Apollo](http://apollobrowser.wordpress.com/the-most-innovative-browser-for-ipad/) |
 |:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/apollo/apollo.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/apollo/apollo_256x256.png"></a> |
+| <a href="https://raw.github.com/paulirish/browser-logos/master/apollo/apollo.png"><img width=140 src="apollo/apollo_256x256.png"></a> |
 
 ### Atomic
 
 | [Atomic](http://atomicwebbrowser.com/) |
 |:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/atomic/atomic.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/atomic/atomic_256x256.png"></a> |
+| <a href="https://raw.github.com/paulirish/browser-logos/master/atomic/atomic.png"><img width=140 src="atomic/atomic_256x256.png"></a> |
 
 ### Avant
 
 | [Avant](http://www.avantbrowser.com/) |
 |:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/avant/avant.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/avant/avant_256x256.png"></a> |
+| <a href="https://raw.github.com/paulirish/browser-logos/master/avant/avant.png"><img width=140 src="avant/avant_256x256.png"></a> |
 
 ### Baidu
 
 | [Baidu](http://imobile.baidu.com/browser/) |
 |:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/baidu/baidu.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/baidu/baidu_256x256.png"></a> |
+| <a href="https://raw.github.com/paulirish/browser-logos/master/baidu/baidu.png"><img width=140 src="baidu/baidu_256x256.png"></a> |
 
 ### Boat
 
 | [Boat](http://www.boatmob.com/) | [Boat Mini](http://www.boatmob.com/) |
 |:---:|:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/boat/boat.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/boat/boat_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/boat-mini/boat-mini.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/boat-mini/boat-mini_256x256.png"></a> |
+| <a href="https://raw.github.com/paulirish/browser-logos/master/boat/boat.png"><img width=140 src="boat/boat_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/boat-mini/boat-mini.png"><img width=140 src="boat-mini/boat-mini_256x256.png"></a> |
 
 ### Cheetah
 
 | [Cheetah](http://www.liebao.cn/) |
 |:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/cheetah/cheetah.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/cheetah/cheetah_256x256.png"></a> |
+| <a href="https://raw.github.com/paulirish/browser-logos/master/cheetah/cheetah.png"><img width=140 src="cheetah/cheetah_256x256.png"></a> |
 
 ### Chrome
 
 | [Chrome](https://www.google.com/chrome/) | [Chrome (Android)](http://www.google.com/intl/en/chrome/browser/mobile/android.html) | [Chrome Beta (Android)](http://www.google.com/intl/en/chrome/browser/mobile/android.html) | [Chrome Canary](https://www.google.com/intl/en/chrome/browser/canary.html) |
 |:---:|:---:|:---:|:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/chrome/chrome.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/chrome/chrome_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/chrome-android/chrome-android.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/chrome-android/chrome-android_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/chrome-beta-android/chrome-beta-android.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/chrome-beta-android/chrome-beta-android_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/chrome-canary/chrome-canary.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/chrome-canary/chrome-canary_256x256.png"></a> |
+| <a href="https://raw.github.com/paulirish/browser-logos/master/chrome/chrome.png"><img width=140 src="chrome/chrome_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/chrome-android/chrome-android.png"><img width=140 src="chrome-android/chrome-android_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/chrome-beta-android/chrome-beta-android.png"><img width=140 src="chrome-beta-android/chrome-beta-android_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/chrome-canary/chrome-canary.png"><img width=140 src="chrome-canary/chrome-canary_256x256.png"></a> |
 
 ### Chromium
 
 | [Chromium](http://www.chromium.org/Home) |
 |:---:
-| <a href="https://raw.github.com/paulirish/browser-logos/master/chromium/chromium.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/chromium/chromium_256x256.png"></a> |
+| <a href="https://raw.github.com/paulirish/browser-logos/master/chromium/chromium.png"><img width=140 src="chromium/chromium_256x256.png"></a> |
 
 ### Cruz
 
 | [Cruz](http://cruzapp.com/) |
 |:---:|:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/cruz/cruz.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/cruz/cruz_256x256.png"></a> |
+| <a href="https://raw.github.com/paulirish/browser-logos/master/cruz/cruz.png"><img width=140 src="cruz/cruz_256x256.png"></a> |
 
 ### Diigo
 
 | [Diigo](https://www.diigo.com/tools) |
 |:---:|:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/diigo/diigo.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/diigo/diigo_256x256.png"></a> |
+| <a href="https://raw.github.com/paulirish/browser-logos/master/diigo/diigo.png"><img width=140 src="diigo/diigo_256x256.png"></a> |
 
 ### Docler
 
 | [Docler](http://doclerbrowser.com/) |
 |:---:|:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/docler/docler.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/docler/docler_256x256.png"></a> |
+| <a href="https://raw.github.com/paulirish/browser-logos/master/docler/docler.png"><img width=140 src="docler/docler_256x256.png"></a> |
 
 ### Dolphin
 
 | [Dolphin](http://dolphin.com/) | [Dolphin Beta](http://dolphin.com/beta/) |
 |:---:|:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/dolphin/dolphin.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/dolphin/dolphin_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/dolphin-beta/dolphin-beta.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/dolphin-beta/dolphin-beta_256x256.png"></a> |
+| <a href="https://raw.github.com/paulirish/browser-logos/master/dolphin/dolphin.png"><img width=140 src="dolphin/dolphin_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/dolphin-beta/dolphin-beta.png"><img width=140 src="dolphin-beta/dolphin-beta_256x256.png"></a> |
 
 ### Dooble
 
 | [Dooble](http://dooble.sourceforge.net/) |
 |:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/dooble/dooble.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/dooble/dooble_256x256.png"></a> |
+| <a href="https://raw.github.com/paulirish/browser-logos/master/dooble/dooble.png"><img width=140 src="dooble/dooble_256x256.png"></a> |
 
 ### Exsoul
 
 | [Exsoul](http://www.exsoul-browser.com/) |
 |:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/exsoul/exsoul.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/exsoul/exsoul_256x256.png"></a> |
+| <a href="https://raw.github.com/paulirish/browser-logos/master/exsoul/exsoul.png"><img width=140 src="exsoul/exsoul_256x256.png"></a> |
 
 ### Firefox
 
 | [Firefox](http://www.mozilla.org/en-US/firefox/) | [Firefox Beta](http://www.mozilla.org/beta/) | [Firefox Aurora](http://www.mozilla.org/en-US/firefox/aurora/) | [Firefox Nightly](http://nightly.mozilla.org/) |
 |:---:|:---:|:---:|:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/firefox/firefox.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/firefox/firefox_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/firefox-beta/firefox-beta.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/firefox-beta/firefox-beta_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/firefox-aurora/firefox-aurora.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/firefox-aurora/firefox-aurora_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/firefox-nightly/firefox-nightly.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/firefox-nightly/firefox-nightly_256x256.png"></a> |
+| <a href="https://raw.github.com/paulirish/browser-logos/master/firefox/firefox.png"><img width=140 src="firefox/firefox_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/firefox-beta/firefox-beta.png"><img width=140 src="firefox-beta/firefox-beta_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/firefox-aurora/firefox-aurora.png"><img width=140 src="firefox-aurora/firefox-aurora_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/firefox-nightly/firefox-nightly.png"><img width=140 src="firefox-nightly/firefox-nightly_256x256.png"></a> |
 
 ### iCab
 
 | [iCab Mobile](http://www.icab.de/mobile.html) |
 |:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/icab-mobile/icab-mobile.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/icab-mobile/icab-mobile_256x256.png"></a> |
+| <a href="https://raw.github.com/paulirish/browser-logos/master/icab-mobile/icab-mobile.png"><img width=140 src="icab-mobile/icab-mobile_256x256.png"></a> |
 
 ### Internet Explorer
 
 | [Internet Explorer 6](http://www.microsoft.com/en-us/download/details.aspx?id=1)  | [Internet Explorer 7](http://www.microsoft.com/en-us/download/internet-explorer-7-details.aspx) / [8](http://www.microsoft.com/en-us/download/internet-explorer-8-details.aspx) | [Internet Explorer 9](http://windows.microsoft.com/en-gb/internet-explorer/ie-9-worldwide-languages) / [10](http://windows.microsoft.com/en-us/internet-explorer/ie-10-worldwide-languages) | [Internet Explorer 10](http://windows.microsoft.com/en-us/internet-explorer/ie-10-worldwide-languages) |
 |:---:|:---:|:---:|:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/ie6/ie6.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/ie6/ie6_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/ie7-8/ie7-8.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/ie7-8/ie7-8_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/ie9-10/ie9-10.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/ie9-10/ie9-10_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/ie10/ie10.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/ie10/ie10_256x256.png"></a> |
+| <a href="https://raw.github.com/paulirish/browser-logos/master/ie6/ie6.png"><img width=140 src="ie6/ie6_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/ie7-8/ie7-8.png"><img width=140 src="ie7-8/ie7-8_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/ie9-10/ie9-10.png"><img width=140 src="ie9-10/ie9-10_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/ie10/ie10.png"><img width=140 src="ie10/ie10_256x256.png"></a> |
 
 ### K9
 
 | [K9](http://www1.k9webprotection.com/) |
 |:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/k9/k9.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/k9/k9_256x256.png"></a> |
+| <a href="https://raw.github.com/paulirish/browser-logos/master/k9/k9.png"><img width=140 src="k9/k9_256x256.png"></a> |
 
 ### KidZui
 
 | [KidZui](http://www.kidzui.com/) |
 |:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/kidzui/kidzui.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/kidzui/kidzui_256x256.png"></a> |
+| <a href="https://raw.github.com/paulirish/browser-logos/master/kidzui/kidzui.png"><img width=140 src="kidzui/kidzui_256x256.png"></a> |
 
 ### Konqueror
 
 | [Konqueror](http://www.konqueror.org/) |
 |:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/konqueror/konqueror.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/konqueror/konqueror_256x256.png"></a> |
+| <a href="https://raw.github.com/paulirish/browser-logos/master/konqueror/konqueror.png"><img width=140 src="konqueror/konqueror_256x256.png"></a> |
 
 ### Kylo
 
 | [Kylo](http://kylo.tv/) |
 |:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/kylo/kylo.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/kylo/kylo_256x256.png"></a> |
+| <a href="https://raw.github.com/paulirish/browser-logos/master/kylo/kylo.png"><img width=140 src="kylo/kylo_256x256.png"></a> |
 
 ### Lightning
 
 | [Lightning](https://github.com/anthonycr/Lightning-Browser/) |
 |:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/lightning/lightning.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/lightning/lightning_256x256.png"></a> |
+| <a href="https://raw.github.com/paulirish/browser-logos/master/lightning/lightning.png"><img width=140 src="lightning/lightning_256x256.png"></a> |
 
 ### Lunascape
 
 | [iLunascape (Android)](http://www.lunascape.tv/) | [iLunascape (iOS)](http://www.lunascape.tv/) |[iLunascape Lite (iOS)](http://www.lunascape.tv/) |
 |:---:|:---:|:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/ilunascape-android/ilunascape-android.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/ilunascape-android/ilunascape-android_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/ilunascape-ios/ilunascape-ios.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/ilunascape-ios/ilunascape-ios_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/ilunascape-lite-ios/ilunascape-lite-ios.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/ilunascape-lite-ios/ilunascape-lite-ios_256x256.png"></a> |
+| <a href="https://raw.github.com/paulirish/browser-logos/master/ilunascape-android/ilunascape-android.png"><img width=140 src="ilunascape-android/ilunascape-android_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/ilunascape-ios/ilunascape-ios.png"><img width=140 src="ilunascape-ios/ilunascape-ios_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/ilunascape-lite-ios/ilunascape-lite-ios.png"><img width=140 src="ilunascape-lite-ios/ilunascape-lite-ios_256x256.png"></a> |
 
 ### Maven
 
 | [Maven](http://www.creamycheesy.com/maven/) |
 |:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/maven/maven.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/maven/maven_256x256.png"></a> |
+| <a href="https://raw.github.com/paulirish/browser-logos/master/maven/maven.png"><img width=140 src="maven/maven_256x256.png"></a> |
 
 ### Maxthon
 
 | [Maxthon](http://www.maxthon.com/) | [Maxthon Beta](http://www.maxthon.com/) |
 |:---:|:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/maxthon/maxthon.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/maxthon/maxthon_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/maxthon-beta/maxthon-beta.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/maxthon-beta/maxthon-beta_256x256.png"></a> |
+| <a href="https://raw.github.com/paulirish/browser-logos/master/maxthon/maxthon.png"><img width=140 src="maxthon/maxthon_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/maxthon-beta/maxthon-beta.png"><img width=140 src="maxthon-beta/maxthon-beta_256x256.png"></a> |
 
 ### Mercury
 
 | [Mercury](http://mercury-browser.com/) |
 |:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/mercury/mercury.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/mercury/mercury_256x256.png"></a> |
+| <a href="https://raw.github.com/paulirish/browser-logos/master/mercury/mercury.png"><img width=140 src="mercury/mercury_256x256.png"></a> |
 
 ### MetaCert
 
 | [MetaCert](https://metacert.com/) |
 |:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/metacert/metacert.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/metacert/metacert_256x256.png"></a> |
+| <a href="https://raw.github.com/paulirish/browser-logos/master/metacert/metacert.png"><img width=140 src="metacert/metacert_256x256.png"></a> |
 
 ### Midori
 
 | [Midori](http://www.midori-browser.org/) |
 |:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/midori/midori.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/midori/midori_256x256.png"></a> |
+| <a href="https://raw.github.com/paulirish/browser-logos/master/midori/midori.png"><img width=140 src="midori/midori_256x256.png"></a> |
 
 ### MIHTool
 
 | [MIHTool](http://www.iunbug.com/mihtool) |
 |:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/mihtool/mihtool.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/mihtool/mihtool_256x256.png"></a> |
+| <a href="https://raw.github.com/paulirish/browser-logos/master/mihtool/mihtool.png"><img width=140 src="mihtool/mihtool_256x256.png"></a> |
 
 ### Mobicip
 
 | [Mobicip](http://www.mobicip.com/products) |
 |:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/mobicip/mobicip.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/mobicip/mobicip_256x256.png"></a> |
+| <a href="https://raw.github.com/paulirish/browser-logos/master/mobicip/mobicip.png"><img width=140 src="mobicip/mobicip_256x256.png"></a> |
 
 ### NetSurf
 
 | [NetSurf](http://www.netsurf-browser.org/) |
 |:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/netsurf/netsurf.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/netsurf/netsurf_256x256.png"></a> |
+| <a href="https://raw.github.com/paulirish/browser-logos/master/netsurf/netsurf.png"><img width=140 src="netsurf/netsurf_256x256.png"></a> |
 
 ### Next
 
 | [Next](http://nextbrowser.goforandroid.com/) |
 |:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/next/next.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/next/next_256x256.png"></a> |
+| <a href="https://raw.github.com/paulirish/browser-logos/master/next/next.png"><img width=140 src="next/next_256x256.png"></a> |
 
 ### Ninesky
 
 | [Ninesky](http://www.ninesky.com/) |
 |:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/ninesky/ninesky.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/ninesky/ninesky_256x256.png"></a> |
+| <a href="https://raw.github.com/paulirish/browser-logos/master/ninesky/ninesky.png"><img width=140 src="ninesky/ninesky_256x256.png"></a> |
 
 ### NLIA
 
 | [NLIA](http://e.netpia.com/) |
 |:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/nlia/nlia.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/nlia/nlia_256x256.png"></a> |
+| <a href="https://raw.github.com/paulirish/browser-logos/master/nlia/nlia.png"><img width=140 src="nlia/nlia_256x256.png"></a> |
 
 ### Ocean
 
 | [Ocean](http://www.compal.com/apps/oceanbrowser/) |
 |:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/ocean/ocean.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/ocean/ocean_256x256.png"></a> |
+| <a href="https://raw.github.com/paulirish/browser-logos/master/ocean/ocean.png"><img width=140 src="ocean/ocean_256x256.png"></a> |
 
 ### Omega
 
 | [Omega](http://ddmsite.ucoz.ru/) |
 |:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/omega/omega.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/omega/omega_256x256.png"></a> |
+| <a href="https://raw.github.com/paulirish/browser-logos/master/omega/omega.png"><img width=140 src="omega/omega_256x256.png"></a> |
 
 ### OmniWeb
 
 | [OmniWeb](http://www.omnigroup.com/products/omniweb/) |
 |:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/omniweb/omniweb.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/omniweb/omniweb_256x256.png"></a> |
+| <a href="https://raw.github.com/paulirish/browser-logos/master/omniweb/omniweb.png"><img width=140 src="omniweb/omniweb_256x256.png"></a> |
 
 ### ONE
 
 | [ONE (Android)](http://one-browser.com/mobile/home) | [ONE (iPhone)](http://one-browser.com/mobile/home) |
 |:---:|:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/one-android/one-android.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/one-android/one-android_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/one-iphone/one-iphone.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/one-iphone/one-iphone_256x256.png"></a> |
+| <a href="https://raw.github.com/paulirish/browser-logos/master/one-android/one-android.png"><img width=140 src="one-android/one-android_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/one-iphone/one-iphone.png"><img width=140 src="one-iphone/one-iphone_256x256.png"></a> |
 
 ### Onion
 
 | [Onion](https://mike.tig.as/onionbrowser/) |
 |:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/onion/onion.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/onion/onion_256x256.png"></a> |
+| <a href="https://raw.github.com/paulirish/browser-logos/master/onion/onion.png"><img width=140 src="onion/onion_256x256.png"></a> |
 
 ### Opera
 
 | [Opera](http://www.opera.com/) | [Opera Next](http://www.opera.com/next/) | [Opera Developer](http://www.opera.com/developer) |
 |:---:|:---:|:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/opera/opera.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/opera/opera_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/opera-next/opera-next.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/opera-next/opera-next_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/opera-developer/opera-developer.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/opera-developer/opera-developer_256x256.png"></a> |
+| <a href="https://raw.github.com/paulirish/browser-logos/master/opera/opera.png"><img width=140 src="opera/opera_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/opera-next/opera-next.png"><img width=140 src="opera-next/opera-next_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/opera-developer/opera-developer.png"><img width=140 src="opera-developer/opera-developer_256x256.png"></a> |
 
 ### Orweb
 
 | [Orweb](https://guardianproject.info/apps/orweb/) |
 |:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/orweb/orweb.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/orweb/orweb_256x256.png"></a> |
+| <a href="https://raw.github.com/paulirish/browser-logos/master/orweb/orweb.png"><img width=140 src="orweb/orweb_256x256.png"></a> |
 
 ### Perfect
 
 | [Perfect](http://www.perfectbrowser.com/) |
 |:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/perfect/perfect.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/perfect/perfect_256x256.png"></a> |
+| <a href="https://raw.github.com/paulirish/browser-logos/master/perfect/perfect.png"><img width=140 src="perfect/perfect_256x256.png"></a> |
 
 ### Puffin
 
 | [Puffin](http://www.puffinbrowser.com/) |
 |:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/puffin/puffin.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/puffin/puffin_256x256.png"></a> |
+| <a href="https://raw.github.com/paulirish/browser-logos/master/puffin/puffin.png"><img width=140 src="puffin/puffin_256x256.png"></a> |
 
 ### QQ
 
 | [QQ](http://mb.qq.com/) |
 |:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/qq/qq.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/qq/qq.png"></a> |
+| <a href="https://raw.github.com/paulirish/browser-logos/master/qq/qq.png"><img width=140 src="qq/qq.png"></a> |
 
 ### rekonq
 
 | [rekonq](http://rekonq.kde.org/) |
 |:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/rekonq/rekonq.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/rekonq/rekonq_256x256.png"></a> |
+| <a href="https://raw.github.com/paulirish/browser-logos/master/rekonq/rekonq.png"><img width=140 src="rekonq/rekonq_256x256.png"></a> |
 
 ### Safari
 
 | [Safari](http://www.apple.com/safari/) | [Safari (iOS)](http://www.apple.com/safari/) |
 |:---:|:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/safari/safari.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/safari/safari_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/safari-ios/safari-ios.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/safari-ios/safari-ios_256x256.png"></a> |
+| <a href="https://raw.github.com/paulirish/browser-logos/master/safari/safari.png"><img width=140 src="safari/safari_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/safari-ios/safari-ios.png"><img width=140 src="safari-ios/safari-ios_256x256.png"></a> |
 
 ### SeaMonkey
 
 | [SeaMonkey](http://www.seamonkey-project.org/) |
 |:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/seamonkey/seamonkey.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/seamonkey/seamonkey_256x256.png"></a> |
+| <a href="https://raw.github.com/paulirish/browser-logos/master/seamonkey/seamonkey.png"><img width=140 src="seamonkey/seamonkey_256x256.png"></a> |
 
 ### Seyyah
 
 | [Seyyah](http://seyyah.mozkan.com/) |
 |:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/seyyah/seyyah.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/seyyah/seyyah_256x256.png"></a> |
+| <a href="https://raw.github.com/paulirish/browser-logos/master/seyyah/seyyah.png"><img width=140 src="seyyah/seyyah_256x256.png"></a> |
 
 ### Silk
 
 | [Silk](http://www.amazon.com/silk) |
 |:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/silk/silk.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/silk/silk_256x256.png"></a> |
+| <a href="https://raw.github.com/paulirish/browser-logos/master/silk/silk.png"><img width=140 src="silk/silk_256x256.png"></a> |
 
 ### Skyfire
 
 | [Skyfire (Android)](http://www.skyfire.com/) | [Skyfire (iPhone)](http://www.skyfire.com/) | [Skyfire (iPad)](http://www.skyfire.com/) |
 |:---:|:---:|:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/skyfire-android/skyfire-android.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/skyfire-android/skyfire-android_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/skyfire-iphone/skyfire-iphone.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/skyfire-iphone/skyfire-iphone_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/skyfire-ipad/skyfire-ipad.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/skyfire-ipad/skyfire-ipad_256x256.png"></a> |
+| <a href="https://raw.github.com/paulirish/browser-logos/master/skyfire-android/skyfire-android.png"><img width=140 src="skyfire-android/skyfire-android_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/skyfire-iphone/skyfire-iphone.png"><img width=140 src="skyfire-iphone/skyfire-iphone_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/skyfire-ipad/skyfire-ipad.png"><img width=140 src="skyfire-ipad/skyfire-ipad_256x256.png"></a> |
 
 ### Sleipnir
 
 | [Sleipnir (Mac)](http://www.fenrir-inc.com/us/sleipnir-family/) | [Sleipnir (Mobile)](http://www.fenrir-inc.com/us/sleipnir-family/) |
 |:---:|:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/sleipnir-mac/sleipnir-mac.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/sleipnir-mac/sleipnir-mac_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/sleipnir-mobile/sleipnir-mobile.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/sleipnir-mobile/sleipnir-mobile_256x256.png"></a> |
+| <a href="https://raw.github.com/paulirish/browser-logos/master/sleipnir-mac/sleipnir-mac.png"><img width=140 src="sleipnir-mac/sleipnir-mac_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/sleipnir-mobile/sleipnir-mobile.png"><img width=140 src="sleipnir-mobile/sleipnir-mobile_256x256.png"></a> |
 
 ### SlimBoat
 
 | [SlimBoat](http://www.slimboat.com/) |
 |:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/slimboat/slimboat.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/slimboat/slimboat_256x256.png"></a> |
+| <a href="https://raw.github.com/paulirish/browser-logos/master/slimboat/slimboat.png"><img width=140 src="slimboat/slimboat_256x256.png"></a> |
 
 ### Spearmint
 
 | [Spearmint](http://www.spearmintbrowser.com/) |
 |:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/spearmint/spearmint.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/spearmint/spearmint_256x256.png"></a> |
+| <a href="https://raw.github.com/paulirish/browser-logos/master/spearmint/spearmint.png"><img width=140 src="spearmint/spearmint_256x256.png"></a> |
 
 ### Stainless
 
 | [Stainless](http://www.stainlessapp.com/) |
 |:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/stainless/stainless.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/stainless/stainless_256x256.png"></a> |
+| <a href="https://raw.github.com/paulirish/browser-logos/master/stainless/stainless.png"><img width=140 src="stainless/stainless_256x256.png"></a> |
 
 ### Super Fast
 
 | [Super Fast](http://www.sfbrowser.com/) |
 |:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/superfast/superfast.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/superfast/superfast_256x256.png"></a> |
+| <a href="https://raw.github.com/paulirish/browser-logos/master/superfast/superfast.png"><img width=140 src="superfast/superfast_256x256.png"></a> |
 
 ### Terra
 
 | [Terra](http://readdle.com/products/terra/) |
 |:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/terra/terra.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/terra/terra_256x256.png"></a> |
+| <a href="https://raw.github.com/paulirish/browser-logos/master/terra/terra.png"><img width=140 src="terra/terra_256x256.png"></a> |
 
 ### Tor
 
 | [Tor](https://www.torproject.org/) |
 |:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/tor/tor.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/tor/tor.png"></a> |
+| <a href="https://raw.github.com/paulirish/browser-logos/master/tor/tor.png"><img width=140 src="tor/tor.png"></a> |
 
 ### Torch
 
 | [Torch](http://www.torchbrowser.com/) |
 |:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/torch/torch.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/torch/torch.png"></a> |
+| <a href="https://raw.github.com/paulirish/browser-logos/master/torch/torch.png"><img width=140 src="torch/torch.png"></a> |
 
 ### UC
 
 | [UC](http://www.ucweb.com) | [UC (iPhone)](http://www.ucweb.com) |
 |:---:|:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/uc/uc.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/uc/uc_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/uc-iphone/uc-iphone.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/uc-iphone/uc-iphone_256x256.png"></a> |
+| <a href="https://raw.github.com/paulirish/browser-logos/master/uc/uc.png"><img width=140 src="uc/uc_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/uc-iphone/uc-iphone.png"><img width=140 src="uc-iphone/uc-iphone_256x256.png"></a> |
 
 ### WebKit
 
 | [WebKit](http://nightly.webkit.org/) |
 |:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/webkit/webkit.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/webkit/webkit_256x256.png"></a> |
+| <a href="https://raw.github.com/paulirish/browser-logos/master/webkit/webkit.png"><img width=140 src="webkit/webkit_256x256.png"></a> |
 
 ### Wyzo
 
 | [Wyzo](http://www.wyzo.com/) |
 |:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/wyzo/wyzo.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/wyzo/wyzo_256x256.png"></a> |
+| <a href="https://raw.github.com/paulirish/browser-logos/master/wyzo/wyzo.png"><img width=140 src="wyzo/wyzo_256x256.png"></a> |
 
 ### Yandex
 
 | [Yandex](http://browser.yandex.com/) |
 |:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/yandex/yandex.png"><img width=140 src="https://raw.github.com/paulirish/browser-logos/master/yandex/yandex_256x256.png"></a> |
+| <a href="https://raw.github.com/paulirish/browser-logos/master/yandex/yandex.png"><img width=140 src="yandex/yandex_256x256.png"></a> |
 
 ---
 
