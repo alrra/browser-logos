@@ -76,6 +76,12 @@ All other trademarks, logos and copyrights are the property of their respective 
 |:---:
 | <a href="https://raw.github.com/paulirish/browser-logos/master/chromium/chromium.png"><img width=140 src="chromium/chromium_256x256.png"></a> |
 
+### Coast
+
+| [Coast](http://coastbyopera.com/) |
+|:---:|:---:|
+| <a href="https://raw.github.com/paulirish/browser-logos/master/coast/coast.png"><img width=140 src="coast/coast_256x256.png"></a> |
+
 ### Cruz
 
 | [Cruz](http://cruzapp.com/) |
