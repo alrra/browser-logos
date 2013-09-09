@@ -382,6 +382,12 @@ All other trademarks, logos and copyrights are the property of their respective 
 |:---:|:---:|
 | <a href="https://raw.github.com/paulirish/browser-logos/master/uc/uc.png"><img width=140 src="uc/uc_256x256.png"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/uc-iphone/uc-iphone.png"><img width=140 src="uc-iphone/uc-iphone_256x256.png"></a> |
 
+### Vitrum
+
+| [Vitrum](http://capablebits.com/) |
+|:---:|
+| <a href="https://raw.github.com/paulirish/browser-logos/master/vitrum/vitrum.png"><img width=140 src="vitrum/vitrum_256x256.png"></a> |
+
 ### WebKit
 
 | [WebKit](http://nightly.webkit.org/) |
