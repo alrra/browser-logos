@@ -375,7 +375,7 @@ All other trademarks, logos and copyrights are the property of their respective 
 
 | [Tor](https://www.torproject.org/) |
 |:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/tor/tor.png"><img width=140 src="tor/tor.png_256x256.png" alt="Tor browser logo"></a> |
+| <a href="https://raw.github.com/paulirish/browser-logos/master/tor/tor.png"><img width=140 src="tor/tor_256x256.png" alt="Tor browser logo"></a> |
 
 ### Torch
 
