@@ -1,14 +1,12 @@
 # High Resolution Browser Logos
 
-You may want these for a presentation, a blog post or for the site featuring
-your brand new awesome lightbox script (please no!). All logos are high
-resolution with transparent backgrounds.
+You may want these for a presentation, a blog post or for the site
+featuring your brand new awesome lightbox script (please no!). All
+logos are high resolution with transparent backgrounds.
 
 [![Main desktop browsers](main-desktop.png)](https://raw.github.com/paulirish/browser-logos/master/main-desktop.png)
 
-All other trademarks, logos and copyrights are the property of their respective owners.
-
----
+All logos and trademarks are the property of their respective owners.
 
 ### 360 Secure
 
@@ -21,7 +19,6 @@ All other trademarks, logos and copyrights are the property of their respective 
 | [Adrenaline](http://adrenalinemobility.com/) |
 |:---:|
 | <a href="https://raw.github.com/paulirish/browser-logos/master/adrenaline/adrenaline.png"><img width=140 src="adrenaline/adrenaline_256x256.png" alt="Adrenaline browser logo"></a> |
-
 
 ### AllInOne
 
@@ -113,12 +110,6 @@ All other trademarks, logos and copyrights are the property of their respective 
 |:---:|
 | <a href="https://raw.github.com/paulirish/browser-logos/master/dooble/dooble.png"><img width=140 src="dooble/dooble_256x256.png" alt="Dooble browser logo"></a> |
 
-### Epic
-
-| [Epic](http://www.epicbrowser.com/) |
-|:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/epic/epic.png"><img width=140 src="epic/epic.png" alt="Epic browser logo"></a> |
-
 ### Exsoul
 
 | [Exsoul](http://www.exsoul-browser.com/) |
@@ -142,6 +133,12 @@ All other trademarks, logos and copyrights are the property of their respective 
 | [Internet Explorer 6](http://www.microsoft.com/en-us/download/details.aspx?id=1)  | [Internet Explorer 7](http://www.microsoft.com/en-us/download/internet-explorer-7-details.aspx) / [8](http://www.microsoft.com/en-us/download/internet-explorer-8-details.aspx) | [Internet Explorer 9](http://windows.microsoft.com/en-gb/internet-explorer/ie-9-worldwide-languages) / [10](http://windows.microsoft.com/en-us/internet-explorer/ie-10-worldwide-languages) | [Internet Explorer 10](http://windows.microsoft.com/en-us/internet-explorer/ie-10-worldwide-languages) |
 |:---:|:---:|:---:|:---:|
 | <a href="https://raw.github.com/paulirish/browser-logos/master/ie6/ie6.png"><img width=140 src="ie6/ie6_256x256.png" alt="Internet Explorer 6 browser logo"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/ie7-8/ie7-8.png"><img width=140 src="ie7-8/ie7-8_256x256.png" alt="Internet Explorer 7 and 8 browser logo"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/ie9-10/ie9-10.png"><img width=140 src="ie9-10/ie9-10_256x256.png"alt="Internet Explorer 9 and 10 browser logo"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/ie10/ie10.png"><img width=140 src="ie10/ie10_256x256.png" alt="Internet Explorer 10 Browser logo"></a> |
+
+### iSwifter
+
+| [iSwifter](http://iswifter.net/) |
+|:---:|
+| <a href="https://raw.github.com/paulirish/browser-logos/master/iswifter/iswifter.png"><img width=140 src="iswifter/iswifter.png" alt="iSwifter browser logo"></a> |
 
 ### K9
 
@@ -419,9 +416,9 @@ All other trademarks, logos and copyrights are the property of their respective 
 |:---:|
 | <a href="https://raw.github.com/paulirish/browser-logos/master/yandex/yandex.png"><img width=140 src="yandex/yandex_256x256.png" alt="Yandex browser logo"></a> |
 
----
+--
 
-### Browser Ponies
+## Browser Ponies
 
 | Chrome | Firefox | Internet Explorer | Opera | Safari |
 |:---:|:---:|:---:|:---:|:---:|
@@ -429,9 +426,15 @@ All other trademarks, logos and copyrights are the property of their respective 
 
 [See more browser ponies!](http://paulirish.deviantart.com/favourites/51528712)
 
----
+--
 
-Repository currently maintained by:
+## Acknowledgements
+
+[Browser Logos](https://github.com/paulirish/browser-logos/)
+is only possible thanks to all the awesome
+[contributors](https://github.com/paulirish/browser-logos/contributors)!
+
+This project is currently maintained by:
 
 | [![Mariș Cătălin](http://s.gravatar.com/avatar/2fc3f42c9411898f83f3af8ede902591?s=140)](http://twitter.com/alrra "Follow @alrra on Twitter") |
 |:---:|
