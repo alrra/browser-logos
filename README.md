@@ -86,6 +86,12 @@ All logos and trademarks are the property of their respective owners.
 |:---:|:---:|
 | <a href="https://raw.github.com/paulirish/browser-logos/master/cruz/cruz.png"><img width=140 src="cruz/cruz_256x256.png" alt="Cruz browser logo"></a> |
 
+### CXM Web
+
+| [CXM Web](https://itunes.apple.com/us/app/cxm-web-by-citrix/id666516824) |
+|:---:|:---:|
+| <a href="https://raw.github.com/paulirish/browser-logos/master/cxm-web/cxm-web.png"><img width=140 src="cxm-web/cxm-web_256x256.png" alt="CXM Web browser logo"></a> |
+
 ### Diigo
 
 | [Diigo](https://www.diigo.com/tools) |
