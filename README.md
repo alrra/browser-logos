@@ -392,6 +392,12 @@ All logos and trademarks are the property of their respective owners.
 |:---:|
 | <a href="https://raw.github.com/paulirish/browser-logos/master/torch/torch.png"><img width=140 src="torch/torch_256x256.png" alt="Torch browser logo"></a> |
 
+### Touch
+
+| [Touch](http://www.windowsphone.com/en-us/store/app/touch-browser/c2c6b395-d724-4426-867a-36684eeca0b2) |
+|:---:|
+| <a href="https://raw.github.com/paulirish/browser-logos/master/touch/touch.png"><img width=140 src="touch/touch_256x256.png" alt="Touch browser logo"></a> |
+
 ### UC
 
 | [UC](http://www.ucweb.com) | [UC (iPhone)](http://www.ucweb.com) |
@@ -422,7 +428,6 @@ All logos and trademarks are the property of their respective owners.
 |:---:|
 | <a href="https://raw.github.com/paulirish/browser-logos/master/yandex/yandex.png"><img width=140 src="yandex/yandex_256x256.png" alt="Yandex browser logo"></a> |
 
---
 
 ## Browser Ponies
 
@@ -432,7 +437,6 @@ All logos and trademarks are the property of their respective owners.
 
 [See more browser ponies!](http://paulirish.deviantart.com/favourites/51528712)
 
---
 
 ## Acknowledgements
 
