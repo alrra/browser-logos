@@ -316,9 +316,9 @@ All logos and trademarks are the property of their respective owners.
 
 ### Safari
 
-| [Safari](http://www.apple.com/safari/) | [Safari (iOS)](http://www.apple.com/safari/) |
+| [Safari](http://www.apple.com/safari/) | [Safari (iOS 6)](http://www.apple.com/safari/) |
 |:---:|:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/safari/safari.png"><img width=140 src="safari/safari_256x256.png" alt="Safari browser logo"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/safari-ios/safari-ios.png"><img width=140 src="safari-ios/safari-ios_256x256.png" alt="Safari for iOS browser logo"></a> |
+| <a href="https://raw.github.com/paulirish/browser-logos/master/safari/safari.png"><img width=140 src="safari/safari_256x256.png" alt="Safari browser logo"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/safari-ios-6/safari-ios-6.png"><img width=140 src="safari-ios-6/safari-ios-6_256x256.png" alt="Safari for iOS 6 browser logo"></a> |
 
 ### SeaMonkey
 
