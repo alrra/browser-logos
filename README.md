@@ -316,9 +316,9 @@ All logos and trademarks are the property of their respective owners.
 
 ### Safari
 
-| [Safari](http://www.apple.com/safari/) | [Safari (iOS 6)](http://www.apple.com/safari/) |
-|:---:|:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/safari/safari.png"><img width=140 src="safari/safari_256x256.png" alt="Safari browser logo"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/safari-ios-6/safari-ios-6.png"><img width=140 src="safari-ios-6/safari-ios-6_256x256.png" alt="Safari for iOS 6 browser logo"></a> |
+| [Safari](http://www.apple.com/safari/) | [Safari (iOS 6)](http://www.apple.com/safari/) | [Safari (iOS 7)](http://www.apple.com/safari/) |
+|:---:|:---:|:---:|
+| <a href="https://raw.github.com/paulirish/browser-logos/master/safari/safari.png"><img width=140 src="safari/safari_256x256.png" alt="Safari browser logo"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/safari-ios-6/safari-ios-6.png"><img width=140 src="safari-ios-6/safari-ios-6_256x256.png" alt="Safari for iOS 6 browser logo"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/safari-ios-7/safari-ios-7.png"><img width=140 src="safari-ios-7/safari-ios-7_256x256.png" alt="Safari for iOS 7 browser logo"></a> |
 
 ### SeaMonkey
 
