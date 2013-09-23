@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+
+	<defs>
+		<linearGradient id="circle" x1="0" y1="0" x2="0" y2="100%">
+			<stop offset="0" stop-color="rgb(25,215,255)" stop-opacity="1" />
+			<stop offset="100%" stop-color="rgb(30,100,240)" stop-opacity="1" />
+		</linearGradient>
+	</defs>
+
+	<rect x="0" y="0" rx="128" ry="128" width="512" height="512" fill="white" />
+	<circle cx="256" cy="256" r="224" fill="url(#circle)" />
+	<path d="
+		M409,102
+		L237,237
+		L277,277
+		Z" fill="red" />
+	<path d="
+		M102,409
+		L237,237
+		L277,277
+		Z" fill="white" />
+
+	<line stroke="white" stroke-width="3" x1="256" y1="54" x2="256" y2="87"/>
+	<line stroke="white" stroke-width="3" x1="256" y1="424" x2="256" y2="457"/>
+	<line stroke="white" stroke-width="3" x1="291" y1="57.1" x2="285.3" y2="89.6"/>
+	<line stroke="white" stroke-width="3" x1="226.7" y1="421.4" x2="221" y2="453.9"/>
+	<line stroke="white" stroke-width="3" x1="324.9" y1="66.2" x2="313.6" y2="97.2"/>
+	<line stroke="white" stroke-width="3" x1="198.4" y1="413.8" x2="187.1" y2="444.8"/>
+	<line stroke="white" stroke-width="3" x1="221" y1="57.1" x2="226.7" y2="89.6"/>
+	<line stroke="white" stroke-width="3" x1="285.3" y1="421.4" x2="291" y2="453.9"/>
+	<line stroke="white" stroke-width="3" x1="187.1" y1="66.2" x2="198.4" y2="97.2"/>
+	<line stroke="white" stroke-width="3" x1="313.6" y1="413.8" x2="324.9" y2="444.8"/>
+	<line stroke="white" stroke-width="3" x1="155.2" y1="81" x2="171.8" y2="109.6"/>
+	<line stroke="white" stroke-width="3" x1="340.3" y1="401.4" x2="356.8" y2="430"/>
+	<line stroke="white" stroke-width="3" x1="126.5" y1="101.1" x2="147.7" y2="126.4"/>
+	<line stroke="white" stroke-width="3" x1="364.3" y1="384.6" x2="385.5" y2="409.9"/>
+	<line stroke="white" stroke-width="3" x1="101.6" y1="126" x2="126.9" y2="147.2"/>
+	<line stroke="white" stroke-width="3" x1="385.1" y1="363.8" x2="410.4" y2="385"/>
+	<line stroke="white" stroke-width="3" x1="81.5" y1="154.8" x2="110.1" y2="171.3"/>
+	<line stroke="white" stroke-width="3" x1="401.9" y1="339.8" x2="430.5" y2="356.3"/>
+	<line stroke="white" stroke-width="3" x1="66.7" y1="186.6" x2="97.7" y2="197.9"/>
+	<line stroke="white" stroke-width="3" x1="414.3" y1="313.1" x2="445.3" y2="324.4"/>
+	<line stroke="white" stroke-width="3" x1="57.6" y1="220.5" x2="90.1" y2="226.2"/>
+	<line stroke="white" stroke-width="3" x1="421.9" y1="284.8" x2="454.4" y2="290.5"/>
+	<line stroke="white" stroke-width="3" x1="54.5" y1="255.5" x2="87.5" y2="255.5"/>
+	<line stroke="white" stroke-width="3" x1="424.5" y1="255.5" x2="457.5" y2="255.5"/>
+	<line stroke="white" stroke-width="3" x1="57.6" y1="290.5" x2="90.1" y2="284.8"/>
+	<line stroke="white" stroke-width="3" x1="421.9" y1="226.2" x2="454.4" y2="220.5"/>
+	<line stroke="white" stroke-width="3" x1="66.7" y1="324.4" x2="97.7" y2="313.1"/>
+	<line stroke="white" stroke-width="3" x1="414.3" y1="197.9" x2="445.3" y2="186.6"/>
+	<line stroke="white" stroke-width="3" x1="81.5" y1="356.3" x2="110.1" y2="339.8"/>
+	<line stroke="white" stroke-width="3" x1="401.9" y1="171.3" x2="430.5" y2="154.8"/>
+	<line stroke="white" stroke-width="3" x1="101.6" y1="385" x2="126.9" y2="363.8"/>
+	<line stroke="white" stroke-width="3" x1="385.1" y1="147.2" x2="410.4" y2="126"/>
+	<line stroke="white" stroke-width="3" x1="126.5" y1="409.9" x2="147.7" y2="384.6"/>
+	<line stroke="white" stroke-width="3" x1="364.3" y1="126.4" x2="385.5" y2="101.1"/>
+	<line stroke="white" stroke-width="3" x1="155.2" y1="430" x2="171.8" y2="401.4"/>
+	<line stroke="white" stroke-width="3" x1="340.3" y1="109.6" x2="356.8" y2="81"/>
+	<line stroke="white" stroke-width="3" x1="238.4" y1="54.8" x2="240" y2="72.7"/>
+	<line stroke="white" stroke-width="3" x1="272" y1="438.3" x2="273.6" y2="456.2"/>
+	<line stroke="white" stroke-width="3" x1="203.8" y1="60.9" x2="208.5" y2="78.3"/>
+	<line stroke="white" stroke-width="3" x1="303.5" y1="432.7" x2="308.2" y2="450.1"/>
+	<line stroke="white" stroke-width="3" x1="170.8" y1="72.9" x2="178.4" y2="89.2"/>
+	<line stroke="white" stroke-width="3" x1="333.5" y1="421.8" x2="341.2" y2="438.1"/>
+	<line stroke="white" stroke-width="3" x1="140.4" y1="90.4" x2="150.7" y2="105.2"/>
+	<line stroke="white" stroke-width="3" x1="361.3" y1="405.8" x2="371.6" y2="420.6"/>
+	<line stroke="white" stroke-width="3" x1="113.5" y1="113" x2="126.2" y2="125.7"/>
+	<line stroke="white" stroke-width="3" x1="385.8" y1="385.3" x2="398.5" y2="398"/>
+	<line stroke="white" stroke-width="3" x1="90.9" y1="139.9" x2="105.7" y2="150.2"/>
+	<line stroke="white" stroke-width="3" x1="406.3" y1="360.8" x2="421.1" y2="371.1"/>
+	<line stroke="white" stroke-width="3" x1="73.4" y1="170.3" x2="89.7" y2="177.9"/>
+	<line stroke="white" stroke-width="3" x1="422.3" y1="333" x2="438.6" y2="340.7"/>
+	<line stroke="white" stroke-width="3" x1="61.4" y1="203.3" x2="78.8" y2="208"/>
+	<line stroke="white" stroke-width="3" x1="433.2" y1="303" x2="450.6" y2="307.7"/>
+	<line stroke="white" stroke-width="3" x1="55.3" y1="237.9" x2="73.2" y2="239.5"/>
+	<line stroke="white" stroke-width="3" x1="438.8" y1="271.5" x2="456.7" y2="273.1"/>
+	<line stroke="white" stroke-width="3" x1="55.3" y1="273.1" x2="73.2" y2="271.5"/>
+	<line stroke="white" stroke-width="3" x1="438.8" y1="239.5" x2="456.7" y2="237.9"/>
+	<line stroke="white" stroke-width="3" x1="61.4" y1="307.7" x2="78.8" y2="303"/>
+	<line stroke="white" stroke-width="3" x1="433.2" y1="208" x2="450.6" y2="203.3"/>
+	<line stroke="white" stroke-width="3" x1="73.4" y1="340.7" x2="89.7" y2="333.1"/>
+	<line stroke="white" stroke-width="3" x1="422.3" y1="177.9" x2="438.6" y2="170.3"/>
+	<line stroke="white" stroke-width="3" x1="90.9" y1="371.1" x2="105.7" y2="360.8"/>
+	<line stroke="white" stroke-width="3" x1="406.3" y1="150.2" x2="421.1" y2="139.9"/>
+	<line stroke="white" stroke-width="3" x1="140.4" y1="420.6" x2="150.7" y2="405.8"/>
+	<line stroke="white" stroke-width="3" x1="361.2" y1="105.2" x2="371.6" y2="90.4"/>
+	<line stroke="white" stroke-width="3" x1="170.8" y1="438.1" x2="178.5" y2="421.8"/>
+	<line stroke="white" stroke-width="3" x1="333.5" y1="89.2" x2="341.2" y2="72.9"/>
+	<line stroke="white" stroke-width="3" x1="203.8" y1="450.1" x2="208.5" y2="432.7"/>
+	<line stroke="white" stroke-width="3" x1="303.5" y1="78.3" x2="308.2" y2="60.9"/>
+	<line stroke="white" stroke-width="3" x1="238.4" y1="456.2" x2="240" y2="438.3"/>
+	<line stroke="white" stroke-width="3" x1="272" y1="72.7" x2="273.6" y2="54.8"/>
+</svg>
