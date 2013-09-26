@@ -140,6 +140,12 @@ All logos and trademarks are the property of their respective owners.
 |:---:|:---:|:---:|:---:|
 | <a href="https://raw.github.com/paulirish/browser-logos/master/ie6/ie6.png"><img width=140 src="ie6/ie6_256x256.png" alt="Internet Explorer 6 browser logo"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/ie7-8/ie7-8.png"><img width=140 src="ie7-8/ie7-8_256x256.png" alt="Internet Explorer 7 and 8 browser logo"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/ie9-10/ie9-10.png"><img width=140 src="ie9-10/ie9-10_256x256.png"alt="Internet Explorer 9 and 10 browser logo"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/ie10/ie10.png"><img width=140 src="ie10/ie10_256x256.png" alt="Internet Explorer 10 Browser logo"></a> |
 
+### iQuest
+
+| [iQuest](http://penguingeorge.com/ios/iquest.html) |
+|:---:|
+| <a href="https://raw.github.com/paulirish/browser-logos/master/iquest/iquest.png"><img width=140 src="iquest/iquest.png" alt="iQuest browser logo"></a> |
+
 ### iSwifter
 
 | [iSwifter](http://iswifter.net/) |
