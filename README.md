@@ -134,6 +134,12 @@ All logos and trademarks are the property of their respective owners.
 |:---:|
 | <a href="https://raw.github.com/paulirish/browser-logos/master/icab-mobile/icab-mobile.png"><img width=140 src="icab-mobile/icab-mobile_256x256.png" alt="iCab Mobile browser logo"></a> |
 
+### IceCat
+
+| [IceCat](http://www.gnu.org/software/gnuzilla/) |
+|:---:|
+| <a href="https://raw.github.com/paulirish/browser-logos/master/icecat/icecat.png"><img width=140 src="icecat/icecat_256x256.png" alt="IceCat browser logo"></a> |
+
 ### Internet Explorer
 
 | [Internet Explorer 6](http://www.microsoft.com/en-us/download/details.aspx?id=1)  | [Internet Explorer 7](http://www.microsoft.com/en-us/download/internet-explorer-7-details.aspx) / [8](http://www.microsoft.com/en-us/download/internet-explorer-8-details.aspx) | [Internet Explorer 9](http://windows.microsoft.com/en-gb/internet-explorer/ie-9-worldwide-languages) / [10](http://windows.microsoft.com/en-us/internet-explorer/ie-10-worldwide-languages) | [Internet Explorer 10](http://windows.microsoft.com/en-us/internet-explorer/ie-10-worldwide-languages) |
