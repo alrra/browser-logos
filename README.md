@@ -116,6 +116,12 @@ All logos and trademarks are the property of their respective owners.
 |:---:|
 | <a href="https://raw.github.com/paulirish/browser-logos/master/dooble/dooble.png"><img width=140 src="dooble/dooble_256x256.png" alt="Dooble browser logo"></a> |
 
+### Epic
+
+| [Epic](http://www.epicbrowser.com/) |
+|:---:|
+| <a href="https://raw.github.com/paulirish/browser-logos/master/epic/epic.png"><img width=140 src="epic/epic.png" alt="Epic browser logo"></a> |
+
 ### Exsoul
 
 | [Exsoul](http://www.exsoul-browser.com/) |
