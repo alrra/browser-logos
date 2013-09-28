@@ -380,6 +380,12 @@ All logos and trademarks are the property of their respective owners.
 |:---:|
 | <a href="https://raw.github.com/paulirish/browser-logos/master/slimboat/slimboat.png"><img width=140 src="slimboat/slimboat_256x256.png" alt="SlimBoat browser logo"></a> |
 
+### Sogou
+
+| [Sogou (Mobile)](http://mse.sogou.com/) |
+|:---:|
+| <a href="https://raw.github.com/paulirish/browser-logos/master/sogou-mobile/sogou-mobile.png"><img width=140 src="sogou-mobile/sogou-mobile_256x256.png" alt="Sogou Mobile browser logo"></a> |
+
 ### Spearmint
 
 | [Spearmint](http://www.spearmintbrowser.com/) |
