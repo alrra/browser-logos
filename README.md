@@ -1,12 +1,12 @@
 # High Resolution Browser Logos
 
+[![Main desktop browsers](main-desktop.png)](https://raw.github.com/paulirish/browser-logos/master/main-desktop.png)
+
 You may want these for a presentation, a blog post or for the site
 featuring your brand new awesome lightbox script (please no!). All
 logos are high resolution with transparent backgrounds.
 
-[![Main desktop browsers](main-desktop.png)](https://raw.github.com/paulirish/browser-logos/master/main-desktop.png)
-
-All logos and trademarks are the property of their respective owners.
+--
 
 ### 360 Secure
 
@@ -476,6 +476,16 @@ is only possible thanks to all the awesome
 
 This project is currently maintained by:
 
-| [![Mariș Cătălin](http://s.gravatar.com/avatar/2fc3f42c9411898f83f3af8ede902591?s=140)](http://twitter.com/alrra "Follow @alrra on Twitter") |
+| [![Cătălin Mariș](http://s.gravatar.com/avatar/2fc3f42c9411898f83f3af8ede902591?s=140)](http://twitter.com/alrra "Follow @alrra on Twitter") |
 |:---:|
 | [Cătălin Mariș](http://twitter.com/alrra) |
+
+
+## Legal
+
+__All logos and trademarks are the property of their respective owners!__
+
+If you represent the entity that has the rights over a logo and you want, for
+whatever reason, that logo removed from this project, [open an
+issue](https://github.com/paulirish/browser-logos/issues/new) requesting its
+takedown and we will remove it as soon as possible.
