@@ -370,9 +370,10 @@ logos are high resolution with transparent backgrounds.
 
 ### Sleipnir
 
-| [Sleipnir (iOS)](http://www.fenrir-inc.com/us/iphone/apps/sleipnir-mobile.html) | [Sleipnir (Mac)](http://www.fenrir-inc.com/us/sleipnir-family/) | [Sleipnir (Mobile)](http://www.fenrir-inc.com/us/sleipnir-family/) |
+| [Sleipnir (Android)](http://www.fenrir-inc.com/us/android/apps/sleipnir-mobile.html) | [Sleipnir (iOS)](http://www.fenrir-inc.com/us/iphone/apps/sleipnir-mobile.html) | [Sleipnir (Mac)](http://www.fenrir-inc.com/us/sleipnir-family/) |
 |:---:|:---:|:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/sleipnir-ios/sleipnir-ios.png"><img width=140 src="sleipnir-ios/sleipnir-ios_256x256.png" alt="Sleipnir for iOS browser logo"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/sleipnir-mac/sleipnir-mac.png"><img width=140 src="sleipnir-mac/sleipnir-mac_256x256.png" alt="Sleipnir for Mac browser logo"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/sleipnir-mobile/sleipnir-mobile.png"><img width=140 src="sleipnir-mobile/sleipnir-mobile_256x256.png" alt="Sleipnir Mobile browser logo"></a> |
+| <a href="https://raw.github.com/paulirish/browser-logos/master/sleipnir-android/sleipnir-android.png"><img width=140 src="sleipnir-android/sleipnir-android_256x256.png" alt="Sleipnir for Android browser logo"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/sleipnir-ios/sleipnir-ios.png"><img width=140 src="sleipnir-ios/sleipnir-ios_256x256.png" alt="Sleipnir for iOS browser logo"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/sleipnir-mac/sleipnir-mac.png"><img width=140 src="sleipnir-mac/sleipnir-mac_256x256.png" alt="Sleipnir for Mac browser logo"></a>
+
 
 ### SlimBoat
 
