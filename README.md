@@ -200,6 +200,12 @@ logos are high resolution with transparent backgrounds.
 |:---:|
 | <a href="https://raw.github.com/paulirish/browser-logos/master/lightning/lightning.png"><img width=140 src="lightning/lightning_256x256.png" alt="Lightning browser logo"></a> |
 
+### Lotus
+
+| [Lotus](http://lotusbrowser.blogspot.co.uk/) |
+|:---:|
+| <a href="https://raw.github.com/paulirish/browser-logos/master/lotus/lotus.png"><img width=140 src="lotus/lotus_256x256.png" alt="Lotus browser logo"></a> |
+
 ### Lunascape
 
 | [iLunascape (Android)](http://www.lunascape.tv/) | [iLunascape (iOS)](http://www.lunascape.tv/) |[iLunascape Lite (iOS)](http://www.lunascape.tv/) |
