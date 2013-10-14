@@ -106,9 +106,9 @@ logos are high resolution with transparent backgrounds.
 
 ### Dolphin
 
-| [Dolphin](http://dolphin.com/) | [Dolphin Beta](http://dolphin.com/beta/) |
+| [Dolphin (Android)](http://dolphin.com/) | [Dolphin (iOS)](http://dolphin.com/beta/) |
 |:---:|:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/dolphin/dolphin.png"><img width=140 src="dolphin/dolphin_256x256.png" alt="Dolphin browser logo"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/dolphin-beta/dolphin-beta.png"><img width=140 src="dolphin-beta/dolphin-beta_256x256.png" alt="Dolphin Beta browser logo"></a> |
+| <a href="https://raw.github.com/paulirish/browser-logos/master/dolphin-android/dolphin-android.png"><img width=140 src="dolphin-android/dolphin-android_256x256.png" alt="Dolphin for Android browser logo"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/dolphin-ios/dolphin-ios.png"><img width=140 src="dolphin-ios/dolphin-ios_256x256.png" alt="Dolphin for iOS browser logo"></a> |
 
 ### Dooble
 
