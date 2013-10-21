@@ -44,6 +44,12 @@ logos are high resolution with transparent backgrounds.
 |:---:|
 | <a href="https://raw.github.com/paulirish/browser-logos/master/avant/avant.png"><img width=140 src="avant/avant_256x256.png" alt="Avant browser logo"></a> |
 
+### Aviator
+
+| [Aviator](https://www.whitehatsec.com/aviator/) |
+|:---:|
+| <a href="https://raw.github.com/paulirish/browser-logos/master/aviator/aviator.png"><img width=140 src="aviator/aviator_256x256.png" alt="Aviator browser logo"></a> |
+
 ### Baidu
 
 | [Baidu](http://imobile.baidu.com/browser/) |
