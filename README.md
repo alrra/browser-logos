@@ -340,9 +340,9 @@ logos are high resolution with transparent backgrounds.
 
 ### QQ
 
-| [QQ](http://mb.qq.com/) | [QQ (Mac)](http://browser.qq.com/mac/) |
-|:---:|:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/qq/qq.png"><img width=140 src="qq/qq.png" alt="QQ browser logo"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/qq-mac/qq-mac.png"><img width=140 src="qq-mac/qq-mac.png" alt="QQ for Mac browser logo"></a> |
+| [QQ](http://browser.qq.com/) |
+|:---:|
+| <a href="https://raw.github.com/paulirish/browser-logos/master/qq/qq.png"><img width=140 src="qq/qq.png" alt="QQ browser logo"></a> |
 
 ### rekonq
 
