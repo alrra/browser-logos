@@ -112,7 +112,7 @@ logos are high resolution with transparent backgrounds.
 
 ### Dolphin
 
-| [Dolphin (Android)](http://dolphin.com/) | [Dolphin (iOS)](http://dolphin.com/beta/) |
+| [Dolphin (Android)](http://dolphin.com/) | [Dolphin (iOS)](http://dolphin.com/) |
 |:---:|:---:|
 | <a href="https://raw.github.com/paulirish/browser-logos/master/dolphin-android/dolphin-android.png"><img width=140 src="dolphin-android/dolphin-android_256x256.png" alt="Dolphin for Android browser logo"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/dolphin-ios/dolphin-ios.png"><img width=140 src="dolphin-ios/dolphin-ios_256x256.png" alt="Dolphin for iOS browser logo"></a> |
 
