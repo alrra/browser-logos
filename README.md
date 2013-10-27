@@ -376,9 +376,9 @@ logos are high resolution with transparent backgrounds.
 
 ### Skyfire
 
-| [Skyfire (Android)](http://www.skyfire.com/) | [Skyfire (iPhone)](http://www.skyfire.com/) | [Skyfire (iPad)](http://www.skyfire.com/) |
-|:---:|:---:|:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/skyfire-android/skyfire-android.png"><img width=140 src="skyfire-android/skyfire-android_256x256.png" alt="Skyfire for Android browser logo"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/skyfire-iphone/skyfire-iphone.png"><img width=140 src="skyfire-iphone/skyfire-iphone_256x256.png" alt="Skyfire for iPhone browser logo"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/skyfire-ipad/skyfire-ipad.png"><img width=140 src="skyfire-ipad/skyfire-ipad_256x256.png" alt="Skyfire for iPad browser logo"></a> |
+| [Skyfire (Android)](http://www.skyfire.com/) | [Skyfire (iOS)](http://www.skyfire.com/) |
+|:---:|:---:|
+| <a href="https://raw.github.com/paulirish/browser-logos/master/skyfire-android/skyfire-android.png"><img width=140 src="skyfire-android/skyfire-android_256x256.png" alt="Skyfire for Android browser logo"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/skyfire-ios/skyfire-ios.png"><img width=140 src="skyfire-ios/skyfire-ios_256x256.png" alt="Skyfire for iOS browser logo"></a> |
 
 ### Sleipnir
 
