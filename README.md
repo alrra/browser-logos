@@ -332,6 +332,12 @@ logos are high resolution with transparent backgrounds.
 |:---:|
 | <a href="https://raw.github.com/paulirish/browser-logos/master/perfect/perfect.png"><img width=140 src="perfect/perfect_256x256.png" alt="Perfect browser logo"></a> |
 
+### Pirate
+
+| [Pirate](http://piratebrowser.com/) |
+|:---:|
+| <a href="https://raw.github.com/paulirish/browser-logos/master/pirate/pirate.png"><img width=140 src="pirate/pirate_256x256.png" alt="Pirate browser logo"></a> |
+
 ### Puffin
 
 | [Puffin](http://www.puffinbrowser.com/) |
