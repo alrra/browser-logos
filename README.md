@@ -128,6 +128,12 @@ logos are high resolution with transparent backgrounds.
 |:---:|
 | <a href="https://raw.github.com/paulirish/browser-logos/master/epic/epic.png"><img width=140 src="epic/epic.png" alt="Epic browser logo"></a> |
 
+### Epiphany
+
+| [Epiphany](https://projects.gnome.org/epiphany/) |
+|:---:|
+| <a href="https://raw.github.com/paulirish/browser-logos/master/epiphany/epiphany.png"><img width=140 src="epiphany/epiphany.png" alt="Epiphany browser logo"></a> |
+
 ### Exsoul
 
 | [Exsoul](http://www.exsoul-browser.com/) |
