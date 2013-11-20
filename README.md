@@ -374,12 +374,6 @@ logos are high resolution with transparent backgrounds.
 |:---:|
 | <a href="https://raw.github.com/paulirish/browser-logos/master/seyyah/seyyah.png"><img width=140 src="seyyah/seyyah_256x256.png" alt="Seyyah browser logo"></a> |
 
-### Silk
-
-| [Silk](http://www.amazon.com/silk) |
-|:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/silk/silk.png"><img width=140 src="silk/silk_256x256.png" alt="Silk browser logo"></a> |
-
 ### Skyfire
 
 | [Skyfire (Android)](http://www.skyfire.com/) | [Skyfire (iOS)](http://www.skyfire.com/) |
