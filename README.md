@@ -332,6 +332,12 @@ logos are high resolution with transparent backgrounds.
 |:---:|
 | <a href="https://raw.github.com/paulirish/browser-logos/master/orweb/orweb.png"><img width=140 src="orweb/orweb_256x256.png" alt="Orweb browser logo"></a> |
 
+### Pale Moon
+
+| [Pale Moon](http://www.palemoon.org/) |
+|:---:|
+| <a href="https://raw.github.com/paulirish/browser-logos/master/pale-moon/pale-moon.png"><img width=140 src="pale-moon/pale-moon_256x256.png" alt="Pale Moon browser logo"></a> |
+
 ### Perfect
 
 | [Perfect](http://www.perfectbrowser.com/) |
