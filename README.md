@@ -166,9 +166,9 @@ logos are high resolution with transparent backgrounds.
 
 ### Internet Explorer
 
-| [Internet Explorer 6](http://www.microsoft.com/en-us/download/details.aspx?id=1)  | [Internet Explorer 7](http://www.microsoft.com/en-us/download/internet-explorer-7-details.aspx) / [8](http://www.microsoft.com/en-us/download/internet-explorer-8-details.aspx) | [Internet Explorer 9](http://windows.microsoft.com/en-gb/internet-explorer/ie-9-worldwide-languages) / [10](http://windows.microsoft.com/en-us/internet-explorer/ie-10-worldwide-languages) | [Internet Explorer 10](http://windows.microsoft.com/en-us/internet-explorer/ie-10-worldwide-languages) |
+| [Internet Explorer 6](http://www.microsoft.com/en-us/download/details.aspx?id=1)  | [Internet Explorer 7](http://www.microsoft.com/en-us/download/internet-explorer-7-details.aspx) / [8](http://www.microsoft.com/en-us/download/internet-explorer-8-details.aspx) | [Internet Explorer 9](http://windows.microsoft.com/en-gb/internet-explorer/ie-9-worldwide-languages) / [10](http://windows.microsoft.com/en-us/internet-explorer/ie-10-worldwide-languages) / [11](http://windows.microsoft.com/en-us/internet-explorer/ie-11-worldwide-languages) | [Internet Explorer 10](http://windows.microsoft.com/en-us/internet-explorer/ie-10-worldwide-languages) / [11](http://windows.microsoft.com/en-us/internet-explorer/ie-11-worldwide-languages) tile |
 |:---:|:---:|:---:|:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/ie6/ie6.png"><img width=140 src="ie6/ie6_256x256.png" alt="Internet Explorer 6 browser logo"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/ie7-8/ie7-8.png"><img width=140 src="ie7-8/ie7-8_256x256.png" alt="Internet Explorer 7 and 8 browser logo"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/ie9-10/ie9-10.png"><img width=140 src="ie9-10/ie9-10_256x256.png"alt="Internet Explorer 9 and 10 browser logo"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/ie10/ie10.png"><img width=140 src="ie10/ie10_256x256.png" alt="Internet Explorer 10 Browser logo"></a> |
+| <a href="https://raw.github.com/paulirish/browser-logos/master/ie6/ie6.png"><img width=140 src="ie6/ie6_256x256.png" alt="Internet Explorer 6 browser logo"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/ie7-8/ie7-8.png"><img width=140 src="ie7-8/ie7-8_256x256.png" alt="Internet Explorer 7 and 8 browser logo"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/ie/ie.png"><img width=140 src="ie/ie_256x256.png"alt="Internet Explorer 9, 10 and 11 browser logo"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/ie-tile/ie-tile.png"><img width=140 src="ie-tile/ie-tile_256x256.png" alt="Internet Explorer 10 and 11 start screen tile"></a> |
 
 ### iQuest
 
@@ -364,9 +364,9 @@ logos are high resolution with transparent backgrounds.
 
 ### Safari
 
-| [Safari](http://www.apple.com/safari/) | [Safari (iOS 6)](http://www.apple.com/safari/) | [Safari (iOS 7)](http://www.apple.com/safari/) |
+| [Safari](http://www.apple.com/safari/) | [Safari (iOS)](http://www.apple.com/safari/) | [Safari (iOS 6)](http://www.apple.com/safari/) |
 |:---:|:---:|:---:|
-| <a href="https://raw.github.com/paulirish/browser-logos/master/safari/safari.png"><img width=140 src="safari/safari_256x256.png" alt="Safari browser logo"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/safari-ios-6/safari-ios-6.png"><img width=140 src="safari-ios-6/safari-ios-6_256x256.png" alt="Safari for iOS 6 browser logo"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/safari-ios-7/safari-ios-7.png"><img width=140 src="safari-ios-7/safari-ios-7_256x256.png" alt="Safari for iOS 7 browser logo"></a> |
+| <a href="https://raw.github.com/paulirish/browser-logos/master/safari/safari.png"><img width=140 src="safari/safari_256x256.png" alt="Safari browser logo"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/safari-ios/safari-ios.png"><img width=140 src="safari-ios/safari-ios_256x256.png" alt="Safari for iOS browser logo"></a> | <a href="https://raw.github.com/paulirish/browser-logos/master/safari-ios-6/safari-ios-6.png"><img width=140 src="safari-ios-6/safari-ios-6_256x256.png" alt="Safari for iOS 6 browser logo"></a> |
 
 ### SeaMonkey
 
