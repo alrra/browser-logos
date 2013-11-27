@@ -344,6 +344,12 @@ logos are high resolution with transparent backgrounds.
 |:---:|
 | <a href="perfect"><img width=140 src="perfect/perfect_256x256.png" alt="Perfect browser logo"></a> |
 
+### Photon
+
+| [Photon](http://www.appsverse.com/) |
+|:---:|
+| <a href="photon"><img width=140 src="photon/photon_256x256.png" alt="Photon browser logo"></a> |
+
 ### Puffin
 
 | [Puffin](http://www.puffinbrowser.com/) |
