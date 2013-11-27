@@ -466,9 +466,9 @@ logos are high resolution with transparent backgrounds.
 
 ### WiBlaze
 
-| [WiBlaze](http://revblaze.com/) |
-|:---:|
-| <a href="wiblaze"><img width=140 src="wiblaze/wiblaze_256x256.png" alt="WiBlaze browser logo"></a> |
+| [WiBlaze](http://revblaze.com/) | [WiBlaze Lite](http://revblaze.com/) |
+|:---:|:---:|
+| <a href="wiblaze"><img width=140 src="wiblaze/wiblaze_256x256.png" alt="WiBlaze browser logo"></a> | <a href="wiblaze-lite"><img width=140 src="wiblaze-lite/wiblaze-lite_256x256.png" alt="WiBlaze Lite browser logo"></a> |
 
 ### Wyzo
 
