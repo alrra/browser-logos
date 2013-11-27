@@ -464,6 +464,12 @@ logos are high resolution with transparent backgrounds.
 |:---:|
 | <a href="webkit"><img width=140 src="webkit/webkit_256x256.png" alt="WebKit browser logo"></a> |
 
+### WiBlaze
+
+| [WiBlaze](http://revblaze.com/) |
+|:---:|
+| <a href="wiblaze"><img width=140 src="wiblaze/wiblaze_256x256.png" alt="WiBlaze browser logo"></a> |
+
 ### Wyzo
 
 | [Wyzo](http://www.wyzo.com/) |
