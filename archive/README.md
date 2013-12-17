@@ -4,6 +4,12 @@
 |:---:|
 | <a href="axis"><img width=140 src="axis/axis_256x256.png" alt="Yahoo! Axis browser logo"></a> |
 
+### Camino
+
+| [Camino](http://caminobrowser.org/) |
+|:---:|
+| <a href="camino"><img width=140 src="camino/camino_256x256.png" alt="Camino browser logo"></a> |
+
 ### Internet Explorer
 
 | [Internet Explorer 6](http://www.microsoft.com/en-us/download/details.aspx?id=1) | [Internet Explorer 7](http://www.microsoft.com/en-us/download/internet-explorer-7-details.aspx)/[8](http://www.microsoft.com/en-us/download/internet-explorer-8-details.aspx) |
