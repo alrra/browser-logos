@@ -10,6 +10,12 @@
 |:---:|:---:|
 | <a href="ie_6"><img width=140 src="ie_6/ie_6_256x256.png" alt="Internet Explorer 6 browser logo"></a> | <a href="ie_7-8"><img width=140 src="ie_7-8/ie_7-8_256x256.png" alt="Internet Explorer 7 and 8 browser logo"></a> |
 
+### Opera
+
+| [Opera 10-14](http://www.opera.com/) |
+|:---:|
+| <a href="opera_10-14"><img width=140 src="opera_10-14/opera_10-14_256x256.png" alt="Opera 10-14 browser logo"></a> |
+
 ### Safari
 
 | [Safari (iOS 1-6)](http://www.apple.com/safari/) |
