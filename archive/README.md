@@ -15,3 +15,9 @@
 | [Safari (iOS 1-6)](http://www.apple.com/safari/) |
 |:---:|
 | <a href="safari-ios_1-6"><img width=140 src="safari-ios_1-6/safari-ios_1-6_256x256.png" alt="Safari for iOS 1-6 browser logo"></a> |
+
+### Silk
+
+| [Silk](http://www.amazon.com/silk) |
+|:---:|
+| <a href="silk"><img width=140 src="silk/silk_256x256.png" alt="Old Silk browser logo"></a> |
