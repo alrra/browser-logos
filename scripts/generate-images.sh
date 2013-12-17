@@ -8,7 +8,7 @@
 # Usage: ./generate-images.sh [dir] [dir] ...
 #
 #   e.g: ./generate-images.sh
-#        ./generate-images.sh chrome opera-next
+#        ./generate-images.sh chrome archive/axis
 
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -17,7 +17,7 @@ declare groupImgName="main-desktop"
 declare -a imgGroup=(
     "chrome"
     "firefox"
-    "ie9-10"
+    "ie"
     "opera"
     "safari"
 )
@@ -71,7 +71,7 @@ generate_group_img() {
 
 generate_imgs() {
 
-    local imgDirs
+    local basename='', imgDirs='', path=''
 
     # user specified images directories
     if [ $# -ne 0 ]; then
@@ -84,17 +84,26 @@ generate_imgs() {
 
     for i in ${imgDirs[@]}; do
 
+        path=${i%/*}
+        basename=$(basename $i)
+
+        if [ "$path" == "$basename" ]; then
+            path="$basename/$basename"
+        else
+            path="$path/$basename/$basename"
+        fi
+
         # remove outdated images
-        rm ../$i/${i}_* &> /dev/null
+        rm ../${path}_* &> /dev/null
 
         # generate the different sized versions of an image
         for s in ${imgSizes[@]}; do
-            convert "../$i/$i.png" \
+            convert "../${path}.png" \
                     -background transparent \
                     -gravity center \
                     -resize "$s" \
-                    "../$i/${i}_$s.png" \
-            && print_success_msg "  [create]" "../$i/${i}_$s.png"
+                    "../${path}_$s.png" \
+            && print_success_msg "  [create]" "../${path}_$s.png"
         done
 
     done

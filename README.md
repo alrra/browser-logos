@@ -504,6 +504,15 @@ logos are high resolution with transparent backgrounds.
 [See more browser ponies!](http://paulirish.deviantart.com/favourites/51528712)
 
 
+---
+
+
+## Archive
+
+For logos of browsers that are no longer active, or for older logos of the
+browsers listed above, check to [archive](archive) directory.
+
+
 ## Acknowledgements
 
 [Browser Logos](https://github.com/paulirish/browser-logos/)
