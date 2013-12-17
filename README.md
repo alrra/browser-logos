@@ -172,9 +172,9 @@ logos are high resolution with transparent backgrounds.
 
 ### Internet Explorer
 
-| [Internet Explorer 6](http://www.microsoft.com/en-us/download/details.aspx?id=1) | [Internet Explorer 7](http://www.microsoft.com/en-us/download/internet-explorer-7-details.aspx)/[8](http://www.microsoft.com/en-us/download/internet-explorer-8-details.aspx) | [Internet Explorer 9](http://windows.microsoft.com/en-gb/internet-explorer/ie-9-worldwide-languages)/[10](http://windows.microsoft.com/en-us/internet-explorer/ie-10-worldwide-languages)/[11](http://windows.microsoft.com/en-us/internet-explorer/ie-11-worldwide-languages) | [Internet Explorer 10](http://windows.microsoft.com/en-us/internet-explorer/ie-10-worldwide-languages)/[11](http://windows.microsoft.com/en-us/internet-explorer/ie-11-worldwide-languages) tile |
-|:---:|:---:|:---:|:---:|
-| <a href="ie6"><img width=140 src="ie6/ie6_256x256.png" alt="Internet Explorer 6 browser logo"></a> | <a href="ie7-8"><img width=140 src="ie7-8/ie7-8_256x256.png" alt="Internet Explorer 7 and 8 browser logo"></a> | <a href="ie"><img width=140 src="ie/ie_256x256.png"alt="Internet Explorer 9, 10 and 11 browser logo"></a> | <a href="ie-tile"><img width=140 src="ie-tile/ie-tile_256x256.png" alt="Internet Explorer 10 and 11 start screen tile"></a> |
+| [Internet Explorer 9](http://windows.microsoft.com/en-gb/internet-explorer/ie-9-worldwide-languages)/[10](http://windows.microsoft.com/en-us/internet-explorer/ie-10-worldwide-languages)/[11](http://windows.microsoft.com/en-us/internet-explorer/ie-11-worldwide-languages) | [Internet Explorer 10](http://windows.microsoft.com/en-us/internet-explorer/ie-10-worldwide-languages)/[11](http://windows.microsoft.com/en-us/internet-explorer/ie-11-worldwide-languages) tile |
+|:---:|:---:|
+| <a href="ie"><img width=140 src="ie/ie_256x256.png"alt="Internet Explorer 9, 10 and 11 browser logo"></a> | <a href="ie-tile"><img width=140 src="ie-tile/ie-tile_256x256.png" alt="Internet Explorer 10 and 11 start screen tile"></a> |
 
 ### iQuest
 
@@ -376,9 +376,9 @@ logos are high resolution with transparent backgrounds.
 
 ### Safari
 
-| [Safari](http://www.apple.com/safari/) | [Safari (iOS)](http://www.apple.com/safari/) | [Safari (iOS 6)](http://www.apple.com/safari/) |
-|:---:|:---:|:---:|
-| <a href="safari"><img width=140 src="safari/safari_256x256.png" alt="Safari browser logo"></a> | <a href="safari-ios"><img width=140 src="safari-ios/safari-ios_256x256.png" alt="Safari for iOS browser logo"></a> | <a href="safari-ios-6"><img width=140 src="safari-ios-6/safari-ios-6_256x256.png" alt="Safari for iOS 6 browser logo"></a> |
+| [Safari](http://www.apple.com/safari/) | [Safari (iOS)](http://www.apple.com/safari/) |
+|:---:|:---:|
+| <a href="safari"><img width=140 src="safari/safari_256x256.png" alt="Safari browser logo"></a> | <a href="safari-ios"><img width=140 src="safari-ios/safari-ios_256x256.png" alt="Safari for iOS browser logo"></a> |
 
 ### SeaMonkey
 
