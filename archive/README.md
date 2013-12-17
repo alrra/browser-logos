@@ -1,3 +1,9 @@
+### Arora
+
+| [Arora](http://code.google.com/p/arora/) |
+|:---:|
+| <a href="arora"><img width=140 src="arora/arora_256x256.png" alt="Arora browser logo"></a> |
+
 ### Axis
 
 | [Axis](http://en.wikipedia.org/wiki/Yahoo!_Axis) |

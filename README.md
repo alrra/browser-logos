@@ -510,7 +510,7 @@ logos are high resolution with transparent backgrounds.
 ## Archive
 
 For logos of browsers that are no longer active, or for older logos of the
-browsers listed above, check to [archive](archive) directory.
+browsers listed above, check the [archive](archive) directory.
 
 
 ## Acknowledgements
