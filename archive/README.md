@@ -22,6 +22,12 @@
 |:---:|
 | <a href="safari-ios_1-6"><img width=140 src="safari-ios_1-6/safari-ios_1-6_256x256.png" alt="Safari for iOS 1-6 browser logo"></a> |
 
+### Shiira
+
+| [Shiira](http://en.wikipedia.org/wiki/Shiira) |
+|:---:|
+| <a href="shiira"><img width=140 src="shiira/shiira_256x256.png" alt="Shiira browser logo"></a> |
+
 ### Silk
 
 | [Silk](http://www.amazon.com/silk) |
