@@ -12,9 +12,9 @@
 
 ### Opera
 
-| [Opera 10-14](http://www.opera.com/) |
-|:---:|
-| <a href="opera_10-14"><img width=140 src="opera_10-14/opera_10-14_256x256.png" alt="Opera 10-14 browser logo"></a> |
+| [Opera 10-14](http://www.opera.com/) | [Opera Next 15](http://www.opera.com/next/) |
+|:---:|:---:|
+| <a href="opera_10-14"><img width=140 src="opera_10-14/opera_10-14_256x256.png" alt="Opera 10-14 browser logo"></a> | <a href="opera-next_15"><img width=140 src="opera-next_15/opera-next_15_256x256.png" alt="Opera Next 15 browser logo"></a> |
 
 ### Safari
 
