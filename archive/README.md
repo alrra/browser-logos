@@ -22,6 +22,12 @@
 |:---:|:---:|
 | <a href="ie_6"><img width=140 src="ie_6/ie_6_256x256.png" alt="Internet Explorer 6 browser logo"></a> | <a href="ie_7-8"><img width=140 src="ie_7-8/ie_7-8_256x256.png" alt="Internet Explorer 7 and 8 browser logo"></a> |
 
+### Konqueror
+
+| [Konqueror 1-3](http://www.konqueror.org/) |
+|:---:|
+| <a href="konqueror_1-3"><img width=140 src="konqueror_1-3/konqueror_1-3_256x256.png" alt="Konqueror 1-14 browser logo"></a> |
+
 ### Opera
 
 | [Opera 10-14](http://www.opera.com/) | [Opera Next 15](http://www.opera.com/next/) |
