@@ -22,6 +22,12 @@
 |:---:|:---:|
 | <a href="ie_6"><img width=140 src="ie_6/ie_6_256x256.png" alt="Internet Explorer 6 browser logo"></a> | <a href="ie_7-8"><img width=140 src="ie_7-8/ie_7-8_256x256.png" alt="Internet Explorer 7 and 8 browser logo"></a> |
 
+### Netscape
+
+| [Netscape 4-6](http://en.wikipedia.org/wiki/Netscape_%28web_browser%29) |
+|:---:|
+| <a href="netscape_4-6"><img width=140 src="netscape_4-6/netscape_4-6_256x256.png" alt="Netscape 4-6 browser logo"></a> |
+
 ### Konqueror
 
 | [Konqueror 1-3](http://www.konqueror.org/) |
