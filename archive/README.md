@@ -24,7 +24,7 @@
 
 ### Mosaic
 
-| [Mosaic_](http://en.wikipedia.org/wiki/Mosaic_%28web_browser%29) |
+| [Mosaic](http://en.wikipedia.org/wiki/Mosaic_%28web_browser%29) |
 |:---:|
 | <a href="mosaic"><img width=140 src="mosaic/mosaic_256x256.png" alt="Mosaic browser logo"></a> |
 
