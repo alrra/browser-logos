@@ -6,9 +6,7 @@
 # http://www.imagemagick.org/script/command-line-tools.php.
 
 # Usage: ./generate-images.sh [dir] [dir] ...
-#
-#   e.g: ./generate-images.sh
-#        ./generate-images.sh chrome archive/axis
+#   e.g: ./generate-images.sh chrome archive/slik ...
 
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -17,7 +15,7 @@ declare groupImgName="main-desktop"
 declare -a imgGroup=(
     "chrome"
     "firefox"
-    "ie"
+    "internet-explorer"
     "opera"
     "safari"
 )
@@ -73,14 +71,7 @@ generate_imgs() {
 
     local basename='', imgDirs='', path=''
 
-    # user specified images directories
-    if [ $# -ne 0 ]; then
-        imgDirs=($@)
-
-    # all images directories
-    else
-        imgDirs=( $(ls -l ../ | grep '^d' | grep -v "scripts" | cut -d":" -f2 | cut -d' ' -f2-) )
-    fi
+    imgDirs=($@)
 
     for i in ${imgDirs[@]}; do
 
@@ -111,12 +102,9 @@ generate_imgs() {
 }
 
 is_installed() {
-
-    #   0 = not installed
-    #   1 = installed
-
     printf "$( [[ -x "$(command -v "$1")" ]] && printf "1" || printf "0" )"
-
+    #                                       installed ──┘             │
+    #                                                 not installed ──┘
 }
 
 print_error_msg() {
@@ -134,25 +122,24 @@ print_success_msg() {
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 main() {
-
     if [ $(is_installed "convert") -eq 1 ]; then
+        if [ $# -ne 0 ]; then
 
-        print_msg ""
-        print_success_msg "Generate images"
-        print_msg ""
+            print_msg ""
+            print_success_msg "Generate images"
+            print_msg ""
 
-        generate_group_img $@ \
-            && generate_imgs $@ \
-            && (
-                print_msg ""
-                print_success_msg "Done! 🍻 "
-                print_msg ""
-            )
-
+            generate_group_img $@ \
+                && generate_imgs $@ \
+                && (
+                    print_msg ""
+                    print_success_msg "Done! 🍻 "
+                    print_msg ""
+                )
+        fi
     else
         print_error_msg "Please install ImageMagick Command-Line Tools!"
     fi
-
 }
 
 main $@
