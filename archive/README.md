@@ -20,7 +20,13 @@
 
 | [Internet Explorer 6](http://www.microsoft.com/en-us/download/details.aspx?id=1) | [Internet Explorer 7](http://www.microsoft.com/en-us/download/internet-explorer-7-details.aspx)/[8](http://www.microsoft.com/en-us/download/internet-explorer-8-details.aspx) |
 |:---:|:---:|
-| <a href="internet-explorer_6"><img width=140 src="internet-explorer_6/ie_6_256x256.png" alt="Internet Explorer 6 browser logo"></a> | <a href="internet-explorer_7-8"><img width=140 src="internet-explorer_7-8/internet-explorer_7-8_256x256.png" alt="Internet Explorer 7 and 8 browser logo"></a> |
+| <a href="internet-explorer_6"><img width=140 src="internet-explorer_6/internet-explorer_6_256x256.png" alt="Internet Explorer 6 browser logo"></a> | <a href="internet-explorer_7-8"><img width=140 src="internet-explorer_7-8/internet-explorer_7-8_256x256.png" alt="Internet Explorer 7 and 8 browser logo"></a> |
+
+### Mosaic
+
+| [Mosaic_](http://en.wikipedia.org/wiki/Mosaic_%28web_browser%29) |
+|:---:|
+| <a href="mosaic"><img width=140 src="mosaic/mosaic_256x256.png" alt="Mosaic browser logo"></a> |
 
 ### Netscape
 
