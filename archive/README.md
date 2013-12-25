@@ -40,6 +40,12 @@
 |:---:|:---:|:---:|
 | <a href="netscape_4-6"><img width=140 src="netscape_4-6/netscape_4-6_256x256.png" alt="Netscape 4-6 browser logo"></a> | <a href="netscape_8"><img width=140 src="netscape_8/netscape_8_256x256.png" alt="Netscape 8 browser logo"></a> | <a href="netscape_9"><img width=140 src="netscape_9/netscape_9_256x256.png" alt="Netscape 9 browser logo"></a> |
 
+### K-Meleon
+
+| [K-Meleon](http://kmeleon.sourceforge.net/) |
+|:---:|
+| <a href="k-meleon"><img width=140 src="k-meleon/k-meleon_256x256.png" alt="K-Meleon browser logo"></a> |
+
 ### Konqueror
 
 | [Konqueror 1-3](http://www.konqueror.org/) |
