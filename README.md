@@ -1,6 +1,6 @@
 # High Resolution Browser Logos
 
-[![Main desktop browsers](main-desktop.png)](https://raw.github.com/paulirish/browser-logos/master/main-desktop.png)
+[![Main desktop browsers](main-desktop.png)](https://raw.github.com/alrra/browser-logos/master/main-desktop.png)
 
 You may want these for a presentation, a blog post or for the site
 featuring your brand new awesome lightbox script (please no!). All
@@ -515,22 +515,16 @@ browsers listed above, check the [archive](archive) directory.
 
 ## Acknowledgements
 
-[Browser Logos](https://github.com/paulirish/browser-logos/)
+[Browser Logos](https://github.com/alrra/browser-logos/)
 is only possible thanks to all the awesome
-[contributors](https://github.com/paulirish/browser-logos/contributors)!
-
-This project is currently maintained by:
-
-| [![Cătălin Mariș](http://s.gravatar.com/avatar/2fc3f42c9411898f83f3af8ede902591?s=140)](http://twitter.com/alrra "Follow @alrra on Twitter") |
-|:---:|
-| [Cătălin Mariș](http://twitter.com/alrra) |
+[contributors](https://github.com/alrra/browser-logos/contributors)!
 
 
 ## Legal
 
 __All logos and trademarks are the property of their respective owners!__
 
-If you represent the entity that has the rights over a logo and you want, for
-whatever reason, that logo removed from this project, [open an
-issue](https://github.com/paulirish/browser-logos/issues/new) requesting its
+If you represent the entity that has the rights over a logo and you want,
+for whatever reason, that logo removed from this project, [open an
+issue](https://github.com/alrra/browser-logos/issues/new) requesting its
 takedown and we will remove it as soon as possible.
