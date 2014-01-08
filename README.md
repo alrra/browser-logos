@@ -146,6 +146,12 @@ logos are high resolution with transparent backgrounds.
 |:---:|
 | <a href="exsoul"><img width=140 src="exsoul/exsoul_256x256.png" alt="Exsoul browser logo"></a> |
 
+### Fake
+
+| [Fake](http://fakeapp.com/) |
+|:---:|
+| <a href="fake"><img width=140 src="fake/fake_256x256.png" alt="Fake browser logo"></a> |
+
 ### Firefox
 
 | [Firefox](http://www.mozilla.org/en-US/firefox/) | [Firefox Beta](http://www.mozilla.org/beta/) | [Firefox Aurora](http://www.mozilla.org/en-US/firefox/aurora/) | [Firefox Nightly](http://nightly.mozilla.org/) |
