@@ -519,6 +519,16 @@ For logos of browsers that are no longer active, or for older logos of the
 browsers listed above, check the [archive](archive) directory.
 
 
+## Contributing
+
+Anyone and everyone is welcome to contribute, but before you do, please take a
+moment to review the [guidelines](CONTRIBUTING.md).
+
+* [Bug reports](CONTRIBUTING.md#bugs)
+* [Feature requests](CONTRIBUTING.md#features)
+* [Pull requests](CONTRIBUTING.md#pull-requests)
+
+
 ## Acknowledgements
 
 [Browser Logos](https://github.com/alrra/browser-logos/)
