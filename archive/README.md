@@ -16,6 +16,12 @@
 |:---:|
 | <a href="camino"><img width=140 src="camino/camino_256x256.png" alt="Camino browser logo"></a> |
 
+### Firefox
+
+| [Firefox 3.5-22](http://www.mozilla.org/en-US/firefox/) |
+|:---:|
+| <a href="firefox_3.5-22"><img width=140 src="firefox_3.5-22/firefox_3.5-22_256x256.png" alt="Firefox 3.5-22 browser logo"></a> |
+
 ### Flock
 
 | [Flock](http://en.wikipedia.org/wiki/Flock_%28web_browser%29) |
