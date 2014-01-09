@@ -34,6 +34,12 @@
 |:---:|:---:|:---:|
 | <a href="firefox_1"><img width=140 src="firefox_1/firefox_1_256x256.png" alt="Firefox 1 browser logo"></a> | <a href="firefox_1.5-3"><img width=140 src="firefox_1.5-3/firefox_1.5-3_256x256.png" alt="Firefox 1 browser logo"></a> | <a href="firefox_3.5-22"><img width=140 src="firefox_3.5-22/firefox_3.5-22_256x256.png" alt="Firefox 3.5-22 browser logo"></a> |
 
+### Firefox Aurora
+
+| [Firefox Aurora 5-22](http://www.mozilla.org/en-US/firefox/aurora/) |
+|:---:|
+| <a href="firefox-aurora_5-22"><img width=140 src="firefox-aurora_5-22/firefox-aurora_5-22_256x256.png" alt="Firefox Aurora 5-22 browser logo"></a> |
+
 ### Flock
 
 | [Flock](http://en.wikipedia.org/wiki/Flock_%28web_browser%29) |
