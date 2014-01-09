@@ -40,6 +40,12 @@
 |:---:|
 | <a href="firefox-aurora_5-22"><img width=140 src="firefox-aurora_5-22/firefox-aurora_5-22_256x256.png" alt="Firefox Aurora 5-22 browser logo"></a> |
 
+### Firefox Nightly
+
+| [Firefox Nightly 6-22](http://nightly.mozilla.org/) |
+|:---:|
+| <a href="firefox-nightly_6-22"><img width=140 src="firefox-nightly_6-22/firefox-nightly_6-22_256x256.png" alt="Firefox Nightly 6-22 browser logo"></a> |
+
 ### Flock
 
 | [Flock](http://en.wikipedia.org/wiki/Flock_%28web_browser%29) |
