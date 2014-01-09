@@ -22,6 +22,12 @@
 |:---:|
 | <a href="chrome_1-10"><img width=140 src="chrome_1-10/chrome_1-10_256x256.png" alt="Chrome 1-10 browser logo"></a> |
 
+### Chromium
+
+| [Chromium 1-10](http://www.chromium.org/Home) |
+|:---:|
+| <a href="chromium_1-10"><img width=140 src="chromium_1-10/chromium_1-10_256x256.png" alt="Chromium 1-10 browser logo"></a> |
+
 ### Firefox
 
 | [Firefox 1](http://www.mozilla.org/en-US/firefox/) | [Firefox 1.5-3](http://www.mozilla.org/en-US/firefox/) | [Firefox 3.5-22](http://www.mozilla.org/en-US/firefox/) |
@@ -66,9 +72,15 @@
 
 ### Opera
 
-| [Opera 10-14](http://www.opera.com/) | [Opera Next 15](http://www.opera.com/next/) |
-|:---:|:---:|
-| <a href="opera_10-14"><img width=140 src="opera_10-14/opera_10-14_256x256.png" alt="Opera 10-14 browser logo"></a> | <a href="opera-next_15"><img width=140 src="opera-next_15/opera-next_15_256x256.png" alt="Opera Next 15 browser logo"></a> |
+| [Opera 10-14](http://www.opera.com/) |
+|:---:|
+| <a href="opera_10-14"><img width=140 src="opera_10-14/opera_10-14_256x256.png" alt="Opera 10-14 browser logo"></a> |
+
+### Opera Next
+
+[Opera Next 15](http://www.opera.com/next/) |
+|:---:|
+| <a href="opera-next_15"><img width=140 src="opera-next_15/opera-next_15_256x256.png" alt="Opera Next 15 browser logo"></a> |
 
 ### Safari
 
