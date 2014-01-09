@@ -1,6 +1,7 @@
 # High Resolution Browser Logos
 
-[![Main desktop browsers](main-desktop.png)](https://raw.github.com/alrra/browser-logos/master/main-desktop.png)
+[![Main desktop browsers
+logos](main-desktop.png)](https://raw.github.com/alrra/browser-logos/master/main-desktop.png)
 
 You may want these for a presentation, a blog post or for the site
 featuring your brand new awesome lightbox script (please no!). All
@@ -500,8 +501,12 @@ logos are high resolution with transparent backgrounds.
 |:---:|
 | <a href="yandex"><img width=140 src="yandex/yandex_256x256.png" alt="Yandex browser logo"></a> |
 
+### Archive
 
-## Browser Ponies
+For logos of browsers that are no longer active, or for older logos of the
+browsers listed above, check the [archive](archive) directory.
+
+### Browser Ponies
 
 | Chrome | Firefox | Internet Explorer | Opera | Safari |
 |:---:|:---:|:---:|:---:|:---:|
@@ -513,10 +518,11 @@ logos are high resolution with transparent backgrounds.
 ---
 
 
-## Archive
+## Acknowledgements
 
-For logos of browsers that are no longer active, or for older logos of the
-browsers listed above, check the [archive](archive) directory.
+[Browser Logos](https://github.com/alrra/browser-logos/)
+is only possible thanks to all the awesome
+[contributors](https://github.com/alrra/browser-logos/contributors)!
 
 
 ## Contributing
@@ -529,18 +535,17 @@ moment to review the [guidelines](CONTRIBUTING.md).
 * [Pull requests](CONTRIBUTING.md#pull-requests)
 
 
-## Acknowledgements
-
-[Browser Logos](https://github.com/alrra/browser-logos/)
-is only possible thanks to all the awesome
-[contributors](https://github.com/alrra/browser-logos/contributors)!
-
-
 ## Legal
 
-__All logos and trademarks are the property of their respective owners!__
+#### __All logos and trademarks are the property of their respective owners!__
 
 If you represent the entity that has the rights over a logo and you want,
 for whatever reason, that logo removed from this project, [open an
 issue](https://github.com/alrra/browser-logos/issues/new) requesting its
 takedown and we will remove it as soon as possible.
+
+
+## Project origin and history
+
+Read [Paul Irish](https://github.com/paulirish/)'s ["High-res Browser
+Logos"](http://www.paulirish.com/2010/high-res-browser-icons/) blog post.
