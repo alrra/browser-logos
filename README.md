@@ -17,7 +17,7 @@ logos are high resolution with transparent backgrounds.
 
 ### Adrenaline
 
-| [Adrenaline](http://adrenalinemobility.com/) |
+| [Adrenaline](http://www.adrenalinemobility.com/) |
 |:---:|
 | <a href="adrenaline"><img width=140 src="adrenaline/adrenaline_256x256.png" alt="Adrenaline browser logo"></a> |
 
@@ -185,7 +185,7 @@ logos are high resolution with transparent backgrounds.
 
 ### iQuest
 
-| [iQuest](http://penguingeorge.com/ios/iquest.html) |
+| [iQuest](http://penguingeorge.com/) |
 |:---:|
 | <a href="iquest"><img width=140 src="iquest/iquest.png" alt="iQuest browser logo"></a> |
 

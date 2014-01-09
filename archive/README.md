@@ -108,6 +108,6 @@
 
 ### Silk
 
-| [Silk 1](http://www.amazon.com/silk) |
+| [Silk 1](http://amazonsilk.wordpress.com/) |
 |:---:|
 | <a href="silk_1"><img width=140 src="silk_1/silk_1_256x256.png" alt="Silk 1 browser logo"></a> |
