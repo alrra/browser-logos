@@ -16,6 +16,12 @@
 |:---:|
 | <a href="camino"><img width=140 src="camino/camino_256x256.png" alt="Camino browser logo"></a> |
 
+### Chrome
+
+| [Chrome 1-10](https://www.google.com/chrome/) |
+|:---:|
+| <a href="chrome_1-10"><img width=140 src="chrome_1-10/chrome_1-10_256x256.png" alt="Chrome 1-10 browser logo"></a> |
+
 ### Firefox
 
 | [Firefox 1](http://www.mozilla.org/en-US/firefox/) | [Firefox 1.5-3](http://www.mozilla.org/en-US/firefox/) | [Firefox 3.5-22](http://www.mozilla.org/en-US/firefox/) |
