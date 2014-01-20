@@ -28,6 +28,12 @@
 |:---:|
 | <a href="chromium_1-10"><img width=140 src="chromium_1-10/chromium_1-10_256x256.png" alt="Chromium 1-10 browser logo"></a> |
 
+### Fennec
+
+| [Fennec](http://en.wikipedia.org/wiki/Firefox_for_mobile) |
+|:---:|
+| <a href="fennec"><img width=140 src="fennec/fennec_256x256.png" alt="Fennec browser logo"></a> |
+
 ### Firefox
 
 | [Firefox 1](http://www.mozilla.org/en-US/firefox/) | [Firefox 1.5-3](http://www.mozilla.org/en-US/firefox/) | [Firefox 3.5-22](http://www.mozilla.org/en-US/firefox/) |
