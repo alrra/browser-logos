@@ -36,9 +36,9 @@
 
 ### Firefox
 
-| [Firefox 1](http://www.mozilla.org/en-US/firefox/) | [Firefox 1.5-3](http://www.mozilla.org/en-US/firefox/) | [Firefox 3.5-22](http://www.mozilla.org/en-US/firefox/) |
-|:---:|:---:|:---:|
-| <a href="firefox_1"><img width=140 src="firefox_1/firefox_1_256x256.png" alt="Firefox 1 browser logo"></a> | <a href="firefox_1.5-3"><img width=140 src="firefox_1.5-3/firefox_1.5-3_256x256.png" alt="Firefox 1 browser logo"></a> | <a href="firefox_3.5-22"><img width=140 src="firefox_3.5-22/firefox_3.5-22_256x256.png" alt="Firefox 3.5-22 browser logo"></a> |
+| [Phoenix / Firebird](http://en.wikipedia.org/wiki/History_of_Firefox#Naming) | [Firefox 1](http://www.mozilla.org/en-US/firefox/) | [Firefox 1.5-3](http://www.mozilla.org/en-US/firefox/) | [Firefox 3.5-22](http://www.mozilla.org/en-US/firefox/) |
+|:---:|:---:|:---:|:---:|
+| <a href="phoenix_firebird"><img width=140 src="phoenix_firebird/phoenix_firebird_256x256.png" alt="Phoenix/Firebird browser logo"></a> | <a href="firefox_1"><img width=140 src="firefox_1/firefox_1_256x256.png" alt="Firefox 1 browser logo"></a> | <a href="firefox_1.5-3"><img width=140 src="firefox_1.5-3/firefox_1.5-3_256x256.png" alt="Firefox 1 browser logo"></a> | <a href="firefox_3.5-22"><img width=140 src="firefox_3.5-22/firefox_3.5-22_256x256.png" alt="Firefox 3.5-22 browser logo"></a> |
 
 ### Firefox Aurora
 
