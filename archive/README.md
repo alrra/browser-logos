@@ -90,9 +90,9 @@
 
 ### Opera
 
-| [Opera 10-14](http://www.opera.com/) |
-|:---:|
-| <a href="opera_10-14"><img width=140 src="opera_10-14/opera_10-14_256x256.png" alt="Opera 10-14 browser logo"></a> |
+| [Opera 7-9](http://www.opera.com/) | [Opera 10-14](http://www.opera.com/) |
+|:---:|:---:|
+| <a href="opera_7-9"><img width=140 src="opera_7-9/opera_7-9_256x256.png" alt="Opera 7-9 browser logo"></a> | <a href="opera_10-14"><img width=140 src="opera_10-14/opera_10-14_256x256.png" alt="Opera 10-14 browser logo"></a> |
 
 ### Opera Next
 
