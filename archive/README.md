@@ -1,6 +1,6 @@
 ### Arora
 
-| [Arora](http://code.google.com/p/arora/) |
+| [Arora](http://en.wikipedia.org/wiki/Arora_%28web_browser%29) |
 |:---:|
 | <a href="arora"><img width=140 src="arora/arora_256x256.png" alt="Arora browser logo"></a> |
 
@@ -12,19 +12,19 @@
 
 ### Camino
 
-| [Camino](http://caminobrowser.org/) |
+| [Camino](http://en.wikipedia.org/wiki/Camino) |
 |:---:|
 | <a href="camino"><img width=140 src="camino/camino_256x256.png" alt="Camino browser logo"></a> |
 
 ### Chrome
 
-| [Chrome 1-10](https://www.google.com/chrome/) |
+| [Chrome 1-10](http://en.wikipedia.org/wiki/Google_Chrome) |
 |:---:|
 | <a href="chrome_1-10"><img width=140 src="chrome_1-10/chrome_1-10_256x256.png" alt="Chrome 1-10 browser logo"></a> |
 
 ### Chromium
 
-| [Chromium 1-10](http://www.chromium.org/Home) |
+| [Chromium 1-10](http://en.wikipedia.org/wiki/Chromium_%28web_browser%29) |
 |:---:|
 | <a href="chromium_1-10"><img width=140 src="chromium_1-10/chromium_1-10_256x256.png" alt="Chromium 1-10 browser logo"></a> |
 
@@ -36,19 +36,19 @@
 
 ### Firefox
 
-| [Phoenix / Firebird](http://en.wikipedia.org/wiki/History_of_Firefox#Naming) | [Firefox 1](http://www.mozilla.org/en-US/firefox/) | [Firefox 1.5-3](http://www.mozilla.org/en-US/firefox/) | [Firefox 3.5-22](http://www.mozilla.org/en-US/firefox/) |
+| [Phoenix / Firebird](http://en.wikipedia.org/wiki/Firefox#History) | [Firefox 1](http://en.wikipedia.org/wiki/Firefox) | [Firefox 1.5-3](http://en.wikipedia.org/wiki/Firefox) | [Firefox 3.5-22](http://en.wikipedia.org/wiki/Firefox) |
 |:---:|:---:|:---:|:---:|
 | <a href="phoenix_firebird"><img width=140 src="phoenix_firebird/phoenix_firebird_256x256.png" alt="Phoenix/Firebird browser logo"></a> | <a href="firefox_1"><img width=140 src="firefox_1/firefox_1_256x256.png" alt="Firefox 1 browser logo"></a> | <a href="firefox_1.5-3"><img width=140 src="firefox_1.5-3/firefox_1.5-3_256x256.png" alt="Firefox 1 browser logo"></a> | <a href="firefox_3.5-22"><img width=140 src="firefox_3.5-22/firefox_3.5-22_256x256.png" alt="Firefox 3.5-22 browser logo"></a> |
 
 ### Firefox Aurora
 
-| [Firefox Aurora 5-22](http://www.mozilla.org/en-US/firefox/aurora/) |
+| [Firefox Aurora 5-22](http://en.wikipedia.org/wiki/Firefox#Versions) |
 |:---:|
 | <a href="firefox-aurora_5-22"><img width=140 src="firefox-aurora_5-22/firefox-aurora_5-22_256x256.png" alt="Firefox Aurora 5-22 browser logo"></a> |
 
 ### Firefox Nightly
 
-| [Firefox Nightly 6-22](http://nightly.mozilla.org/) |
+| [Firefox Nightly 6-22](http://en.wikipedia.org/wiki/Firefox#Versions) |
 |:---:|
 | <a href="firefox-nightly_6-22"><img width=140 src="firefox-nightly_6-22/firefox-nightly_6-22_256x256.png" alt="Firefox Nightly 6-22 browser logo"></a> |
 
@@ -60,7 +60,7 @@
 
 ### Internet Explorer
 
-| [Internet Explorer 6](http://www.microsoft.com/en-us/download/details.aspx?id=1) | [Internet Explorer 7](http://www.microsoft.com/en-us/download/internet-explorer-7-details.aspx)/[8](http://www.microsoft.com/en-us/download/internet-explorer-8-details.aspx) |
+| [Internet Explorer 6](http://en.wikipedia.org/wiki/Internet_Explorer_6) | [Internet Explorer 7](http://en.wikipedia.org/wiki/Internet_Explorer_7)/[8](http://en.wikipedia.org/wiki/Internet_Explorer_8) |
 |:---:|:---:|
 | <a href="internet-explorer_6"><img width=140 src="internet-explorer_6/internet-explorer_6_256x256.png" alt="Internet Explorer 6 browser logo"></a> | <a href="internet-explorer_7-8"><img width=140 src="internet-explorer_7-8/internet-explorer_7-8_256x256.png" alt="Internet Explorer 7 and 8 browser logo"></a> |
 
@@ -78,31 +78,31 @@
 
 ### K-Meleon
 
-| [K-Meleon](http://kmeleon.sourceforge.net/) |
+| [K-Meleon](http://en.wikipedia.org/wiki/K-Meleon) |
 |:---:|
 | <a href="k-meleon"><img width=140 src="k-meleon/k-meleon_256x256.png" alt="K-Meleon browser logo"></a> |
 
 ### Konqueror
 
-| [Konqueror 1-3](http://www.konqueror.org/) |
+| [Konqueror 1-3](http://en.wikipedia.org/wiki/Konqueror) |
 |:---:|
 | <a href="konqueror_1-3"><img width=140 src="konqueror_1-3/konqueror_1-3_256x256.png" alt="Konqueror 1-14 browser logo"></a> |
 
 ### Opera
 
-| [Opera 2-6](http://www.opera.com/) | [Opera 7-9](http://www.opera.com/) | [Opera 10-14](http://www.opera.com/) |
+| [Opera 2-6](http://en.wikipedia.org/wiki/Opera_%28web_browser%29) | [Opera 7-9](http://en.wikipedia.org/wiki/Opera_%28web_browser%29) | [Opera 10-14](http://en.wikipedia.org/wiki/Opera_%28web_browser%29) |
 |:---:|:---:|:---:|
 | <a href="opera_2-6"><img width=140 src="opera_2-6/opera_2-6_256x256.png" alt="Opera 2-6 browser logo"></a> | <a href="opera_7-9"><img width=140 src="opera_7-9/opera_7-9_256x256.png" alt="Opera 7-9 browser logo"></a> | <a href="opera_10-14"><img width=140 src="opera_10-14/opera_10-14_256x256.png" alt="Opera 10-14 browser logo"></a> |
 
 ### Opera Next
 
-[Opera Next 15](http://www.opera.com/next/) |
+[Opera Next 15](http://en.wikipedia.org/wiki/Opera_%28web_browser%29#Opera_Developer_and_Opera_Next) |
 |:---:|
 | <a href="opera-next_15"><img width=140 src="opera-next_15/opera-next_15_256x256.png" alt="Opera Next 15 browser logo"></a> |
 
 ### Safari
 
-| [Safari (iOS 1-6)](http://www.apple.com/safari/) |
+| [Safari (iOS 1-6)](http://en.wikipedia.org/wiki/Safari_%28web_browser%29) |
 |:---:|
 | <a href="safari-ios_1-6"><img width=140 src="safari-ios_1-6/safari-ios_1-6_256x256.png" alt="Safari for iOS 1-6 browser logo"></a> |
 
@@ -114,6 +114,6 @@
 
 ### Silk
 
-| [Silk 1](http://amazonsilk.wordpress.com/) |
+| [Silk 1](http://en.wikipedia.org/wiki/Amazon_Silk) |
 |:---:|
 | <a href="silk_1"><img width=140 src="silk_1/silk_1_256x256.png" alt="Silk 1 browser logo"></a> |
