@@ -225,6 +225,12 @@ logos are high resolution with transparent backgrounds.
 |:---:|
 | <a href="lightning"><img width=140 src="lightning/lightning_256x256.png" alt="Lightning browser logo"></a> |
 
+### Link Bubble
+
+| [Link Bubble](http://www.linkbubble.com/) |
+|:---:|
+| <a href="link-bubble"><img width=140 src="link-bubble/link-bubble_256x256.png" alt="Link Bubble browser logo"></a> |
+
 ### Lotus
 
 | [Lotus](http://lotusbrowser.blogspot.co.uk/) |
