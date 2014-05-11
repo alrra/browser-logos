@@ -40,6 +40,12 @@
 |:---:|
 | <a href="dolphin-beta"><img width=140 src="dolphin-beta/dolphin-beta_256x256.png" alt="Dolphin Beta browser logo"></a> |
 
+### Exsoul
+
+| [Exsoul 1-2](http://www.exsoul-browser.com/) |
+|:---:|
+| <a href="exsoul_1-2"><img width=140 src="exsoul_1-2/exsoul_1-2_256x256.png" alt="Exsoul 1-2 browser logo"></a> |
+
 ### Fennec
 
 | [Fennec](http://en.wikipedia.org/wiki/Firefox_for_mobile) |
