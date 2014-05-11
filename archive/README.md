@@ -76,6 +76,12 @@
 |:---:|
 | <a href="flock"><img width=140 src="flock/flock_256x256.png" alt="Flock browser logo"></a> |
 
+### iCab
+
+| [iCab Mobile 1-7](http://en.wikipedia.org/wiki/ICab) |
+|:---:|
+| <a href="icab-mobile_1-7"><img width=140 src="icab-mobile_1-7/icab-mobile_1-7_256x256.png" alt="iCab Mobile 1-7 browser logo"></a> |
+
 ### Internet Explorer
 
 | [Internet Explorer 6](http://en.wikipedia.org/wiki/Internet_Explorer_6) | [Internet Explorer 7](http://en.wikipedia.org/wiki/Internet_Explorer_7)/[8](http://en.wikipedia.org/wiki/Internet_Explorer_8) |
