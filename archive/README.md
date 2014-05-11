@@ -10,6 +10,12 @@
 |:---:|
 | <a href="axis"><img width=140 src="axis/axis_256x256.png" alt="Yahoo! Axis browser logo"></a> |
 
+### Baidu
+
+| [Baidu 1-2](http://imobile.baidu.com/browser/) |
+|:---:|
+| <a href="baidu_1-2"><img width=140 src="baidu_1-2/baidu_1-2_256x256.png" alt="Baidu 1-2 browser logo"></a> |
+
 ### Camino
 
 | [Camino](http://en.wikipedia.org/wiki/Camino) |
