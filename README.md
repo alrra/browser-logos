@@ -183,18 +183,6 @@ logos are high resolution with transparent backgrounds.
 |:---:|:---:|
 | <a href="internet-explorer"><img width=140 src="internet-explorer/internet-explorer_256x256.png"alt="Internet Explorer 9, 10 and 11 browser logo"></a> | <a href="internet-explorer-tile"><img width=140 src="internet-explorer-tile/internet-explorer-tile_256x256.png" alt="Internet Explorer 10 and 11 start screen tile"></a> |
 
-### iQuest
-
-| [iQuest](http://penguingeorge.com/products/iquest/) |
-|:---:|
-| <a href="iquest"><img width=140 src="iquest/iquest.png" alt="iQuest browser logo"></a> |
-
-### iSwifter
-
-| [iSwifter](http://iswifter.net/) |
-|:---:|
-| <a href="iswifter"><img width=140 src="iswifter/iswifter.png" alt="iSwifter browser logo"></a> |
-
 ### K9
 
 | [K9](http://www1.k9webprotection.com/) |
@@ -231,23 +219,11 @@ logos are high resolution with transparent backgrounds.
 |:---:|
 | <a href="link-bubble"><img width=140 src="link-bubble/link-bubble_256x256.png" alt="Link Bubble browser logo"></a> |
 
-### Lotus
-
-| [Lotus](http://lotusbrowser.blogspot.co.uk/) |
-|:---:|
-| <a href="lotus"><img width=140 src="lotus/lotus_256x256.png" alt="Lotus browser logo"></a> |
-
 ### Lunascape
 
 | [iLunascape (Android)](http://www.lunascape.tv/) | [iLunascape (iOS)](http://www.lunascape.tv/) |[iLunascape Lite (iOS)](http://www.lunascape.tv/) |
 |:---:|:---:|:---:|
 | <a href="ilunascape-android"><img width=140 src="ilunascape-android/ilunascape-android_256x256.png" alt="iLunascape for Android browser logo"></a> | <a href="ilunascape-ios"><img width=140 src="ilunascape-ios/ilunascape-ios_256x256.png" alt="iLunascape for iOS browser logo"></a> | <a href="ilunascape-lite-ios"><img width=140 src="ilunascape-lite-ios/ilunascape-lite-ios_256x256.png" alt="iLunascape Lite for iOS browser logo"></a> |
-
-### Maven
-
-| [Maven](http://www.creamycheesy.com/maven/) |
-|:---:|
-| <a href="maven"><img width=140 src="maven/maven_256x256.png" alt="Maven browser logo"></a> |
 
 ### Maxthon
 
@@ -309,18 +285,6 @@ logos are high resolution with transparent backgrounds.
 |:---:|
 | <a href="nlia"><img width=140 src="nlia/nlia_256x256.png" alt="NLIA browser logo"></a> |
 
-### Ocean
-
-| [Ocean](http://www.compal.com/apps/oceanbrowser/) |
-|:---:|
-| <a href="ocean"><img width=140 src="ocean/ocean_256x256.png" alt="Ocean browser logo"></a> |
-
-### Omega
-
-| [Omega](http://ddmsite.ucoz.ru/) |
-|:---:|
-| <a href="omega"><img width=140 src="omega/omega_256x256.png" alt="Omega browser logo"></a> |
-
 ### OmniWeb
 
 | [OmniWeb](http://www.omnigroup.com/products/omniweb/) |
@@ -356,12 +320,6 @@ logos are high resolution with transparent backgrounds.
 | [Pale Moon](http://www.palemoon.org/) |
 |:---:|
 | <a href="pale-moon"><img width=140 src="pale-moon/pale-moon_256x256.png" alt="Pale Moon browser logo"></a> |
-
-### Perfect
-
-| [Perfect](http://www.perfectbrowser.com/) |
-|:---:|
-| <a href="perfect"><img width=140 src="perfect/perfect_256x256.png" alt="Perfect browser logo"></a> |
 
 ### Photon
 
@@ -399,12 +357,6 @@ logos are high resolution with transparent backgrounds.
 |:---:|
 | <a href="seamonkey"><img width=140 src="seamonkey/seamonkey_256x256.png" alt="SeaMonkey browser logo"></a> |
 
-### Seyyah
-
-| [Seyyah](http://seyyah.mozkan.com/) |
-|:---:|
-| <a href="seyyah"><img width=140 src="seyyah/seyyah_256x256.png" alt="Seyyah browser logo"></a> |
-
 ### Skyfire
 
 | [Skyfire (Android)](http://www.skyfire.com/) | [Skyfire (iOS)](http://www.skyfire.com/) |
@@ -429,12 +381,6 @@ logos are high resolution with transparent backgrounds.
 |:---:|
 | <a href="sogou-mobile"><img width=140 src="sogou-mobile/sogou-mobile_256x256.png" alt="Sogou Mobile browser logo"></a> |
 
-### Spearmint
-
-| [Spearmint](http://www.spearmintbrowser.com/) |
-|:---:|
-| <a href="spearmint"><img width=140 src="spearmint/spearmint_256x256.png" alt="Spearmint browser logo"></a> |
-
 ### Stainless
 
 | [Stainless](http://www.stainlessapp.com/) |
@@ -447,12 +393,6 @@ logos are high resolution with transparent backgrounds.
 |:---:|
 | <a href="superfast"><img width=140 src="superfast/superfast_256x256.png" alt="Super Fast browser logo"></a> |
 
-### Terra
-
-| [Terra](http://readdle.com/products/terra/) |
-|:---:|
-| <a href="terra"><img width=140 src="terra/terra_256x256.png" alt="Terra browser logo"></a> |
-
 ### Tor
 
 | [Tor](https://www.torproject.org/) |
@@ -464,12 +404,6 @@ logos are high resolution with transparent backgrounds.
 | [Torch](http://www.torchbrowser.com/) |
 |:---:|
 | <a href="torch"><img width=140 src="torch/torch_256x256.png" alt="Torch browser logo"></a> |
-
-### Touch
-
-| [Touch](http://www.windowsphone.com/en-us/store/app/touch-browser/c2c6b395-d724-4426-867a-36684eeca0b2) |
-|:---:|
-| <a href="touch"><img width=140 src="touch/touch_256x256.png" alt="Touch browser logo"></a> |
 
 ### UC
 
@@ -488,12 +422,6 @@ logos are high resolution with transparent backgrounds.
 | [WebKit](http://nightly.webkit.org/) |
 |:---:|
 | <a href="webkit"><img width=140 src="webkit/webkit_256x256.png" alt="WebKit browser logo"></a> |
-
-### WiBlaze
-
-| [WiBlaze](http://revblaze.com/) | [WiBlaze Lite](http://revblaze.com/) |
-|:---:|:---:|
-| <a href="wiblaze"><img width=140 src="wiblaze/wiblaze_256x256.png" alt="WiBlaze browser logo"></a> | <a href="wiblaze-lite"><img width=140 src="wiblaze-lite/wiblaze-lite_256x256.png" alt="WiBlaze Lite browser logo"></a> |
 
 ### Wyzo
 
