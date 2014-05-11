@@ -65,7 +65,7 @@ logos are high resolution with transparent backgrounds.
 
 ### Boat
 
-| [Boat](http://www.boatmob.com/) | [Boat Mini](http://www.boatmob.com/) |
+| [Boat](http://www.boatmob.com/mobile/product_browser_free.html) | [Boat Mini](http://www.boatmob.com/mobile/product_browser_mini.html) |
 |:---:|:---:|
 | <a href="boat"><img width=140 src="boat/boat_256x256.png" alt="Boat browser logo"></a> | <a href="boat-mini"><img width=140 src="boat-mini/boat-mini_256x256.png" alt="Boat Mini browser logo"></a> |
 
