@@ -88,6 +88,12 @@
 |:---:|:---:|
 | <a href="internet-explorer_6"><img width=140 src="internet-explorer_6/internet-explorer_6_256x256.png" alt="Internet Explorer 6 browser logo"></a> | <a href="internet-explorer_7-8"><img width=140 src="internet-explorer_7-8/internet-explorer_7-8_256x256.png" alt="Internet Explorer 7 and 8 browser logo"></a> |
 
+### Lightning
+
+| [Lightning 1-2](https://github.com/anthonycr/Lightning-Browser/) |
+|:---:|
+| <a href="lightning_1-2"><img width=140 src="lightning_1-2/lightning_1-2_256x256.png" alt="Lightning 1-2 browser logo"></a> |
+
 ### Mosaic
 
 | [Mosaic](http://en.wikipedia.org/wiki/Mosaic_%28web_browser%29) |
