@@ -5,14 +5,14 @@
 # will need to have `ImageMagick Command-Line Tools` installed.
 # http://www.imagemagick.org/script/command-line-tools.php.
 
-# Usage: ./generate-images.sh [dir] [dir] ...
-#   e.g: ./generate-images.sh chrome archive/slik ...
+# Usage: generate-images.sh [dir] [dir] ...
+#   e.g: generate-images.sh chrome archive/slik ...
 
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-declare groupImgName="main-desktop"
+declare groupImageName="main-desktop"
 
-declare -a imgGroup=(
+declare -a imageGroup=(
     "chrome"
     "firefox"
     "internet-explorer"
@@ -20,7 +20,7 @@ declare -a imgGroup=(
     "safari"
 )
 
-declare -a imgSizes=(
+declare -a imageSizes=(
     '16x16'
     '24x24'
     '32x32'
@@ -31,25 +31,27 @@ declare -a imgSizes=(
     '512x512'
 )
 
+declare scriptLocation="$(dirname ${BASH_SOURCE[0]})"
+
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-generate_group_img() {
+generate_group_image() {
 
-    local generateGroupImg="false"
+    local generateGroupImage="false"
     declare -a tmp=()
 
-    # do not generate new group image if none of composing images are modified
-    while [ $# -ne 0 ] && [ "$generateGroupImg" != "true" ]; do
-        if [[ "${imgGroup[*]}" =~ "$1" ]]; then
-            generateGroupImg="true"
+    # Do not generate new group image if none of composing images are modified
+    while [ $# -ne 0 ] && [ "$generateGroupImage" != "true" ]; do
+        if [[ "${imageGroup[*]}" =~ "$1" ]]; then
+            generateGroupImage="true"
         fi
         shift
     done
 
-    if [ "$generateGroupImg" == "true" ]; then
+    if [ "$generateGroupImage" == "true" ]; then
 
-        for i in ${imgGroup[@]}; do
-            tmp+=("../$i/$i.png")
+        for i in ${imageGroup[@]}; do
+            tmp+=("$i/$i.png")
         done
 
         # `convert` command options:
@@ -61,19 +63,19 @@ generate_group_img() {
             -resize 512x512 \
             -extent 562x562 \
             +append \
-            "../$groupImgName.png" \
-        && print_success_msg "  [create]" "../$groupImgName.png"
+            "$groupImageName.png" \
+        && print_success_msg "  [create]" "$groupImageName.png"
 
     fi
 }
 
-generate_imgs() {
+generate_images() {
 
-    local basename='', imgDirs='', path=''
+    local basename='', imageDirs='', path=''
 
-    imgDirs=($@)
+    imageDirs=($@)
 
-    for i in ${imgDirs[@]}; do
+    for i in ${imageDirs[@]}; do
 
         path=${i%/*}
         basename=$(basename $i)
@@ -84,17 +86,17 @@ generate_imgs() {
             path="$path/$basename/$basename"
         fi
 
-        # remove outdated images
+        # Remove outdated images
         rm ../${path}_* &> /dev/null
 
-        # generate the different sized versions of an image
-        for s in ${imgSizes[@]}; do
-            convert "../${path}.png" \
+        # Generate the different sized versions of an image
+        for s in ${imageSizes[@]}; do
+            convert "${path}.png" \
                     -background transparent \
                     -gravity center \
                     -resize "$s" \
-                    "../${path}_$s.png" \
-            && print_success_msg "  [create]" "../${path}_$s.png"
+                    "${path}_$s.png" \
+            && print_success_msg "  [create]" "${path}_$s.png"
         done
 
     done
@@ -108,15 +110,11 @@ is_installed() {
 }
 
 print_error_msg() {
-    print_msg "[0;31m$1[0m"
-}
-
-print_msg() {
-    printf "  %s\n" "$1"
+    printf "\e[0;31m  $1 $2\e[0m\n"
 }
 
 print_success_msg() {
-    print_msg "[0;32m$1[0m $2"
+    printf "\e[0;32m  $1 $2\e[0m\n"
 }
 
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -125,16 +123,19 @@ main() {
     if [ $(is_installed "convert") -eq 1 ]; then
         if [ $# -ne 0 ]; then
 
-            print_msg ""
-            print_success_msg "Generate images"
-            print_msg ""
+            # Create files relative to the project root
+            cd "$scriptLocation" && cd ..
 
-            generate_group_img $@ \
-                && generate_imgs $@ \
+            printf "\n"
+            print_success_msg "Generate images"
+            printf "\n"
+
+            generate_group_image $@ \
+                && generate_images $@ \
                 && (
-                    print_msg ""
+                    printf "\n"
                     print_success_msg "Done! 🍻 "
-                    print_msg ""
+                    printf "\n"
                 )
         fi
     else
