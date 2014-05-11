@@ -407,9 +407,9 @@ logos are high resolution with transparent backgrounds.
 
 ### UC
 
-| [UC](http://www.ucweb.com) | [UC (iPhone)](http://www.ucweb.com) |
-|:---:|:---:|
-| <a href="uc"><img width=140 src="uc/uc_256x256.png" alt="UC browser logo"></a> | <a href="uc-iphone"><img width=140 src="uc-iphone/uc-iphone_256x256.png" alt="UC for iPhone browser logo"></a> |
+| [UC](http://www.ucweb.com) |
+|:---:|
+| <a href="uc"><img width=140 src="uc/uc_256x256.png" alt="UC browser logo"></a> |
 
 ### Vitrum
 
