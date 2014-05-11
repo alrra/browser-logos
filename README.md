@@ -137,7 +137,7 @@ logos are high resolution with transparent backgrounds.
 
 ### Epiphany
 
-| [Epiphany](https://projects.gnome.org/epiphany/) |
+| [Epiphany](https://wiki.gnome.org/Apps/Web) |
 |:---:|
 | <a href="epiphany"><img width=140 src="epiphany/epiphany.png" alt="Epiphany browser logo"></a> |
 
