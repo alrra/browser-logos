@@ -185,7 +185,7 @@ logos are high resolution with transparent backgrounds.
 
 ### iQuest
 
-| [iQuest](http://penguingeorge.com/) |
+| [iQuest](http://penguingeorge.com/products/iquest/) |
 |:---:|
 | <a href="iquest"><img width=140 src="iquest/iquest.png" alt="iQuest browser logo"></a> |
 
