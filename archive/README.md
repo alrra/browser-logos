@@ -147,3 +147,9 @@
 | [Silk 1](http://en.wikipedia.org/wiki/Amazon_Silk) |
 |:---:|
 | <a href="silk_1"><img width=140 src="silk_1/silk_1_256x256.png" alt="Silk 1 browser logo"></a> |
+
+### Sogou
+
+| [Sogou (Mobile 1-2.6)](http://mse.sogou.com/) |
+|:---:|
+| <a href="sogou-mobile_1-2.6"><img width=140 src="sogou-mobile_1-2.6/sogou-mobile_1-2.6_256x256.png" alt="Sogou Mobile 1-2.6 browser logo"></a> |
