@@ -34,6 +34,12 @@
 |:---:|
 | <a href="chromium_1-10"><img width=140 src="chromium_1-10/chromium_1-10_256x256.png" alt="Chromium 1-10 browser logo"></a> |
 
+### Dolphin
+
+| [Dolphin Beta](http://en.wikipedia.org/wiki/Dolphin_Browser) |
+|:---:|
+| <a href="dolphin-beta"><img width=140 src="dolphin-beta/dolphin-beta_256x256.png" alt="Dolphin Beta browser logo"></a> |
+
 ### Fennec
 
 | [Fennec](http://en.wikipedia.org/wiki/Firefox_for_mobile) |
