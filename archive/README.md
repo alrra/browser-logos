@@ -40,6 +40,12 @@
 |:---:|
 | <a href="dolphin-beta"><img width=140 src="dolphin-beta/dolphin-beta_256x256.png" alt="Dolphin Beta browser logo"></a> |
 
+### Epic
+
+| [Epic 1](http://en.wikipedia.org/wiki/Epic_%28web_browser%29) |
+|:---:|
+| <a href="epic_1"><img width=140 src="epic_1/epic_1.png" alt="Epic 1 browser logo"></a> |
+
 ### Exsoul
 
 | [Exsoul 1-2](http://www.exsoul-browser.com/) |
