@@ -173,7 +173,7 @@ logos are high resolution with transparent backgrounds.
 
 ### Iceweasel
 
-| [Iceweasel](http://www.gnu.org/software/gnuzilla/) |
+| [Iceweasel](https://packages.debian.org/wheezy/iceweasel) |
 |:---:|
 | <a href="iceweasel"><img width=140 src="iceweasel/iceweasel_256x256.png" alt="Iceweasel browser logo"></a> |
 
