@@ -275,7 +275,7 @@ logos are high resolution with transparent backgrounds.
 
 ### Ninesky
 
-| [Ninesky](http://www.ninesky.com/) |
+| [Ninesky](https://play.google.com/store/apps/details?id=com.ninesky.browser) |
 |:---:|
 | <a href="ninesky"><img width=140 src="ninesky/ninesky_256x256.png" alt="Ninesky browser logo"></a> |
 
@@ -481,5 +481,5 @@ takedown and we will remove it as soon as possible.
 
 ## Project origin and history
 
-Read [Paul Irish](https://github.com/paulirish/)'s ["High-res Browser
-Logos"](http://www.paulirish.com/2010/high-res-browser-icons/) blog post.
+Read [Paul Irish](https://github.com/paulirish/)'s [_"High-res Browser
+Logos"_](http://www.paulirish.com/2010/high-res-browser-icons/) blog post.
