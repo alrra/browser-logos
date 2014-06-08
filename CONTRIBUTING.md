@@ -89,7 +89,7 @@ project:
 
    ```bash
    # Clone your fork of the repo into the current directory
-   git clone https://github.com/alrra/browser-logos
+   git clone https://github.com/<your-username>/browser-logos
 
    # Navigate to the newly cloned directory
    cd browser-logos
