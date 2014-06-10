@@ -88,6 +88,12 @@
 |:---:|
 | <a href="icab-mobile_1-7"><img width=140 src="icab-mobile_1-7/icab-mobile_1-7_256x256.png" alt="iCab Mobile 1-7 browser logo"></a> |
 
+### Iceape
+
+| [Iceape](http://en.wikipedia.org/wiki/Mozilla_Corporation_software_rebranded_by_the_Debian_project#Iceape) |
+|:---:|
+| <a href="iceape"><img width=140 src="iceape/iceape_256x256.png" alt="Iceape browser logo"></a> |
+
 ### Internet Explorer
 
 | [Internet Explorer 6](http://en.wikipedia.org/wiki/Internet_Explorer_6) | [Internet Explorer 7](http://en.wikipedia.org/wiki/Internet_Explorer_7)/[8](http://en.wikipedia.org/wiki/Internet_Explorer_8) |
