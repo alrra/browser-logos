@@ -142,6 +142,12 @@
 |:---:|
 | <a href="opera-next_15"><img width=140 src="opera-next_15/opera-next_15_256x256.png" alt="Opera Next 15 browser logo"></a> |
 
+### Rockmelt
+
+| [Rockmelt (iOS)](http://en.wikipedia.org/wiki/Rockmelt) |
+|:---:|
+| <a href="rockmelt-ios"><img width=140 src="rockmelt-ios/rockmelt-ios_256x256.png" alt="Rockmelt for iOS browser logo"></a> |
+
 ### Safari
 
 | [Safari (iOS 1-6)](http://en.wikipedia.org/wiki/Safari_%28web_browser%29) |
