@@ -144,9 +144,9 @@
 
 ### Rockmelt
 
-| [Rockmelt (iOS)](http://en.wikipedia.org/wiki/Rockmelt) |
-|:---:|
-| <a href="rockmelt-ios"><img width=140 src="rockmelt-ios/rockmelt-ios_256x256.png" alt="Rockmelt for iOS browser logo"></a> |
+| [Rockmelt](http://en.wikipedia.org/wiki/Rockmelt) | [Rockmelt (iOS)](http://en.wikipedia.org/wiki/Rockmelt) |
+|:---:|:---:|
+| <a href="rockmelt"><img width=140 src="rockmelt/rockmelt_256x256.png" alt="Rockmelt iOS browser logo"></a> | <a href="rockmelt-ios"><img width=140 src="rockmelt-ios/rockmelt-ios_256x256.png" alt="Rockmelt for iOS browser logo"></a> |
 
 ### Safari
 
