@@ -171,3 +171,9 @@
 | [Sogou (Mobile 1-2.6)](http://mse.sogou.com/) |
 |:---:|
 | <a href="sogou-mobile_1-2.6"><img width=140 src="sogou-mobile_1-2.6/sogou-mobile_1-2.6_256x256.png" alt="Sogou Mobile 1-2.6 browser logo"></a> |
+
+### Xtravo
+
+| [Xtravo](https://github.com/sheikhimran01/xtravo) |
+|:---:|
+| <a href="xtravo"><img width=140 src="xtravo/xtravo_256x256.png" alt="Xtravo browser logo"></a> |
