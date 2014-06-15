@@ -46,6 +46,12 @@
 |:---:|
 | <a href="epic_1"><img width=140 src="epic_1/epic_1.png" alt="Epic 1 browser logo"></a> |
 
+### Epiphany
+
+| [Epiphany](http://en.wikipedia.org/wiki/Web_%28web_browser%29) |
+|:---:|
+| <a href="epiphany"><img width=140 src="epiphany/epiphany.png" alt="Epiphany browser logo"></a> |
+
 ### Exsoul
 
 | [Exsoul 1-2](http://www.exsoul-browser.com/) |
