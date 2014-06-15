@@ -135,12 +135,6 @@ logos are high resolution with transparent backgrounds.
 |:---:|
 | <a href="epic"><img width=140 src="epic/epic.png" alt="Epic browser logo"></a> |
 
-### Epiphany
-
-| [Epiphany](https://wiki.gnome.org/Apps/Web) |
-|:---:|
-| <a href="epiphany"><img width=140 src="epiphany/epiphany.png" alt="Epiphany browser logo"></a> |
-
 ### Exsoul
 
 | [Exsoul](http://www.exsoul-browser.com/) |
@@ -416,6 +410,12 @@ logos are high resolution with transparent backgrounds.
 | [Vitrum](http://capablebits.com/) |
 |:---:|
 | <a href="vitrum"><img width=140 src="vitrum/vitrum_256x256.png" alt="Vitrum browser logo"></a> |
+
+### Web
+
+| [Web (f.k.a. Epiphany)](https://wiki.gnome.org/Apps/Web) |
+|:---:|
+| <a href="web"><img width=140 src="web/web.png" alt="Web (f.k.a. Epiphany) browser logo"></a> |
 
 ### WebKit
 
