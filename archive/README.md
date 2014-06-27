@@ -136,6 +136,12 @@
 |:---:|
 | <a href="lightning_1-2"><img width=140 src="lightning_1-2/lightning_1-2_256x256.png" alt="Lightning 1-2 browser logo"></a> |
 
+### Mercury
+
+| [Mercury 1](http://mercury-browser.com/) |
+|:---:|
+| <a href="mercury_1"><img width=140 src="mercury_1/mercury_1_256x256.png" alt="Mercury browser logo"></a> |
+
 ### Mosaic
 
 | [Mosaic](http://en.wikipedia.org/wiki/Mosaic_%28web_browser%29) |
