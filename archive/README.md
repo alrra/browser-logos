@@ -24,9 +24,9 @@
 
 ### Baidu
 
-| [Baidu 1-2](http://imobile.baidu.com/browser/) |
+| [Baidu](http://imobile.baidu.com/browser/) [`*`](#notes)|
 |:---:|
-| <a href="baidu_1-2"><img width=140 src="baidu_1-2/baidu_1-2_256x256.png" alt="Baidu 1-2 browser logo"></a> |
+| <a href="baidu_1"><img width=140 src="baidu_1/baidu_1_256x256.png" alt="Baidu browser logo"></a> |
 
 ### Camino
 
@@ -60,9 +60,9 @@
 
 ### Epic
 
-| [Epic 1](http://en.wikipedia.org/wiki/Epic_%28web_browser%29) |
+| [Epic](http://en.wikipedia.org/wiki/Epic_%28web_browser%29) [`*`](#notes) |
 |:---:|
-| <a href="epic_1"><img width=140 src="epic_1/epic_1.png" alt="Epic 1 browser logo"></a> |
+| <a href="epic_1"><img width=140 src="epic_1/epic_1.png" alt="Epic browser logo"></a> |
 
 ### Epiphany
 
@@ -72,9 +72,9 @@
 
 ### Exsoul
 
-| [Exsoul 1-2](http://www.exsoul-browser.com/) |
+| [Exsoul](http://www.exsoul-browser.com/) [`*`](#notes) |
 |:---:|
-| <a href="exsoul_1-2"><img width=140 src="exsoul_1-2/exsoul_1-2_256x256.png" alt="Exsoul 1-2 browser logo"></a> |
+| <a href="exsoul_1"><img width=140 src="exsoul_1/exsoul_1_256x256.png" alt="Exsoul browser logo"></a> |
 
 ### Fake
 
@@ -114,9 +114,9 @@
 
 ### iCab
 
-| [iCab Mobile 1-7](http://en.wikipedia.org/wiki/ICab) |
+| [iCab Mobile](http://en.wikipedia.org/wiki/ICab) [`*`](#notes) |
 |:---:|
-| <a href="icab-mobile_1-7"><img width=140 src="icab-mobile_1-7/icab-mobile_1-7_256x256.png" alt="iCab Mobile 1-7 browser logo"></a> |
+| <a href="icab-mobile_1"><img width=140 src="icab-mobile_1/icab-mobile_1_256x256.png" alt="iCab Mobile browser logo"></a> |
 
 ### Iceape
 
@@ -132,13 +132,13 @@
 
 ### Lightning
 
-| [Lightning 1-2](https://github.com/anthonycr/Lightning-Browser/) |
+| [Lightning](https://github.com/anthonycr/Lightning-Browser/) [`*`](#notes) |
 |:---:|
-| <a href="lightning_1-2"><img width=140 src="lightning_1-2/lightning_1-2_256x256.png" alt="Lightning 1-2 browser logo"></a> |
+| <a href="lightning_1"><img width=140 src="lightning_1/lightning_1_256x256.png" alt="Lightning browser logo"></a> |
 
 ### Mercury
 
-| [Mercury 1](http://mercury-browser.com/) |
+| [Mercury](http://mercury-browser.com/) [`*`](#notes) |
 |:---:|
 | <a href="mercury_1"><img width=140 src="mercury_1/mercury_1_256x256.png" alt="Mercury browser logo"></a> |
 
@@ -216,15 +216,15 @@
 
 ### Silk
 
-| [Silk 1](http://en.wikipedia.org/wiki/Amazon_Silk) |
+| [Silk](http://en.wikipedia.org/wiki/Amazon_Silk) [`*`](#notes) |
 |:---:|
 | <a href="silk_1"><img width=140 src="silk_1/silk_1_256x256.png" alt="Silk 1 browser logo"></a> |
 
 ### Sogou
 
-| [Sogou (Mobile 1-2.6)](http://mse.sogou.com/) |
+| [Sogou (Mobile)](http://mse.sogou.com/) [`*`](#notes) |
 |:---:|
-| <a href="sogou-mobile_1-2.6"><img width=140 src="sogou-mobile_1-2.6/sogou-mobile_1-2.6_256x256.png" alt="Sogou Mobile 1-2.6 browser logo"></a> |
+| <a href="sogou-mobile_1"><img width=140 src="sogou-mobile_1/sogou-mobile_1_256x256.png" alt="Sogou Mobile browser logo"></a> |
 
 ### Stainless
 
@@ -243,3 +243,9 @@
 | [Xtravo](https://github.com/sheikhimran01/xtravo) |
 |:---:|
 | <a href="xtravo"><img width=140 src="xtravo/xtravo_256x256.png" alt="Xtravo browser logo"></a> |
+
+--
+
+### Notes:
+
+__`*`__ indicates that the exact browser version is unknown.
