@@ -33,18 +33,6 @@ logos are high resolution with transparent backgrounds.
 |:---:|
 | <a href="allinone"><img width=140 src="allinone/allinone_256x256.png" alt="AllInOne browser logo"></a> |
 
-### Apollo
-
-| [Apollo](http://apollobrowser.wordpress.com/the-most-innovative-browser-for-ipad/) |
-|:---:|
-| <a href="apollo"><img width=140 src="apollo/apollo_256x256.png" alt="Apollo browser logo"></a> |
-
-### Atomic
-
-| [Atomic](http://atomicwebbrowser.com/) |
-|:---:|
-| <a href="atomic"><img width=140 src="atomic/atomic_256x256.png" alt="Atomic browser logo"></a> |
-
 ### Avant
 
 | [Avant](http://www.avantbrowser.com/) |
@@ -93,12 +81,6 @@ logos are high resolution with transparent backgrounds.
 |:---:|:---:|
 | <a href="coast"><img width=140 src="coast/coast_256x256.png" alt="Coast browser logo"></a> |
 
-### Cruz
-
-| [Cruz](http://cruzapp.com/) |
-|:---:|:---:|
-| <a href="cruz"><img width=140 src="cruz/cruz_256x256.png" alt="Cruz browser logo"></a> |
-
 ### CXM Web
 
 | [CXM Web](https://itunes.apple.com/us/app/cxm-web-by-citrix/id666516824) |
@@ -141,12 +123,6 @@ logos are high resolution with transparent backgrounds.
 |:---:|
 | <a href="exsoul"><img width=140 src="exsoul/exsoul_256x256.png" alt="Exsoul browser logo"></a> |
 
-### Fake
-
-| [Fake](http://fakeapp.com/) |
-|:---:|
-| <a href="fake"><img width=140 src="fake/fake_256x256.png" alt="Fake browser logo"></a> |
-
 ### Firefox
 
 | [Firefox](http://www.mozilla.org/en-US/firefox/) | [Firefox Beta](http://www.mozilla.org/beta/) | [Firefox Aurora](http://www.mozilla.org/en-US/firefox/aurora/) | [Firefox Nightly](http://nightly.mozilla.org/) |
@@ -177,29 +153,11 @@ logos are high resolution with transparent backgrounds.
 |:---:|:---:|:---:|
 | <a href="internet-explorer"><img width=140 src="internet-explorer/internet-explorer_256x256.png"alt="Internet Explorer 9, 10 and 11 browser logo"></a> | <a href="internet-explorer-developer-channel"><img width=140 src="internet-explorer-developer-channel/internet-explorer-developer-channel_256x256.png" alt="Internet Explorer Developer Channel browser logo"></a> | <a href="internet-explorer-tile"><img width=140 src="internet-explorer-tile/internet-explorer-tile_256x256.png" alt="Internet Explorer 10 and 11 start screen tile"></a> |
 
-### K9
-
-| [K9](http://www1.k9webprotection.com/) |
-|:---:|
-| <a href="k9"><img width=140 src="k9/k9_256x256.png" alt="K9 browser logo"></a> |
-
-### KidZui
-
-| [KidZui](http://www.kidzui.com/) |
-|:---:|
-| <a href="kidzui"><img width=140 src="kidzui/kidzui_256x256.png" alt="KidZui Browser logo"></a> |
-
 ### Konqueror
 
 | [Konqueror](http://www.konqueror.org/) |
 |:---:|
 | <a href="konqueror"><img width=140 src="konqueror/konqueror_256x256.png" alt="Konqueror browser logo"></a> |
-
-### Kylo
-
-| [Kylo](http://kylo.tv/) |
-|:---:|
-| <a href="kylo"><img width=140 src="kylo/kylo_256x256.png" alt="Kylo browser logo"></a> |
 
 ### Lightning
 
@@ -375,12 +333,6 @@ logos are high resolution with transparent backgrounds.
 |:---:|
 | <a href="sogou-mobile"><img width=140 src="sogou-mobile/sogou-mobile_256x256.png" alt="Sogou Mobile browser logo"></a> |
 
-### Stainless
-
-| [Stainless](http://www.stainlessapp.com/) |
-|:---:|
-| <a href="stainless"><img width=140 src="stainless/stainless_256x256.png" alt="Stainless browser logo"></a> |
-
 ### Super Fast
 
 | [Super Fast](http://www.sfbrowser.com/) |
@@ -404,12 +356,6 @@ logos are high resolution with transparent backgrounds.
 | [UC](http://www.ucweb.com) |
 |:---:|
 | <a href="uc"><img width=140 src="uc/uc_256x256.png" alt="UC browser logo"></a> |
-
-### Vitrum
-
-| [Vitrum](http://capablebits.com/) |
-|:---:|
-| <a href="vitrum"><img width=140 src="vitrum/vitrum_256x256.png" alt="Vitrum browser logo"></a> |
 
 ### Web
 

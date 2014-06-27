@@ -1,8 +1,20 @@
+### Apollo
+
+| [Apollo](http://apollobrowser.wordpress.com/) |
+|:---:|
+| <a href="apollo"><img width=140 src="apollo/apollo_256x256.png" alt="Apollo browser logo"></a> |
+
 ### Arora
 
 | [Arora](http://en.wikipedia.org/wiki/Arora_%28web_browser%29) |
 |:---:|
 | <a href="arora"><img width=140 src="arora/arora_256x256.png" alt="Arora browser logo"></a> |
+
+### Atomic
+
+| [Atomic](http://atomicwebbrowser.com/) |
+|:---:|
+| <a href="atomic"><img width=140 src="atomic/atomic_256x256.png" alt="Atomic browser logo"></a> |
 
 ### Axis
 
@@ -34,6 +46,12 @@
 |:---:|
 | <a href="chromium_1-10"><img width=140 src="chromium_1-10/chromium_1-10_256x256.png" alt="Chromium 1-10 browser logo"></a> |
 
+### Cruz
+
+| [Cruz](http://cruzapp.com/) |
+|:---:|:---:|
+| <a href="cruz"><img width=140 src="cruz/cruz_256x256.png" alt="Cruz browser logo"></a> |
+
 ### Dolphin
 
 | [Dolphin Beta](http://en.wikipedia.org/wiki/Dolphin_Browser) |
@@ -57,6 +75,12 @@
 | [Exsoul 1-2](http://www.exsoul-browser.com/) |
 |:---:|
 | <a href="exsoul_1-2"><img width=140 src="exsoul_1-2/exsoul_1-2_256x256.png" alt="Exsoul 1-2 browser logo"></a> |
+
+### Fake
+
+| [Fake](http://fakeapp.com/) |
+|:---:|
+| <a href="fake"><img width=140 src="fake/fake_256x256.png" alt="Fake browser logo"></a> |
 
 ### Fennec
 
@@ -130,11 +154,29 @@
 |:---:|
 | <a href="k-meleon"><img width=140 src="k-meleon/k-meleon_256x256.png" alt="K-Meleon browser logo"></a> |
 
+### K9
+
+| [K9](http://en.wikipedia.org/wiki/K9_Web_Protection) |
+|:---:|
+| <a href="k9"><img width=140 src="k9/k9_256x256.png" alt="K9 browser logo"></a> |
+
+### KidZui
+
+| [KidZui](http://en.wikipedia.org/wiki/KidZui) |
+|:---:|
+| <a href="kidzui"><img width=140 src="kidzui/kidzui_256x256.png" alt="KidZui Browser logo"></a> |
+
 ### Konqueror
 
 | [Konqueror 1-3](http://en.wikipedia.org/wiki/Konqueror) |
 |:---:|
 | <a href="konqueror_1-3"><img width=140 src="konqueror_1-3/konqueror_1-3_256x256.png" alt="Konqueror 1-14 browser logo"></a> |
+
+### Kylo
+
+| [Kylo](http://en.wikipedia.org/wiki/Kylo_%28web_browser%29) |
+|:---:|
+| <a href="kylo"><img width=140 src="kylo/kylo_256x256.png" alt="Kylo browser logo"></a> |
 
 ### Opera
 
@@ -177,6 +219,18 @@
 | [Sogou (Mobile 1-2.6)](http://mse.sogou.com/) |
 |:---:|
 | <a href="sogou-mobile_1-2.6"><img width=140 src="sogou-mobile_1-2.6/sogou-mobile_1-2.6_256x256.png" alt="Sogou Mobile 1-2.6 browser logo"></a> |
+
+### Stainless
+
+| [Stainless](https://github.com/mesadynamics/stainless) |
+|:---:|
+| <a href="stainless"><img width=140 src="stainless/stainless_256x256.png" alt="Stainless browser logo"></a> |
+
+### Vitrum
+
+| [Vitrum](http://capablebits.com/) |
+|:---:|
+| <a href="vitrum"><img width=140 src="vitrum/vitrum_256x256.png" alt="Vitrum browser logo"></a> |
 
 ### Xtravo
 
