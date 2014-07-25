@@ -36,9 +36,9 @@
 
 ### Chrome
 
-| [Chrome 1-10](http://en.wikipedia.org/wiki/Google_Chrome) |
-|:---:|
-| <a href="chrome_1-10"><img width=140 src="chrome_1-10/chrome_1-10_256x256.png" alt="Chrome 1-10 browser logo"></a> |
+| [Chrome 1-10](http://en.wikipedia.org/wiki/Google_Chrome) | [Chrome Beta 25-36 (Android)](http://en.wikipedia.org/wiki/Google_Chrome_for_Android) |
+|:---:|:---:|
+| <a href="chrome_1-10"><img width=140 src="chrome_1-10/chrome_1-10_256x256.png" alt="Chrome 1-10 browser logo"></a> | <a href="chrome-beta-android_25-36"><img width=140 src="chrome-beta-android_25-36/chrome-beta-android_25-36_256x256.png" alt="Chrome Beta for Android 25-36 browser logo"></a> |
 
 ### Chromium
 
