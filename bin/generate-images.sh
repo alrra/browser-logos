@@ -58,6 +58,13 @@ generate_group_image() {
         # http://www.imagemagick.org/script/convert.php#options
 
         convert "${tmp[@]}" \
+            -colorspace RGB \
+            +sigmoidal-contrast 11.6933 \
+            -define filter:filter=Sinc \
+            -define filter:window=Jinc \
+            -define filter:lobes=3 \
+            -sigmoidal-contrast 11.6933 \
+            -colorspace sRGB \
             -background transparent \
             -gravity center \
             -resize 512x512 \
@@ -92,6 +99,13 @@ generate_images() {
         # Generate the different sized versions of an image
         for s in ${imageSizes[@]}; do
             convert "${path}.png" \
+                    -colorspace RGB \
+                    +sigmoidal-contrast 11.6933 \
+                    -define filter:filter=Sinc \
+                    -define filter:window=Jinc \
+                    -define filter:lobes=3 \
+                    -sigmoidal-contrast 11.6933 \
+                    -colorspace sRGB \
                     -background transparent \
                     -gravity center \
                     -resize "$s" \
