@@ -178,6 +178,12 @@
 |:---:|
 | <a href="lightning_1"><img width=140 src="lightning_1/lightning_1_256x256.png" alt="Lightning browser logo"></a> |
 
+### Link Bubble
+
+| [Link Bubble 1-1.4](http://www.linkbubble.com/) |
+|:---:|
+| <a href="link-bubble_1-1.4"><img width=140 src="link-bubble_1-1.4/link-bubble_1-1.4_256x256.png" alt="Link Bubble 1-1.4 browser logo"></a> |
+
 ### Mercury
 
 | [Mercury](http://mercury-browser.com/) [`*`](#note) |
