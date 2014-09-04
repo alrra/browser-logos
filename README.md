@@ -81,12 +81,6 @@ logos are high resolution with transparent backgrounds.
 |:---:|:---:|
 | <a href="coast"><img width=140 src="coast/coast_256x256.png" alt="Coast browser logo"></a> |
 
-### CXM Web
-
-| [CXM Web](https://itunes.apple.com/us/app/cxm-web-by-citrix/id666516824) |
-|:---:|:---:|
-| <a href="cxm-web"><img width=140 src="cxm-web/cxm-web_256x256.png" alt="CXM Web browser logo"></a> |
-
 ### Diigo
 
 | [Diigo](https://www.diigo.com/tools) |
@@ -231,23 +225,11 @@ logos are high resolution with transparent backgrounds.
 |:---:|
 | <a href="ninesky"><img width=140 src="ninesky/ninesky_256x256.png" alt="Ninesky browser logo"></a> |
 
-### NLIA
-
-| [NLIA](http://e.netpia.com/) |
-|:---:|
-| <a href="nlia"><img width=140 src="nlia/nlia_256x256.png" alt="NLIA browser logo"></a> |
-
 ### OmniWeb
 
 | [OmniWeb](http://www.omnigroup.com/products/omniweb/) |
 |:---:|
 | <a href="omniweb"><img width=140 src="omniweb/omniweb_256x256.png" alt="OmniWeb browser logo"></a> |
-
-### ONE
-
-| [ONE (Android)](http://one-browser.com/mobile/home) | [ONE (iPhone)](http://one-browser.com/mobile/home) |
-|:---:|:---:|
-| <a href="one-android"><img width=140 src="one-android/one-android_256x256.png" alt="ONE for Android browser logo"></a> | <a href="one-iphone"><img width=140 src="one-iphone/one-iphone_256x256.png" alt="ONE for iPhone browser logo"></a> |
 
 ### Onion
 
@@ -309,12 +291,6 @@ logos are high resolution with transparent backgrounds.
 |:---:|
 | <a href="seamonkey"><img width=140 src="seamonkey/seamonkey_256x256.png" alt="SeaMonkey browser logo"></a> |
 
-### Skyfire
-
-| [Skyfire (Android)](http://www.skyfire.com/) | [Skyfire (iOS)](http://www.skyfire.com/) |
-|:---:|:---:|
-| <a href="skyfire-android"><img width=140 src="skyfire-android/skyfire-android_256x256.png" alt="Skyfire for Android browser logo"></a> | <a href="skyfire-ios"><img width=140 src="skyfire-ios/skyfire-ios_256x256.png" alt="Skyfire for iOS browser logo"></a> |
-
 ### Sleipnir
 
 | [Sleipnir (Android)](http://www.fenrir-inc.com/us/android/apps/sleipnir-mobile.html) | [Sleipnir (iOS)](http://www.fenrir-inc.com/us/iphone/apps/sleipnir-mobile.html) | [Sleipnir (Mac)](http://www.fenrir-inc.com/us/sleipnir-family/) | [Sleipnir (Windows)](http://www.fenrir-inc.com/us/sleipnir-family/) |
@@ -332,12 +308,6 @@ logos are high resolution with transparent backgrounds.
 | [Sogou (Mobile)](http://mse.sogou.com/) |
 |:---:|
 | <a href="sogou-mobile"><img width=140 src="sogou-mobile/sogou-mobile_256x256.png" alt="Sogou Mobile browser logo"></a> |
-
-### Super Fast
-
-| [Super Fast](http://www.sfbrowser.com/) |
-|:---:|
-| <a href="superfast"><img width=140 src="superfast/superfast_256x256.png" alt="Super Fast browser logo"></a> |
 
 ### Tor
 

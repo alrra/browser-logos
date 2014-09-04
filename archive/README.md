@@ -24,7 +24,7 @@
 
 ### Baidu
 
-| [Baidu](http://imobile.baidu.com/browser/) [`*`](#notes)|
+| [Baidu](http://imobile.baidu.com/browser/) [`*`](#note)|
 |:---:|
 | <a href="baidu_1"><img width=140 src="baidu_1/baidu_1_256x256.png" alt="Baidu browser logo"></a> |
 
@@ -36,9 +36,15 @@
 
 ### Chrome
 
-| [Chrome 1-10](http://en.wikipedia.org/wiki/Google_Chrome) | [Chrome Beta 25-36 (Android)](http://en.wikipedia.org/wiki/Google_Chrome_for_Android) |
-|:---:|:---:|
-| <a href="chrome_1-10"><img width=140 src="chrome_1-10/chrome_1-10_256x256.png" alt="Chrome 1-10 browser logo"></a> | <a href="chrome-beta-android_25-36"><img width=140 src="chrome-beta-android_25-36/chrome-beta-android_25-36_256x256.png" alt="Chrome Beta for Android 25-36 browser logo"></a> |
+| [Chrome 1-10](http://en.wikipedia.org/wiki/Google_Chrome) |
+|:---:|
+| <a href="chrome_1-10"><img width=140 src="chrome_1-10/chrome_1-10_256x256.png" alt="Chrome 1-10 browser logo"></a> |
+
+### Chrome Beta
+
+| [Chrome Beta 25-36 <br>(Android)](http://en.wikipedia.org/wiki/Google_Chrome_for_Android) |
+|:---:|
+| <a href="chrome-beta-android_25-36"><img width=140 src="chrome-beta-android_25-36/chrome-beta-android_25-36_256x256.png" alt="Chrome Beta for Android 25-36 browser logo"></a> |
 
 ### Chromium
 
@@ -52,6 +58,12 @@
 |:---:|:---:|
 | <a href="cruz"><img width=140 src="cruz/cruz_256x256.png" alt="Cruz browser logo"></a> |
 
+### CXM Web
+
+| [CXM Web](https://itunes.apple.com/us/app/cxm-web-by-citrix/id666516824) [`*`](#note) |
+|:---:|:---:|
+| <a href="cxm-web"><img width=140 src="cxm-web/cxm-web_256x256.png" alt="CXM Web browser logo"></a> |
+
 ### Dolphin
 
 | [Dolphin Beta](http://en.wikipedia.org/wiki/Dolphin_Browser) |
@@ -60,7 +72,7 @@
 
 ### Epic
 
-| [Epic](http://en.wikipedia.org/wiki/Epic_%28web_browser%29) [`*`](#notes) |
+| [Epic](http://en.wikipedia.org/wiki/Epic_%28web_browser%29) [`*`](#note) |
 |:---:|
 | <a href="epic_1"><img width=140 src="epic_1/epic_1.png" alt="Epic browser logo"></a> |
 
@@ -72,7 +84,7 @@
 
 ### Exsoul
 
-| [Exsoul](http://www.exsoul-browser.com/) [`*`](#notes) |
+| [Exsoul](http://www.exsoul-browser.com/) [`*`](#note) |
 |:---:|
 | <a href="exsoul_1"><img width=140 src="exsoul_1/exsoul_1_256x256.png" alt="Exsoul browser logo"></a> |
 
@@ -114,7 +126,7 @@
 
 ### iCab
 
-| [iCab Mobile](http://en.wikipedia.org/wiki/ICab) [`*`](#notes) |
+| [iCab Mobile](http://en.wikipedia.org/wiki/ICab) [`*`](#note) |
 |:---:|
 | <a href="icab-mobile_1"><img width=140 src="icab-mobile_1/icab-mobile_1_256x256.png" alt="iCab Mobile browser logo"></a> |
 
@@ -129,30 +141,6 @@
 | [Internet Explorer 6](http://en.wikipedia.org/wiki/Internet_Explorer_6) | [Internet Explorer 7](http://en.wikipedia.org/wiki/Internet_Explorer_7)/[8](http://en.wikipedia.org/wiki/Internet_Explorer_8) |
 |:---:|:---:|
 | <a href="internet-explorer_6"><img width=140 src="internet-explorer_6/internet-explorer_6_256x256.png" alt="Internet Explorer 6 browser logo"></a> | <a href="internet-explorer_7-8"><img width=140 src="internet-explorer_7-8/internet-explorer_7-8_256x256.png" alt="Internet Explorer 7 and 8 browser logo"></a> |
-
-### Lightning
-
-| [Lightning](https://github.com/anthonycr/Lightning-Browser/) [`*`](#notes) |
-|:---:|
-| <a href="lightning_1"><img width=140 src="lightning_1/lightning_1_256x256.png" alt="Lightning browser logo"></a> |
-
-### Mercury
-
-| [Mercury](http://mercury-browser.com/) [`*`](#notes) |
-|:---:|
-| <a href="mercury_1"><img width=140 src="mercury_1/mercury_1_256x256.png" alt="Mercury browser logo"></a> |
-
-### Mosaic
-
-| [Mosaic](http://en.wikipedia.org/wiki/Mosaic_%28web_browser%29) |
-|:---:|
-| <a href="mosaic"><img width=140 src="mosaic/mosaic_256x256.png" alt="Mosaic browser logo"></a> |
-
-### Netscape
-
-| [Netscape 4-6](http://en.wikipedia.org/wiki/Netscape_%28web_browser%29) | [Netscape 8](http://en.wikipedia.org/wiki/Netscape_Browser) | [Netscape 9](http://en.wikipedia.org/wiki/Netscape_Navigator_9) |
-|:---:|:---:|:---:|
-| <a href="netscape_4-6"><img width=140 src="netscape_4-6/netscape_4-6_256x256.png" alt="Netscape 4-6 browser logo"></a> | <a href="netscape_8"><img width=140 src="netscape_8/netscape_8_256x256.png" alt="Netscape 8 browser logo"></a> | <a href="netscape_9"><img width=140 src="netscape_9/netscape_9_256x256.png" alt="Netscape 9 browser logo"></a> |
 
 ### K-Meleon
 
@@ -184,6 +172,42 @@
 |:---:|
 | <a href="kylo"><img width=140 src="kylo/kylo_256x256.png" alt="Kylo browser logo"></a> |
 
+### Lightning
+
+| [Lightning](https://github.com/anthonycr/Lightning-Browser/) [`*`](#note) |
+|:---:|
+| <a href="lightning_1"><img width=140 src="lightning_1/lightning_1_256x256.png" alt="Lightning browser logo"></a> |
+
+### Mercury
+
+| [Mercury](http://mercury-browser.com/) [`*`](#note) |
+|:---:|
+| <a href="mercury_1"><img width=140 src="mercury_1/mercury_1_256x256.png" alt="Mercury browser logo"></a> |
+
+### Mosaic
+
+| [Mosaic](http://en.wikipedia.org/wiki/Mosaic_%28web_browser%29) |
+|:---:|
+| <a href="mosaic"><img width=140 src="mosaic/mosaic_256x256.png" alt="Mosaic browser logo"></a> |
+
+### Netscape
+
+| [Netscape 4-6](http://en.wikipedia.org/wiki/Netscape_%28web_browser%29) | [Netscape 8](http://en.wikipedia.org/wiki/Netscape_Browser) | [Netscape 9](http://en.wikipedia.org/wiki/Netscape_Navigator_9) |
+|:---:|:---:|:---:|
+| <a href="netscape_4-6"><img width=140 src="netscape_4-6/netscape_4-6_256x256.png" alt="Netscape 4-6 browser logo"></a> | <a href="netscape_8"><img width=140 src="netscape_8/netscape_8_256x256.png" alt="Netscape 8 browser logo"></a> | <a href="netscape_9"><img width=140 src="netscape_9/netscape_9_256x256.png" alt="Netscape 9 browser logo"></a> |
+
+### NLIA
+
+| [NLIA](http://e.netpia.com/) |
+|:---:|
+| <a href="nlia"><img width=140 src="nlia/nlia_256x256.png" alt="NLIA browser logo"></a> |
+
+### ONE
+
+| [ONE (Android)](http://one-browser.com/mobile/home) [`*`](#note) | [ONE (iOS)](http://one-browser.com/mobile/home) [`*`](#note) |
+|:---:|:---:|
+| <a href="one-android"><img width=140 src="one-android/one-android_256x256.png" alt="ONE for Android browser logo"></a> | <a href="one-ios"><img width=140 src="one-ios/one-ios_256x256.png" alt="ONE for iOS browser logo"></a> |
+
 ### Opera
 
 | [Opera 2-6](http://en.wikipedia.org/wiki/Opera_%28web_browser%29) | [Opera 7-9](http://en.wikipedia.org/wiki/Opera_%28web_browser%29) | [Opera 10-14](http://en.wikipedia.org/wiki/Opera_%28web_browser%29) |
@@ -192,7 +216,7 @@
 
 ### Opera Next
 
-[Opera Next 15](http://en.wikipedia.org/wiki/Opera_%28web_browser%29#Opera_Developer_and_Opera_Next) |
+| [Opera Next 15](http://en.wikipedia.org/wiki/Opera_%28web_browser%29#Opera_Developer_and_Opera_Next) |
 |:---:|
 | <a href="opera-next_15"><img width=140 src="opera-next_15/opera-next_15_256x256.png" alt="Opera Next 15 browser logo"></a> |
 
@@ -216,13 +240,19 @@
 
 ### Silk
 
-| [Silk](http://en.wikipedia.org/wiki/Amazon_Silk) [`*`](#notes) |
+| [Silk](http://en.wikipedia.org/wiki/Amazon_Silk) [`*`](#note) |
 |:---:|
 | <a href="silk_1"><img width=140 src="silk_1/silk_1_256x256.png" alt="Silk 1 browser logo"></a> |
 
+### Skyfire
+
+| [Skyfire (Android)](http://en.wikipedia.org/wiki/Skyfire_%28company%29#Skyfire_Web_Browser) [`*`](#note) | [Skyfire (iOS)](http://en.wikipedia.org/wiki/Skyfire_%28company%29#Skyfire_Web_Browser) [`*`](#note) |
+|:---:|:---:|
+| <a href="skyfire-android"><img width=140 src="skyfire-android/skyfire-android_256x256.png" alt="Skyfire for Android browser logo"></a> | <a href="skyfire-ios"><img width=140 src="skyfire-ios/skyfire-ios_256x256.png" alt="Skyfire for iOS browser logo"></a> |
+
 ### Sogou
 
-| [Sogou (Mobile)](http://mse.sogou.com/) [`*`](#notes) |
+| [Sogou (Mobile)](http://en.wikipedia.org/wiki/Sogou#Sogou_browser) [`*`](#note) |
 |:---:|
 | <a href="sogou-mobile_1"><img width=140 src="sogou-mobile_1/sogou-mobile_1_256x256.png" alt="Sogou Mobile browser logo"></a> |
 
@@ -231,6 +261,12 @@
 | [Stainless](https://github.com/mesadynamics/stainless) |
 |:---:|
 | <a href="stainless"><img width=140 src="stainless/stainless_256x256.png" alt="Stainless browser logo"></a> |
+
+### Super Fast
+
+| [Super Fast](http://www.sfbrowser.com/) |
+|:---:|
+| <a href="superfast"><img width=140 src="superfast/superfast_256x256.png" alt="Super Fast browser logo"></a> |
 
 ### Vitrum
 
@@ -246,6 +282,6 @@
 
 --
 
-### Notes:
+### Note:
 
 __`*`__ indicates that the exact browser version is unknown.
