@@ -167,7 +167,7 @@ logos are high resolution with transparent backgrounds.
 
 ### Lunascape
 
-| [iLunascape (Android)](http://www.lunascape.tv/) | [iLunascape (iOS)](http://www.lunascape.tv/) |
+| [iLunascape <br>(Android)](http://www.lunascape.tv/) | [iLunascape <br>(iOS)](http://www.lunascape.tv/) |
 |:---:|:---:|
 | <a href="ilunascape-android"><img width=140 src="ilunascape-android/ilunascape-android_256x256.png" alt="iLunascape for Android browser logo"></a> | <a href="ilunascape-ios"><img width=140 src="ilunascape-ios/ilunascape-ios_256x256.png" alt="iLunascape for iOS browser logo"></a> |
 
@@ -338,12 +338,6 @@ logos are high resolution with transparent backgrounds.
 | [WebKit](http://nightly.webkit.org/) |
 |:---:|
 | <a href="webkit"><img width=140 src="webkit/webkit_256x256.png" alt="WebKit browser logo"></a> |
-
-### Wyzo
-
-| [Wyzo](http://www.wyzo.com/) |
-|:---:|
-| <a href="wyzo"><img width=140 src="wyzo/wyzo_256x256.png" alt="Wyzo browser logo"></a> |
 
 ### Yandex
 

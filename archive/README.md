@@ -286,6 +286,12 @@
 |:---:|
 | <a href="vitrum"><img width=140 src="vitrum/vitrum_256x256.png" alt="Vitrum browser logo"></a> |
 
+### Wyzo
+
+| [Wyzo](http://en.wikipedia.org/wiki/Wyzo) |
+|:---:|
+| <a href="wyzo"><img width=140 src="wyzo/wyzo_256x256.png" alt="Wyzo browser logo"></a> |
+
 ### Xtravo
 
 | [Xtravo](https://github.com/sheikhimran01/xtravo) |
