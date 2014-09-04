@@ -184,6 +184,12 @@
 |:---:|
 | <a href="mercury_1"><img width=140 src="mercury_1/mercury_1_256x256.png" alt="Mercury browser logo"></a> |
 
+### Mobicip
+
+| [Mobicip](http://en.wikipedia.org/wiki/Mobicip) [`*`](#note) |
+|:---:|
+| <a href="mobicip_1"><img width=140 src="mobicip_1/mobicip_1_256x256.png" alt="Mobicip browser logo"></a> |
+
 ### Mosaic
 
 | [Mosaic](http://en.wikipedia.org/wiki/Mosaic_%28web_browser%29) |
