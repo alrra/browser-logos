@@ -53,9 +53,9 @@ logos are high resolution with transparent backgrounds.
 
 ### Boat
 
-| [Boat](http://www.boatmob.com/mobile/product_browser_free.html) | [Boat Mini](http://www.boatmob.com/mobile/product_browser_mini.html) |
-|:---:|:---:|
-| <a href="boat"><img width=140 src="boat/boat_256x256.png" alt="Boat browser logo"></a> | <a href="boat-mini"><img width=140 src="boat-mini/boat-mini_256x256.png" alt="Boat Mini browser logo"></a> |
+| [Boat](http://www.boatmob.com/mobile/product_browser_free.html) |
+|:---:|
+| <a href="boat"><img width=140 src="boat/boat_256x256.png" alt="Boat browser logo"></a> |
 
 ### Cheetah
 
@@ -125,7 +125,7 @@ logos are high resolution with transparent backgrounds.
 
 ### iCab
 
-| [iCab Mobile](http://www.icab.de/mobile.html) |
+| [iCab (Mobile)](http://www.icab.de/mobile.html) |
 |:---:|
 | <a href="icab-mobile"><img width=140 src="icab-mobile/icab-mobile_256x256.png" alt="iCab Mobile browser logo"></a> |
 
@@ -167,9 +167,9 @@ logos are high resolution with transparent backgrounds.
 
 ### Lunascape
 
-| [iLunascape (Android)](http://www.lunascape.tv/) | [iLunascape (iOS)](http://www.lunascape.tv/) |[iLunascape Lite (iOS)](http://www.lunascape.tv/) |
-|:---:|:---:|:---:|
-| <a href="ilunascape-android"><img width=140 src="ilunascape-android/ilunascape-android_256x256.png" alt="iLunascape for Android browser logo"></a> | <a href="ilunascape-ios"><img width=140 src="ilunascape-ios/ilunascape-ios_256x256.png" alt="iLunascape for iOS browser logo"></a> | <a href="ilunascape-lite-ios"><img width=140 src="ilunascape-lite-ios/ilunascape-lite-ios_256x256.png" alt="iLunascape Lite for iOS browser logo"></a> |
+| [iLunascape (Android)](http://www.lunascape.tv/) | [iLunascape (iOS)](http://www.lunascape.tv/) |
+|:---:|:---:|
+| <a href="ilunascape-android"><img width=140 src="ilunascape-android/ilunascape-android_256x256.png" alt="iLunascape for Android browser logo"></a> | <a href="ilunascape-ios"><img width=140 src="ilunascape-ios/ilunascape-ios_256x256.png" alt="iLunascape for iOS browser logo"></a> |
 
 ### Maxthon
 
