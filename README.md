@@ -95,9 +95,9 @@ logos are high resolution with transparent backgrounds.
 
 ### Dolphin
 
-| [Dolphin (Android)](http://dolphin.com/) | [Dolphin (iOS)](http://dolphin.com/) | [Dolphin Zero](http://dolphin.com/) |
-|:---:|:---:|:---:|
-| <a href="dolphin-android"><img width=140 src="dolphin-android/dolphin-android_256x256.png" alt="Dolphin for Android browser logo"></a> | <a href="dolphin-ios"><img width=140 src="dolphin-ios/dolphin-ios_256x256.png" alt="Dolphin for iOS browser logo"></a> | <a href="dolphin-zero"><img width=140 src="dolphin-zero/dolphin-zero_256x256.png" alt="Dolphin Zero browser logo"></a> |
+| [Dolphin](http://dolphin.com/) | [Dolphin Zero](http://dolphin.com/) |
+|:---:|:---:|
+| <a href="dolphin"><img width=140 src="dolphin/dolphin_256x256.png" alt="Dolphin browser logo"></a> | <a href="dolphin-zero"><img width=140 src="dolphin-zero/dolphin-zero_256x256.png" alt="Dolphin Zero browser logo"></a> |
 
 ### Dooble
 
