@@ -220,6 +220,12 @@
 |:---:|
 | <a href="opera-next_15"><img width=140 src="opera-next_15/opera-next_15_256x256.png" alt="Opera Next 15 browser logo"></a> |
 
+### QQ
+
+| [QQ](http://browser.qq.com/) [`*`](#note) |
+|:---:|
+| <a href="qq_1"><img width=140 src="qq_1/qq_1.png" alt="QQ browser logo"></a> |
+
 ### Rockmelt
 
 | [Rockmelt](http://en.wikipedia.org/wiki/Rockmelt) | [Rockmelt (iOS)](http://en.wikipedia.org/wiki/Rockmelt) |
