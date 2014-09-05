@@ -1,4 +1,4 @@
-### HEAD
+### 1.1.0 (September 5, 2014)
 
 * Update Chrome for Android logo
 
