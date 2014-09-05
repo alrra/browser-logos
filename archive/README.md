@@ -40,7 +40,13 @@
 |:---:|
 | <a href="chrome_1-10"><img width=140 src="chrome_1-10/chrome_1-10_256x256.png" alt="Chrome 1-10 browser logo"></a> |
 
-### Chrome Beta
+### Chrome (Android)
+
+| [Chrome 25-36 <br>(Android)](http://en.wikipedia.org/wiki/Google_Chrome_for_Android) |
+|:---:|
+| <a href="chrome-android_18-36"><img width=140 src="chrome-android_18-36/chrome-android_18-36_256x256.png" alt="Chrome for Android 18-36 browser logo"></a> |
+
+### Chrome Beta (Android)
 
 | [Chrome Beta 25-36 <br>(Android)](http://en.wikipedia.org/wiki/Google_Chrome_for_Android) |
 |:---:|
