@@ -1,3 +1,8 @@
+### HEAD
+
+* Update Safari logo
+  ([#51](https://github.com/alrra/browser-logos/issues/51)).
+
 ### 1.1.1 (September 15, 2014)
 
 * Further losslessly optimize some of the images.

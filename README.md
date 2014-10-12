@@ -281,9 +281,9 @@ logos are high resolution with transparent backgrounds.
 
 ### Safari
 
-| [Safari](https://www.apple.com/safari/) | [Safari 8](https://www.apple.com/osx/preview/) | [Safari (iOS)](https://www.apple.com/safari/) |
-|:---:|:---:|:---:|
-| <a href="safari"><img width=140 src="safari/safari_256x256.png" alt="Safari browser logo"></a> | <a href="safari_8"><img width=140 src="safari_8/safari_8_256x256.png" alt="Safari 8 browser logo"></a> | <a href="safari-ios"><img width=140 src="safari-ios/safari-ios_256x256.png" alt="Safari for iOS browser logo"></a> |
+| [Safari](https://www.apple.com/safari/) | [Safari (iOS)](https://www.apple.com/safari/) |
+|:---:|:---:|
+| <a href="safari"><img width=140 src="safari/safari_256x256.png" alt="Safari browser logo"></a> | <a href="safari-ios"><img width=140 src="safari-ios/safari-ios_256x256.png" alt="Safari for iOS browser logo"></a> |
 
 ### SeaMonkey
 
