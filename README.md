@@ -17,7 +17,7 @@ logos are high resolution with transparent backgrounds.
 
 ### Adrenaline
 
-| [Adrenaline](http://www.adrenalinemobility.com/) |
+| [Adrenaline](https://www.adrenalinemobility.com/) |
 |:---:|
 | <a href="adrenaline"><img width=140 src="adrenaline/adrenaline_256x256.png" alt="Adrenaline browser logo"></a> |
 
@@ -47,7 +47,7 @@ logos are high resolution with transparent backgrounds.
 
 ### Baidu
 
-| [Baidu](http://imobile.baidu.com/browser/) |
+| [Baidu](http://global.baidu.com/browser/) |
 |:---:|
 | <a href="baidu"><img width=140 src="baidu/baidu_256x256.png" alt="Baidu browser logo"></a> |
 
@@ -65,13 +65,13 @@ logos are high resolution with transparent backgrounds.
 
 ### Chrome
 
-| [Chrome](https://www.google.com/chrome/) | [Chrome <br>(Android)](http://www.google.com/intl/en/chrome/browser/mobile/android.html) | [Chrome Beta <br>(Android)](http://www.google.com/intl/en/chrome/browser/mobile/android.html) | [Chrome Canary](https://www.google.com/intl/en/chrome/browser/canary.html) |
+| [Chrome](https://www.google.com/chrome/) | [Chrome <br>(Android)](https://www.google.com/intl/en/chrome/browser/mobile/android.html) | [Chrome Beta <br>(Android)](https://www.google.com/intl/en/chrome/browser/mobile/android.html) | [Chrome Canary](https://www.google.com/intl/en/chrome/browser/canary.html) |
 |:---:|:---:|:---:|:---:|
 | <a href="chrome"><img width=140 src="chrome/chrome_256x256.png" alt="Chrome browser logo"></a> | <a href="chrome-android"><img width=140 src="chrome-android/chrome-android_256x256.png" alt="Chrome for Android browser logo"></a> | <a href="chrome-beta-android"><img width=140 src="chrome-beta-android/chrome-beta-android_256x256.png" alt="Chrome Beta for Android browser logo"></a> | <a href="chrome-canary"><img width=140 src="chrome-canary/chrome-canary_256x256.png" alt="Chrome Canary browser logo"></a> |
 
 ### Chromium
 
-| [Chromium](http://www.chromium.org/Home) |
+| [Chromium](https://www.chromium.org/Home) |
 |:---:
 | <a href="chromium"><img width=140 src="chromium/chromium_256x256.png" alt="Chromium browser logo"></a> |
 
@@ -107,7 +107,7 @@ logos are high resolution with transparent backgrounds.
 
 ### Epic
 
-| [Epic](http://www.epicbrowser.com/) |
+| [Epic](https://www.epicbrowser.com/) |
 |:---:|
 | <a href="epic"><img width=140 src="epic/epic.png" alt="Epic browser logo"></a> |
 
@@ -119,7 +119,7 @@ logos are high resolution with transparent backgrounds.
 
 ### Firefox
 
-| [Firefox](http://www.mozilla.org/en-US/firefox/) | [Firefox Beta](http://www.mozilla.org/beta/) | [Firefox Aurora](http://www.mozilla.org/en-US/firefox/aurora/) | [Firefox Nightly](http://nightly.mozilla.org/) |
+| [Firefox](https://www.mozilla.org/en-US/firefox/) | [Firefox Beta](https://www.mozilla.org/beta/) | [Firefox Aurora](https://www.mozilla.org/en-US/firefox/aurora/) | [Firefox Nightly](https://nightly.mozilla.org/) |
 |:---:|:---:|:---:|:---:|
 | <a href="firefox"><img width=140 src="firefox/firefox_256x256.png" alt="Firefox browser logo"></a> | <a href="firefox-beta"><img width=140 src="firefox-beta/firefox-beta_256x256.png" alt="Firefox Beta browser logo"></a> | <a href="firefox-aurora"><img width=140 src="firefox-aurora/firefox-aurora_256x256.png" alt="Firefox Aurora browser logo"></a> | <a href="firefox-nightly"><img width=140 src="firefox-nightly/firefox-nightly_256x256.png" alt="Firefox Nightly browser logo"></a> |
 
@@ -131,7 +131,7 @@ logos are high resolution with transparent backgrounds.
 
 ### IceCat
 
-| [IceCat](http://www.gnu.org/software/gnuzilla/) |
+| [IceCat](https://www.gnu.org/software/gnuzilla/) |
 |:---:|
 | <a href="icecat"><img width=140 src="icecat/icecat_256x256.png" alt="IceCat browser logo"></a> |
 
@@ -149,7 +149,7 @@ logos are high resolution with transparent backgrounds.
 
 ### Konqueror
 
-| [Konqueror](http://www.konqueror.org/) |
+| [Konqueror](https://www.konqueror.org/) |
 |:---:|
 | <a href="konqueror"><img width=140 src="konqueror/konqueror_256x256.png" alt="Konqueror browser logo"></a> |
 
@@ -179,7 +179,7 @@ logos are high resolution with transparent backgrounds.
 
 ### Mercury
 
-| [Mercury](http://mercury-browser.com/) |
+| [Mercury](https://mercury-browser.com/) |
 |:---:|
 | <a href="mercury"><img width=140 src="mercury/mercury_256x256.png" alt="Mercury browser logo"></a> |
 
@@ -203,7 +203,7 @@ logos are high resolution with transparent backgrounds.
 
 ### Mobicip
 
-| [Mobicip](http://www.mobicip.com/products) |
+| [Mobicip](https://www.mobicip.com/products) |
 |:---:|
 | <a href="mobicip"><img width=140 src="mobicip/mobicip_256x256.png" alt="Mobicip browser logo"></a> |
 
@@ -227,7 +227,7 @@ logos are high resolution with transparent backgrounds.
 
 ### OmniWeb
 
-| [OmniWeb](http://www.omnigroup.com/products/omniweb/) |
+| [OmniWeb](https://www.omnigroup.com/more) |
 |:---:|
 | <a href="omniweb"><img width=140 src="omniweb/omniweb_256x256.png" alt="OmniWeb browser logo"></a> |
 
@@ -263,7 +263,7 @@ logos are high resolution with transparent backgrounds.
 
 ### Puffin
 
-| [Puffin](http://www.puffinbrowser.com/) |
+| [Puffin](https://www.puffinbrowser.com/) |
 |:---:|
 | <a href="puffin"><img width=140 src="puffin/puffin_256x256.png" alt="Puffin browser logo"></a> |
 
@@ -275,13 +275,13 @@ logos are high resolution with transparent backgrounds.
 
 ### rekonq
 
-| [rekonq](http://rekonq.kde.org/) |
+| [rekonq](https://rekonq.kde.org/) |
 |:---:|
 | <a href="rekonq"><img width=140 src="rekonq/rekonq_256x256.png" alt="rekonq browser logo"></a> |
 
 ### Safari
 
-| [Safari](http://www.apple.com/safari/) | [Safari 8](https://www.apple.com/osx/preview/) | [Safari (iOS)](http://www.apple.com/safari/) |
+| [Safari](https://www.apple.com/safari/) | [Safari 8](https://www.apple.com/osx/preview/) | [Safari (iOS)](https://www.apple.com/safari/) |
 |:---:|:---:|:---:|
 | <a href="safari"><img width=140 src="safari/safari_256x256.png" alt="Safari browser logo"></a> | <a href="safari_8"><img width=140 src="safari_8/safari_8_256x256.png" alt="Safari 8 browser logo"></a> | <a href="safari-ios"><img width=140 src="safari-ios/safari-ios_256x256.png" alt="Safari for iOS browser logo"></a> |
 
@@ -317,7 +317,7 @@ logos are high resolution with transparent backgrounds.
 
 ### Torch
 
-| [Torch](http://www.torchbrowser.com/) |
+| [Torch](https://www.torchbrowser.com/) |
 |:---:|
 | <a href="torch"><img width=140 src="torch/torch_256x256.png" alt="Torch browser logo"></a> |
 
@@ -341,7 +341,7 @@ logos are high resolution with transparent backgrounds.
 
 ### Yandex
 
-| [Yandex](http://browser.yandex.com/) |
+| [Yandex](https://browser.yandex.com/) |
 |:---:|
 | <a href="yandex"><img width=140 src="yandex/yandex_256x256.png" alt="Yandex browser logo"></a> |
 
@@ -354,9 +354,9 @@ browsers listed above, check the [archive](archive) directory.
 
 | Chrome | Firefox | Internet Explorer | Opera | Safari |
 |:---:|:---:|:---:|:---:|:---:|
-| <a href="http://he4rtofcourage.deviantart.com/art/Chrome-poni-305866510"><img width=115 src="http://fc05.deviantart.net/fs70/i/2012/154/9/b/chrome_poni_by_he4rtofcourage-d523s3y.png" alt="Chrome browser pony logo"></a> | <a href="http://noreasontohope.deviantart.com/art/My-Little-Browser-Firefox-260640031"><img width=115 src="http://th08.deviantart.net/fs70/PRE/i/2013/142/8/9/my_little_browser__firefox_by_noreasontohope-d4b6f4v.png" alt="Firefox browser pony logo"></a> | <a href="http://mcsadat.deviantart.com/art/ie-just-don-t-know-what-went-wrong-306422360"><img width=115 src="http://fc03.deviantart.net/fs71/i/2012/156/0/b/ie_just_don__t_know_what_went_wrong_by_mcsadat-d52fp08.png" alt="Internet Explorer browser pony logo"></a> | <a href="http://parallaxmlp.deviantart.com/art/My-Little-Opera-306933368"><img width=115 src="http://th05.deviantart.net/fs71/PRE/i/2012/159/c/9/my_little_opera_by_parallaxmlp-d52qnaw.png" alt="Opera browser pony logo"></a> | <a href="http://parallaxmlp.deviantart.com/art/My-Little-Safari-307396501"><img width=115 src="http://th08.deviantart.net/fs70/PRE/i/2012/246/b/e/my_little_safari_by_parallaxmlp-d530knp.png" alt="Safari browser pony logo"></a> |
+| <a href="https://he4rtofcourage.deviantart.com/art/Chrome-poni-305866510"><img width=115 src="https://fc05.deviantart.net/fs70/i/2012/154/9/b/chrome_poni_by_he4rtofcourage-d523s3y.png" alt="Chrome browser pony logo"></a> | <a href="https://noreasontohope.deviantart.com/art/My-Little-Browser-Firefox-260640031"><img width=115 src="https://th08.deviantart.net/fs70/PRE/i/2013/142/8/9/my_little_browser__firefox_by_noreasontohope-d4b6f4v.png" alt="Firefox browser pony logo"></a> | <a href="https://mcsadat.deviantart.com/art/ie-just-don-t-know-what-went-wrong-306422360"><img width=115 src="https://fc03.deviantart.net/fs71/i/2012/156/0/b/ie_just_don__t_know_what_went_wrong_by_mcsadat-d52fp08.png" alt="Internet Explorer browser pony logo"></a> | <a href="https://parallaxmlp.deviantart.com/art/My-Little-Opera-306933368"><img width=115 src="https://th05.deviantart.net/fs71/PRE/i/2012/159/c/9/my_little_opera_by_parallaxmlp-d52qnaw.png" alt="Opera browser pony logo"></a> | <a href="https://parallaxmlp.deviantart.com/art/My-Little-Safari-307396501"><img width=115 src="https://th08.deviantart.net/fs70/PRE/i/2012/246/b/e/my_little_safari_by_parallaxmlp-d530knp.png" alt="Safari browser pony logo"></a> |
 
-[See more browser ponies!](http://paulirish.deviantart.com/favourites/51528712)
+[See more browser ponies!](https://paulirish.deviantart.com/favourites/51528712)
 
 
 ---
