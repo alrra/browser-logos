@@ -252,6 +252,12 @@
 
 ### Safari
 
+| [Safari 1-7](https://en.wikipedia.org/wiki/Safari_%28web_browser%29) |
+|:---:|
+| <a href="safari_1-7"><img width=140 src="safari_1-7/safari_1-7_256x256.png" alt="Safari 1-7 browser logo"></a> |
+
+### Safari (iOS)
+
 | [Safari (iOS 1-6)](https://en.wikipedia.org/wiki/Safari_%28web_browser%29) |
 |:---:|
 | <a href="safari-ios_1-6"><img width=140 src="safari-ios_1-6/safari-ios_1-6_256x256.png" alt="Safari for iOS 1-6 browser logo"></a> |
