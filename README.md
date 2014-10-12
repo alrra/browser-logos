@@ -143,9 +143,9 @@ logos are high resolution with transparent backgrounds.
 
 ### Internet Explorer
 
-| Internet Explorer <br>[9](http://windows.microsoft.com/en-gb/internet-explorer/ie-9-worldwide-languages) / [10](http://windows.microsoft.com/en-us/internet-explorer/ie-10-worldwide-languages) / [11](http://windows.microsoft.com/en-us/internet-explorer/ie-11-worldwide-languages) | [Internet Explorer <br>Developer Channel](http://devchannel.modern.ie/) | Internet Explorer <br>[10](http://windows.microsoft.com/en-us/internet-explorer/ie-10-worldwide-languages) / [11](http://windows.microsoft.com/en-us/internet-explorer/ie-11-worldwide-languages) tile |
+| Internet Explorer <br>[9](http://windows.microsoft.com/en-gb/internet-explorer/ie-9-worldwide-languages) / [10](http://windows.microsoft.com/en-us/internet-explorer/ie-10-worldwide-languages) / [11](http://windows.microsoft.com/en-us/internet-explorer/ie-11-worldwide-languages) | Internet Explorer <br>[10](http://windows.microsoft.com/en-us/internet-explorer/ie-10-worldwide-languages) / [11](http://windows.microsoft.com/en-us/internet-explorer/ie-11-worldwide-languages) tile | [Internet Explorer <br>Developer Channel](http://devchannel.modern.ie/) |
 |:---:|:---:|:---:|
-| <a href="internet-explorer"><img width=140 src="internet-explorer/internet-explorer_256x256.png"alt="Internet Explorer 9, 10 and 11 browser logo"></a> | <a href="internet-explorer-developer-channel"><img width=140 src="internet-explorer-developer-channel/internet-explorer-developer-channel_256x256.png" alt="Internet Explorer Developer Channel browser logo"></a> | <a href="internet-explorer-tile"><img width=140 src="internet-explorer-tile/internet-explorer-tile_256x256.png" alt="Internet Explorer 10 and 11 start screen tile"></a> |
+| <a href="internet-explorer"><img width=140 src="internet-explorer/internet-explorer_256x256.png"alt="Internet Explorer 9, 10 and 11 browser logo"></a> | <a href="internet-explorer-tile"><img width=140 src="internet-explorer-tile/internet-explorer-tile_256x256.png" alt="Internet Explorer 10 and 11 start screen tile"></a> | <a href="internet-explorer-developer-channel"><img width=140 src="internet-explorer-developer-channel/internet-explorer-developer-channel_256x256.png" alt="Internet Explorer Developer Channel browser logo"></a> |
 
 ### Konqueror
 
@@ -329,7 +329,7 @@ logos are high resolution with transparent backgrounds.
 
 ### Web
 
-| [Web (f.k.a. Epiphany)](https://wiki.gnome.org/Apps/Web) |
+| [Web <br>(f.k.a. Epiphany)](https://wiki.gnome.org/Apps/Web) |
 |:---:|
 | <a href="web"><img width=140 src="web/web.png" alt="Web (f.k.a. Epiphany) browser logo"></a> |
 
