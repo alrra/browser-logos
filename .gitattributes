@@ -1,11 +1,12 @@
-# Automatically normalize line endings for all text-based file
+# Automatically normalize line endings for all text-based files
+# http://git-scm.com/docs/gitattributes#_effects
 * text=auto
 
 # Exclude the following files when generating an archive
 # http://git-scm.com/book/en/Customizing-Git-Git-Attributes#Exporting-Your-Repository
 .gitattributes export-ignore
-archive/README.md export
-bin export-ignore
 CHANGELOG.md export-ignore
 CONTRIBUTING.md export-ignore
 README.md export-ignore
+archive/README.md export
+bin export-ignore

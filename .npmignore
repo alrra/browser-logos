@@ -1,0 +1,5 @@
+.gitattributes
+.npmignore
+CHANGELOG.md
+CONTRIBUTING.md
+bin
