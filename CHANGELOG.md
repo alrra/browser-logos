@@ -1,4 +1,4 @@
-### HEAD
+### 3.0.0 (November 10, 2014)
 
 * Move Firefox Aurora logo into the archive
   [[5ca7ec1](https://github.com/alrra/browser-logos/commit/5ca7ec1a23b174795c849a1d16f407ef23fcb3c3)].
