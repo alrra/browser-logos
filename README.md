@@ -119,9 +119,9 @@ logos are high resolution with transparent backgrounds.
 
 ### Firefox
 
-| [Firefox](https://www.mozilla.org/en-US/firefox/) | [Firefox Beta](https://www.mozilla.org/beta/) | [Firefox Aurora](https://www.mozilla.org/en-US/firefox/aurora/) | [Firefox Nightly](https://nightly.mozilla.org/) |
-|:---:|:---:|:---:|:---:|
-| <a href="firefox"><img width=140 src="firefox/firefox_256x256.png" alt="Firefox browser logo"></a> | <a href="firefox-beta"><img width=140 src="firefox-beta/firefox-beta_256x256.png" alt="Firefox Beta browser logo"></a> | <a href="firefox-aurora"><img width=140 src="firefox-aurora/firefox-aurora_256x256.png" alt="Firefox Aurora browser logo"></a> | <a href="firefox-nightly"><img width=140 src="firefox-nightly/firefox-nightly_256x256.png" alt="Firefox Nightly browser logo"></a> |
+| [Firefox](https://www.mozilla.org/en-US/firefox/) | [Firefox Beta](https://www.mozilla.org/beta/) | [Firefox Aurora](https://www.mozilla.org/en-US/firefox/aurora/) | [Firefox Nightly](https://nightly.mozilla.org/) | [Firefox<br>Developer Edition](https://www.mozilla.org/en-US/firefox/developer/) |
+|:---:|:---:|:---:|:---:|:---:|
+| <a href="firefox"><img width=140 src="firefox/firefox_256x256.png" alt="Firefox browser logo"></a> | <a href="firefox-beta"><img width=140 src="firefox-beta/firefox-beta_256x256.png" alt="Firefox Beta browser logo"></a> | <a href="firefox-aurora"><img width=140 src="firefox-aurora/firefox-aurora_256x256.png" alt="Firefox Aurora browser logo"></a> | <a href="firefox-nightly"><img width=140 src="firefox-nightly/firefox-nightly_256x256.png" alt="Firefox Nightly browser logo"></a> | <a href="firefox-developer-edition"><img width=140 src="firefox-developer-edition/firefox-developer-edition_256x256.png" alt="Firefox Developer Edition browser logo"></a> |
 
 ### iCab
 

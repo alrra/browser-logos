@@ -1,3 +1,7 @@
+### HEAD
+
+* Add Firefox Developer Edition logo.
+
 ### 2.0.0 (October 16, 2014)
 
 * Update Safari logo
