@@ -114,9 +114,9 @@
 
 ### Firefox Aurora
 
-| [Firefox Aurora 5-22](https://en.wikipedia.org/wiki/Firefox#Versions) |
-|:---:|
-| <a href="firefox-aurora_5-22"><img width=140 src="firefox-aurora_5-22/firefox-aurora_5-22_256x256.png" alt="Firefox Aurora 5-22 browser logo"></a> |
+| [Firefox Aurora 5-22](https://en.wikipedia.org/wiki/Firefox#Versions) | [Firefox Aurora 23-35](https://en.wikipedia.org/wiki/Firefox#Versions) |
+|:---:|:---:|
+| <a href="firefox-aurora_5-22"><img width=140 src="firefox-aurora_5-22/firefox-aurora_5-22_256x256.png" alt="Firefox Aurora 5-22 browser logo"></a> | <a href="firefox-aurora_23-35"><img width=140 src="firefox-aurora_23-35/firefox-aurora_23-35_256x256.png" alt="Firefox Aurora 23-35 browser logo"></a> |
 
 ### Firefox Nightly
 
