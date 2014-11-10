@@ -1,4 +1,4 @@
-### HEAD
+### 2.1.0 (November 10, 2014)
 
 * Add Firefox Developer Edition logo.
 
