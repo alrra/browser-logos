@@ -1,4 +1,4 @@
-### HEAD
+### 3.1.2 (November 26, 2014)
 
 * Add better version of the Atomic logo
   [[54756ef](https://github.com/alrra/browser-logos/commit/54756efbaac0c66bfe83fbf5558bd82cd34f6606)].
