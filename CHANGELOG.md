@@ -1,4 +1,4 @@
-### HEAD
+### 3.1.0 (November 26, 2014)
 
 * Add SVG version of the Netscape 9 logo
   [[579f69f](https://github.com/alrra/browser-logos/commit/579f69fb6db2539c89eb7edf6eee075cbaf07bc2)].
