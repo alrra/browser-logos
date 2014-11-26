@@ -1,4 +1,4 @@
-### HEAD
+### 3.1.1 (November 26, 2014)
 
 * Make minor improvements.
 
