@@ -1,3 +1,7 @@
+### HEAD
+
+* Add better version of the Axis logo.
+
 ### 3.0.0 (November 10, 2014)
 
 * Move Firefox Aurora logo into the archive
