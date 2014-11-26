@@ -1,3 +1,7 @@
+### HEAD
+
+* Add better version of the Atomic logo.
+
 ### 3.1.1 (November 26, 2014)
 
 * Make minor improvements.
