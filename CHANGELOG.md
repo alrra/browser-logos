@@ -1,6 +1,7 @@
 ### HEAD
 
-* Add better version of the Atomic logo.
+* Add better version of the Atomic logo
+  [[54756ef](https://github.com/alrra/browser-logos/commit/54756efbaac0c66bfe83fbf5558bd82cd34f6606)].
 
 ### 3.1.1 (November 26, 2014)
 
