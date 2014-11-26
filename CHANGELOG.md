@@ -1,3 +1,7 @@
+### HEAD
+
+* Make minor improvements.
+
 ### 3.1.0 (November 26, 2014)
 
 * Add SVG version of the Netscape 9 logo

@@ -42,13 +42,13 @@
 
 ### Chrome (Android)
 
-| [Chrome 25-36 <br>(Android)](https://en.wikipedia.org/wiki/Google_Chrome_for_Android) |
+| [Chrome 25-36<br>(Android)](https://en.wikipedia.org/wiki/Google_Chrome_for_Android) |
 |:---:|
 | <a href="chrome-android_18-36"><img width=140 src="chrome-android_18-36/chrome-android_18-36_256x256.png" alt="Chrome for Android 18-36 browser logo"></a> |
 
 ### Chrome Beta (Android)
 
-| [Chrome Beta 25-36 <br>(Android)](https://en.wikipedia.org/wiki/Google_Chrome_for_Android) |
+| [Chrome Beta 25-36<br>(Android)](https://en.wikipedia.org/wiki/Google_Chrome_for_Android) |
 |:---:|
 | <a href="chrome-beta-android_25-36"><img width=140 src="chrome-beta-android_25-36/chrome-beta-android_25-36_256x256.png" alt="Chrome Beta for Android 25-36 browser logo"></a> |
 
@@ -108,19 +108,19 @@
 
 ### Firefox
 
-| [Phoenix / Firebird](https://en.wikipedia.org/wiki/Firefox#History) | [Firefox 1](https://en.wikipedia.org/wiki/Firefox) | [Firefox 1.5-3](https://en.wikipedia.org/wiki/Firefox) | [Firefox 3.5-22](https://en.wikipedia.org/wiki/Firefox) |
+| [Phoenix /<br>  Firebird](https://en.wikipedia.org/wiki/Firefox#History) | [Firefox 1](https://en.wikipedia.org/wiki/Firefox) | [Firefox 1.5-3](https://en.wikipedia.org/wiki/Firefox) | [Firefox 3.5-22](https://en.wikipedia.org/wiki/Firefox) |
 |:---:|:---:|:---:|:---:|
 | <a href="phoenix_firebird"><img width=140 src="phoenix_firebird/phoenix_firebird_256x256.png" alt="Phoenix/Firebird browser logo"></a> | <a href="firefox_1"><img width=140 src="firefox_1/firefox_1_256x256.png" alt="Firefox 1 browser logo"></a> | <a href="firefox_1.5-3"><img width=140 src="firefox_1.5-3/firefox_1.5-3_256x256.png" alt="Firefox 1 browser logo"></a> | <a href="firefox_3.5-22"><img width=140 src="firefox_3.5-22/firefox_3.5-22_256x256.png" alt="Firefox 3.5-22 browser logo"></a> |
 
 ### Firefox Aurora
 
-| [Firefox Aurora 5-22](https://en.wikipedia.org/wiki/Firefox#Versions) | [Firefox Aurora 23-35](https://en.wikipedia.org/wiki/Firefox#Versions) |
+| [Firefox Aurora<br>5-22](https://en.wikipedia.org/wiki/Firefox#Versions) | [Firefox Aurora<br>23-35](https://en.wikipedia.org/wiki/Firefox#Versions) |
 |:---:|:---:|
 | <a href="firefox-aurora_5-22"><img width=140 src="firefox-aurora_5-22/firefox-aurora_5-22_256x256.png" alt="Firefox Aurora 5-22 browser logo"></a> | <a href="firefox-aurora_23-35"><img width=140 src="firefox-aurora_23-35/firefox-aurora_23-35_256x256.png" alt="Firefox Aurora 23-35 browser logo"></a> |
 
 ### Firefox Nightly
 
-| [Firefox Nightly 6-22](https://en.wikipedia.org/wiki/Firefox#Versions) |
+| [Firefox Nightly<br>6-22](https://en.wikipedia.org/wiki/Firefox#Versions) |
 |:---:|
 | <a href="firefox-nightly_6-22"><img width=140 src="firefox-nightly_6-22/firefox-nightly_6-22_256x256.png" alt="Firefox Nightly 6-22 browser logo"></a> |
 
@@ -144,7 +144,7 @@
 
 ### Internet Explorer
 
-| [Internet Explorer 6](https://en.wikipedia.org/wiki/Internet_Explorer_6) | [Internet Explorer 7](https://en.wikipedia.org/wiki/Internet_Explorer_7)/[8](https://en.wikipedia.org/wiki/Internet_Explorer_8) |
+| [Internet Explorer 6](https://en.wikipedia.org/wiki/Internet_Explorer_6) | [Internet Explorer<br>7](https://en.wikipedia.org/wiki/Internet_Explorer_7)/[8](https://en.wikipedia.org/wiki/Internet_Explorer_8) |
 |:---:|:---:|
 | <a href="internet-explorer_6"><img width=140 src="internet-explorer_6/internet-explorer_6_256x256.png" alt="Internet Explorer 6 browser logo"></a> | <a href="internet-explorer_7-8"><img width=140 src="internet-explorer_7-8/internet-explorer_7-8_256x256.png" alt="Internet Explorer 7 and 8 browser logo"></a> |
 
@@ -258,7 +258,7 @@
 
 ### Safari (iOS)
 
-| [Safari (iOS 1-6)](https://en.wikipedia.org/wiki/Safari_%28web_browser%29) |
+| [Safari 1-6 (iOS)](https://en.wikipedia.org/wiki/Safari_%28web_browser%29) |
 |:---:|
 | <a href="safari-ios_1-6"><img width=140 src="safari-ios_1-6/safari-ios_1-6_256x256.png" alt="Safari for iOS 1-6 browser logo"></a> |
 

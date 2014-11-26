@@ -1,5 +1,17 @@
 {
+  "author": {
+    "name": "Cătălin Mariș"
+  },
+  "bugs": {
+    "url": "https://github.com/alrra/browser-logos/issues"
+  },
+  "description": "Collection of high resolution web browser logos with transparent backgrounds",
+  "homepage": "https://github.com/alrra/browser-logos#readme",
   "name": "browser-logos",
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:alrra/browser-logos.git"
+  },
   "version": "3.1.0"
 }
