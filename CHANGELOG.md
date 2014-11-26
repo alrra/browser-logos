@@ -1,6 +1,7 @@
 ### HEAD
 
-* Add better version of the Axis logo.
+* Add better version of the Axis logo
+  [[4160807](https://github.com/alrra/browser-logos/commit/41608070848ffc10c48a9eaff78ae2941e2ab275)].
 
 ### 3.0.0 (November 10, 2014)
 
