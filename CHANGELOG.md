@@ -1,5 +1,6 @@
 ### HEAD
 
+* Add SVG version of the Phoenix/Firebird logo.
 * Add better version of the Axis logo
   [[4160807](https://github.com/alrra/browser-logos/commit/41608070848ffc10c48a9eaff78ae2941e2ab275)].
 
