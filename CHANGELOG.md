@@ -1,4 +1,4 @@
-### HEAD
+### 3.1.3 (December 1, 2014)
 
 * Add `bower.json` and publish on `Bower`
   [[#52](https://github.com/alrra/browser-logos/issues/52)].
