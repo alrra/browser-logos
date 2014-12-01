@@ -1,3 +1,8 @@
+### HEAD
+
+* Add `bower.json` and publish on `Bower`
+  [[#52](https://github.com/alrra/browser-logos/issues/52)].
+
 ### 3.1.2 (November 26, 2014)
 
 * Add better version of the Atomic logo
