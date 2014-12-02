@@ -1,3 +1,7 @@
+### HEAD
+
+* Add Yandex Alpha logo.
+
 ### 3.1.3 (December 1, 2014)
 
 * Add `bower.json` and publish on `Bower`
