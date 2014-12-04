@@ -1,6 +1,7 @@
 ### HEAD
 
-* Add Yandex Alpha logo.
+* Add Yandex Alpha logo
+  [[5553db8](https://github.com/alrra/browser-logos/commit/5553db824fd1ac27af4fc62df2ff93f3fa1ba047)].
 
 ### 3.1.3 (December 1, 2014)
 
