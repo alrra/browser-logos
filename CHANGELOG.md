@@ -1,4 +1,4 @@
-### HEAD
+### 4.0.0 (December 4, 2014)
 
 * Rename Opera Next to Opera Beta
   [[#53](https://github.com/alrra/browser-logos/issues/53)].
