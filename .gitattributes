@@ -8,3 +8,5 @@
 CHANGELOG.md export-ignore
 CONTRIBUTING.md export-ignore
 bin export-ignore
+bower.json export-ignore
+package.json export-ignore
