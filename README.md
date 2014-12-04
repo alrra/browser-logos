@@ -239,9 +239,9 @@ logos are high resolution with transparent backgrounds.
 
 ### Opera
 
-| [Opera](http://www.opera.com/) | [Opera Next](http://www.opera.com/next/) | [Opera Developer](http://www.opera.com/developer) |
+| [Opera](http://www.opera.com/) | [Opera Beta](http://www.opera.com/computer/beta) | [Opera Developer](http://www.opera.com/developer) |
 |:---:|:---:|:---:|
-| <a href="opera"><img width=140 src="opera/opera_256x256.png" alt="Opera browser logo"></a> | <a href="opera-next"><img width=140 src="opera-next/opera-next_256x256.png" alt="Opera Next browser logo"></a> | <a href="opera-developer"><img width=140 src="opera-developer/opera-developer_256x256.png" alt="Opera Developer browser logo"></a> |
+| <a href="opera"><img width=140 src="opera/opera_256x256.png" alt="Opera browser logo"></a> | <a href="opera-beta"><img width=140 src="opera-beta/opera-beta_256x256.png" alt="Opera Beta browser logo"></a> | <a href="opera-developer"><img width=140 src="opera-developer/opera-developer_256x256.png" alt="Opera Developer browser logo"></a> |
 
 ### Orweb
 
