@@ -1,3 +1,8 @@
+### HEAD
+
+* Rename Opera Next to Opera Beta
+  [[#53](https://github.com/alrra/browser-logos/issues/53)].
+
 ### 3.2.0 (December 4, 2014)
 
 * Add Yandex Alpha logo
