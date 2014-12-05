@@ -1,10 +1,12 @@
 ### HEAD
 
+* Add surf logo.
 * Exclude `.npmignore` from the archives.
+  [[a482d17](https://github.com/alrra/browser-logos/commit/4680a30b8e93ccd7cb91f29f5d3c9aed1644bdd2)].
 
 ### 4.0.1 (December 5, 2014)
 
-* Exclude `bower.json` and `package.json` from the archives
+* Exclude `bower.json` and `package.json` from the archives.
   [[4680a30](https://github.com/alrra/browser-logos/commit/4680a30b8e93ccd7cb91f29f5d3c9aed1644bdd2)].
 
 ### 4.0.0 (December 4, 2014)

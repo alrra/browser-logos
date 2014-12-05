@@ -298,6 +298,12 @@
 |:---:|
 | <a href="superfast"><img width=140 src="superfast/superfast_256x256.png" alt="Super Fast browser logo"></a> |
 
+### surf
+
+| [surf](https://en.wikipedia.org/wiki/Surf_%28web_browser%29) |
+|:---:|
+| <a href="surf"><img width=140 src="surf/surf_256x256.png" alt="surf browser logo"></a> |
+
 ### Vitrum
 
 | [Vitrum](http://capablebits.com/) |
