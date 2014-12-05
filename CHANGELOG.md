@@ -1,3 +1,7 @@
+### HEAD
+
+* Exclude `.npmignore` from the archives.
+
 ### 4.0.1 (December 5, 2014)
 
 * Exclude `bower.json` and `package.json` from the archives
