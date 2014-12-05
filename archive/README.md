@@ -304,6 +304,12 @@
 |:---:|
 | <a href="surf"><img width=140 src="surf/surf_256x256.png" alt="surf browser logo"></a> |
 
+### Uzbl
+
+| [Uzbl](http://en.wikipedia.org/wiki/Uzbl) |
+|:---:|
+| <a href="uzbl"><img width=140 src="uzbl/uzbl_256x256.png" alt="Uzbl browser logo"></a> |
+
 ### Vitrum
 
 | [Vitrum](http://capablebits.com/) |
