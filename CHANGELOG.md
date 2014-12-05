@@ -1,7 +1,9 @@
 ### HEAD
 
-* Add Uzbl logo.
-* Add surf logo.
+* Add Uzbl logo
+  [[d5f2553](https://github.com/alrra/browser-logos/commit/d5f25532319ebb86b4075aaa5b98e4058869cc98)].
+* Add surf logo
+  [[19290d7](https://github.com/alrra/browser-logos/commit/19290d78381da4a0cccd0acf7fe5dd513adb47b2)].
 * Exclude `.npmignore` from the archives.
   [[a482d17](https://github.com/alrra/browser-logos/commit/4680a30b8e93ccd7cb91f29f5d3c9aed1644bdd2)].
 
