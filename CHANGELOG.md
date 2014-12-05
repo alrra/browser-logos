@@ -1,4 +1,4 @@
-### HEAD
+### 4.0.1 (December 5, 2014)
 
 * Exclude `bower.json` and `package.json` from the archives
   [[4680a30](https://github.com/alrra/browser-logos/commit/4680a30b8e93ccd7cb91f29f5d3c9aed1644bdd2)].
