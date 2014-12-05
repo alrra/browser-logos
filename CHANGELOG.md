@@ -1,3 +1,8 @@
+### HEAD
+
+* Exclude `bower.json` and `package.json` from the archives
+  [[4680a30](https://github.com/alrra/browser-logos/commit/4680a30b8e93ccd7cb91f29f5d3c9aed1644bdd2)].
+
 ### 4.0.0 (December 4, 2014)
 
 * Rename Opera Next to Opera Beta
