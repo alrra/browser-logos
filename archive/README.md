@@ -322,6 +322,12 @@
 |:---:|
 | <a href="wyzo"><img width=140 src="wyzo/wyzo_256x256.png" alt="Wyzo browser logo"></a> |
 
+### Xpress
+
+| [Xpress](http://en.wikipedia.org/wiki/Nokia_Xpress) [`*`](#note) |
+|:---:|
+| <a href="xpress_1"><img width=140 src="xpress_1/xpress_1_256x256.png" alt="Xpress browser logo"></a> |
+
 ### Xtravo
 
 | [Xtravo](https://github.com/sheikhimran01/xtravo) |

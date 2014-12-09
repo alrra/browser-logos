@@ -1,3 +1,7 @@
+### HEAD
+
+* Add Nokia Xpress logo.
+
 ### 4.1.0 (December 5, 2014)
 
 * Add Uzbl logo
