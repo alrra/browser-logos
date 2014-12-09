@@ -1,6 +1,7 @@
 ### HEAD
 
-* Add Nokia Xpress logo.
+* Add Nokia Xpress logo
+  [[543c361](https://github.com/alrra/browser-logos/commit/543c361869b2e0a2c0da91204c528d2886a415e0)].
 
 ### 4.1.0 (December 5, 2014)
 
