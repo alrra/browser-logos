@@ -383,7 +383,7 @@ moment to review the [guidelines](CONTRIBUTING.md).
 
 There are a few options for getting the browser logos:
 
-* Download the [zip archive](https://github.com/alrra/browser-logos/archive/4.1.0.zip)
+* Download the [zip archive](https://github.com/alrra/browser-logos/archive/4.2.0.zip)
 * Install them via:
     * [npm](https://npmjs.org/): `npm install --save-dev alrra/browser-logos`
     * [Bower](http://bower.io/): `bower install --save-dev browser-logos`
