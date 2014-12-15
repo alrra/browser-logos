@@ -1,10 +1,11 @@
 ### HEAD
 
-* Add better version of the Xpress logo.
+* Add better version of the old Nokia Xpress logo
+  [[7c3e9d6](https://github.com/alrra/browser-logos/commit/7c3e9d6b2540453469d5128978a3da95c23adf73)].
 
 ### 4.2.0 (December 12, 2014)
 
-* Add Nokia Xpress logo
+* Add old Nokia Xpress logo
   [[543c361](https://github.com/alrra/browser-logos/commit/543c361869b2e0a2c0da91204c528d2886a415e0)].
 
 ### 4.1.0 (December 5, 2014)
