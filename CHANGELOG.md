@@ -1,3 +1,7 @@
+### HEAD
+
+* Add better version of the Xpress logo.
+
 ### 4.2.0 (December 12, 2014)
 
 * Add Nokia Xpress logo
