@@ -1,4 +1,4 @@
-### HEAD
+### 4.2.1 (December 15, 2014)
 
 * Add better version of the old Nokia Xpress logo
   [[7c3e9d6](https://github.com/alrra/browser-logos/commit/7c3e9d6b2540453469d5128978a3da95c23adf73)].
