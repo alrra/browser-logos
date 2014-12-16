@@ -10,14 +10,20 @@
 
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-declare groupImageName="main-desktop"
-
-declare -a imageGroup=(
+declare -a mainDesktopImageGroup=(
     "chrome"
     "firefox"
     "internet-explorer"
     "opera"
     "safari"
+)
+
+declare -a mainMobileImageGroup=(
+    "android"
+    "chrome-android"
+    "internet-explorer-tile"
+    "opera-mini"
+    "safari-ios"
 )
 
 declare -a imageSizes=(
@@ -38,6 +44,8 @@ declare scriptLocation="$(dirname ${BASH_SOURCE[0]})"
 generate_group_image() {
 
     local generateGroupImage="false"
+    declare -a imageGroup=("${!1}"); shift;
+    local groupImageName="$1.png"; shift;
     declare -a tmp=()
 
     # Do not generate new group image if none of composing images are modified
@@ -70,8 +78,8 @@ generate_group_image() {
             -resize 512x512 \
             -extent 562x562 \
             +append \
-            "$groupImageName.png" \
-        && print_success_msg "  [create]" "$groupImageName.png"
+            "$groupImageName" \
+        && print_success_msg "  [create]" "$groupImageName"
 
     fi
 }
@@ -144,7 +152,8 @@ main() {
             print_success_msg "Generate images"
             printf "\n"
 
-            generate_group_image $@ \
+            generate_group_image mainDesktopImageGroup[@] "main-desktop" $@ \
+                && generate_group_image mainMobileImageGroup[@] "main-mobile" $@ \
                 && generate_images $@ \
                 && (
                     printf "\n"

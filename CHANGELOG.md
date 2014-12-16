@@ -1,6 +1,10 @@
 ### HEAD
 
-* Add Opera Mini logo.
+* Add `main-mobile.png`
+  [[#54](https://github.com/alrra/browser-logos/issues/54)]
+  [[#56](https://github.com/alrra/browser-logos/issues/56)].
+* Add Opera Mini logo
+  [[8dda27f](https://github.com/alrra/browser-logos/commit/8dda27fbf2dce1c2870ea4115fa198c2bf64233a)].
 * Add Android browser logo
   [[#55](https://github.com/alrra/browser-logos/issues/55)].
 
