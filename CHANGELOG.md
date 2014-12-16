@@ -1,3 +1,7 @@
+### HEAD
+
+* Include Firefox logo in `main-mobile.png`.
+
 ### 4.3.0 (December 16, 2014)
 
 * Add `main-mobile.png`

@@ -21,6 +21,7 @@ declare -a mainDesktopImageGroup=(
 declare -a mainMobileImageGroup=(
     "android"
     "chrome-android"
+    "firefox"
     "internet-explorer-tile"
     "opera-mini"
     "safari-ios"
