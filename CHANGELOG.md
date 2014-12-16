@@ -1,3 +1,8 @@
+### HEAD
+
+* Add Android browser logo
+  [[#55](https://github.com/alrra/browser-logos/issues/55)].
+
 ### 4.2.1 (December 15, 2014)
 
 * Add better version of the old Nokia Xpress logo

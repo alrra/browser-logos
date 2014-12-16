@@ -33,6 +33,12 @@ logos are high resolution with transparent backgrounds.
 |:---:|
 | <a href="allinone"><img width=140 src="allinone/allinone_256x256.png" alt="AllInOne browser logo"></a> |
 
+### Android
+
+| [Android](http://www.allinonebrowser.com/) |
+|:---:|
+| <a href="android"><img width=140 src="android/android_256x256.png" alt="Android browser logo"></a> |
+
 ### Avant
 
 | [Avant](http://www.avantbrowser.com/) |
