@@ -25,6 +25,7 @@ declare -a mainMobileImageGroup=(
     "internet-explorer-tile"
     "opera-mini"
     "safari-ios"
+    "uc"
 )
 
 declare -a imageSizes=(

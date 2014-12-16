@@ -1,5 +1,6 @@
 ### HEAD
 
+* Include UC logo in `main-mobile.png`.
 * Include Firefox logo in `main-mobile.png`.
 
 ### 4.3.0 (December 16, 2014)
