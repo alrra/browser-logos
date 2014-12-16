@@ -1,4 +1,4 @@
-### HEAD
+### 5.0.0 (December 16, 2014)
 
 * Include UC logo in `main-mobile.png`
   [[7ec5312](https://github.com/alrra/browser-logos/commit/7ec53120278fcf623b1be2b408e05c8f6942c8e5)].
