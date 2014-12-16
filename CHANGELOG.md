@@ -1,7 +1,9 @@
 ### HEAD
 
-* Include UC logo in `main-mobile.png`.
-* Include Firefox logo in `main-mobile.png`.
+* Include UC logo in `main-mobile.png`
+  [[7ec5312](https://github.com/alrra/browser-logos/commit/7ec53120278fcf623b1be2b408e05c8f6942c8e5)].
+* Include Firefox logo in `main-mobile.png`
+  [[af867d4](https://github.com/alrra/browser-logos/commit/af867d4805ff9b5e81f606813115ac511a5d5f5b)].
 
 ### 4.3.0 (December 16, 2014)
 
