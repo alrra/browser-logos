@@ -35,7 +35,7 @@ logos are high resolution with transparent backgrounds.
 
 ### Android
 
-| [Android](http://www.allinonebrowser.com/) |
+| [Android](http://en.wikipedia.org/wiki/Android_%28operating_system%29) |
 |:---:|
 | <a href="android"><img width=140 src="android/android_256x256.png" alt="Android browser logo"></a> |
 
