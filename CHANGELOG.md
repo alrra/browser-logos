@@ -1,5 +1,6 @@
 ### HEAD
 
+* Add Opera Mini logo.
 * Add Android browser logo
   [[#55](https://github.com/alrra/browser-logos/issues/55)].
 
