@@ -1,3 +1,7 @@
+### HEAD
+
+* Add better version of the Android browser logo.
+
 ### 5.0.1 (December 17, 2014)
 
 * Show `main-mobile.png` in the `README.md`
