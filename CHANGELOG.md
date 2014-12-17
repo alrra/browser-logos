@@ -1,6 +1,7 @@
 ### HEAD
 
-* Add better version of the Android browser logo.
+* Add better version of the Android browser logo
+  [[953c0a0](https://github.com/alrra/browser-logos/commit/953c0a0c39fb793ebdeea211314cc6c8fd8bb4c4)].
 
 ### 5.0.1 (December 17, 2014)
 
