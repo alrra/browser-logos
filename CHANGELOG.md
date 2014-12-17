@@ -1,3 +1,8 @@
+### HEAD
+
+* Show `main-mobile.png` in the `README.md`
+  [[#57](https://github.com/alrra/browser-logos/issues/57)].
+
 ### 5.0.0 (December 16, 2014)
 
 * Include UC logo in `main-mobile.png`

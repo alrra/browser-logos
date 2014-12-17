@@ -2,6 +2,8 @@
 
 [![Main desktop browsers
 logos](main-desktop.png)](https://raw.github.com/alrra/browser-logos/master/main-desktop.png)
+[![Main mobile browsers
+logos](main-mobile.png)](https://raw.github.com/alrra/browser-logos/master/main-mobile.png)
 
 You may want these for a presentation, a blog post or for the site
 featuring your brand new awesome lightbox script (please no!). All
