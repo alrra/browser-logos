@@ -1,7 +1,9 @@
 ### HEAD
 
-* Add better version of the Android browser logo.
-* Further optimize all SVGs.
+* Add better version of the Android browser logo
+  [[2b9d282](https://github.com/alrra/browser-logos/commit/2b9d28209c2f1356bb5fe5e99ae7e8b5401e7579)].
+* Further optimize all SVGs
+  [[fc8ec4e](https://github.com/alrra/browser-logos/commit/fc8ec4e09358213b1c71ae56b9863c46189d5fc4)].
 
 ### 5.0.2 (December 17, 2014)
 
