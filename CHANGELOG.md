@@ -1,4 +1,4 @@
-### HEAD
+### 5.0.1 (December 17, 2014)
 
 * Show `main-mobile.png` in the `README.md`
   [[#57](https://github.com/alrra/browser-logos/issues/57)].
