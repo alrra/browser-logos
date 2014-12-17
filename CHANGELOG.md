@@ -1,3 +1,7 @@
+### HEAD
+
+* Further optimize all SVGs.
+
 ### 5.0.2 (December 17, 2014)
 
 * Add better version of the Android browser logo
