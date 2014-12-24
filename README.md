@@ -145,7 +145,7 @@ logos are high resolution with transparent backgrounds.
 
 ### Iceweasel
 
-| [Iceweasel](https://packages.debian.org/wheezy/iceweasel) |
+| [Iceweasel](http://en.wikipedia.org/wiki/Mozilla_Corporation_software_rebranded_by_the_Debian_project#Iceweasel) |
 |:---:|
 | <a href="iceweasel"><img width=140 src="iceweasel/iceweasel_256x256.png" alt="Iceweasel browser logo"></a> |
 
