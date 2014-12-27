@@ -1,6 +1,7 @@
 ### HEAD
 
-* Use the same logo for both Sleipnir for Android and iOS.
+* Use the same logo for both Sleipnir for Android and iOS
+  [[1870488](https://github.com/alrra/browser-logos/commit/1870488d1474a6399d1660bdd23ec81534d23c75)].
 
 ### 5.0.3 (December 18, 2014)
 
