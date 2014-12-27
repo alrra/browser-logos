@@ -301,9 +301,9 @@ logos are high resolution with transparent backgrounds.
 
 ### Sleipnir
 
-| [Sleipnir (Android)](http://www.fenrir-inc.com/us/android/apps/sleipnir-mobile.html) | [Sleipnir (iOS)](http://www.fenrir-inc.com/us/iphone/apps/sleipnir-mobile.html) | [Sleipnir (Mac)](http://www.fenrir-inc.com/us/sleipnir-family/) | [Sleipnir (Windows)](http://www.fenrir-inc.com/us/sleipnir-family/) |
-|:---:|:---:|:---:|:---:|
-| <a href="sleipnir-android"><img width=140 src="sleipnir-android/sleipnir-android_256x256.png" alt="Sleipnir for Android browser logo"></a> | <a href="sleipnir-ios"><img width=140 src="sleipnir-ios/sleipnir-ios_256x256.png" alt="Sleipnir for iOS browser logo"></a> | <a href="sleipnir-mac"><img width=140 src="sleipnir-mac/sleipnir-mac_256x256.png" alt="Sleipnir for Mac browser logo"></a> | <a href="sleipnir-windows"><img width=140 src="sleipnir-windows/sleipnir-windows_256x256.png" alt="Sleipnir for Windows browser logo"></a>
+| [Sleipnir (Mac)](http://www.fenrir-inc.com/us/sleipnir-family/) | [Sleipnir (Mobile)](http://www.fenrir-inc.com/us/sleipnir-family/) | [Sleipnir (Windows)](http://www.fenrir-inc.com/us/sleipnir-family/) |
+|:---:|:---:|:---:|
+| <a href="sleipnir-mac"><img width=140 src="sleipnir-mac/sleipnir-mac_256x256.png" alt="Sleipnir for Mac browser logo"></a> | <a href="sleipnir-mobile"><img width=140 src="sleipnir-mobile/sleipnir-mobile_256x256.png" alt="Sleipnir Mobile browser logo"></a> | <a href="sleipnir-windows"><img width=140 src="sleipnir-windows/sleipnir-windows_256x256.png" alt="Sleipnir for Windows browser logo"></a> |
 
 ### SlimBoat
 

@@ -280,6 +280,12 @@
 |:---:|:---:|
 | <a href="skyfire-android"><img width=140 src="skyfire-android/skyfire-android_256x256.png" alt="Skyfire for Android browser logo"></a> | <a href="skyfire-ios"><img width=140 src="skyfire-ios/skyfire-ios_256x256.png" alt="Skyfire for iOS browser logo"></a> |
 
+### Sleipnir
+
+| [Sleipnir (Mobile)](http://www.fenrir-inc.com/us/sleipnir-family/) [`*`](#note) |
+|:---:|
+| <a href="sleipnir-mobile_1"><img width=140 src="sleipnir-mobile_1/sleipnir-mobile_1_256x256.png" alt="Sleipnir Mobile browser logo"></a> |
+
 ### Sogou
 
 | [Sogou (Mobile)](https://en.wikipedia.org/wiki/Sogou#Sogou_browser) [`*`](#note) |

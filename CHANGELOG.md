@@ -1,3 +1,7 @@
+### HEAD
+
+* Use the same logo for both Sleipnir for Android and iOS.
+
 ### 5.0.3 (December 18, 2014)
 
 * Add better version of the Android browser logo
