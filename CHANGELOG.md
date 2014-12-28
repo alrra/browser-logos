@@ -1,3 +1,7 @@
+### HEAD
+
+* Further losslessly optimize images.
+
 ### 6.1.0 (December 28, 2014)
 
 * Add new Silk logo
