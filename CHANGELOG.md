@@ -1,6 +1,7 @@
 ### HEAD
 
-* Add new Silk logo.
+* Add new Silk logo
+  [[c42be68](https://github.com/alrra/browser-logos/commit/c42be68bba24de87046cf6276547e9ef1dc31611)].
 
 ### 6.0.0 (December 28, 2014)
 
