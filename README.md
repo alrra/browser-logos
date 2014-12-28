@@ -299,6 +299,12 @@ logos are high resolution with transparent backgrounds.
 |:---:|
 | <a href="seamonkey"><img width=140 src="seamonkey/seamonkey_256x256.png" alt="SeaMonkey browser logo"></a> |
 
+### Silk
+
+| [Silk](https://amazon.com/silk) |
+|:---:|
+| <a href="silk"><img width=140 src="silk/silk_256x256.png" alt="Silk browser logo"></a> |
+
 ### Sleipnir
 
 | [Sleipnir (Mac)](http://www.fenrir-inc.com/us/sleipnir-family/) | [Sleipnir (Mobile)](http://www.fenrir-inc.com/us/sleipnir-family/) | [Sleipnir (Windows)](http://www.fenrir-inc.com/us/sleipnir-family/) |

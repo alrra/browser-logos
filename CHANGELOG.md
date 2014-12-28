@@ -1,3 +1,7 @@
+### HEAD
+
+* Add new Silk logo.
+
 ### 6.0.0 (December 28, 2014)
 
 * Use the same logo for both Sleipnir for Android and iOS
