@@ -9,7 +9,7 @@
       ".npmignore",
       "CHANGELOG.md",
       "CONTRIBUTING.md",
-      "bin",
+      "generate-images.sh",
       "package.json"
   ],
   "keywords": [

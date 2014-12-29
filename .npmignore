@@ -1,5 +1,5 @@
 .gitattributes
 .npmignore
 CONTRIBUTING.md
-bin
 bower.json
+generate-images.sh
