@@ -1,7 +1,9 @@
 ### HEAD
 
-* Add old Diigo logo.
-* Remove `_1` from the file names of logos for which the browser version is unknown.
+* Add old Diigo logo
+  [[6fbc1c5](https://github.com/alrra/browser-logos/commit/6fbc1c503b9d171a1148b2196e18d7950f68b81a)].
+* Remove `_1` from the file names of logos for which the browser version is unknown
+  [[5e271fb](https://github.com/alrra/browser-logos/commit/5e271fbc243901f0adb06cd298f0e8f04664aeb1)].
 * Further losslessly optimize images.
 
 ### 6.1.0 (December 28, 2014)
