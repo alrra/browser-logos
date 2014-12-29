@@ -1,5 +1,6 @@
 ### HEAD
 
+* Remove `_1` from the file names of logos for which the browser version is unknown.
 * Further losslessly optimize images.
 
 ### 6.1.0 (December 28, 2014)

@@ -26,7 +26,7 @@
 
 | [Baidu](http://global.baidu.com/browser/) [`*`](#note)|
 |:---:|
-| <a href="baidu_1"><img width=140 src="baidu_1/baidu_1_256x256.png" alt="Baidu browser logo"></a> |
+| <a href="baidu"><img width=140 src="baidu/baidu_256x256.png" alt="Baidu browser logo"></a> |
 
 ### Camino
 
@@ -80,7 +80,7 @@
 
 | [Epic](https://en.wikipedia.org/wiki/Epic_%28web_browser%29) [`*`](#note) |
 |:---:|
-| <a href="epic_1"><img width=140 src="epic_1/epic_1.png" alt="Epic browser logo"></a> |
+| <a href="epic"><img width=140 src="epic/epic.png" alt="Epic browser logo"></a> |
 
 ### Epiphany
 
@@ -92,7 +92,7 @@
 
 | [Exsoul](http://www.exsoul-browser.com/) [`*`](#note) |
 |:---:|
-| <a href="exsoul_1"><img width=140 src="exsoul_1/exsoul_1_256x256.png" alt="Exsoul browser logo"></a> |
+| <a href="exsoul"><img width=140 src="exsoul/exsoul_256x256.png" alt="Exsoul browser logo"></a> |
 
 ### Fake
 
@@ -134,7 +134,7 @@
 
 | [iCab Mobile](https://en.wikipedia.org/wiki/ICab) [`*`](#note) |
 |:---:|
-| <a href="icab-mobile_1"><img width=140 src="icab-mobile_1/icab-mobile_1_256x256.png" alt="iCab Mobile browser logo"></a> |
+| <a href="icab-mobile"><img width=140 src="icab-mobile/icab-mobile_256x256.png" alt="iCab Mobile browser logo"></a> |
 
 ### Iceape
 
@@ -182,7 +182,7 @@
 
 | [Lightning](https://github.com/anthonycr/Lightning-Browser/) [`*`](#note) |
 |:---:|
-| <a href="lightning_1"><img width=140 src="lightning_1/lightning_1_256x256.png" alt="Lightning browser logo"></a> |
+| <a href="lightning"><img width=140 src="lightning/lightning_256x256.png" alt="Lightning browser logo"></a> |
 
 ### Link Bubble
 
@@ -194,13 +194,13 @@
 
 | [Mercury](https://mercury-browser.com/) [`*`](#note) |
 |:---:|
-| <a href="mercury_1"><img width=140 src="mercury_1/mercury_1_256x256.png" alt="Mercury browser logo"></a> |
+| <a href="mercury"><img width=140 src="mercury/mercury_256x256.png" alt="Mercury browser logo"></a> |
 
 ### Mobicip
 
 | [Mobicip](https://en.wikipedia.org/wiki/Mobicip) [`*`](#note) |
 |:---:|
-| <a href="mobicip_1"><img width=140 src="mobicip_1/mobicip_1_256x256.png" alt="Mobicip browser logo"></a> |
+| <a href="mobicip"><img width=140 src="mobicip/mobicip_256x256.png" alt="Mobicip browser logo"></a> |
 
 ### Mosaic
 
@@ -242,7 +242,7 @@
 
 | [QQ](http://browser.qq.com/) [`*`](#note) |
 |:---:|
-| <a href="qq_1"><img width=140 src="qq_1/qq_1.png" alt="QQ browser logo"></a> |
+| <a href="qq"><img width=140 src="qq/qq.png" alt="QQ browser logo"></a> |
 
 ### Rockmelt
 
@@ -272,7 +272,7 @@
 
 | [Silk](https://en.wikipedia.org/wiki/Amazon_Silk) [`*`](#note) |
 |:---:|
-| <a href="silk_1"><img width=140 src="silk_1/silk_1_256x256.png" alt="Silk 1 browser logo"></a> |
+| <a href="silk"><img width=140 src="silk/silk_256x256.png" alt="Silk 1 browser logo"></a> |
 
 ### Skyfire
 
@@ -284,13 +284,13 @@
 
 | [Sleipnir (Mobile)](http://www.fenrir-inc.com/us/sleipnir-family/) [`*`](#note) |
 |:---:|
-| <a href="sleipnir-mobile_1"><img width=140 src="sleipnir-mobile_1/sleipnir-mobile_1_256x256.png" alt="Sleipnir Mobile browser logo"></a> |
+| <a href="sleipnir-mobile"><img width=140 src="sleipnir-mobile/sleipnir-mobile_256x256.png" alt="Sleipnir Mobile browser logo"></a> |
 
 ### Sogou
 
 | [Sogou (Mobile)](https://en.wikipedia.org/wiki/Sogou#Sogou_browser) [`*`](#note) |
 |:---:|
-| <a href="sogou-mobile_1"><img width=140 src="sogou-mobile_1/sogou-mobile_1_256x256.png" alt="Sogou Mobile browser logo"></a> |
+| <a href="sogou-mobile"><img width=140 src="sogou-mobile/sogou-mobile_256x256.png" alt="Sogou Mobile browser logo"></a> |
 
 ### Stainless
 
@@ -332,7 +332,7 @@
 
 | [Xpress](http://en.wikipedia.org/wiki/Nokia_Xpress) [`*`](#note) |
 |:---:|
-| <a href="xpress_1"><img width=140 src="xpress_1/xpress_1_256x256.png" alt="Xpress browser logo"></a> |
+| <a href="xpress"><img width=140 src="xpress/xpress_256x256.png" alt="Xpress browser logo"></a> |
 
 ### Xtravo
 
