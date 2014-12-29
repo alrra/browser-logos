@@ -1,5 +1,6 @@
 ### HEAD
 
+* Add old Diigo logo.
 * Remove `_1` from the file names of logos for which the browser version is unknown.
 * Further losslessly optimize images.
 

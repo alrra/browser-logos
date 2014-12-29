@@ -70,7 +70,13 @@
 |:---:|:---:|
 | <a href="cxm-web"><img width=140 src="cxm-web/cxm-web_256x256.png" alt="CXM Web browser logo"></a> |
 
-### Dolphin
+### Diigo
+
+| [Diigo](https://www.diigo.com/tools) |
+|:---:|:---:|
+| <a href="diigo"><img width=140 src="diigo/diigo_256x256.png" alt="Diigo browser logo"></a> |
+
+### Dolphin Beta
 
 | [Dolphin Beta](https://en.wikipedia.org/wiki/Dolphin_Browser) |
 |:---:|
