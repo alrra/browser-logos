@@ -1,4 +1,4 @@
-### HEAD
+### 7.0.0 (December 29, 2014)
 
 * Add old Diigo logo
   [[6fbc1c5](https://github.com/alrra/browser-logos/commit/6fbc1c503b9d171a1148b2196e18d7950f68b81a)].
