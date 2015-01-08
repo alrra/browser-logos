@@ -1,3 +1,7 @@
+### HEAD
+
+* Add Orbitum logo.
+
 ### 7.0.0 (December 29, 2014)
 
 * Add old Diigo logo

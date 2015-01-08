@@ -251,6 +251,12 @@ logos are high resolution with transparent backgrounds.
 |:---:|:---:|:---:|:---:|
 | <a href="opera"><img width=140 src="opera/opera_256x256.png" alt="Opera browser logo"></a> | <a href="opera-beta"><img width=140 src="opera-beta/opera-beta_256x256.png" alt="Opera Beta browser logo"></a> | <a href="opera-developer"><img width=140 src="opera-developer/opera-developer_256x256.png" alt="Opera Developer browser logo"></a> | <a href="opera-mini"><img width=140 src="opera-mini/opera-mini_256x256.png" alt="Opera Mini browser logo"></a> |
 
+### Orbitum
+
+| [Orbitum](https://orbitum.com/) |
+|:---:|
+| <a href="orbitum"><img width=140 src="orbitum/orbitum_256x256.png" alt="Orbitum browser logo"></a> |
+
 ### Orweb
 
 | [Orweb](https://guardianproject.info/apps/orweb/) |
