@@ -1,4 +1,4 @@
-### HEAD
+### 7.1.0 (January 10, 2015)
 
 * Add Orbitum logo
   [[cec0a09](https://github.com/alrra/browser-logos/commit/cec0a094cb12843846e5ec3c82704b9a6967b368)].
