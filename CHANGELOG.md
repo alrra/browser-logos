@@ -1,5 +1,6 @@
 ### HEAD
 
+* Add better version of the Puffin logo.
 * Add Swiftfox logo.
 
 ### 7.1.0 (January 10, 2015)
