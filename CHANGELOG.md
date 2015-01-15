@@ -1,7 +1,9 @@
 ### HEAD
 
-* Add better version of the Avant logo.
-* Add better version of the Pale Moon logo.
+* Add better version of the Avant logo
+  [[19581ff](https://github.com/alrra/browser-logos/commit/19581ff4893777ded669b50c99cb0e4006900726)].
+* Add better version of the Pale Moon logo
+  [[d5936cc](https://github.com/alrra/browser-logos/commit/d5936ccd5b57209c6cdb65f200e708b77884d4f8)].
 * Add SVG version of the K-Meleon logo
   [[de9d6c3](https://github.com/alrra/browser-logos/commit/de9d6c36793745ff21ea0e5b55f5bd2abdf88f44)].
 * Add better version of the Puffin logo
