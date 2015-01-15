@@ -1,5 +1,6 @@
 ### HEAD
 
+* Add better version of the Avant logo.
 * Add better version of the Pale Moon logo.
 * Add SVG version of the K-Meleon logo
   [[de9d6c3](https://github.com/alrra/browser-logos/commit/de9d6c36793745ff21ea0e5b55f5bd2abdf88f44)].
