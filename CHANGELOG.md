@@ -1,5 +1,6 @@
 ### HEAD
 
+* Add SVG version of the K-Meleon logo.
 * Add better version of the Puffin logo.
 * Add Swiftfox logo.
 
