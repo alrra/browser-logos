@@ -1,8 +1,11 @@
 ### HEAD
 
-* Add SVG version of the K-Meleon logo.
-* Add better version of the Puffin logo.
-* Add Swiftfox logo.
+* Add SVG version of the K-Meleon logo
+  [[de9d6c3](https://github.com/alrra/browser-logos/commit/de9d6c36793745ff21ea0e5b55f5bd2abdf88f44)].
+* Add better version of the Puffin logo
+  [[6f247af](https://github.com/alrra/browser-logos/commit/6f247af7382cfde9dbce956c2a38572f79a94fb8)].
+* Add Swiftfox logo
+  [[dca8706](https://github.com/alrra/browser-logos/commit/dca8706261c655d3924eeb6f3352416c67f48d43)].
 
 ### 7.1.0 (January 10, 2015)
 
