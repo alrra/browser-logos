@@ -1,3 +1,7 @@
+### HEAD
+
+* Add Swiftfox logo.
+
 ### 7.1.0 (January 10, 2015)
 
 * Add Orbitum logo

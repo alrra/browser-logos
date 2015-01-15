@@ -316,6 +316,12 @@
 |:---:|
 | <a href="surf"><img width=140 src="surf/surf_256x256.png" alt="surf browser logo"></a> |
 
+### Swiftfox
+
+| [Swiftfox](https://en.wikipedia.org/wiki/Swiftfox) |
+|:---:|
+| <a href="swiftfox"><img width=140 src="swiftfox/swiftfox_256x256.png" alt="Swiftfox browser logo"></a> |
+
 ### Uzbl
 
 | [Uzbl](http://en.wikipedia.org/wiki/Uzbl) |

@@ -21,7 +21,7 @@ declare -r CONVERT_BASE_OPTIONS="\
     -sigmoidal-contrast 11.6933 \
     -colorspace sRGB \
     -background transparent \
-    -gravity center\
+    -gravity center \
 "
 
 declare -r -a IMAGE_SIZES=(
