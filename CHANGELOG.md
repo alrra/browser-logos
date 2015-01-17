@@ -1,5 +1,6 @@
 ### HEAD
 
+* Add better version of the Skyfire for iOS logo.
 * Add better version of the Avant logo
   [[19581ff](https://github.com/alrra/browser-logos/commit/19581ff4893777ded669b50c99cb0e4006900726)].
 * Add better version of the Pale Moon logo
