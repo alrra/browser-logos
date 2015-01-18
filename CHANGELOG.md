@@ -1,7 +1,9 @@
 ### HEAD
 
-* Add better version of the old Mercury logo.
+* Add better version of the old Mercury logo
+  [[f365b65](https://github.com/alrra/browser-logos/commit/f365b65fb66d3c75a876397554c3a638fbccc193)].
 * Add better version of the Skyfire for iOS logo.
+  [[5bcdfc8](https://github.com/alrra/browser-logos/commit/5bcdfc82fd71521c1e809214f80cf367a5d96741)].
 * Add better version of the Avant logo
   [[19581ff](https://github.com/alrra/browser-logos/commit/19581ff4893777ded669b50c99cb0e4006900726)].
 * Add better version of the Pale Moon logo
