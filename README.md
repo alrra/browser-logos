@@ -155,6 +155,12 @@ logos are high resolution with transparent backgrounds.
 |:---:|:---:|:---:|
 | <a href="internet-explorer"><img width=140 src="internet-explorer/internet-explorer_256x256.png"alt="Internet Explorer 9, 10 and 11 browser logo"></a> | <a href="internet-explorer-tile"><img width=140 src="internet-explorer-tile/internet-explorer-tile_256x256.png" alt="Internet Explorer 10 and 11 start screen tile"></a> | <a href="internet-explorer-developer-channel"><img width=140 src="internet-explorer-developer-channel/internet-explorer-developer-channel_256x256.png" alt="Internet Explorer Developer Channel browser logo"></a> |
 
+### K-Meleon
+
+| [K-Meleon](http://kmeleon.sourceforge.net/) |
+|:---:|
+| <a href="k-meleon"><img width=140 src="k-meleon/k-meleon_256x256.png" alt="K-Meleon browser logo"></a> |
+
 ### Konqueror
 
 | [Konqueror](https://www.konqueror.org/) |

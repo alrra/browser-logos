@@ -154,12 +154,6 @@
 |:---:|:---:|
 | <a href="internet-explorer_6"><img width=140 src="internet-explorer_6/internet-explorer_6_256x256.png" alt="Internet Explorer 6 browser logo"></a> | <a href="internet-explorer_7-8"><img width=140 src="internet-explorer_7-8/internet-explorer_7-8_256x256.png" alt="Internet Explorer 7 and 8 browser logo"></a> |
 
-### K-Meleon
-
-| [K-Meleon](https://en.wikipedia.org/wiki/K-Meleon) |
-|:---:|
-| <a href="k-meleon"><img width=140 src="k-meleon/k-meleon_256x256.png" alt="K-Meleon browser logo"></a> |
-
 ### K9
 
 | [K9](https://en.wikipedia.org/wiki/K9_Web_Protection) |

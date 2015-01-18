@@ -1,3 +1,7 @@
+### HEAD
+
+* Move the K-Meleon logo outside of the archive.
+
 ### 7.2.0 (January 18, 2015)
 
 * Add better version of the old Mercury logo
