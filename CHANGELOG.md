@@ -1,4 +1,4 @@
-### HEAD
+### 7.2.0 (January 18, 2015)
 
 * Add better version of the old Mercury logo
   [[f365b65](https://github.com/alrra/browser-logos/commit/f365b65fb66d3c75a876397554c3a638fbccc193)].
