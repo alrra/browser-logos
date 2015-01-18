@@ -1,4 +1,4 @@
-### HEAD
+### 8.0.0 (January 18, 2015)
 
 * Move the K-Meleon logo outside of the archive
   [[2365277](https://github.com/alrra/browser-logos/commit/2365277b081ae200269f74a24cfb3416e216669b)].
