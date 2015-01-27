@@ -1,6 +1,7 @@
 ### HEAD
 
-* Add Vivaldi logo.
+* Add Vivaldi logo
+  [[94b0084](https://github.com/alrra/browser-logos/commit/94b00848b5730245b47f7d0aaae90ff3a5352111)].
 
 ### 8.0.0 (January 18, 2015)
 
