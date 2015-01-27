@@ -1,3 +1,7 @@
+### HEAD
+
+* Add Breach logo.
+
 ### 8.1.0 (January 27, 2015)
 
 * Add Vivaldi logo

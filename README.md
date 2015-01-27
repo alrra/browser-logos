@@ -65,6 +65,12 @@ logos are high resolution with transparent backgrounds.
 |:---:|
 | <a href="boat"><img width=140 src="boat/boat_256x256.png" alt="Boat browser logo"></a> |
 
+### Breach
+
+| [Breach](http://breach.cc/) |
+|:---:|
+| <a href="breach"><img width=140 src="breach/breach_256x256.png" alt="Breach browser logo"></a> |
+
 ### Cheetah
 
 | [Cheetah](http://www.liebao.cn/) |
