@@ -1,3 +1,7 @@
+### HEAD
+
+* Add Vivaldi logo.
+
 ### 8.0.0 (January 18, 2015)
 
 * Move the K-Meleon logo outside of the archive

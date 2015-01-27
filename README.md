@@ -353,6 +353,12 @@ logos are high resolution with transparent backgrounds.
 |:---:|
 | <a href="uc"><img width=140 src="uc/uc_256x256.png" alt="UC browser logo"></a> |
 
+### Vivaldi
+
+| [Vivaldi](https://vivaldi.com/) |
+|:---:|
+| <a href="vivaldi"><img width=140 src="vivaldi/vivaldi.png" alt="Vivaldi browser logo"></a> |
+
 ### Web
 
 | [Web <br>(f.k.a. Epiphany)](https://wiki.gnome.org/Apps/Web) |
