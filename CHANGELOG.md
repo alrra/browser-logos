@@ -1,6 +1,7 @@
 ### HEAD
 
-* Add Breach logo.
+* Add Breach logo
+  [[9897863](https://github.com/alrra/browser-logos/commit/989786351ff672a85b69a691ce981461d8b49cd9)].
 
 ### 8.1.0 (January 27, 2015)
 
