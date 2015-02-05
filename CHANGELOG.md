@@ -1,3 +1,7 @@
+### HEAD
+
+* Update UC logo.
+
 ### 8.2.0 (January 27, 2015)
 
 * Add Breach logo

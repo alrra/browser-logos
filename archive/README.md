@@ -316,6 +316,12 @@
 |:---:|
 | <a href="swiftfox"><img width=140 src="swiftfox/swiftfox_256x256.png" alt="Swiftfox browser logo"></a> |
 
+### UC
+
+| [UC](http://en.wikipedia.org/wiki/UC_Browser) |
+|:---:|
+| <a href="uc"><img width=140 src="uc/uc_256x256.png" alt="UC browser logo"></a> |
+
 ### Uzbl
 
 | [Uzbl](http://en.wikipedia.org/wiki/Uzbl) |
