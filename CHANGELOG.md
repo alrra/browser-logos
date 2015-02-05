@@ -1,4 +1,4 @@
-### HEAD
+### 8.3.0 (February 5, 2015)
 
 * Add OmniWeb Test Build logo
   [[0af59c8](https://github.com/alrra/browser-logos/commit/0af59c89bd96acb64d16a83a0c13911b74a62c6e)].
