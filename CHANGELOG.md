@@ -1,5 +1,6 @@
 ### HEAD
 
+* Add OmniWeb Test Build logo.
 * Update UC logo.
 
 ### 8.2.0 (January 27, 2015)

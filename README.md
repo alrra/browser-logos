@@ -247,9 +247,9 @@ logos are high resolution with transparent backgrounds.
 
 ### OmniWeb
 
-| [OmniWeb](https://www.omnigroup.com/more) |
-|:---:|
-| <a href="omniweb"><img width=140 src="omniweb/omniweb_256x256.png" alt="OmniWeb browser logo"></a> |
+| [OmniWeb](https://www.omnigroup.com/more) | [OmniWeb<br>Test Build](http://omnistaging.omnigroup.com/omniweb/) |
+|:---:|:---:|
+| <a href="omniweb"><img width=140 src="omniweb/omniweb_256x256.png" alt="OmniWeb browser logo"></a> | <a href="omniweb-test-build"><img width=140 src="omniweb-test-build/omniweb-test-build_256x256.png" alt="OmniWeb Test Build browser logo"></a> |
 
 ### Onion
 
