@@ -1,6 +1,7 @@
 ### HEAD
 
-* Add Android WebView Beta logo.
+* Add Android WebView Beta logo
+  [[3538cab](https://github.com/alrra/browser-logos/commit/3538cab3a01aaf33aa618948da164c2c048ac35f)].
 
 ### 8.3.0 (February 5, 2015)
 
