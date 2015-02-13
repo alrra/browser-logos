@@ -1,3 +1,7 @@
+### HEAD
+
+* Add Android WebView Beta logo.
+
 ### 8.3.0 (February 5, 2015)
 
 * Add OmniWeb Test Build logo

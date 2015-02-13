@@ -37,9 +37,9 @@ logos are high resolution with transparent backgrounds.
 
 ### Android
 
-| [Android](http://en.wikipedia.org/wiki/Android_%28operating_system%29) |
-|:---:|
-| <a href="android"><img width=140 src="android/android_256x256.png" alt="Android browser logo"></a> |
+| [Android](http://en.wikipedia.org/wiki/Android_%28operating_system%29) | [Android WebView<br>Beta](https://plus.google.com/+MattGaunt/posts/71X8tBLToLY) |
+|:---:|:---:|
+| <a href="android"><img width=140 src="android/android_256x256.png" alt="Android browser logo"></a> | <a href="android-webview-beta"><img width=140 src="android-webview-beta/android-webview-beta_256x256.png" alt="Android WebView Beta logo"></a> |
 
 ### Avant
 
