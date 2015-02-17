@@ -29,12 +29,6 @@ logos are high resolution with transparent backgrounds.
 |:---:|
 | <a href="airweb"><img width=140 src="airweb/airweb_256x256.png" alt="AirWeb browser logo"></a> |
 
-### AllInOne
-
-| [AllInOne](http://www.allinonebrowser.com/) |
-|:---:|
-| <a href="allinone"><img width=140 src="allinone/allinone_256x256.png" alt="AllInOne browser logo"></a> |
-
 ### Android
 
 | [Android](http://en.wikipedia.org/wiki/Android_%28operating_system%29) | [Android WebView<br>Beta](https://plus.google.com/+MattGaunt/posts/71X8tBLToLY) |
@@ -232,12 +226,6 @@ logos are high resolution with transparent backgrounds.
 | [NetSurf](http://www.netsurf-browser.org/) |
 |:---:|
 | <a href="netsurf"><img width=140 src="netsurf/netsurf_256x256.png" alt="NetSurf browser logo"></a> |
-
-### Next
-
-| [Next](http://nextbrowser.goforandroid.com/) |
-|:---:|
-| <a href="next"><img width=140 src="next/next_256x256.png" alt="Next browser logo"></a> |
 
 ### Ninesky
 

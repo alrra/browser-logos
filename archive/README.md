@@ -1,3 +1,9 @@
+### AllInOne
+
+| [AllInOne](http://www.allinonebrowser.com/) |
+|:---:|
+| <a href="allinone"><img width=140 src="allinone/allinone_256x256.png" alt="AllInOne browser logo"></a> |
+
 ### Apollo
 
 | [Apollo](https://apollobrowser.wordpress.com/) |
@@ -213,6 +219,12 @@
 | [Netscape 4-6](https://en.wikipedia.org/wiki/Netscape_%28web_browser%29) | [Netscape 8](https://en.wikipedia.org/wiki/Netscape_Browser) | [Netscape 9](https://en.wikipedia.org/wiki/Netscape_Navigator_9) |
 |:---:|:---:|:---:|
 | <a href="netscape_4-6"><img width=140 src="netscape_4-6/netscape_4-6_256x256.png" alt="Netscape 4-6 browser logo"></a> | <a href="netscape_8"><img width=140 src="netscape_8/netscape_8_256x256.png" alt="Netscape 8 browser logo"></a> | <a href="netscape_9"><img width=140 src="netscape_9/netscape_9_256x256.png" alt="Netscape 9 browser logo"></a> |
+
+### Next
+
+| [Next](http://nextbrowser.goforandroid.com/) |
+|:---:|
+| <a href="next"><img width=140 src="next/next_256x256.png" alt="Next browser logo"></a> |
 
 ### NLIA
 
