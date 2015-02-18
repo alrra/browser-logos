@@ -1,5 +1,6 @@
 ### HEAD
 
+* Update Dolphin logo.
 * Move logos of no longer active browsers to archive.
 
 ### 8.4.0 (February 13, 2015)

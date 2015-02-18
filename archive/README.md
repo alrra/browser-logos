@@ -82,6 +82,12 @@
 |:---:|:---:|
 | <a href="diigo"><img width=140 src="diigo/diigo_256x256.png" alt="Diigo browser logo"></a> |
 
+### Dolphin
+
+| [Dolphin](https://en.wikipedia.org/wiki/Dolphin_Browser) [`*`](#note) |
+|:---:|
+| <a href="dolphin"><img width=140 src="dolphin/dolphin_256x256.png" alt="Dolphin browser logo"></a> |
+
 ### Dolphin Beta
 
 | [Dolphin Beta](https://en.wikipedia.org/wiki/Dolphin_Browser) |
