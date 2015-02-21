@@ -1,7 +1,9 @@
 ### HEAD
 
-* Update Dolphin logo.
-* Move logos of no longer active browsers to archive.
+* Update Dolphin logo
+  [[ca303a5](https://github.com/alrra/browser-logos/commit/ca303a59454cc7f13469b83ce7c0877f17d77366)].
+* Move logos of no longer active browsers to archive
+  [[c261cbd](https://github.com/alrra/browser-logos/commit/c261cbdda29a8c86372d24ec9f0f14310f3c52e1)].
 
 ### 8.4.0 (February 13, 2015)
 
