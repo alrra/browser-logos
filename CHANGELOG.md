@@ -1,4 +1,4 @@
-### HEAD
+### 8.5.0 (February 23, 2015)
 
 * Update Dolphin logo
   [[ca303a5](https://github.com/alrra/browser-logos/commit/ca303a59454cc7f13469b83ce7c0877f17d77366)].
