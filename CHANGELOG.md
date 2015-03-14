@@ -1,4 +1,4 @@
-### HEAD
+### 8.6.0 (March 14, 2015)
 
 * Add Opera Mini Beta logo
   ([3e7b20b](https://github.com/alrra/browser-logos/commit/3e7b20b93a1b2cd0c98aeb3827d7c2df73ac6a8d)).
