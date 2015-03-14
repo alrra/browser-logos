@@ -1,3 +1,7 @@
+### HEAD
+
+* Add Opera Mini Beta logo.
+
 ### 8.5.0 (February 23, 2015)
 
 * Update Dolphin logo
