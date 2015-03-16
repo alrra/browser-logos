@@ -60,12 +60,14 @@ generate_group_image() {
     declare -a imageDirs=("${!1}"); shift;
     local imageName="$1.png"; shift;
     local generate="false"
+    local tmp=()
 
     # Do not regenerate the group image if
     # none of the composing images are modified
 
     while [ $# -ne 0 ] && [ "$generate" != "true" ]; do
-        if [[ "${imageDirs[*]}" =~ "$1" ]]; then
+        if [[ "${imageDirs[*]}" =~ "${1%/}" ]]; then
+            #                           └─ remove trailing slash
             generate="true"
             break;
         fi
@@ -123,11 +125,11 @@ generate_images() {
 }
 
 print_error_msg() {
-    printf "\e[0;31m  $1\e[0m\n"
+    printf "\e[0;31m $1\e[0m\n"
 }
 
 print_success_msg() {
-    printf "\e[0;32m  $1\e[0m\n"
+    printf "\e[0;32m $1\e[0m\n"
 }
 
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -135,22 +137,21 @@ print_success_msg() {
 main() {
 
     # Check if ImageMagick's convert command-line tool is installed
-    if [ -x "$(command -v "convert")" ]; then
-
-        # Ensure that the following actions
-        # are made relative to the project root
-        cd "$(dirname ${BASH_SOURCE[0]})"
-
-        printf "\n"
-        generate_images $@
-        generate_group_image MAIN_DESKTOP_BROWSERS[@] "main-desktop" $@
-        generate_group_image MAIN_MOBILE_BROWSERS[@] "main-mobile" $@
-        printf "\n"
-
-    else
+    if [ ! -x "$(command -v "convert")" ]; then
         print_error_msg "Please install ImageMagick's \`convert\` command-line tool!"
+        exit
     fi
+
+    # Ensure that the following actions
+    # are made relative to the project root
+    cd "$(dirname ${BASH_SOURCE[0]})"
+
+    printf "\n"
+    generate_images "$@"
+    generate_group_image "MAIN_DESKTOP_BROWSERS[@]" "main-desktop" "$@"
+    generate_group_image "MAIN_MOBILE_BROWSERS[@]" "main-mobile" "$@"
+    printf "\n"
 
 }
 
-main $@
+main "$@"
