@@ -1,3 +1,7 @@
+### HEAD
+
+* Add SVG version of the Chrome for Android logo.
+
 ### 8.6.0 (March 14, 2015)
 
 * Add Opera Mini Beta logo
