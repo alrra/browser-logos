@@ -1,5 +1,5 @@
 {
-  "author": "Cătălin Mariș <alrraa@gmail.com>",
+  "author": "Cătălin Mariș <alrraa@gmail.com> (http://catalinmaris.com/)",
   "bugs": {
     "url": "https://github.com/alrra/browser-logos/issues"
   },
@@ -11,5 +11,5 @@
     "type": "git",
     "url": "git@github.com:alrra/browser-logos.git"
   },
-  "version": "8.6.0"
+  "version": "8.7.0"
 }

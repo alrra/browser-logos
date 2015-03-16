@@ -1,4 +1,4 @@
-### HEAD
+### 8.7.0 (March 16, 2015)
 
 * Add WaterFox logo
   ([#65](https://github.com/alrra/browser-logos/issues/65)).
