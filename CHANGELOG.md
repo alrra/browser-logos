@@ -1,6 +1,9 @@
 ### HEAD
 
-* Add SVG version of the Chrome for Android logo.
+* Add WaterFox logo
+  ([#65](https://github.com/alrra/browser-logos/issues/65)).
+* Add SVG version of the Chrome for Android logo
+  ([1550463](https://github.com/alrra/browser-logos/commit/1550463f1cca526a4193a1216cf5de4daa0be0c8)).
 
 ### 8.6.0 (March 14, 2015)
 
@@ -21,7 +24,7 @@
 
 ### 8.3.0 (February 5, 2015)
 
-* Add OmniWeÂb Test Build logo
+* Add OmniWeb Test Build logo
   ([0af59c8](https://github.com/alrra/browser-logos/commit/0af59c89bd96acb64d16a83a0c13911b74a62c6e)).
 * Update UC logo
   ([f7fc7d6](https://github.com/alrra/browser-logos/commit/f7fc7d6b21422698353a38881a0334caa3483bf6)).

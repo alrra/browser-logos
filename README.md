@@ -359,6 +359,12 @@ logos are high resolution with transparent backgrounds.
 |:---:|
 | <a href="vivaldi"><img width=140 src="vivaldi/vivaldi.png" alt="Vivaldi browser logo"></a> |
 
+### WaterFox
+
+| [WaterFox](https://www.waterfoxproject.org/) |
+|:---:|
+| <a href="waterfox"><img width=140 src="waterfox/waterfox.png" alt="WaterFox browser logo"></a> |
+
 ### Web
 
 | [Web <br>(f.k.a. Epiphany)](https://wiki.gnome.org/Apps/Web) |
