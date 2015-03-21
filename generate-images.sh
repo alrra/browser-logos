@@ -66,11 +66,13 @@ generate_group_image() {
     # none of the composing images are modified
 
     while [ $# -ne 0 ] && [ "$generate" != "true" ]; do
-        if [[ "${imageDirs[*]}" =~ "${1%/}" ]]; then
-            #                           └─ remove trailing slash
-            generate="true"
-            break;
-        fi
+        for i in ${imageDirs[@]}; do
+            if [ "$i" == "${1%/}" ]; then
+                            # └─ remove trailing slash
+                generate="true"
+                break;
+            fi
+        done
         shift
     done
 
