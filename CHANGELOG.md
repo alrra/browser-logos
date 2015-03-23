@@ -1,3 +1,7 @@
+### HEAD
+
+* Update Chrome logo.
+
 ### 8.7.0 (March 16, 2015)
 
 * Add WaterFox logo
