@@ -1,8 +1,11 @@
 ### HEAD
 
-* Update Chromium logo.
-* Update Chrome Canary logo.
-* Update Chrome logo.
+* Update Chromium logo
+  ([810e4dc](https://github.com/alrra/browser-logos/commit/810e4dc1efbb9ccfafab868ac1bb40a7cf320779)).
+* Update Chrome Canary logo
+  ([4ff5f86](https://github.com/alrra/browser-logos/commit/4ff5f862552c603b663f3ed71df332671aa64aac)).
+* Update Chrome logo
+  ([ba858d0](https://github.com/alrra/browser-logos/commit/ba858d0a577c6490962072994c59987b86a89e9c)).
 
 ### 8.7.0 (March 16, 2015)
 
