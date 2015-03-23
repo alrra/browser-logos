@@ -1,5 +1,6 @@
 ### HEAD
 
+* Update Chromium logo.
 * Update Chrome Canary logo.
 * Update Chrome logo.
 
