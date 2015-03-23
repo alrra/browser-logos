@@ -1,4 +1,4 @@
-### HEAD
+### 8.8.0 (March 24, 2015)
 
 * Update Chromium logo
   ([810e4dc](https://github.com/alrra/browser-logos/commit/810e4dc1efbb9ccfafab868ac1bb40a7cf320779)).
