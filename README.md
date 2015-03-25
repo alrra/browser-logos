@@ -65,12 +65,6 @@ logos are high resolution with transparent backgrounds.
 |:---:|
 | <a href="breach"><img width=140 src="breach/breach_256x256.png" alt="Breach browser logo"></a> |
 
-### Cheetah
-
-| [Cheetah](https://www.cmcm.com/en-us/cm-browser/) |
-|:---:|
-| <a href="cheetah"><img width=140 src="cheetah/cheetah_256x256.png" alt="Cheetah browser logo"></a> |
-
 ### Chrome
 
 | [Chrome](https://www.google.com/chrome/) | [Chrome <br>(Android)](https://www.google.com/intl/en/chrome/browser/mobile/android.html) | [Chrome Beta <br>(Android)](https://www.google.com/intl/en/chrome/browser/mobile/android.html) | [Chrome Canary](https://www.google.com/intl/en/chrome/browser/canary.html) |
@@ -82,6 +76,12 @@ logos are high resolution with transparent backgrounds.
 | [Chromium](https://www.chromium.org/Home) |
 |:---:
 | <a href="chromium"><img width=140 src="chromium/chromium_256x256.png" alt="Chromium browser logo"></a> |
+
+### CM
+
+| [CM](https://www.cmcm.com/en-us/cm-browser/) |
+|:---:|
+| <a href="cm"><img width=140 src="cm/cm_256x256.png" alt="CM browser logo"></a> |
 
 ### Coast
 

@@ -1,3 +1,7 @@
+### HEAD
+
+* Rename Cheetah to CM and update the logo.
+
 ### 8.8.0 (March 24, 2015)
 
 * Update Chromium logo

@@ -40,6 +40,12 @@
 |:---:|
 | <a href="camino"><img width=140 src="camino/camino_256x256.png" alt="Camino browser logo"></a> |
 
+### Cheetah
+
+| [Cheetah](https://en.wikipedia.org/wiki/Cheetah_Mobile) |
+|:---:|
+| <a href="cheetah"><img width=140 src="cheetah/cheetah_256x256.png" alt="Cheetah browser logo"></a> |
+
 ### Chrome
 
 | [Chrome 1-10](https://en.wikipedia.org/wiki/Google_Chrome) |
