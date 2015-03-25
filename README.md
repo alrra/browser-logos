@@ -31,7 +31,7 @@ logos are high resolution with transparent backgrounds.
 
 ### Android
 
-| [Android](http://en.wikipedia.org/wiki/Android_%28operating_system%29) | [Android WebView<br>Beta](https://plus.google.com/+MattGaunt/posts/71X8tBLToLY) |
+| [Android](https://en.wikipedia.org/wiki/Android_%28operating_system%29) | [Android WebView<br>Beta](https://plus.google.com/+MattGaunt/posts/71X8tBLToLY) |
 |:---:|:---:|
 | <a href="android"><img width=140 src="android/android_256x256.png" alt="Android browser logo"></a> | <a href="android-webview-beta"><img width=140 src="android-webview-beta/android-webview-beta_256x256.png" alt="Android WebView Beta logo"></a> |
 
@@ -67,7 +67,7 @@ logos are high resolution with transparent backgrounds.
 
 ### Cheetah
 
-| [Cheetah](http://www.liebao.cn/) |
+| [Cheetah](https://www.cmcm.com/en-us/cm-browser/) |
 |:---:|
 | <a href="cheetah"><img width=140 src="cheetah/cheetah_256x256.png" alt="Cheetah browser logo"></a> |
 
@@ -103,7 +103,7 @@ logos are high resolution with transparent backgrounds.
 
 ### Dolphin
 
-| [Dolphin](http://dolphin.com/) | [Dolphin Zero](http://dolphin.com/) |
+| [Dolphin](https://dolphin.com/) | [Dolphin Zero](https://dolphin.com/) |
 |:---:|:---:|
 | <a href="dolphin"><img width=140 src="dolphin/dolphin_256x256.png" alt="Dolphin browser logo"></a> | <a href="dolphin-zero"><img width=140 src="dolphin-zero/dolphin-zero_256x256.png" alt="Dolphin Zero browser logo"></a> |
 
@@ -145,7 +145,7 @@ logos are high resolution with transparent backgrounds.
 
 ### Iceweasel
 
-| [Iceweasel](http://en.wikipedia.org/wiki/Mozilla_Corporation_software_rebranded_by_the_Debian_project#Iceweasel) |
+| [Iceweasel](https://en.wikipedia.org/wiki/Mozilla_Corporation_software_rebranded_by_the_Debian_project#Iceweasel) |
 |:---:|
 | <a href="iceweasel"><img width=140 src="iceweasel/iceweasel_256x256.png" alt="Iceweasel browser logo"></a> |
 
@@ -235,7 +235,7 @@ logos are high resolution with transparent backgrounds.
 
 ### OmniWeb
 
-| [OmniWeb](https://www.omnigroup.com/more) | [OmniWeb<br>Test Build](http://omnistaging.omnigroup.com/omniweb/) |
+| [OmniWeb](https://www.omnigroup.com/more) | [OmniWeb<br>Test Build](https://omnistaging.omnigroup.com/omniweb/) |
 |:---:|:---:|
 | <a href="omniweb"><img width=140 src="omniweb/omniweb_256x256.png" alt="OmniWeb browser logo"></a> | <a href="omniweb-test-build"><img width=140 src="omniweb-test-build/omniweb-test-build_256x256.png" alt="OmniWeb Test Build browser logo"></a> |
 
@@ -271,7 +271,7 @@ logos are high resolution with transparent backgrounds.
 
 ### Pale Moon
 
-| [Pale Moon](http://www.palemoon.org/) |
+| [Pale Moon](https://www.palemoon.org/) |
 |:---:|
 | <a href="pale-moon"><img width=140 src="pale-moon/pale-moon_256x256.png" alt="Pale Moon browser logo"></a> |
 
@@ -313,7 +313,7 @@ logos are high resolution with transparent backgrounds.
 
 ### Silk
 
-| [Silk](https://amazon.com/silk) |
+| [Silk](https://amazonsilk.wordpress.com/) |
 |:---:|
 | <a href="silk"><img width=140 src="silk/silk_256x256.png" alt="Silk browser logo"></a> |
 
@@ -325,7 +325,7 @@ logos are high resolution with transparent backgrounds.
 
 ### SlimBoat
 
-| [SlimBoat](http://www.slimboat.com/) |
+| [SlimBoat](https://www.slimboat.com/) |
 |:---:|
 | <a href="slimboat"><img width=140 src="slimboat/slimboat_256x256.png" alt="SlimBoat browser logo"></a> |
 
@@ -440,4 +440,4 @@ takedown and we will remove it as soon as possible.
 ## Project origin and history
 
 Read [Paul Irish](https://github.com/paulirish/)'s ["High-res Browser
-Logos"](http://www.paulirish.com/2010/high-res-browser-icons/) blog post.
+Logos"](https://www.paulirish.com/2010/high-res-browser-icons/) blog post.

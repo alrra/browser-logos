@@ -336,13 +336,13 @@
 
 ### UC
 
-| [UC](http://en.wikipedia.org/wiki/UC_Browser) |
+| [UC](https://en.wikipedia.org/wiki/UC_Browser) |
 |:---:|
 | <a href="uc"><img width=140 src="uc/uc_256x256.png" alt="UC browser logo"></a> |
 
 ### Uzbl
 
-| [Uzbl](http://en.wikipedia.org/wiki/Uzbl) |
+| [Uzbl](https://en.wikipedia.org/wiki/Uzbl) |
 |:---:|
 | <a href="uzbl"><img width=140 src="uzbl/uzbl_256x256.png" alt="Uzbl browser logo"></a> |
 
@@ -360,7 +360,7 @@
 
 ### Xpress
 
-| [Xpress](http://en.wikipedia.org/wiki/Nokia_Xpress) [`*`](#note) |
+| [Xpress](https://en.wikipedia.org/wiki/Nokia_Xpress) [`*`](#note) |
 |:---:|
 | <a href="xpress"><img width=140 src="xpress/xpress_256x256.png" alt="Xpress browser logo"></a> |
 
