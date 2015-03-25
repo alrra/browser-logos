@@ -1,6 +1,7 @@
 ### HEAD
 
-* Rename Cheetah to CM and update the logo.
+* Rename Cheetah to CM and update the logo
+  ([7df0961](https://github.com/alrra/browser-logos/commit/7df0961540df82352b3cc4656e46fadf3c86b324)).
 
 ### 8.8.0 (March 24, 2015)
 
