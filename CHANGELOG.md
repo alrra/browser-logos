@@ -1,4 +1,4 @@
-### HEAD
+### 9.2.0 (April 29, 2015)
 
 * Add Microsoft Edge logo
   ([#59](https://github.com/alrra/browser-logos/issues/59)).
