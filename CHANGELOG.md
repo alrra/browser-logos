@@ -1,3 +1,8 @@
+### HEAD
+
+* Add Microsoft Edge logo
+  ([#59](https://github.com/alrra/browser-logos/issues/59)).
+
 ### 9.1.0 (April 29, 2015)
 
 * Add Chrome Dev for Android logo

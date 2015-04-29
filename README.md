@@ -119,6 +119,12 @@ logos are high resolution with transparent backgrounds.
 |:---:|
 | <a href="dooble"><img width=140 src="dooble/dooble_256x256.png" alt="Dooble browser logo"></a> |
 
+### Edge
+
+| [Microsoft Edge](http://blogs.msdn.com/b/ie/archive/2015/04/29/microsoft-edge-is-the-browser-for-windows-10.aspx) |
+|:---:|
+| <a href="edge"><img width=140 src="edge/edge_256x256.png" alt="Microsoft Edge browser logo"></a> |
+
 ### Epic
 
 | [Epic](https://www.epicbrowser.com/) |
