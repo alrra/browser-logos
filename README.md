@@ -67,9 +67,15 @@ logos are high resolution with transparent backgrounds.
 
 ### Chrome
 
-| [Chrome](https://www.google.com/chrome/) | [Chrome <br>(Android)](https://www.google.com/intl/en/chrome/browser/mobile/android.html) | [Chrome Beta <br>(Android)](https://play.google.com/store/apps/details?id=com.chrome.beta) | [Chrome Dev<br>(Android)](https://play.google.com/store/apps/details?id=com.chrome.dev) | [Chrome Canary](https://www.google.com/intl/en/chrome/browser/canary.html) |
-|:---:|:---:|:---:|:---:|:---:|
-| <a href="chrome"><img width=140 src="chrome/chrome_256x256.png" alt="Chrome browser logo"></a> | <a href="chrome-android"><img width=140 src="chrome-android/chrome-android_256x256.png" alt="Chrome for Android browser logo"></a> | <a href="chrome-beta-android"><img width=140 src="chrome-beta-android/chrome-beta-android_256x256.png" alt="Chrome Beta for Android browser logo"></a> | <a href="chrome-dev-android"><img width=140 src="chrome-dev-android/chrome-dev-android_256x256.png" alt="Chrome Dev for Android browser logo"></a> | <a href="chrome-canary"><img width=140 src="chrome-canary/chrome-canary_256x256.png" alt="Chrome Canary browser logo"></a> |
+| [Chrome](https://www.google.com/chrome/) | [Chrome Canary](https://www.google.com/intl/en/chrome/browser/canary.html) |
+|:---:|:---:|
+| <a href="chrome"><img width=140 src="chrome/chrome_256x256.png" alt="Chrome browser logo"></a> | <a href="chrome-canary"><img width=140 src="chrome-canary/chrome-canary_256x256.png" alt="Chrome Canary browser logo"></a> |
+
+### Chrome for Android
+
+| [Chrome <br>(Android)](https://www.google.com/intl/en/chrome/browser/mobile/android.html) | [Chrome Beta <br>(Android)](https://play.google.com/store/apps/details?id=com.chrome.beta) | [Chrome Dev<br>(Android)](https://play.google.com/store/apps/details?id=com.chrome.dev)
+|:---:|:---:|:---:|
+| <a href="chrome-android"><img width=140 src="chrome-android/chrome-android_256x256.png" alt="Chrome for Android browser logo"></a> | <a href="chrome-beta-android"><img width=140 src="chrome-beta-android/chrome-beta-android_256x256.png" alt="Chrome Beta for Android browser logo"></a> | <a href="chrome-dev-android"><img width=140 src="chrome-dev-android/chrome-dev-android_256x256.png" alt="Chrome Dev for Android browser logo"></a> |
 
 ### Chromium
 
