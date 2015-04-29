@@ -1,3 +1,7 @@
+### HEAD
+
+* Add Chrome Dev for Android logo.
+
 ### 9.0.0 (March 25, 2015)
 
 * Rename Cheetah to CM, and update the logo
