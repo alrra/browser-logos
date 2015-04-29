@@ -1,4 +1,4 @@
-### HEAD
+### 9.1.0 (April 29, 2015)
 
 * Add Chrome Dev for Android logo
   ([dfce5b4](https://github.com/alrra/browser-logos/commit/dfce5b4974d934647218482017f94547f349a143)).
