@@ -15,3 +15,4 @@ CONTRIBUTING.md export-ignore
 bower.json export-ignore
 generate-images.sh export-ignore
 package.json export-ignore
+scripts export-ignore

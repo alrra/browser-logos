@@ -10,7 +10,8 @@
     "CHANGELOG.md",
     "CONTRIBUTING.md",
     "generate-images.sh",
-    "package.json"
+    "package.json",
+    "scripts"
   ],
   "keywords": [
     "browser-logos",
