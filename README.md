@@ -121,7 +121,7 @@ logos are high resolution with transparent backgrounds.
 
 ### Edge
 
-| [Microsoft Edge](http://blogs.msdn.com/b/ie/archive/2015/04/29/microsoft-edge-is-the-browser-for-windows-10.aspx) |
+| [Microsoft Edge](https://blogs.msdn.com/b/ie/archive/2015/04/29/microsoft-edge-is-the-browser-for-windows-10.aspx) |
 |:---:|
 | <a href="edge"><img height=140 width=140 src="edge/edge_256x256.png" alt="Microsoft Edge browser logo"></a> |
 
