@@ -146,7 +146,7 @@ main() {
 
     # Ensure that the following actions
     # are made relative to the project root
-    cd "$(dirname ${BASH_SOURCE[0]})"
+    cd "$(dirname ${BASH_SOURCE[0]})" && cd ..
 
     printf "\n"
     generate_images "$@"

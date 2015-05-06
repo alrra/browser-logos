@@ -9,7 +9,6 @@
     ".npmignore",
     "CHANGELOG.md",
     "CONTRIBUTING.md",
-    "generate-images.sh",
     "package.json",
     "scripts"
   ],
