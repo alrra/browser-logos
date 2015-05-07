@@ -1,3 +1,7 @@
+### 9.2.2 (May 5, 2015)
+
+* Make minor improvements.
+
 ### 9.2.1 (May 5, 2015)
 
 * Make minor improvements.
