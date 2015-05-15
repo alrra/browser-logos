@@ -1,4 +1,4 @@
-### HEAD
+### 10.0.0 (May 5, 2015)
 
 * Update Opera Mini logo
   ([3688e98](https://github.com/alrra/browser-logos/commit/3688e98abb6bca04c7dd08a42d5b66c2d18aa76c)).
