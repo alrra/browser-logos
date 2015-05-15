@@ -1,3 +1,7 @@
+### HEAD
+
+* Move the logos of no longer active browsers into the `archive`.
+
 ### 9.2.2 (May 5, 2015)
 
 * Make minor improvements.

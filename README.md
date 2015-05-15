@@ -17,12 +17,6 @@ logos are high resolution with transparent backgrounds.
 |:---:|
 | <a href="360-secure"><img width=140 src="360-secure/360-secure_256x256.png" alt="360 Secure browser logo"></a> |
 
-### Adrenaline
-
-| [Adrenaline](https://www.adrenalinemobility.com/) |
-|:---:|
-| <a href="adrenaline"><img width=140 src="adrenaline/adrenaline_256x256.png" alt="Adrenaline browser logo"></a> |
-
 ### AirWeb
 
 | [AirWeb](http://airwebapp.com/) |
@@ -58,12 +52,6 @@ logos are high resolution with transparent backgrounds.
 | [Boat](http://www.boatmob.com/mobile/product_browser_free.html) |
 |:---:|
 | <a href="boat"><img width=140 src="boat/boat_256x256.png" alt="Boat browser logo"></a> |
-
-### Breach
-
-| [Breach](http://breach.cc/) |
-|:---:|
-| <a href="breach"><img width=140 src="breach/breach_256x256.png" alt="Breach browser logo"></a> |
 
 ### Chrome
 
@@ -131,12 +119,6 @@ logos are high resolution with transparent backgrounds.
 |:---:|
 | <a href="epic"><img width=140 src="epic/epic.png" alt="Epic browser logo"></a> |
 
-### Exsoul
-
-| [Exsoul](http://www.exsoul-browser.com/) |
-|:---:|
-| <a href="exsoul"><img width=140 src="exsoul/exsoul_256x256.png" alt="Exsoul browser logo"></a> |
-
 ### Firefox
 
 | [Firefox](https://www.mozilla.org/en-US/firefox/) | [Firefox Beta](https://www.mozilla.org/beta/) | [Firefox<br>Developer Edition](https://www.mozilla.org/en-US/firefox/developer/) | [Firefox Nightly](https://nightly.mozilla.org/) |
@@ -191,12 +173,6 @@ logos are high resolution with transparent backgrounds.
 |:---:|
 | <a href="link-bubble"><img width=140 src="link-bubble/link-bubble_256x256.png" alt="Link Bubble browser logo"></a> |
 
-### Lunascape
-
-| [iLunascape <br>(Android)](http://www.lunascape.tv/) | [iLunascape <br>(iOS)](http://www.lunascape.tv/) |
-|:---:|:---:|
-| <a href="ilunascape-android"><img width=140 src="ilunascape-android/ilunascape-android_256x256.png" alt="iLunascape for Android browser logo"></a> | <a href="ilunascape-ios"><img width=140 src="ilunascape-ios/ilunascape-ios_256x256.png" alt="iLunascape for iOS browser logo"></a> |
-
 ### Maxthon
 
 | [Maxthon](http://www.maxthon.com/) | [Maxthon Beta](http://www.maxthon.com/) |
@@ -226,12 +202,6 @@ logos are high resolution with transparent backgrounds.
 | [MIHTool](http://www.iunbug.com/mihtool) |
 |:---:|
 | <a href="mihtool"><img width=140 src="mihtool/mihtool_256x256.png" alt="MIHTool browser logo"></a> |
-
-### Mobicip
-
-| [Mobicip](https://www.mobicip.com/products) |
-|:---:|
-| <a href="mobicip"><img width=140 src="mobicip/mobicip_256x256.png" alt="Mobicip browser logo"></a> |
 
 ### NetSurf
 
@@ -275,23 +245,11 @@ logos are high resolution with transparent backgrounds.
 |:---:|
 | <a href="orbitum"><img width=140 src="orbitum/orbitum_256x256.png" alt="Orbitum browser logo"></a> |
 
-### Orweb
-
-| [Orweb](https://guardianproject.info/apps/orweb/) |
-|:---:|
-| <a href="orweb"><img width=140 src="orweb/orweb_256x256.png" alt="Orweb browser logo"></a> |
-
 ### Pale Moon
 
 | [Pale Moon](https://www.palemoon.org/) |
 |:---:|
 | <a href="pale-moon"><img width=140 src="pale-moon/pale-moon_256x256.png" alt="Pale Moon browser logo"></a> |
-
-### Photon
-
-| [Photon](http://www.appsverse.com/) |
-|:---:|
-| <a href="photon"><img width=140 src="photon/photon_256x256.png" alt="Photon browser logo"></a> |
 
 ### Puffin
 
@@ -337,7 +295,7 @@ logos are high resolution with transparent backgrounds.
 
 ### SlimBoat
 
-| [SlimBoat](https://www.slimboat.com/) |
+| [SlimBoat](http://www.slimboat.com/) |
 |:---:|
 | <a href="slimboat"><img width=140 src="slimboat/slimboat_256x256.png" alt="SlimBoat browser logo"></a> |
 
