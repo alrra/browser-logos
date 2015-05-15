@@ -274,6 +274,12 @@
 |:---:|:---:|:---:|
 | <a href="opera_2-6"><img width=140 src="opera_2-6/opera_2-6_256x256.png" alt="Opera 2-6 browser logo"></a> | <a href="opera_7-9"><img width=140 src="opera_7-9/opera_7-9_256x256.png" alt="Opera 7-9 browser logo"></a> | <a href="opera_10-14"><img width=140 src="opera_10-14/opera_10-14_256x256.png" alt="Opera 10-14 browser logo"></a> |
 
+### Opera Mini
+
+| [Opera Mini](http://www.opera.com/mobile/mini) [`*`](#note) |
+|:---:|
+| <a href="opera-mini"><img width=140 src="opera-mini/opera-mini_256x256.png" alt="Opera Mini browser logo"></a> |
+
 ### Opera Next
 
 | [Opera Next 15](https://en.wikipedia.org/wiki/Opera_%28web_browser%29#Opera_Developer_and_Opera_Next) |

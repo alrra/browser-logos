@@ -1,5 +1,6 @@
 ### HEAD
 
+* Update Opera Mini logo.
 * Move the logos of no longer active browsers into the `archive`
   ([2ee2507](https://github.com/alrra/browser-logos/commit/2ee250770fbf7a9421d311394ef8aa926632a4df)).
 
