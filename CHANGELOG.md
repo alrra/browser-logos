@@ -1,6 +1,7 @@
 ### HEAD
 
-* Move the logos of no longer active browsers into the `archive`.
+* Move the logos of no longer active browsers into the `archive`
+  ([2ee2507](https://github.com/alrra/browser-logos/commit/2ee250770fbf7a9421d311394ef8aa926632a4df)).
 
 ### 9.2.2 (May 5, 2015)
 
