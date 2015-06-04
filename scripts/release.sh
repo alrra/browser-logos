@@ -37,10 +37,6 @@ update() {
 
 }
 
-update_bower_json() {
-    node -e "var json = require('./$1');json.version='$2';console.log(JSON.stringify(json, null, 2));" > "$3"
-}
-
 update_changelog() {
 
     declare -r DATE="$(date +"%B %-m, %Y")"
@@ -82,7 +78,6 @@ main() {
     fi
 
     update_package_json "$VERSION" \
-        && update "bower.json" "update_bower_json" "$VERSION" \
         && update "CHANGELOG.md" "update_changelog" "$VERSION" \
         && update "README.md" "update_readme" "$VERSION" \
         && git_commit "$VERSION" \
