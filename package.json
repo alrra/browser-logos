@@ -11,5 +11,6 @@
     "type": "git",
     "url": "git@github.com:alrra/browser-logos.git"
   },
-  "version": "10.0.1"
+  "scripts": {},
+  "version": "10.0.2"
 }

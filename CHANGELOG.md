@@ -1,4 +1,4 @@
-### HEAD
+### 10.0.2 (June 4, 2015)
 
 * Make minor improvements
   ([fe8cb42](https://github.com/alrra/browser-logos/commit/fe8cb42c07c242c8ea3bba2a1568bf7a8927b830)).
