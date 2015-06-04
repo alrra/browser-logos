@@ -1,3 +1,8 @@
+### HEAD
+
+* Make minor improvements
+  ([fe8cb42](https://github.com/alrra/browser-logos/commit/fe8cb42c07c242c8ea3bba2a1568bf7a8927b830)).
+
 ### 10.0.1 (May 18, 2015)
 
 * Make minor improvements.
