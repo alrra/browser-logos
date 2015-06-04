@@ -39,7 +39,7 @@ update() {
 
 update_changelog() {
 
-    declare -r DATE="$(date +"%B %-m, %Y")"
+    declare -r DATE="$(date +"%B %-d, %Y")"
     declare -r RELEASE_HEADER="$2 ($DATE)"
 
     cat "$1" | grep "HEAD" &> /dev/null;

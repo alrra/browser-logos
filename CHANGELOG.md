@@ -1,19 +1,19 @@
-10.0.1 (May 5, 2015)
+### 10.0.1 (May 18, 2015)
 
 * Make minor improvements.
 
-### 10.0.0 (May 5, 2015)
+### 10.0.0 (May 16, 2015)
 
 * Update Opera Mini logo
   ([3688e98](https://github.com/alrra/browser-logos/commit/3688e98abb6bca04c7dd08a42d5b66c2d18aa76c)).
 * Move the logos of no longer active browsers into the `archive`
   ([2ee2507](https://github.com/alrra/browser-logos/commit/2ee250770fbf7a9421d311394ef8aa926632a4df)).
 
-### 9.2.2 (May 5, 2015)
+### 9.2.2 (May 7, 2015)
 
 * Make minor improvements.
 
-### 9.2.1 (May 5, 2015)
+### 9.2.1 (May 6, 2015)
 
 * Make minor improvements.
 
