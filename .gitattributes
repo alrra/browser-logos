@@ -15,3 +15,10 @@ CONTRIBUTING.md export-ignore
 bower.json export-ignore
 package.json export-ignore
 scripts export-ignore
+
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+# Exclude the following files from GitHub's language statistics
+# https://github.com/github/linguist#using-gitattributes
+
+scripts/* linguist-vendored
