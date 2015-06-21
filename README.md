@@ -349,9 +349,9 @@ logos are high resolution with transparent backgrounds.
 
 ### Yandex
 
-| [Yandex](https://browser.yandex.com/) | [Yandex Alpha](https://browser.yandex.com/future/) |
-|:---:|:---:|
-| <a href="yandex"><img width=140 src="yandex/yandex_256x256.png" alt="Yandex browser logo"></a> | <a href="yandex-alpha"><img width=140 src="yandex-alpha/yandex-alpha_256x256.png" alt="Yandex Alpha browser logo"></a> |
+| [Yandex](https://browser.yandex.com/) |
+|:---:|
+| <a href="yandex"><img width=140 src="yandex/yandex_256x256.png" alt="Yandex browser logo"></a> |
 
 ### Archive
 

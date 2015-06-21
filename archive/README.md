@@ -412,6 +412,13 @@
 |:---:|
 | <a href="xtravo"><img width=140 src="xtravo/xtravo_256x256.png" alt="Xtravo browser logo"></a> |
 
+### Yandex
+
+| [Yandex](https://en.wikipedia.org/wiki/Yandex_Browser) [`*`](#note) |
+|:---:|
+| <a href="yandex"><img width=140 src="yandex/yandex_256x256.png" alt="Yandex browser logo"></a> |
+
+
 --
 
 ### Note:
