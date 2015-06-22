@@ -1,4 +1,4 @@
-### HEAD
+### 11.0.0 (June 22, 2015)
 
 * Update Yandex logo
   ([096d3b7](https://github.com/alrra/browser-logos/commit/096d3b750d6c5806ed0449df7ad7d650c4614421)).
