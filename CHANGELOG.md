@@ -1,6 +1,7 @@
 ### HEAD
 
-* Update Yandex logo.
+* Update Yandex logo
+  ([096d3b7](https://github.com/alrra/browser-logos/commit/096d3b750d6c5806ed0449df7ad7d650c4614421)).
 
 ### 10.0.2 (June 4, 2015)
 
