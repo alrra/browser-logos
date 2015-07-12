@@ -1,3 +1,7 @@
+### HEAD
+
+* Make minor improvements.
+
 ### 11.0.0 (June 22, 2015)
 
 * Update Yandex logo

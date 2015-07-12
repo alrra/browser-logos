@@ -36,13 +36,13 @@
 
 ### Baidu
 
-| [Baidu](http://global.baidu.com/browser/) [`*`](#note)|
+| [Baidu](https://global.baidu.com/browser/) [`*`](#note)|
 |:---:|
 | <a href="baidu"><img width=140 src="baidu/baidu_256x256.png" alt="Baidu browser logo"></a> |
 
 ### Breach
 
-| [Breach](http://breach.cc/) [`*`](#note) |
+| [Breach](https://github.com/breach) [`*`](#note) |
 |:---:|
 | <a href="breach"><img width=140 src="breach/breach_256x256.png" alt="Breach browser logo"></a> |
 
