@@ -1,3 +1,7 @@
+### HEAD 
+
+* Further losslessly optimize images.
+
 ### 12.0.0 (August 6, 2015)
 
 * Rename `webkit` to `webkit-nightly`
