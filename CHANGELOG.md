@@ -1,6 +1,7 @@
 ### HEAD
 
-* Rename `webkit` to `webkit-nightly`.
+* Rename `webkit` to `webkit-nightly`
+  ([c7ca213](https://github.com/alrra/browser-logos/commit/c7ca2134ebb8e1809d0f739638d33be174979f09)).
 * Update WebKit logo
   ([#68](https://github.com/alrra/browser-logos/issues/68)).
 
