@@ -396,9 +396,9 @@
 
 ### WebKit
 
-| [WebKit 1-7](https://en.wikipedia.org/wiki/WebKit) |
+| [Webkit Nightly 1-7](https://en.wikipedia.org/wiki/WebKit) |
 |:---:|
-| <a href="webkit_1-7"><img width=140 src="webkit_1-7/webkit_1-7_256x256.png" alt="WebKit 1-7 browser logo"></a> |
+| <a href="webkit-nightly_1-7"><img width=140 src="webkit-nightly_1-7/webkit-nightly_1-7_256x256.png" alt="WebKit Nightly 1-7 browser logo"></a> |
 
 ### Wyzo
 

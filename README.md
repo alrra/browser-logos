@@ -343,9 +343,9 @@ logos are high resolution with transparent backgrounds.
 
 ### WebKit
 
-| [WebKit](https://www.webkit.org/) |
+| [WebKit Nightly](http://nightly.webkit.org/) |
 |:---:|
-| <a href="webkit"><img width=140 src="webkit/webkit_256x256.png" alt="WebKit browser logo"></a> |
+| <a href="webkit-nightly"><img width=140 src="webkit-nightly/webkit-nightly_256x256.png" alt="WebKit Nightly browser logo"></a> |
 
 ### Yandex
 

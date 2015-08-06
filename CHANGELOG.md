@@ -1,5 +1,6 @@
 ### HEAD
 
+* Rename `webkit` to `webkit-nightly`.
 * Update WebKit logo
   ([#68](https://github.com/alrra/browser-logos/issues/68)).
 
