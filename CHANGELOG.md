@@ -1,4 +1,4 @@
-### HEAD
+### 12.0.0 (August 6, 2015)
 
 * Rename `webkit` to `webkit-nightly`
   ([c7ca213](https://github.com/alrra/browser-logos/commit/c7ca2134ebb8e1809d0f739638d33be174979f09)).
