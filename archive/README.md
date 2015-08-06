@@ -394,6 +394,12 @@
 |:---:|
 | <a href="vitrum"><img width=140 src="vitrum/vitrum_256x256.png" alt="Vitrum browser logo"></a> |
 
+### WebKit
+
+| [WebKit 1-7](https://en.wikipedia.org/wiki/WebKit) |
+|:---:|
+| <a href="webkit_1-7"><img width=140 src="webkit_1-7/webkit_1-7_256x256.png" alt="WebKit 1-7 browser logo"></a> |
+
 ### Wyzo
 
 | [Wyzo](https://en.wikipedia.org/wiki/Wyzo) |

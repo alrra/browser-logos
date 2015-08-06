@@ -343,7 +343,7 @@ logos are high resolution with transparent backgrounds.
 
 ### WebKit
 
-| [WebKit](http://nightly.webkit.org/) |
+| [WebKit](https://www.webkit.org/) |
 |:---:|
 | <a href="webkit"><img width=140 src="webkit/webkit_256x256.png" alt="WebKit browser logo"></a> |
 

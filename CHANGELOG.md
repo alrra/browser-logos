@@ -1,3 +1,8 @@
+### HEAD
+
+* Update WebKit logo
+  ([#68](https://github.com/alrra/browser-logos/issues/68)).
+
 ### 11.0.1 (July 12, 2015)
 
 * Make minor improvements.
