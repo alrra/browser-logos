@@ -43,9 +43,9 @@ logos are high resolution with transparent backgrounds.
 
 ### Baidu
 
-| [Baidu](https://global.baidu.com/browser/) |
+| [Baidu (Mobile)](http://global.baidu.com/browser/) |
 |:---:|
-| <a href="baidu"><img width=140 src="baidu/baidu_256x256.png" alt="Baidu browser logo"></a> |
+| <a href="baidu-mobile"><img width=140 src="baidu-mobile/baidu-mobile_256x256.png" alt="Baidu Mobile browser logo"></a> |
 
 ### Boat
 

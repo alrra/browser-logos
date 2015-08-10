@@ -1,5 +1,6 @@
 ### HEAD
 
+* Rename `baidu` to `baidu-mobile`.
 * Update Sogou Mobile logo
   ([70d49c9](https://github.com/alrra/browser-logos/commit/70d49c97d79f228c6e0c9f03b43964599f81c2d2)).
 * Update Baidu logo
