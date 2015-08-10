@@ -83,18 +83,6 @@ logos are high resolution with transparent backgrounds.
 |:---:|:---:|
 | <a href="coast"><img width=140 src="coast/coast_256x256.png" alt="Coast browser logo"></a> |
 
-### Diigo
-
-| [Diigo](https://www.diigo.com/tools) |
-|:---:|:---:|
-| <a href="diigo"><img width=140 src="diigo/diigo_256x256.png" alt="Diigo browser logo"></a> |
-
-### Docler
-
-| [Docler](http://doclerbrowser.com/) |
-|:---:|:---:|
-| <a href="docler"><img width=140 src="docler/docler_256x256.png" alt="Docler browser logo"></a> |
-
 ### Dolphin
 
 | [Dolphin](https://dolphin.com/) | [Dolphin Zero](https://dolphin.com/) |
@@ -185,12 +173,6 @@ logos are high resolution with transparent backgrounds.
 |:---:|
 | <a href="mercury"><img width=140 src="mercury/mercury_256x256.png" alt="Mercury browser logo"></a> |
 
-### MetaCert
-
-| [MetaCert](https://metacert.com/) |
-|:---:|
-| <a href="metacert"><img width=140 src="metacert/metacert_256x256.png" alt="MetaCert browser logo"></a> |
-
 ### Midori
 
 | [Midori](http://www.midori-browser.org/) |
@@ -209,23 +191,11 @@ logos are high resolution with transparent backgrounds.
 |:---:|
 | <a href="netsurf"><img width=140 src="netsurf/netsurf_256x256.png" alt="NetSurf browser logo"></a> |
 
-### Ninesky
-
-| [Ninesky](https://play.google.com/store/apps/details?id=com.ninesky.browser) |
-|:---:|
-| <a href="ninesky"><img width=140 src="ninesky/ninesky_256x256.png" alt="Ninesky browser logo"></a> |
-
 ### OmniWeb
 
 | [OmniWeb](https://www.omnigroup.com/more) | [OmniWeb<br>Test Build](https://omnistaging.omnigroup.com/omniweb/) |
 |:---:|:---:|
 | <a href="omniweb"><img width=140 src="omniweb/omniweb_256x256.png" alt="OmniWeb browser logo"></a> | <a href="omniweb-test-build"><img width=140 src="omniweb-test-build/omniweb-test-build_256x256.png" alt="OmniWeb Test Build browser logo"></a> |
-
-### Onion
-
-| [Onion](https://mike.tig.as/onionbrowser/) |
-|:---:|
-| <a href="onion"><img width=140 src="onion/onion_256x256.png" alt="Onion browser logo"></a> |
 
 ### Opera
 

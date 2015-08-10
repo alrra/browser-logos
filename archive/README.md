@@ -96,10 +96,16 @@
 
 ### Diigo
 
-| [Diigo](https://www.diigo.com/tools) |
+| [Diigo](https://en.wikipedia.org/wiki/Diigo) [`1*`](#note) | [Diigo](https://en.wikipedia.org/wiki/Diigo) [`2*`](#note) |
 |:---:|:---:|
-| <a href="diigo"><img width=140 src="diigo/diigo_256x256.png" alt="Diigo browser logo"></a> |
+| <a href="diigo_1"><img width=140 src="diigo_1/diigo_1_256x256.png" alt="Diigo browser logo"></a> | <a href="diigo_2"><img width=140 src="diigo_2/diigo_2_256x256.png" alt="Diigo browser logo"></a> |
 
+### Docler
+
+| [Docler](https://web.archive.org/web/20150801111856/http://doclerbrowser.com/) [`*`](#note)  |
+|:---:|:---:|
+| <a href="docler"><img width=140 src="docler/docler_256x256.png" alt="Docler browser logo"></a> |
+     
 ### Dolphin
 
 | [Dolphin](https://en.wikipedia.org/wiki/Dolphin_Browser) [`*`](#note) |
@@ -231,6 +237,12 @@
 | [Mercury](https://mercury-browser.com/) [`*`](#note) |
 |:---:|
 | <a href="mercury"><img width=140 src="mercury/mercury_256x256.png" alt="Mercury browser logo"></a> |
+ 
+### MetaCert
+
+| [MetaCert](https://metacert.com/) [`*`](#note) |
+|:---:|
+| <a href="metacert"><img width=140 src="metacert/metacert_256x256.png" alt="MetaCert browser logo"></a> |
 
 ### Mobicip
 
@@ -255,6 +267,12 @@
 | [Next](http://nextbrowser.goforandroid.com/) |
 |:---:|
 | <a href="next"><img width=140 src="next/next_256x256.png" alt="Next browser logo"></a> |
+ 
+### Ninesky
+
+| [Ninesky](https://web.archive.org/web/20140102181923/http://ninesky.com/) [`*`](#note)  |
+|:---:|
+| <a href="ninesky"><img width=140 src="ninesky/ninesky_256x256.png" alt="Ninesky browser logo"></a> |
 
 ### NLIA
 
@@ -267,7 +285,13 @@
 | [ONE (Android)](http://one-browser.com/mobile/home) [`*`](#note) | [ONE (iOS)](http://one-browser.com/mobile/home) [`*`](#note) |
 |:---:|:---:|
 | <a href="one-android"><img width=140 src="one-android/one-android_256x256.png" alt="ONE for Android browser logo"></a> | <a href="one-ios"><img width=140 src="one-ios/one-ios_256x256.png" alt="ONE for iOS browser logo"></a> |
+ 
+### Onion
 
+| [Onion](https://github.com/OnionBrowser/iOS-OnionBrowser) [`*`](#note) |
+|:---:|
+| <a href="onion"><img width=140 src="onion/onion_256x256.png" alt="Onion browser logo"></a> |
+ 
 ### Opera
 
 | [Opera 2-6](https://en.wikipedia.org/wiki/Opera_%28web_browser%29) | [Opera 7-9](https://en.wikipedia.org/wiki/Opera_%28web_browser%29) | [Opera 10-14](https://en.wikipedia.org/wiki/Opera_%28web_browser%29) |
