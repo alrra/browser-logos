@@ -1,5 +1,6 @@
 ### HEAD
 
+* Update Sogou Mobile logo.
 * Update Baidu logo.
 * Move logos of no longer active browsers in `archive`.
 

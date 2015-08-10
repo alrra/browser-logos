@@ -372,9 +372,9 @@
 
 ### Sogou
 
-| [Sogou (Mobile)](https://en.wikipedia.org/wiki/Sogou#Sogou_browser) [`*`](#note) |
-|:---:|
-| <a href="sogou-mobile"><img width=140 src="sogou-mobile/sogou-mobile_256x256.png" alt="Sogou Mobile browser logo"></a> |
+| [Sogou (Mobile)](https://en.wikipedia.org/wiki/Sogou#Sogou_browser) [`1*`](#note) | [Sogou (Mobile)](https://en.wikipedia.org/wiki/Sogou#Sogou_browser) [`2*`](#note) |
+|:---:|:---:|
+| <a href="sogou-mobile_1"><img width=140 src="sogou-mobile_1/sogou-mobile_1_256x256.png" alt="Sogou Mobile browser logo"></a> | <a href="sogou-mobile_2"><img width=140 src="sogou-mobile_2/sogou-mobile_2_256x256.png" alt="Sogou Mobile browser logo"></a> |
 
 ### Stainless
 
