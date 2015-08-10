@@ -1,3 +1,8 @@
+### HEAD
+
+* Update Baidu logo.
+* Move logos of no longer active browsers in `archive`.
+
 ### 12.0.1 (August 7, 2015) 
 
 * Further losslessly optimize images
@@ -83,7 +88,7 @@
 
 * Update Dolphin logo
   ([ca303a5](https://github.com/alrra/browser-logos/commit/ca303a59454cc7f13469b83ce7c0877f17d77366)).
-* Move logos of no longer active browsers to archive
+* Move logos of no longer active browsers to `archive`
   ([c261cbd](https://github.com/alrra/browser-logos/commit/c261cbdda29a8c86372d24ec9f0f14310f3c52e1)).
 
 ### 8.4.0 (February 13, 2015)
@@ -110,7 +115,7 @@
 
 ### 8.0.0 (January 18, 2015)
 
-* Move the K-Meleon logo outside of the archive
+* Move the K-Meleon logo outside of the `archive`
   ([2365277](https://github.com/alrra/browser-logos/commit/2365277b081ae200269f74a24cfb3416e216669b)).
 
 ### 7.2.0 (January 18, 2015)
@@ -246,7 +251,7 @@
 
 ### 3.0.0 (November 10, 2014)
 
-* Move Firefox Aurora logo into the archive
+* Move Firefox Aurora logo into the `archive`
   ([5ca7ec1](https://github.com/alrra/browser-logos/commit/5ca7ec1a23b174795c849a1d16f407ef23fcb3c3)).
 
 ### 2.1.0 (November 10, 2014)
