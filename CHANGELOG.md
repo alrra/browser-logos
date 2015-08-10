@@ -1,8 +1,11 @@
 ### HEAD
 
-* Update Sogou Mobile logo.
-* Update Baidu logo.
-* Move logos of no longer active browsers in `archive`.
+* Update Sogou Mobile logo
+  ([70d49c9](https://github.com/alrra/browser-logos/commit/70d49c97d79f228c6e0c9f03b43964599f81c2d2)).
+* Update Baidu logo
+  ([0433466](https://github.com/alrra/browser-logos/commit/04334669a8eed5bba4cefc337fc32621bdaa2ef0)).
+* Move logos of no longer active browsers in `archive`
+  ([3318252](https://github.com/alrra/browser-logos/commit/3318252c53835cb000a3ddb791bc03b5f8e02553)).
 
 ### 12.0.1 (August 7, 2015) 
 
