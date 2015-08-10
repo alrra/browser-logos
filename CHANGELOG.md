@@ -1,4 +1,4 @@
-### HEAD
+### 13.0.0 (August 10, 2015)
 
 * Rename `baidu` to `baidu-mobile`
   ([b0e6222](https://github.com/alrra/browser-logos/commit/b0e6222d75ad91daac8f7f433c6ea136af65e086)).
