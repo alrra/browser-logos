@@ -1,18 +1,18 @@
 ### Adrenaline
 
-| [Adrenaline](https://www.adrenalinemobility.com/) |
+| [Adrenaline](https://web.archive.org/web/20141218215235/http://www.adrenalinemobility.com/) |
 |:---:|
 | <a href="adrenaline"><img width=140 src="adrenaline/adrenaline_256x256.png" alt="Adrenaline browser logo"></a> |
 
 ### AllInOne
 
-| [AllInOne](http://www.allinonebrowser.com/) |
+| [AllInOne](https://web.archive.org/web/20150801011234/http://allinonebrowser.com/) |
 |:---:|
 | <a href="allinone"><img width=140 src="allinone/allinone_256x256.png" alt="AllInOne browser logo"></a> |
 
 ### Apollo
 
-| [Apollo](https://apollobrowser.wordpress.com/) |
+| [Apollo](https://web.archive.org/web/20141006164535/http://apollobrowser.wordpress.com/the-most-innovative-browser-for-ipad/) |
 |:---:|
 | <a href="apollo"><img width=140 src="apollo/apollo_256x256.png" alt="Apollo browser logo"></a> |
 
@@ -24,7 +24,7 @@
 
 ### Atomic
 
-| [Atomic](http://atomicwebbrowser.com/) |
+| [Atomic](https://web.archive.org/web/20150801050429/http://atomicwebbrowser.com/) |
 |:---:|
 | <a href="atomic"><img width=140 src="atomic/atomic_256x256.png" alt="Atomic browser logo"></a> |
 
@@ -36,7 +36,7 @@
 
 ### Baidu
 
-| [Baidu (Mobile)](http://global.baidu.com/browser/) [`1*`](#note)| [Baidu (Mobile)](http://global.baidu.com/browser/) [`2*`](#note) |
+| [Baidu (Mobile)](https://web.archive.org/web/20150726085553/http://global.baidu.com/browser/) [`1*`](#note)| [Baidu (Mobile)](https://web.archive.org/web/20150726085553/http://global.baidu.com/browser/) [`2*`](#note) |
 |:---:|:---:|
 | <a href="baidu-mobile_1"><img width=140 src="baidu-mobile_1/baidu-mobile_1_256x256.png" alt="Baidu Mobile browser logo"></a> | <a href="baidu-mobile_2"><img width=140 src="baidu-mobile_2/baidu-mobile_2_256x256.png" alt="Baidu Mobile browser logo"></a> |
 
@@ -84,7 +84,7 @@
 
 ### Cruz
 
-| [Cruz](http://celestialteapot.com/) |
+| [Cruz](https://en.wikipedia.org/wiki/Fluid_%28web_browser%29) |
 |:---:|:---:|
 | <a href="cruz"><img width=140 src="cruz/cruz_256x256.png" alt="Cruz browser logo"></a> |
 
@@ -132,13 +132,13 @@
 
 ### Exsoul
 
-| [Exsoul](http://www.exsoul-browser.com/) [`1*`](#note) | [Exsoul](http://www.exsoul-browser.com/) [`2*`](#note) |
+| [Exsoul](https://web.archive.org/web/20150803013210/http://www.exsoul-browser.com/) [`1*`](#note) | [Exsoul](https://web.archive.org/web/20150803013210/http://www.exsoul-browser.com/) [`2*`](#note) |
 |:---:|:---:|
 | <a href="exsoul_1"><img width=140 src="exsoul_1/exsoul_1_256x256.png" alt="Exsoul browser logo"></a> | <a href="exsoul_2"><img width=140 src="exsoul_2/exsoul_2_256x256.png" alt="Exsoul browser logo"></a> |
 
 ### Fake
 
-| [Fake](http://fakeapp.com/) |
+| [Fake](https://web.archive.org/web/20150801071338/http://fakeapp.com/) |
 |:---:|
 | <a href="fake"><img width=140 src="fake/fake_256x256.png" alt="Fake browser logo"></a> |
 
@@ -186,7 +186,7 @@
 
 ### iLunascape
 
-| [iLunascape <br>(Android)](http://www.lunascape.tv/) [`*`](#note) | [iLunascape <br>(iOS)](http://www.lunascape.tv/) [`*`](#note) |
+| [iLunascape <br>(Android)](https://en.wikipedia.org/wiki/Lunascape) [`*`](#note) | [iLunascape <br>(iOS)](https://en.wikipedia.org/wiki/Lunascape) [`*`](#note) |
 |:---:|:---:|
 | <a href="ilunascape-android"><img width=140 src="ilunascape-android/ilunascape-android_256x256.png" alt="iLunascape for Android browser logo"></a> | <a href="ilunascape-ios"><img width=140 src="ilunascape-ios/ilunascape-ios_256x256.png" alt="iLunascape for iOS browser logo"></a> |
 
@@ -228,19 +228,19 @@
 
 ### Link Bubble
 
-| [Link Bubble 1-1.4](http://www.linkbubble.com/) |
+| [Link Bubble 1-1.4](https://web.archive.org/web/20150320102407/http://www.linkbubble.com/) |
 |:---:|
 | <a href="link-bubble_1-1.4"><img width=140 src="link-bubble_1-1.4/link-bubble_1-1.4_256x256.png" alt="Link Bubble 1-1.4 browser logo"></a> |
 
 ### Mercury
 
-| [Mercury](https://mercury-browser.com/) [`*`](#note) |
+| [Mercury](https://en.wikipedia.org/wiki/Mercury_Browser) [`*`](#note) |
 |:---:|
 | <a href="mercury"><img width=140 src="mercury/mercury_256x256.png" alt="Mercury browser logo"></a> |
 
 ### MetaCert
 
-| [MetaCert](https://metacert.com/) [`*`](#note) |
+| [MetaCert](https://web.archive.org/web/20150624200845/https://metacert.com/) [`*`](#note) |
 |:---:|
 | <a href="metacert"><img width=140 src="metacert/metacert_256x256.png" alt="MetaCert browser logo"></a> |
 
@@ -264,7 +264,7 @@
 
 ### Next
 
-| [Next](http://nextbrowser.goforandroid.com/) |
+| [Next](https://web.archive.org/web/20141116131240/http://nextbrowser.goforandroid.com/) |
 |:---:|
 | <a href="next"><img width=140 src="next/next_256x256.png" alt="Next browser logo"></a> |
 
@@ -276,13 +276,13 @@
 
 ### NLIA
 
-| [NLIA](http://e.netpia.com/) |
+| [NLIA](https://web.archive.org/web/20150411053800/http://e.netpia.com/) |
 |:---:|
 | <a href="nlia"><img width=140 src="nlia/nlia_256x256.png" alt="NLIA browser logo"></a> |
 
 ### ONE
 
-| [ONE (Android)](http://one-browser.com/mobile/home) [`*`](#note) | [ONE (iOS)](http://one-browser.com/mobile/home) [`*`](#note) |
+| [ONE (Android)](https://web.archive.org/web/20140406142259/http://one-browser.com/mobile/home/) [`*`](#note) | [ONE (iOS)](https://web.archive.org/web/20140406142259/http://one-browser.com/mobile/home/) [`*`](#note) |
 |:---:|:---:|
 | <a href="one-android"><img width=140 src="one-android/one-android_256x256.png" alt="ONE for Android browser logo"></a> | <a href="one-ios"><img width=140 src="one-ios/one-ios_256x256.png" alt="ONE for iOS browser logo"></a> |
 
@@ -300,7 +300,7 @@
 
 ### Opera Mini
 
-| [Opera Mini](http://www.opera.com/mobile/mini) [`*`](#note) |
+| [Opera Mini](https://en.wikipedia.org/wiki/Opera_Mini) [`*`](#note) |
 |:---:|
 | <a href="opera-mini"><img width=140 src="opera-mini/opera-mini_256x256.png" alt="Opera Mini browser logo"></a> |
 
@@ -312,19 +312,19 @@
 
 ### Orweb
 
-| [Orweb](https://guardianproject.info/apps/orweb/) |
+| [Orweb](https://web.archive.org/web/20150802023241/https://guardianproject.info/apps/orweb/) |
 |:---:|
 | <a href="orweb"><img width=140 src="orweb/orweb_256x256.png" alt="Orweb browser logo"></a> |
 
 ### Photon
 
-| [Photon](http://www.appsverse.com/) |
+| [Photon](https://web.archive.org/web/20150629011134/http://www.appsverse.com/Index) |
 |:---:|
 | <a href="photon"><img width=140 src="photon/photon_256x256.png" alt="Photon browser logo"></a> |
 
 ### QQ
 
-| [QQ](http://browser.qq.com/) [`*`](#note) |
+| [QQ](https://web.archive.org/web/*/http://browser.qq.com/) [`*`](#note) |
 |:---:|
 | <a href="qq"><img width=140 src="qq/qq.png" alt="QQ browser logo"></a> |
 
@@ -366,7 +366,7 @@
 
 ### Sleipnir
 
-| [Sleipnir (Mobile)](http://www.fenrir-inc.com/us/sleipnir-family/) [`*`](#note) |
+| [Sleipnir (Mobile)](https://en.wikipedia.org/wiki/Sleipnir_%28web_browser%29) [`*`](#note) |
 |:---:|
 | <a href="sleipnir-mobile"><img width=140 src="sleipnir-mobile/sleipnir-mobile_256x256.png" alt="Sleipnir Mobile browser logo"></a> |
 
@@ -384,7 +384,7 @@
 
 ### Super Fast
 
-| [Super Fast](http://www.sfbrowser.com/) |
+| [Super Fast](https://web.archive.org/web/20150423215607/http://www.sfbrowser.com/) |
 |:---:|
 | <a href="superfast"><img width=140 src="superfast/superfast_256x256.png" alt="Super Fast browser logo"></a> |
 
@@ -414,7 +414,7 @@
 
 ### Vitrum
 
-| [Vitrum](http://capablebits.com/) |
+| [Vitrum](https://web.archive.org/web/20140928181625/https://itunes.apple.com/us/app/vitrum-unique-web-browser/id569847799?mt=8) |
 |:---:|
 | <a href="vitrum"><img width=140 src="vitrum/vitrum_256x256.png" alt="Vitrum browser logo"></a> |
 
