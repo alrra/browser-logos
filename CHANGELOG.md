@@ -1,6 +1,7 @@
 ### HEAD
 
-* Update WaterFox logo.
+* Update WaterFox logo
+  ([8b2a49d](https://github.com/alrra/browser-logos/commit/8b2a49d6a8f4feb60f323c0d4f1de9b7d67c5801)).
 
 ### 13.0.0 (August 10, 2015)
 
