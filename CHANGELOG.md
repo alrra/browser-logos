@@ -1,3 +1,7 @@
+### HEAD
+
+* Update WaterFox logo.
+
 ### 13.0.0 (August 10, 2015)
 
 * Rename `baidu` to `baidu-mobile`

@@ -402,7 +402,7 @@
 
 ### UC
 
-| [UC](https://en.wikipedia.org/wiki/UC_Browser)  [`*`](#note)  |
+| [UC](https://en.wikipedia.org/wiki/UC_Browser) [`*`](#note) |
 |:---:|
 | <a href="uc"><img width=140 src="uc/uc_256x256.png" alt="UC browser logo"></a> |
 
@@ -417,6 +417,12 @@
 | [Vitrum](https://web.archive.org/web/20140928181625/https://itunes.apple.com/us/app/vitrum-unique-web-browser/id569847799?mt=8) |
 |:---:|
 | <a href="vitrum"><img width=140 src="vitrum/vitrum_256x256.png" alt="Vitrum browser logo"></a> |
+
+### WaterFox
+
+| [WaterFox](https://en.wikipedia.org/wiki/Waterfox) [`*`](#note) |
+|:---:|
+| <a href="waterfox"><img width=140 src="waterfox/waterfox.png" alt="WaterFox browser logo"></a> |
 
 ### WebKit
 
