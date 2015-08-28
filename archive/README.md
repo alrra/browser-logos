@@ -418,6 +418,12 @@
 |:---:|
 | <a href="swiftfox"><img width=140 src="swiftfox/swiftfox_256x256.png" alt="Swiftfox browser logo"></a> |
 
+### Torch
+
+| [Torch](https://en.wikipedia.org/wiki/Torch_%28browser%29) |
+|:---:|
+| <a href="torch"><img width=140 src="torch/torch_256x256.png" alt="Torch browser logo"></a> |
+
 ### UC
 
 | [UC](https://en.wikipedia.org/wiki/UC_Browser) [`*`](#note) |

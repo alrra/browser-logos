@@ -281,12 +281,6 @@ logos are high resolution with transparent backgrounds.
 |:---:|
 | <a href="tor"><img width=140 src="tor/tor_256x256.png" alt="Tor browser logo"></a> |
 
-### Torch
-
-| [Torch](https://www.torchbrowser.com/) |
-|:---:|
-| <a href="torch"><img width=140 src="torch/torch_256x256.png" alt="Torch browser logo"></a> |
-
 ### UC
 
 | [UC](http://www.ucweb.com) |
