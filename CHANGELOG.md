@@ -1,3 +1,7 @@
+### HEAD
+
+* Move SlimBoat logo into the `archive`.
+
 ### 13.1.0 (August 27, 2015)
 
 * Update WaterFox logo

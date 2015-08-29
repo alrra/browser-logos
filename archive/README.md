@@ -369,6 +369,12 @@
 | [Sleipnir (Mobile)](https://en.wikipedia.org/wiki/Sleipnir_%28web_browser%29) [`*`](#note) |
 |:---:|
 | <a href="sleipnir-mobile"><img width=140 src="sleipnir-mobile/sleipnir-mobile_256x256.png" alt="Sleipnir Mobile browser logo"></a> |
+ 
+### SlimBoat
+
+| [SlimBoat](https://en.wikipedia.org/wiki/SlimBrowser) |
+|:---:|
+| <a href="slimboat"><img width=140 src="slimboat/slimboat_256x256.png" alt="SlimBoat browser logo"></a> |
 
 ### Sogou
 

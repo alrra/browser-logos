@@ -263,12 +263,6 @@ logos are high resolution with transparent backgrounds.
 |:---:|:---:|:---:|
 | <a href="sleipnir-mac"><img width=140 src="sleipnir-mac/sleipnir-mac_256x256.png" alt="Sleipnir for Mac browser logo"></a> | <a href="sleipnir-mobile"><img width=140 src="sleipnir-mobile/sleipnir-mobile_256x256.png" alt="Sleipnir Mobile browser logo"></a> | <a href="sleipnir-windows"><img width=140 src="sleipnir-windows/sleipnir-windows_256x256.png" alt="Sleipnir for Windows browser logo"></a> |
 
-### SlimBoat
-
-| [SlimBoat](http://www.slimboat.com/) |
-|:---:|
-| <a href="slimboat"><img width=140 src="slimboat/slimboat_256x256.png" alt="SlimBoat browser logo"></a> |
-
 ### Sogou
 
 | [Sogou (Mobile)](http://mse.sogou.com/) |
