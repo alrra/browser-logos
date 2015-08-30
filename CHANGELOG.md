@@ -1,6 +1,7 @@
 ### HEAD
 
-* Move SlimBoat logo into the `archive`.
+* Move SlimBoat logo into the `archive`
+  ([dbfcb89](https://github.com/alrra/browser-logos/commit/dbfcb89248a593cd89e17aae9185c27dc272d7e0)).
 
 ### 13.1.0 (August 27, 2015)
 
