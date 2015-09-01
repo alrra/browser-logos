@@ -1,5 +1,6 @@
 ### HEAD
 
+* Add better version of the IceCat logo.
 * Move SlimBoat logo into the `archive`
   ([dbfcb89](https://github.com/alrra/browser-logos/commit/dbfcb89248a593cd89e17aae9185c27dc272d7e0)).
 
