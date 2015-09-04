@@ -1,4 +1,4 @@
-### HEAD
+### 14.0.1 (September 4, 2015)
 
 * Add `newline` at the end of the SVG files
   ([bc37738](https://github.com/alrra/browser-logos/commit/bc37738f9c1e12124a2235acf64b77fd40db718f)).
