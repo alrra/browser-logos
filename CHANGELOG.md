@@ -1,3 +1,7 @@
+### HEAD
+
+* Add `newline` at the end of the SVG files.
+
 ### 14.0.0 (September 4, 2015)
 
 * Add better version of the IceCat logo
