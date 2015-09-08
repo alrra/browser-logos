@@ -17,6 +17,12 @@ logos are high resolution with transparent backgrounds.
 |:---:|
 | <a href="360-secure"><img width=140 src="360-secure/360-secure_256x256.png" alt="360 Secure browser logo"></a> |
 
+### Adblock
+
+| [Adblock](https://adblockbrowser.org/) |
+|:---:|
+| <a href="adblock"><img width=140 src="adblock/adblock_256x256.png" alt="Adblock browser logo"></a> |
+
 ### AirWeb
 
 | [AirWeb](http://airwebapp.com/) |

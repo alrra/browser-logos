@@ -1,3 +1,7 @@
+### HEAD
+
+* Add Adblock logo.
+
 ### 14.0.1 (September 4, 2015)
 
 * Add `newline` at the end of the SVG files
