@@ -1,6 +1,7 @@
 ### HEAD
 
-* Add Adblock logo.
+* Add Adblock logo
+  ([56d5f27](https://github.com/alrra/browser-logos/commit/56d5f27b59abe0fb28208ca14cb67416c043c0eb)).
 
 ### 14.0.1 (September 4, 2015)
 
