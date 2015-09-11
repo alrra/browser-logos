@@ -202,6 +202,12 @@
 |:---:|:---:|
 | <a href="internet-explorer_6"><img width=140 src="internet-explorer_6/internet-explorer_6_256x256.png" alt="Internet Explorer 6 browser logo"></a> | <a href="internet-explorer_7-8"><img width=140 src="internet-explorer_7-8/internet-explorer_7-8_256x256.png" alt="Internet Explorer 7 and 8 browser logo"></a> |
 
+### Internet Explorer Developer Channel
+
+| [Internet Explorer <br>Developer Channel](https://web.archive.org/web/20150906060618/http://blogs.msdn.com/b/ie/archive/2014/06/16/announcing-internet-explorer-developer-channel.aspx) |
+|:---:|
+| <a href="internet-explorer-developer-channel"><img width=140 src="internet-explorer-developer-channel/internet-explorer-developer-channel_256x256.png" alt="Internet Explorer Developer Channel browser logo"></a> |
+
 ### K9
 
 | [K9](https://en.wikipedia.org/wiki/K9_Web_Protection) |

@@ -1,3 +1,7 @@
+### HEAD
+
+* Move Internet Explorer Developer Channel logo into the `archive`.
+
 ### 15.0.0 (September 12, 2015)
 
 * [[`9c7d77e0f6`](https://github.com/alrra/browser-logos/commit/9c7d77e0f65406515bfe8e730dc94403ff31a540)] -
