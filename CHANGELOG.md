@@ -1,3 +1,7 @@
+### HEAD
+
+* Move Dolphin Zero logo into the `archive`.
+
 ### 14.1.0 (September 8, 2015)
 
 * Add Adblock logo

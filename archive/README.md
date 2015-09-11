@@ -118,6 +118,12 @@
 |:---:|
 | <a href="dolphin-beta"><img width=140 src="dolphin-beta/dolphin-beta_256x256.png" alt="Dolphin Beta browser logo"></a> |
 
+### Dolphin Zero
+
+| [Dolphin Zero](https://dolphin.com/) |
+|:---:|
+| <a href="dolphin-zero"><img width=140 src="dolphin-zero/dolphin-zero_256x256.png" alt="Dolphin Zero browser logo"></a> |
+
 ### Epic
 
 | [Epic](https://en.wikipedia.org/wiki/Epic_%28web_browser%29) [`*`](#note) |

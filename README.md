@@ -91,9 +91,9 @@ logos are high resolution with transparent backgrounds.
 
 ### Dolphin
 
-| [Dolphin](https://dolphin.com/) | [Dolphin Zero](https://dolphin.com/) |
-|:---:|:---:|
-| <a href="dolphin"><img width=140 src="dolphin/dolphin_256x256.png" alt="Dolphin browser logo"></a> | <a href="dolphin-zero"><img width=140 src="dolphin-zero/dolphin-zero_256x256.png" alt="Dolphin Zero browser logo"></a> |
+| [Dolphin](https://dolphin.com/) |
+|:---:|
+| <a href="dolphin"><img width=140 src="dolphin/dolphin_256x256.png" alt="Dolphin browser logo"></a> |
 
 ### Dooble
 
