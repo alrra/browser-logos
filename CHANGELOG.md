@@ -53,7 +53,7 @@
 
 ### 11.0.1 (July 12, 2015)
 
-* [[`3ebe04704c`](https://github.com/alrra/browser-logos/commit/3ebe04704c372debfe9fc80877033e32a3a549cdf)] -
+* [[`3ebe04704c`](https://github.com/alrra/browser-logos/commit/3ebe04704c372debfe9fc80877033e32a3a549cd)] -
   Make minor improvements.
 
 ### 11.0.0 (June 22, 2015)
@@ -229,7 +229,7 @@
 * [[`5b4bdc0a13`](https://github.com/alrra/browser-logos/commit/5b4bdc0a134c19d48971044ea622aa561d84ac4f)] -
   Add `main-mobile.png`
   (see also: 
-   [`#54`](https://github.com/alrra/browser-logos/issues/54) and 
+   [`#54`](https://github.com/alrra/browser-logos/issues/54) &
    [`#56`](https://github.com/alrra/browser-logos/issues/56)).
 * [[`8dda27fbf2`](https://github.com/alrra/browser-logos/commit/8dda27fbf2dce1c2870ea4115fa198c2bf64233a)] -
   Add Opera Mini logo.
