@@ -1,24 +1,24 @@
 # Automatically normalize line endings for all text-based files
-# http://git-scm.com/docs/gitattributes#_effects
+# https://git-scm.com/docs/gitattributes#_effects
 
 * text=auto
 
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 # Exclude the following files when generating an archive
-# http://git-scm.com/book/en/Customizing-Git-Git-Attributes#Exporting-Your-Repository
+# https://git-scm.com/book/en/Customizing-Git-Git-Attributes#Exporting-Your-Repository
 
 .gitattributes export-ignore
 .npmignore export-ignore
+.scripts export-ignore
 CHANGELOG.md export-ignore
 CONTRIBUTING.md export-ignore
 bower.json export-ignore
 package.json export-ignore
-scripts export-ignore
 
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 # Exclude the following files from GitHub's language statistics
 # https://github.com/github/linguist#using-gitattributes
 
-scripts/* linguist-vendored
+.scripts/* linguist-vendored
