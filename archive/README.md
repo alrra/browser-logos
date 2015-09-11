@@ -108,9 +108,9 @@
 
 ### Dolphin
 
-| [Dolphin](https://en.wikipedia.org/wiki/Dolphin_Browser) [`*`](#note) |
-|:---:|
-| <a href="dolphin"><img width=140 src="dolphin/dolphin_256x256.png" alt="Dolphin browser logo"></a> |
+| [Dolphin](https://en.wikipedia.org/wiki/Dolphin_Browser) [`1*`](#note) | [Dolphin](https://en.wikipedia.org/wiki/Dolphin_Browser) [`2*`](#note) |
+|:---:|:---:|
+| <a href="dolphin_1"><img width=140 src="dolphin_1/dolphin_1_256x256.png" alt="Dolphin browser logo"></a> | <a href="dolphin_2"><img width=140 src="dolphin_2/dolphin_2_256x256.png" alt="Dolphin browser logo"></a> |
 
 ### Dolphin Beta
 
@@ -120,7 +120,7 @@
 
 ### Dolphin Zero
 
-| [Dolphin Zero](https://dolphin.com/) |
+| [Dolphin Zero](https://en.wikipedia.org/wiki/Dolphin_Browser) |
 |:---:|
 | <a href="dolphin-zero"><img width=140 src="dolphin-zero/dolphin-zero_256x256.png" alt="Dolphin Zero browser logo"></a> |
 
