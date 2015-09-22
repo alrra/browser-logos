@@ -306,9 +306,9 @@
 
 ### Opera
 
-| [Opera 2-6](https://en.wikipedia.org/wiki/Opera_%28web_browser%29) | [Opera 7-9](https://en.wikipedia.org/wiki/Opera_%28web_browser%29) | [Opera 10-14](https://en.wikipedia.org/wiki/Opera_%28web_browser%29) |
-|:---:|:---:|:---:|
-| <a href="opera_2-6"><img width=140 src="opera_2-6/opera_2-6_256x256.png" alt="Opera 2-6 browser logo"></a> | <a href="opera_7-9"><img width=140 src="opera_7-9/opera_7-9_256x256.png" alt="Opera 7-9 browser logo"></a> | <a href="opera_10-14"><img width=140 src="opera_10-14/opera_10-14_256x256.png" alt="Opera 10-14 browser logo"></a> |
+| [Opera 2-6](https://en.wikipedia.org/wiki/Opera_%28web_browser%29) | [Opera 7-9](https://en.wikipedia.org/wiki/Opera_%28web_browser%29) | [Opera 10-14](https://en.wikipedia.org/wiki/Opera_%28web_browser%29) | [Opera 15-32](https://en.wikipedia.org/wiki/Opera_%28web_browser%29) |
+|:---:|:---:|:---:|:---:|
+| <a href="opera_2-6"><img width=140 src="opera_2-6/opera_2-6_256x256.png" alt="Opera 2-6 browser logo"></a> | <a href="opera_7-9"><img width=140 src="opera_7-9/opera_7-9_256x256.png" alt="Opera 7-9 browser logo"></a> | <a href="opera_10-14"><img width=140 src="opera_10-14/opera_10-14_256x256.png" alt="Opera 10-14 browser logo"></a> | <a href="opera_15-32"><img width=140 src="opera_15-32/opera_15-32_256x256.png" alt="Opera 15-32 browser logo"></a> |
 
 ### Opera Mini
 
@@ -381,7 +381,7 @@
 | [Sleipnir (Mobile)](https://en.wikipedia.org/wiki/Sleipnir_%28web_browser%29) [`*`](#note) |
 |:---:|
 | <a href="sleipnir-mobile"><img width=140 src="sleipnir-mobile/sleipnir-mobile_256x256.png" alt="Sleipnir Mobile browser logo"></a> |
- 
+
 ### SlimBoat
 
 | [SlimBoat](https://en.wikipedia.org/wiki/SlimBrowser) |

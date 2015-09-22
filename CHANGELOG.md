@@ -1,3 +1,8 @@
+### HEAD
+
+* Move old Opera logo into the archive.
+* Update Opera logo.
+
 ### 16.0.0 (September 12, 2015)
 
 * [[`be044d5a41`](https://github.com/alrra/browser-logos/commit/be044d5a41975b6a27950d68136f105ee3fae81c)] -
