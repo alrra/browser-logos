@@ -1,5 +1,6 @@
 ### HEAD
 
+* Update Opera Developer logo.
 * Update Opera Beta logo.
 
 ### 17.0.0 (September 22, 2015)
