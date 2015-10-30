@@ -1,3 +1,7 @@
+### HEAD
+
+* Update Opera Beta logo.
+
 ### 17.0.0 (September 22, 2015)
 
 * [[`3bcbb22ff8`](https://github.com/alrra/browser-logos/commit/3bcbb22ff8bbfd753f8fe8bd1e0ea5b3dadb84a3)] -

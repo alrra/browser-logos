@@ -310,17 +310,17 @@
 |:---:|:---:|:---:|:---:|
 | <a href="opera_2-6"><img width=140 src="opera_2-6/opera_2-6_256x256.png" alt="Opera 2-6 browser logo"></a> | <a href="opera_7-9"><img width=140 src="opera_7-9/opera_7-9_256x256.png" alt="Opera 7-9 browser logo"></a> | <a href="opera_10-14"><img width=140 src="opera_10-14/opera_10-14_256x256.png" alt="Opera 10-14 browser logo"></a> | <a href="opera_15-32"><img width=140 src="opera_15-32/opera_15-32_256x256.png" alt="Opera 15-32 browser logo"></a> |
 
+### Opera Beta
+
+| [Opera Next 15-24](https://en.wikipedia.org/wiki/Opera_%28web_browser%29#Opera_Developer_and_Opera_Next) | [Opera Beta 25-32](https://en.wikipedia.org/wiki/Opera_%28web_browser%29#Opera_Developer_and_Opera_Next) |
+|:---:|:---:|
+| <a href="opera-next_15-24"><img width=140 src="opera-next_15-24/opera-next_15-24_256x256.png" alt="Opera Next 15 browser logo"></a> | <a href="opera-beta_25-32"><img width=140 src="opera-beta_25-32/opera-beta_25-32_256x256.png" alt="Opera Beta 25-32 browser logo"></a> |
+
 ### Opera Mini
 
 | [Opera Mini](https://en.wikipedia.org/wiki/Opera_Mini) [`*`](#note) |
 |:---:|
 | <a href="opera-mini"><img width=140 src="opera-mini/opera-mini_256x256.png" alt="Opera Mini browser logo"></a> |
-
-### Opera Next
-
-| [Opera Next 15](https://en.wikipedia.org/wiki/Opera_%28web_browser%29#Opera_Developer_and_Opera_Next) |
-|:---:|
-| <a href="opera-next_15"><img width=140 src="opera-next_15/opera-next_15_256x256.png" alt="Opera Next 15 browser logo"></a> |
 
 ### Orweb
 
