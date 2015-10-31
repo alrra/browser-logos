@@ -1,7 +1,11 @@
 ### HEAD
 
-* Update Opera Developer logo.
-* Update Opera Beta logo.
+* [[`9bc8f3c908`](https://github.com/alrra/browser-logos/commit/9bc8f3c908424837680a05a4eead0a9ece1d5907)] -
+  Update Opera Developer logo
+  (see also: [`#72`](https://github.com/alrra/browser-logos/issues/72)).
+* [[`3e3753a467`](https://github.com/alrra/browser-logos/commit/3e3753a467f86f693acfcf9acf80c84ccb35680d)] -
+  Update Opera Beta logo
+  (see also: [`#72`](https://github.com/alrra/browser-logos/issues/72)).
 
 ### 17.0.0 (September 22, 2015)
 
@@ -55,7 +59,7 @@
 * [[`3318252c53`](https://github.com/alrra/browser-logos/commit/3318252c53835cb000a3ddb791bc03b5f8e02553)] -
   Move logos of no longer active browsers in `archive`.
 
-### 12.0.1 (August 7, 2015) 
+### 12.0.1 (August 7, 2015)
 
 * [[`1ec2af8325`](https://github.com/alrra/browser-logos/commit/1ec2af8325ffb8b3f2c2834da84870341a376efd)] -
   Further losslessly optimize images.
@@ -65,7 +69,7 @@
 * [[`c7ca2134eb`](https://github.com/alrra/browser-logos/commit/c7ca2134ebb8e1809d0f739638d33be174979f09)] -
   Rename `webkit` to `webkit-nightly`.
 * [[`d37361b0e7`](https://github.com/alrra/browser-logos/commit/d37361b0e7346dd22dab4c91a43072e3f04650af)] -
-  Update WebKit logo 
+  Update WebKit logo
   (see also: [`#68`](https://github.com/alrra/browser-logos/issues/68)).
 
 ### 11.0.1 (July 12, 2015)
@@ -106,7 +110,7 @@
 ### 9.2.0 (April 29, 2015)
 
 * [[`08a177d3fa`](https://github.com/alrra/browser-logos/commit/08a177d3fa8714e463795e9c70ff11def08780fc)] -
-  Add Microsoft Edge logo 
+  Add Microsoft Edge logo
   (see also: [`#59`](https://github.com/alrra/browser-logos/issues/59)).
 
 ### 9.1.0 (April 29, 2015)
@@ -245,7 +249,7 @@
 
 * [[`5b4bdc0a13`](https://github.com/alrra/browser-logos/commit/5b4bdc0a134c19d48971044ea622aa561d84ac4f)] -
   Add `main-mobile.png`
-  (see also: 
+  (see also:
    [`#54`](https://github.com/alrra/browser-logos/issues/54) &
    [`#56`](https://github.com/alrra/browser-logos/issues/56)).
 * [[`8dda27fbf2`](https://github.com/alrra/browser-logos/commit/8dda27fbf2dce1c2870ea4115fa198c2bf64233a)] -
@@ -327,7 +331,7 @@
 ### 2.0.0 (October 16, 2014)
 
 * [[`37ad91e4c7`](https://github.com/alrra/browser-logos/commit/37ad91e4c7a7dae149ced874c630e6f5d4447029)] -
-  Update Safari logo 
+  Update Safari logo
   (see also: [`#51`](https://github.com/alrra/browser-logos/issues/51)).
 
 ### 1.1.1 (September 15, 2014)
