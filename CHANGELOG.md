@@ -1,4 +1,4 @@
-### HEAD
+### 17.1.0 (November 1, 2015)
 
 * [[`9bc8f3c908`](https://github.com/alrra/browser-logos/commit/9bc8f3c908424837680a05a4eead0a9ece1d5907)] -
   Update Opera Developer logo
