@@ -28,6 +28,12 @@
 |:---:|
 | <a href="atomic"><img width=140 src="atomic/atomic_256x256.png" alt="Atomic browser logo"></a> |
 
+### Aviator
+
+| [Aviator](https://web.archive.org/web/20151021044307/https://www.whitehatsec.com/aviator/) |
+|:---:|
+| <a href="aviator"><img width=140 src="aviator/aviator_256x256.png" alt="Aviator browser logo"></a> |
+
 ### Axis
 
 | [Axis](https://en.wikipedia.org/wiki/Yahoo!_Axis) |

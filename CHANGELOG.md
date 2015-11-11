@@ -1,5 +1,6 @@
 ### HEAD
 
+* Move Aviator logo into the archive.
 * Move Torch logo into the archive.
 
 ### 17.1.0 (November 1, 2015)

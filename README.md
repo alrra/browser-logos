@@ -41,12 +41,6 @@ logos are high resolution with transparent backgrounds.
 |:---:|
 | <a href="avant"><img width=140 src="avant/avant_256x256.png" alt="Avant browser logo"></a> |
 
-### Aviator
-
-| [Aviator](https://www.whitehatsec.com/aviator/) |
-|:---:|
-| <a href="aviator"><img width=140 src="aviator/aviator_256x256.png" alt="Aviator browser logo"></a> |
-
 ### Baidu
 
 | [Baidu (Mobile)](http://global.baidu.com/browser/) |
