@@ -324,9 +324,9 @@
 
 ### Opera Mini
 
-| [Opera Mini](https://en.wikipedia.org/wiki/Opera_Mini) [`*`](#note) |
-|:---:|
-| <a href="opera-mini"><img width=140 src="opera-mini/opera-mini_256x256.png" alt="Opera Mini browser logo"></a> |
+| [Opera Mini](https://en.wikipedia.org/wiki/Opera_Mini) [`*`](#note) | [Opera Mini](https://en.wikipedia.org/wiki/Opera_Mini) [`*`](#note) |
+|:---:|:---:|
+| <a href="opera-mini_1"><img width=140 src="opera-mini_1/opera-mini_1_256x256.png" alt="Opera Mini browser logo"></a> | <a href="opera-mini_2"><img width=140 src="opera-mini_2/opera-mini_2_256x256.png" alt="Opera Mini browser logo"></a> |
 
 ### Orweb
 
