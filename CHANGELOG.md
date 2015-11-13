@@ -1,5 +1,6 @@
 ### HEAD
 
+* Update Opera Mini Beta logo.
 * Update Opera Mini logo.
 * Move Aviator logo into the archive.
 * Move Torch logo into the archive.

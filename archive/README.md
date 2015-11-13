@@ -328,6 +328,12 @@
 |:---:|:---:|
 | <a href="opera-mini_1"><img width=140 src="opera-mini_1/opera-mini_1_256x256.png" alt="Opera Mini browser logo"></a> | <a href="opera-mini_2"><img width=140 src="opera-mini_2/opera-mini_2_256x256.png" alt="Opera Mini browser logo"></a> |
 
+### Opera Mini Beta
+
+| [Opera Mini Beta](https://en.wikipedia.org/wiki/Opera_Mini) [`*`](#note) |
+|:---:|
+| <a href="opera-mini-beta"><img width=140 src="opera-mini-beta/opera-mini-beta_256x256.png" alt="Opera Mini Beta browser logo"></a> |
+
 ### Orweb
 
 | [Orweb](https://web.archive.org/web/20150802023241/https://guardianproject.info/apps/orweb/) |
