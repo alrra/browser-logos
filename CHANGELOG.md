@@ -1,9 +1,13 @@
 ### HEAD
 
-* Update Opera Mini Beta logo.
-* Update Opera Mini logo.
-* Move Aviator logo into the archive.
-* Move Torch logo into the archive.
+* [[`f5ff9d2b49`](https://github.com/alrra/browser-logos/commit/f5ff9d2b493ab4e350553480bfde1ca5492675e8)] -
+  Update Opera Mini Beta logo.
+* [[`b5213e4120`](https://github.com/alrra/browser-logos/commit/b5213e4120335c2badf0a218d0290e192ad5a82f)] -
+  Update Opera Mini logo.
+* [[`f4b348c734`](https://github.com/alrra/browser-logos/commit/f4b348c734abacd6af21ba365fd7599ff6793532)] -
+  Move Aviator logo into the `archive`.
+* [[`0585815464`](https://github.com/alrra/browser-logos/commit/0585815464a468cfc137da56ebaf9e26cea7a273)] -
+  Move Torch logo into the `archive`.
 
 ### 17.1.0 (November 1, 2015)
 
