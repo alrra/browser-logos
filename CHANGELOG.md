@@ -1,4 +1,4 @@
-### HEAD
+### 18.0.0 (November 17, 2015)
 
 * [[`f5ff9d2b49`](https://github.com/alrra/browser-logos/commit/f5ff9d2b493ab4e350553480bfde1ca5492675e8)] -
   Update Opera Mini Beta logo.
