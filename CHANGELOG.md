@@ -1,3 +1,7 @@
+### HEAD
+
+* .
+
 ### 18.0.1 (November 20, 2015)
 
 * [[`60ff139e9b`](https://github.com/alrra/browser-logos/commit/60ff139e9bf906b556c135df516255324e938815)] -
