@@ -37,8 +37,8 @@ declare -r -a IMAGE_SIZES=(
 
 declare -r -a MAIN_DESKTOP_BROWSERS=(
     "chrome"
+    "edge"
     "firefox"
-    "internet-explorer"
     "opera"
     "safari"
 )
@@ -46,8 +46,8 @@ declare -r -a MAIN_DESKTOP_BROWSERS=(
 declare -r -a MAIN_MOBILE_BROWSERS=(
     "android"
     "chrome-android"
+    "edge"
     "firefox"
-    "internet-explorer-tile"
     "opera-mini"
     "safari-ios"
     "uc"
