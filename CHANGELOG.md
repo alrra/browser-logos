@@ -1,6 +1,7 @@
 ### HEAD
 
-* .
+* [[`f573ff48770`](https://github.com/alrra/browser-logos/commit/f573ff487707de80d8c791f291286d471bcfd1e5)] -
+  Use `Edge` logo in `main-desktop.png` and `main-mobile.png`.
 
 ### 18.0.1 (November 20, 2015)
 
