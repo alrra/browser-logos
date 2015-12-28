@@ -11,12 +11,6 @@ logos are high resolution with transparent backgrounds.
 
 --
 
-### 360 Secure
-
-| [360 Secure](http://se.360.cn/) |
-|:---:|
-| <a href="360-secure"><img width=140 src="360-secure/360-secure_256x256.png" alt="360 Secure browser logo"></a> |
-
 ### Adblock
 
 | [Adblock](https://adblockbrowser.org/) |

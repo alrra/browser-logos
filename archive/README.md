@@ -1,3 +1,9 @@
+### 360 Secure
+
+| [360 Secure](https://en.wikipedia.org/wiki/360_Secure_Browser) |
+|:---:|
+| <a href="360-secure"><img width=140 src="360-secure/360-secure_256x256.png" alt="360 Secure browser logo"></a> |
+
 ### Adrenaline
 
 | [Adrenaline](https://web.archive.org/web/20141218215235/http://www.adrenalinemobility.com/) |
