@@ -1,6 +1,7 @@
 ### HEAD
 
-* Move `360 Secure` logo into the `archive`.
+* [[`f8b78c62a5`](https://github.com/alrra/browser-logos/commit/f8b78c62a5c3a1e45a51ecad76930f104df04032)] -
+  Move `360 Secure` logo into the `archive`.
 
 ### 19.0.0 (December 4, 2015)
 
