@@ -1,5 +1,6 @@
 ### HEAD
 
+* Add better version of the `Vivaldi` logo.
 * Further losslessly optimize `edge.svg`.
 
 ### 20.0.0 (December 29, 2015)
