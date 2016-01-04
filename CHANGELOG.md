@@ -1,7 +1,9 @@
 ### HEAD
 
-* Add better version of the `Vivaldi` logo.
-* Further losslessly optimize `edge.svg`.
+* [[`6846ecfac0`](https://github.com/alrra/browser-logos/commit/6846ecfac0949e2a740bb59e889c5a3e909c2176)] -
+  Add better version of the `Vivaldi` logo.
+* [[`86118b816c`](https://github.com/alrra/browser-logos/commit/86118b816c656aa742cdc0e0d5d80ea888fb2d34)] -
+  Further losslessly optimize `edge.svg`.
 
 ### 20.0.0 (December 29, 2015)
 
