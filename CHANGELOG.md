@@ -1,4 +1,4 @@
-### HEAD
+### 20.2.0 (January 7, 2016)
 
 * [[`84829f1cd6`](https://github.com/alrra/browser-logos/commit/84829f1cd6f9deade0b0830d6a611356b848dc64)] -
   Update Opera logo to match the official one.
