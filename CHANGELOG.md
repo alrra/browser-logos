@@ -1,7 +1,9 @@
 ### HEAD
 
-* Update Chromium logo.
-* Update Chrome Canary logo.
+* [[`672bc08e09`](https://github.com/alrra/browser-logos/commit/672bc08e096c1fe94f03477f0f38214651a602bc)] -
+  Update Chromium logo.
+* [[`5c0eea1c40`](https://github.com/alrra/browser-logos/commit/5c0eea1c407576ba36a75f9fa4647bf789f8c5a4)] -
+  Update Chrome Canary logo.
 
 ### 20.2.0 (January 7, 2016)
 
