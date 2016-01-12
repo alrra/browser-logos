@@ -76,6 +76,12 @@
 |:---:|
 | <a href="chrome_1-10"><img width=140 src="chrome_1-10/chrome_1-10_256x256.png" alt="Chrome 1-10 browser logo"></a> |
 
+### Chrome Canary
+
+| [Chrome Canary<br>19-48](https://en.wikipedia.org/wiki/Google_Chrome#Pre-releases) |
+|:---:|
+| <a href="chrome-canary_19-48"><img width=140 src="chrome-canary_19-48/chrome-canary_19-48_256x256.png" alt="Chrome Canary 19-49 browser logo"></a> |
+
 ### Chrome (Android)
 
 | [Chrome 25-36<br>(Android)](https://en.wikipedia.org/wiki/Google_Chrome_for_Android) |
