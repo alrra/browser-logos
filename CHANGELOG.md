@@ -1,4 +1,4 @@
-### HEAD
+### 20.3.0 (January 12, 2016)
 
 * [[`672bc08e09`](https://github.com/alrra/browser-logos/commit/672bc08e096c1fe94f03477f0f38214651a602bc)] -
   Update Chromium logo.
