@@ -96,9 +96,9 @@
 
 ### Chromium
 
-| [Chromium 1-10](https://en.wikipedia.org/wiki/Chromium_%28web_browser%29) |
-|:---:|
-| <a href="chromium_1-10"><img width=140 src="chromium_1-10/chromium_1-10_256x256.png" alt="Chromium 1-10 browser logo"></a> |
+| [Chromium 1-10](https://en.wikipedia.org/wiki/Chromium_%28web_browser%29) | [Chromium 11-48](https://en.wikipedia.org/wiki/Chromium_%28web_browser%29) |
+|:---:|:---:|
+| <a href="chromium_1-10"><img width=140 src="chromium_1-10/chromium_1-10_256x256.png" alt="Chromium 1-10 browser logo"></a> | <a href="chromium_11-48"><img width=140 src="chromium_11-48/chromium_11-48_256x256.png" alt="Chromium 11-48 browser logo"></a> |
 
 ### Cruz
 

@@ -1,5 +1,6 @@
 ### HEAD
 
+* Update Chromium logo.
 * Update Chrome Canary logo.
 
 ### 20.2.0 (January 7, 2016)
