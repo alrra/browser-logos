@@ -1,6 +1,7 @@
-### HEAD
+### 20.4.1 (January 14, 2016)
 
-* Further losslessly optimize `main-desktop.png`.
+* [[`b449d4149c`](https://github.com/alrra/browser-logos/commit/b449d4149c4702691a0de0e62a258f931a8afd91)] -
+  Further losslessly optimize `main-desktop.png`.
 
 ### 20.4.0 (January 14, 2016)
 
