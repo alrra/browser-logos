@@ -149,12 +149,6 @@ logos are high resolution with transparent backgrounds.
 |:---:|
 | <a href="link-bubble"><img width=140 src="link-bubble/link-bubble_256x256.png" alt="Link Bubble browser logo"></a> |
 
-### Maxthon
-
-| [Maxthon](http://www.maxthon.com/) | [Maxthon Beta](http://www.maxthon.com/) |
-|:---:|:---:|
-| <a href="maxthon"><img width=140 src="maxthon/maxthon_256x256.png" alt="Maxthon browser logo"></a> | <a href="maxthon-beta"><img width=140 src="maxthon-beta/maxthon-beta_256x256.png" alt="Maxthon Beta browser logo"></a> |
-
 ### Mercury
 
 | [Mercury](https://mercury-browser.com/) |

@@ -1,6 +1,7 @@
 ### HEAD
 
-* Move `Baidu Mobile` logo into the `archive`.
+* Move Maxthon and Maxthon Beta logo into the `archive`.
+* Move Baidu Mobile logo into the `archive`.
 
 ### 20.4.1 (January 14, 2016)
 
