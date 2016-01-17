@@ -72,7 +72,7 @@
 
 ### Chrome
 
-| [Chrome 1-10](https://en.wikipedia.org/wiki/Google_Chrome) |
+| [Chrome<br>1-10](https://en.wikipedia.org/wiki/Google_Chrome) |
 |:---:|
 | <a href="chrome_1-10"><img width=140 src="chrome_1-10/chrome_1-10_256x256.png" alt="Chrome 1-10 browser logo"></a> |
 
@@ -96,7 +96,7 @@
 
 ### Chromium
 
-| [Chromium 1-10](https://en.wikipedia.org/wiki/Chromium_%28web_browser%29) | [Chromium 11-48](https://en.wikipedia.org/wiki/Chromium_%28web_browser%29) |
+| [Chromium<br>1-10](https://en.wikipedia.org/wiki/Chromium_%28web_browser%29) | [Chromium<br>11-48](https://en.wikipedia.org/wiki/Chromium_%28web_browser%29) |
 |:---:|:---:|
 | <a href="chromium_1-10"><img width=140 src="chromium_1-10/chromium_1-10_256x256.png" alt="Chromium 1-10 browser logo"></a> | <a href="chromium_11-48"><img width=140 src="chromium_11-48/chromium_11-48_256x256.png" alt="Chromium 11-48 browser logo"></a> |
 
@@ -174,7 +174,7 @@
 
 ### Firefox
 
-| [Phoenix /<br>  Firebird](https://en.wikipedia.org/wiki/Firefox#History) | [Firefox 1](https://en.wikipedia.org/wiki/Firefox) | [Firefox 1.5-3](https://en.wikipedia.org/wiki/Firefox) | [Firefox 3.5-22](https://en.wikipedia.org/wiki/Firefox) |
+| [Phoenix /<br>  Firebird](https://en.wikipedia.org/wiki/Firefox#History) | [Firefox<br>1](https://en.wikipedia.org/wiki/Firefox) | [Firefox<br>1.5-3](https://en.wikipedia.org/wiki/Firefox) | [Firefox<br>3.5-22](https://en.wikipedia.org/wiki/Firefox) |
 |:---:|:---:|:---:|:---:|
 | <a href="phoenix_firebird"><img width=140 src="phoenix_firebird/phoenix_firebird_256x256.png" alt="Phoenix/Firebird browser logo"></a> | <a href="firefox_1"><img width=140 src="firefox_1/firefox_1_256x256.png" alt="Firefox 1 browser logo"></a> | <a href="firefox_1.5-3"><img width=140 src="firefox_1.5-3/firefox_1.5-3_256x256.png" alt="Firefox 1 browser logo"></a> | <a href="firefox_3.5-22"><img width=140 src="firefox_3.5-22/firefox_3.5-22_256x256.png" alt="Firefox 3.5-22 browser logo"></a> |
 
@@ -216,7 +216,7 @@
 
 ### Internet Explorer
 
-| [Internet Explorer 6](https://en.wikipedia.org/wiki/Internet_Explorer_6) | [Internet Explorer<br>7](https://en.wikipedia.org/wiki/Internet_Explorer_7)/[8](https://en.wikipedia.org/wiki/Internet_Explorer_8) |
+| [Internet Explorer<br>6](https://en.wikipedia.org/wiki/Internet_Explorer_6) | [Internet Explorer<br>7](https://en.wikipedia.org/wiki/Internet_Explorer_7) / [8](https://en.wikipedia.org/wiki/Internet_Explorer_8) |
 |:---:|:---:|
 | <a href="internet-explorer_6"><img width=140 src="internet-explorer_6/internet-explorer_6_256x256.png" alt="Internet Explorer 6 browser logo"></a> | <a href="internet-explorer_7-8"><img width=140 src="internet-explorer_7-8/internet-explorer_7-8_256x256.png" alt="Internet Explorer 7 and 8 browser logo"></a> |
 
@@ -240,7 +240,7 @@
 
 ### Konqueror
 
-| [Konqueror 1-3](https://en.wikipedia.org/wiki/Konqueror) |
+| [Konqueror<br>1-3](https://en.wikipedia.org/wiki/Konqueror) |
 |:---:|
 | <a href="konqueror_1-3"><img width=140 src="konqueror_1-3/konqueror_1-3_256x256.png" alt="Konqueror 1-14 browser logo"></a> |
 
@@ -258,13 +258,13 @@
 
 ### Maxthon
 
-| [Maxthon](https://en.wikipedia.org/wiki/Maxthon) [`*`](#note) | [Maxthon Beta](https://en.wikipedia.org/wiki/Maxthon)[`*`](#note) |
+| [Maxthon](https://en.wikipedia.org/wiki/Maxthon) [`*`](#note) | [Maxthon Beta](https://en.wikipedia.org/wiki/Maxthon) [`*`](#note) |
 |:---:|:---:|
 | <a href="maxthon_1"><img width=140 src="maxthon_1/maxthon_1_256x256.png" alt="Maxthon browser logo"></a> | <a href="maxthon-beta_1"><img width=140 src="maxthon-beta_1/maxthon-beta_1_256x256.png" alt="Maxthon Beta browser logo"></a> |
 
 ### Link Bubble
 
-| [Link Bubble 1-1.4](https://web.archive.org/web/20150320102407/http://www.linkbubble.com/) |
+| [Link Bubble<br>1-1.4](https://web.archive.org/web/20150320102407/http://www.linkbubble.com/) |
 |:---:|
 | <a href="link-bubble_1-1.4"><img width=140 src="link-bubble_1-1.4/link-bubble_1-1.4_256x256.png" alt="Link Bubble 1-1.4 browser logo"></a> |
 
@@ -294,7 +294,7 @@
 
 ### Netscape
 
-| [Netscape 4-6](https://en.wikipedia.org/wiki/Netscape_%28web_browser%29) | [Netscape 8](https://en.wikipedia.org/wiki/Netscape_Browser) | [Netscape 9](https://en.wikipedia.org/wiki/Netscape_Navigator_9) |
+| [Netscape<br>4-6](https://en.wikipedia.org/wiki/Netscape_%28web_browser%29) | [Netscape<br>8](https://en.wikipedia.org/wiki/Netscape_Browser) | [Netscape<br>9](https://en.wikipedia.org/wiki/Netscape_Navigator_9) |
 |:---:|:---:|:---:|
 | <a href="netscape_4-6"><img width=140 src="netscape_4-6/netscape_4-6_256x256.png" alt="Netscape 4-6 browser logo"></a> | <a href="netscape_8"><img width=140 src="netscape_8/netscape_8_256x256.png" alt="Netscape 8 browser logo"></a> | <a href="netscape_9"><img width=140 src="netscape_9/netscape_9_256x256.png" alt="Netscape 9 browser logo"></a> |
 
@@ -318,7 +318,7 @@
 
 ### ONE
 
-| [ONE (Android)](https://web.archive.org/web/20140406142259/http://one-browser.com/mobile/home/) [`*`](#note) | [ONE (iOS)](https://web.archive.org/web/20140406142259/http://one-browser.com/mobile/home/) [`*`](#note) |
+| [ONE<br>(Android)](https://web.archive.org/web/20140406142259/http://one-browser.com/mobile/home/) [`*`](#note) | [ONE<br>(iOS)](https://web.archive.org/web/20140406142259/http://one-browser.com/mobile/home/) [`*`](#note) |
 |:---:|:---:|
 | <a href="one-android"><img width=140 src="one-android/one-android_256x256.png" alt="ONE for Android browser logo"></a> | <a href="one-ios"><img width=140 src="one-ios/one-ios_256x256.png" alt="ONE for iOS browser logo"></a> |
 
@@ -330,13 +330,13 @@
 
 ### Opera
 
-| [Opera 2-6](https://en.wikipedia.org/wiki/Opera_%28web_browser%29) | [Opera 7-9](https://en.wikipedia.org/wiki/Opera_%28web_browser%29) | [Opera 10-14](https://en.wikipedia.org/wiki/Opera_%28web_browser%29) | [Opera 15-32](https://en.wikipedia.org/wiki/Opera_%28web_browser%29) |
+| [Opera<br>2-6](https://en.wikipedia.org/wiki/Opera_%28web_browser%29) | [Opera<br>7-9](https://en.wikipedia.org/wiki/Opera_%28web_browser%29) | [Opera<br>10-14](https://en.wikipedia.org/wiki/Opera_%28web_browser%29) | [Opera<br>15-32](https://en.wikipedia.org/wiki/Opera_%28web_browser%29) |
 |:---:|:---:|:---:|:---:|
 | <a href="opera_2-6"><img width=140 src="opera_2-6/opera_2-6_256x256.png" alt="Opera 2-6 browser logo"></a> | <a href="opera_7-9"><img width=140 src="opera_7-9/opera_7-9_256x256.png" alt="Opera 7-9 browser logo"></a> | <a href="opera_10-14"><img width=140 src="opera_10-14/opera_10-14_256x256.png" alt="Opera 10-14 browser logo"></a> | <a href="opera_15-32"><img width=140 src="opera_15-32/opera_15-32_256x256.png" alt="Opera 15-32 browser logo"></a> |
 
 ### Opera Beta
 
-| [Opera Next 15-24](https://en.wikipedia.org/wiki/Opera_%28web_browser%29#Opera_Developer_and_Opera_Next) | [Opera Beta 25-32](https://en.wikipedia.org/wiki/Opera_%28web_browser%29#Opera_Developer_and_Opera_Next) |
+| [Opera Next<br>15-24](https://en.wikipedia.org/wiki/Opera_%28web_browser%29#Opera_Developer_and_Opera_Next) | [Opera Beta<br>25-32](https://en.wikipedia.org/wiki/Opera_%28web_browser%29#Opera_Developer_and_Opera_Next) |
 |:---:|:---:|
 | <a href="opera-next_15-24"><img width=140 src="opera-next_15-24/opera-next_15-24_256x256.png" alt="Opera Next 15 browser logo"></a> | <a href="opera-beta_25-32"><img width=140 src="opera-beta_25-32/opera-beta_25-32_256x256.png" alt="Opera Beta 25-32 browser logo"></a> |
 
@@ -366,7 +366,7 @@
 
 ### QQ
 
-| [QQ](https://web.archive.org/web/*/http://browser.qq.com/) [`*`](#note) | [QQ](https://web.archive.org/web/*/http://browser.qq.com/) [`*`](#note) |
+| [QQ](https://web.archive.org/web/20160115132857/http://browser.qq.com/) [`*`](#note) | [QQ](https://web.archive.org/web/20160115132857/http://browser.qq.com/) [`*`](#note) |
 |:---:|:---:|
 | <a href="qq_1"><img width=140 src="qq_1/qq_1.png" alt="QQ browser logo"></a> | <a href="qq_2"><img width=140 src="qq_2/qq_2.png" alt="QQ browser logo"></a> |
 
@@ -378,13 +378,13 @@
 
 ### Safari
 
-| [Safari 1-7](https://en.wikipedia.org/wiki/Safari_%28web_browser%29) |
+| [Safari<br>1-7](https://en.wikipedia.org/wiki/Safari_%28web_browser%29) |
 |:---:|
 | <a href="safari_1-7"><img width=140 src="safari_1-7/safari_1-7_256x256.png" alt="Safari 1-7 browser logo"></a> |
 
 ### Safari (iOS)
 
-| [Safari 1-6 (iOS)](https://en.wikipedia.org/wiki/Safari_%28web_browser%29) |
+| [Safari (iOS)<br>1-6 ](https://en.wikipedia.org/wiki/Safari_%28web_browser%29) |
 |:---:|
 | <a href="safari-ios_1-6"><img width=140 src="safari-ios_1-6/safari-ios_1-6_256x256.png" alt="Safari for iOS 1-6 browser logo"></a> |
 
@@ -480,7 +480,7 @@
 
 ### WebKit
 
-| [Webkit Nightly 1-7](https://en.wikipedia.org/wiki/WebKit) |
+| [Webkit Nightly<br>1 - 7](https://en.wikipedia.org/wiki/WebKit) |
 |:---:|
 | <a href="webkit-nightly_1-7"><img width=140 src="webkit-nightly_1-7/webkit-nightly_1-7_256x256.png" alt="WebKit Nightly 1-7 browser logo"></a> |
 
@@ -507,7 +507,6 @@
 | [Yandex](https://en.wikipedia.org/wiki/Yandex_Browser) [`*`](#note) |
 |:---:|
 | <a href="yandex"><img width=140 src="yandex/yandex_256x256.png" alt="Yandex browser logo"></a> |
-
 
 --
 
