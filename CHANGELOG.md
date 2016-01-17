@@ -1,3 +1,7 @@
+### HEAD
+
+* Move `Baidu Mobile` logo into the `archive`.
+
 ### 20.4.1 (January 14, 2016)
 
 * [[`b449d4149c`](https://github.com/alrra/browser-logos/commit/b449d4149c4702691a0de0e62a258f931a8afd91)] -

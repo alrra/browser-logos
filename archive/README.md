@@ -48,9 +48,9 @@
 
 ### Baidu
 
-| [Baidu (Mobile)](https://web.archive.org/web/20150726085553/http://global.baidu.com/browser/) [`1*`](#note)| [Baidu (Mobile)](https://web.archive.org/web/20150726085553/http://global.baidu.com/browser/) [`2*`](#note) |
-|:---:|:---:|
-| <a href="baidu-mobile_1"><img width=140 src="baidu-mobile_1/baidu-mobile_1_256x256.png" alt="Baidu Mobile browser logo"></a> | <a href="baidu-mobile_2"><img width=140 src="baidu-mobile_2/baidu-mobile_2_256x256.png" alt="Baidu Mobile browser logo"></a> |
+| [Baidu (Mobile)](https://web.archive.org/web/20150726085553/http://global.baidu.com/browser/) [`1*`](#note)| [Baidu (Mobile)](https://web.archive.org/web/20150726085553/http://global.baidu.com/browser/) [`2*`](#note) | [Baidu (Mobile)](https://web.archive.org/web/20150726085553/http://global.baidu.com/browser/) [`3*`](#note) |
+|:---:|:---:|:---:|
+| <a href="baidu-mobile_1"><img width=140 src="baidu-mobile_1/baidu-mobile_1_256x256.png" alt="Baidu Mobile browser logo"></a> | <a href="baidu-mobile_2"><img width=140 src="baidu-mobile_2/baidu-mobile_2_256x256.png" alt="Baidu Mobile browser logo"></a> | <a href="baidu-mobile_3"><img width=140 src="baidu-mobile_3/baidu-mobile_3_256x256.png" alt="Baidu Mobile browser logo"></a> |
 
 ### Breach
 

@@ -35,12 +35,6 @@ logos are high resolution with transparent backgrounds.
 |:---:|
 | <a href="avant"><img width=140 src="avant/avant_256x256.png" alt="Avant browser logo"></a> |
 
-### Baidu
-
-| [Baidu (Mobile)](http://global.baidu.com/browser/) |
-|:---:|
-| <a href="baidu-mobile"><img width=140 src="baidu-mobile/baidu-mobile_256x256.png" alt="Baidu Mobile browser logo"></a> |
-
 ### Boat
 
 | [Boat](http://www.boatmob.com/mobile/product_browser_free.html) |
