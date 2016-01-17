@@ -1,5 +1,6 @@
 ### HEAD
 
+* Add new Diigo logo.
 * Move QQ logo into the `archive`.
 * Move Maxthon and Maxthon Beta logo into the `archive`.
 * Move Baidu Mobile logo into the `archive`.

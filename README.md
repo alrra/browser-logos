@@ -65,6 +65,12 @@ logos are high resolution with transparent backgrounds.
 |:---:|
 | <a href="cm"><img width=140 src="cm/cm_256x256.png" alt="CM browser logo"></a> |
 
+### Diigo
+
+| [Diigo](https://www.diigo.com/) |
+|:---:|
+| <a href="diigo"><img width=140 src="diigo/diigo_256x256.png" alt="Diigo browser logo"></a> |
+
 ### Coast
 
 | [Coast](http://www.opera.com/mobile/coast) |
