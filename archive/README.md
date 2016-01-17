@@ -48,7 +48,7 @@
 
 ### Baidu
 
-| [Baidu (Mobile)](https://web.archive.org/web/20150726085553/http://global.baidu.com/browser/) [`1*`](#note) | [Baidu (Mobile)](https://web.archive.org/web/20150726085553/http://global.baidu.com/browser/) [`2*`](#note) | [Baidu (Mobile)](https://web.archive.org/web/20150726085553/http://global.baidu.com/browser/) [`3*`](#note) |
+| [Baidu (Mobile)](https://web.archive.org/web/20150726085553/http://global.baidu.com/browser/) [`*`](#note) | [Baidu (Mobile)](https://web.archive.org/web/20150726085553/http://global.baidu.com/browser/) [`*`](#note) | [Baidu (Mobile)](https://web.archive.org/web/20150726085553/http://global.baidu.com/browser/) [`*`](#note) |
 |:---:|:---:|:---:|
 | <a href="baidu-mobile_1"><img width=140 src="baidu-mobile_1/baidu-mobile_1_256x256.png" alt="Baidu Mobile browser logo"></a> | <a href="baidu-mobile_2"><img width=140 src="baidu-mobile_2/baidu-mobile_2_256x256.png" alt="Baidu Mobile browser logo"></a> | <a href="baidu-mobile_3"><img width=140 src="baidu-mobile_3/baidu-mobile_3_256x256.png" alt="Baidu Mobile browser logo"></a> |
 
@@ -114,7 +114,7 @@
 
 ### Diigo
 
-| [Diigo](https://en.wikipedia.org/wiki/Diigo) [`1*`](#note) | [Diigo](https://en.wikipedia.org/wiki/Diigo) [`2*`](#note) |
+| [Diigo](https://en.wikipedia.org/wiki/Diigo) [`*`](#note) | [Diigo](https://en.wikipedia.org/wiki/Diigo) [`*`](#note) |
 |:---:|:---:|
 | <a href="diigo_1"><img width=140 src="diigo_1/diigo_1_256x256.png" alt="Diigo browser logo"></a> | <a href="diigo_2"><img width=140 src="diigo_2/diigo_2_256x256.png" alt="Diigo browser logo"></a> |
 
@@ -126,7 +126,7 @@
 
 ### Dolphin
 
-| [Dolphin](https://en.wikipedia.org/wiki/Dolphin_Browser) [`1*`](#note) | [Dolphin](https://en.wikipedia.org/wiki/Dolphin_Browser) [`2*`](#note) |
+| [Dolphin](https://en.wikipedia.org/wiki/Dolphin_Browser) [`*`](#note) | [Dolphin](https://en.wikipedia.org/wiki/Dolphin_Browser) [`*`](#note) |
 |:---:|:---:|
 | <a href="dolphin_1"><img width=140 src="dolphin_1/dolphin_1_256x256.png" alt="Dolphin browser logo"></a> | <a href="dolphin_2"><img width=140 src="dolphin_2/dolphin_2_256x256.png" alt="Dolphin browser logo"></a> |
 
@@ -156,7 +156,7 @@
 
 ### Exsoul
 
-| [Exsoul](https://web.archive.org/web/20150803013210/http://www.exsoul-browser.com/) [`1*`](#note) | [Exsoul](https://web.archive.org/web/20150803013210/http://www.exsoul-browser.com/) [`2*`](#note) |
+| [Exsoul](https://web.archive.org/web/20150803013210/http://www.exsoul-browser.com/) [`*`](#note) | [Exsoul](https://web.archive.org/web/20150803013210/http://www.exsoul-browser.com/) [`*`](#note) |
 |:---:|:---:|
 | <a href="exsoul_1"><img width=140 src="exsoul_1/exsoul_1_256x256.png" alt="Exsoul browser logo"></a> | <a href="exsoul_2"><img width=140 src="exsoul_2/exsoul_2_256x256.png" alt="Exsoul browser logo"></a> |
 
@@ -258,7 +258,7 @@
 
 ### Maxthon
 
-| [Maxthon](https://en.wikipedia.org/wiki/Maxthon) [`1*`](#note) | [Maxthon Beta](https://en.wikipedia.org/wiki/Maxthon)[`1*`](#note) |
+| [Maxthon](https://en.wikipedia.org/wiki/Maxthon) [`*`](#note) | [Maxthon Beta](https://en.wikipedia.org/wiki/Maxthon)[`*`](#note) |
 |:---:|:---:|
 | <a href="maxthon_1"><img width=140 src="maxthon_1/maxthon_1_256x256.png" alt="Maxthon browser logo"></a> | <a href="maxthon-beta_1"><img width=140 src="maxthon-beta_1/maxthon-beta_1_256x256.png" alt="Maxthon Beta browser logo"></a> |
 
@@ -282,7 +282,7 @@
 
 ### Mobicip
 
-| [Mobicip](https://en.wikipedia.org/wiki/Mobicip) [`1*`](#note) | [Mobicip](https://en.wikipedia.org/wiki/Mobicip) [`2*`](#note) |
+| [Mobicip](https://en.wikipedia.org/wiki/Mobicip) [`*`](#note) | [Mobicip](https://en.wikipedia.org/wiki/Mobicip) [`*`](#note) |
 |:---:|:---:|
 | <a href="mobicip_1"><img width=140 src="mobicip_1/mobicip_1_256x256.png" alt="Mobicip browser logo"></a> | <a href="mobicip_2"><img width=140 src="mobicip_2/mobicip_2_256x256.png" alt="Mobicip browser logo"></a> |
 
@@ -420,7 +420,7 @@
 
 ### Sogou
 
-| [Sogou (Mobile)](https://en.wikipedia.org/wiki/Sogou#Sogou_browser) [`1*`](#note) | [Sogou (Mobile)](https://en.wikipedia.org/wiki/Sogou#Sogou_browser) [`2*`](#note) |
+| [Sogou (Mobile)](https://en.wikipedia.org/wiki/Sogou#Sogou_browser) [`*`](#note) | [Sogou (Mobile)](https://en.wikipedia.org/wiki/Sogou#Sogou_browser) [`*`](#note) |
 |:---:|:---:|
 | <a href="sogou-mobile_1"><img width=140 src="sogou-mobile_1/sogou-mobile_1_256x256.png" alt="Sogou Mobile browser logo"></a> | <a href="sogou-mobile_2"><img width=140 src="sogou-mobile_2/sogou-mobile_2_256x256.png" alt="Sogou Mobile browser logo"></a> |
 
