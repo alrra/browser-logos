@@ -366,9 +366,9 @@
 
 ### QQ
 
-| [QQ](https://web.archive.org/web/*/http://browser.qq.com/) [`*`](#note) |
-|:---:|
-| <a href="qq"><img width=140 src="qq/qq.png" alt="QQ browser logo"></a> |
+| [QQ](https://web.archive.org/web/*/http://browser.qq.com/) [`*`](#note) | [QQ](https://web.archive.org/web/*/http://browser.qq.com/) [`*`](#note) |
+|:---:|:---:|
+| <a href="qq_1"><img width=140 src="qq_1/qq_1.png" alt="QQ browser logo"></a> | <a href="qq_2"><img width=140 src="qq_2/qq_2.png" alt="QQ browser logo"></a> |
 
 ### Rockmelt
 

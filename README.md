@@ -209,12 +209,6 @@ logos are high resolution with transparent backgrounds.
 |:---:|
 | <a href="puffin"><img width=140 src="puffin/puffin_256x256.png" alt="Puffin browser logo"></a> |
 
-### QQ
-
-| [QQ](http://browser.qq.com/) |
-|:---:|
-| <a href="qq"><img width=140 src="qq/qq.png" alt="QQ browser logo"></a> |
-
 ### rekonq
 
 | [rekonq](https://rekonq.kde.org/) |
