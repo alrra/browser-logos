@@ -67,7 +67,7 @@ logos are high resolution with transparent backgrounds.
 
 ### Coast
 
-| [Coast](http://coastbyopera.com/) |
+| [Coast](http://www.opera.com/mobile/coast) |
 |:---:|:---:|
 | <a href="coast"><img width=140 src="coast/coast_256x256.png" alt="Coast browser logo"></a> |
 
@@ -145,7 +145,7 @@ logos are high resolution with transparent backgrounds.
 
 ### Link Bubble
 
-| [Link Bubble](http://www.linkbubble.com/) |
+| [Link Bubble](http://linkbubble.com/) |
 |:---:|
 | <a href="link-bubble"><img width=140 src="link-bubble/link-bubble_256x256.png" alt="Link Bubble browser logo"></a> |
 
@@ -277,7 +277,7 @@ logos are high resolution with transparent backgrounds.
 
 ### WebKit
 
-| [WebKit Nightly](http://nightly.webkit.org/) |
+| [WebKit Nightly](https://webkit.org/nightly/) |
 |:---:|
 | <a href="webkit-nightly"><img width=140 src="webkit-nightly/webkit-nightly_256x256.png" alt="WebKit Nightly browser logo"></a> |
 
