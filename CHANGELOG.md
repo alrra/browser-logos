@@ -1,9 +1,13 @@
 ### HEAD
 
-* Add new Diigo logo.
-* Move QQ logo into the `archive`.
-* Move Maxthon and Maxthon Beta logo into the `archive`.
-* Move Baidu Mobile logo into the `archive`.
+* [[`878a9d1e08`](https://github.com/alrra/browser-logos/commit/878a9d1e0852484cfde16fb7162170bae7a4afa9)] -
+  Add new Diigo logo.
+* [[`f9755b54cd`](https://github.com/alrra/browser-logos/commit/f9755b54cd2ffd37961e9551958ed91d7a272416)] -
+  Move QQ logo into the `archive`.
+* [[`24eeaa8154`](https://github.com/alrra/browser-logos/commit/24eeaa81540ca59524f2b913277cb2d29a75e167)] -
+  Move Maxthon and Maxthon Beta logo into the `archive`.
+* [[`e046281a87`](https://github.com/alrra/browser-logos/commit/e046281a876f97b2243f7143f95e432faa312472)] -
+  Move Baidu Mobile logo into the `archive`.
 
 ### 20.4.1 (January 14, 2016)
 
