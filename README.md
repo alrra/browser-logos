@@ -40,7 +40,13 @@ logos are high resolution with transparent backgrounds.
 | [Boat](http://www.boatmob.com/mobile/product_browser_free.html) |
 |:---:|
 | <a href="boat"><img width=140 src="boat/boat_256x256.png" alt="Boat browser logo"></a> |
+ 
+### Brave
 
+| [Brave](https://www.brave.com/) |
+|:---:|
+| <a href="brave"><img width=140 src="brave/brave_256x256.png" alt="Brave browser logo"></a> |
+     
 ### Chrome
 
 | [Chrome](https://www.google.com/chrome/) | [Chrome Canary](https://www.google.com/intl/en/chrome/browser/canary.html) |
