@@ -1,4 +1,4 @@
-### HEAD
+### 21.1.0 (January 21, 2016)
 
 * [[`3c70365e3f`](https://github.com/alrra/browser-logos/commit/3c70365e3f608bbed6f9b0695dc5b95002667397)] -
   Add Brave logo.
