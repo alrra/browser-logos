@@ -348,9 +348,9 @@
 
 ### Opera Mini Beta
 
-| [Opera Mini Beta](https://en.wikipedia.org/wiki/Opera_Mini) [`*`](#note) |
-|:---:|
-| <a href="opera-mini-beta"><img width=140 src="opera-mini-beta/opera-mini-beta_256x256.png" alt="Opera Mini Beta browser logo"></a> |
+| [Opera Mini Beta](https://en.wikipedia.org/wiki/Opera_Mini) [`*`](#note) | [Opera Mini Beta](https://en.wikipedia.org/wiki/Opera_Mini) [`*`](#note) |
+|:---:|:---:|
+| <a href="opera-mini-beta_1"><img width=140 src="opera-mini-beta_1/opera-mini-beta_1_256x256.png" alt="Opera Mini Beta browser logo"></a> | <a href="opera-mini-beta_2"><img width=140 src="opera-mini-beta_2/opera-mini-beta_2_256x256.png" alt="Opera Mini Beta browser logo"></a> |
 
 ### Orweb
 
