@@ -1,6 +1,7 @@
 ### HEAD
 
-* Update Opera Mini Beta logo.
+* [[`1327d3d23b`](https://github.com/alrra/browser-logos/commit/1327d3d23b9d0c86235c4ee6e736c78429ca1510)] -
+  Update Opera Mini Beta logo.
 
 ### 21.1.0 (January 21, 2016)
 
