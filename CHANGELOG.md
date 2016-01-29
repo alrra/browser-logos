@@ -1,6 +1,7 @@
 ### HEAD
 
-* Add Cốc Cốc logo.
+* [[`0d5f662a53`](https://github.com/alrra/browser-logos/commit/0d5f662a5375f2b484d9add9eece29214bdf218c)] -
+  Add Cốc Cốc logo.
 
 ### 22.0.0 (February 1, 2016)
 
