@@ -81,7 +81,7 @@ logos are high resolution with transparent backgrounds.
 
 | [Cốc Cốc](https://coccoc.com/) |
 |:---:|:---:|
-| <a href="cốc-cốc"><img width=140 src="cốc-cốc/cốc-cốc_256x256.png" alt="Cốc Cốc browser logo"></a> |
+| <a href="c%E1%BB%91c-c%E1%BB%91c"><img width=140 src="c%E1%BB%91c-c%E1%BB%91c/c%E1%BB%91c-c%E1%BB%91c_256x256.png" alt="Cốc Cốc browser logo"></a> |
  
 ### Diigo
 
