@@ -1,3 +1,7 @@
+### HEAD
+
+* Further losslessly optimize all images.
+
 ### 22.2.0 (February 8, 2016)
 
 * [[`905dc4d6a4`](https://github.com/alrra/browser-logos/commit/905dc4d6a419fc31c7d3aefb53a99ae4496dc77f)] -
