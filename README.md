@@ -227,6 +227,12 @@ logos are high resolution with transparent backgrounds.
 |:---:|
 | <a href="puffin"><img width=140 src="puffin/puffin_256x256.png" alt="Puffin browser logo"></a> |
 
+### QupZilla
+
+| [QupZilla](https://www.qupzilla.com/) |
+|:---:|
+| <a href="qupzilla"><img width=140 src="qupzilla/qupzilla_256x256.png" alt="QupZilla browser logo"></a> |
+
 ### rekonq
 
 | [rekonq](https://rekonq.kde.org/) |
