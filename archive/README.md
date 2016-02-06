@@ -256,17 +256,23 @@
 |:---:|
 | <a href="lightning"><img width=140 src="lightning/lightning_256x256.png" alt="Lightning browser logo"></a> |
 
-### Maxthon
-
-| [Maxthon](https://en.wikipedia.org/wiki/Maxthon) [`*`](#note) | [Maxthon Beta](https://en.wikipedia.org/wiki/Maxthon) [`*`](#note) |
-|:---:|:---:|
-| <a href="maxthon_1"><img width=140 src="maxthon_1/maxthon_1_256x256.png" alt="Maxthon browser logo"></a> | <a href="maxthon-beta_1"><img width=140 src="maxthon-beta_1/maxthon-beta_1_256x256.png" alt="Maxthon Beta browser logo"></a> |
-
 ### Link Bubble
 
 | [Link Bubble<br>1-1.4](https://web.archive.org/web/20150320102407/http://www.linkbubble.com/) |
 |:---:|
 | <a href="link-bubble_1-1.4"><img width=140 src="link-bubble_1-1.4/link-bubble_1-1.4_256x256.png" alt="Link Bubble 1-1.4 browser logo"></a> |
+
+### Links
+
+| [Links](https://en.wikipedia.org/wiki/Links_%28web_browser%29) [`*`](#note) |
+|:---:|
+| <a href="links"><img width=140 src="links/links_256x256.png" alt="Links browser logo"></a> |
+
+### Maxthon
+
+| [Maxthon](https://en.wikipedia.org/wiki/Maxthon) [`*`](#note) | [Maxthon Beta](https://en.wikipedia.org/wiki/Maxthon) [`*`](#note) |
+|:---:|:---:|
+| <a href="maxthon_1"><img width=140 src="maxthon_1/maxthon_1_256x256.png" alt="Maxthon browser logo"></a> | <a href="maxthon-beta_1"><img width=140 src="maxthon-beta_1/maxthon-beta_1_256x256.png" alt="Maxthon Beta browser logo"></a> |
 
 ### Mercury
 

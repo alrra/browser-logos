@@ -1,5 +1,6 @@
 ### HEAD
 
+* Add Links logo.
 * Add QupZilla logo.
 
 ### 22.2.1 (February 10, 2016)
