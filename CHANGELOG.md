@@ -1,6 +1,7 @@
-### HEAD
+### 22.2.0 (February 8, 2016)
 
-* Add Roccat logo.
+* [[`905dc4d6a4`](https://github.com/alrra/browser-logos/commit/905dc4d6a419fc31c7d3aefb53a99ae4496dc77f)] -
+  Add Roccat logo.
 
 ### 22.1.0 (February 7, 2016)
 
