@@ -196,6 +196,12 @@
 |:---:|
 | <a href="flock"><img width=140 src="flock/flock_256x256.png" alt="Flock browser logo"></a> |
 
+### GreenBrowser
+
+| [GreenBrowser](https://en.wikipedia.org/wiki/GreenBrowser) |
+|:---:|
+| <a href="greenbrowser"><img width=140 src="greenbrowser/greenbrowser_256x256.png" alt="GreenBrowser browser logo"></a> |
+
 ### iCab
 
 | [iCab Mobile](https://en.wikipedia.org/wiki/ICab) [`*`](#note) |
@@ -264,7 +270,7 @@
 
 ### Links
 
-| [Links](https://en.wikipedia.org/wiki/Links_%28web_browser%29) [`*`](#note) |
+| [Links](https://en.wikipedia.org/wiki/Links_%28web_browser%29) |
 |:---:|
 | <a href="links"><img width=140 src="links/links_256x256.png" alt="Links browser logo"></a> |
 

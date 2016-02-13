@@ -1,5 +1,6 @@
 ### HEAD
 
+* Add GreenBrowser logo.
 * Add Links logo.
 * Add QupZilla logo.
 
