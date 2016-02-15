@@ -1,8 +1,11 @@
 ### HEAD
 
-* Add GreenBrowser logo.
-* Add Links logo.
-* Add QupZilla logo.
+* [[`df37fc5436`](https://github.com/alrra/browser-logos/commit/df37fc54363f4135610ae08aa87666d872b54117)] -
+  Add GreenBrowser logo.
+* [[`49ecd4fc5a`](https://github.com/alrra/browser-logos/commit/49ecd4fc5a1b61c966a15cddbfe091a915c32d36)] -
+  Add Links logo.
+* [[`908f990f4a`](https://github.com/alrra/browser-logos/commit/908f990f4ab9edf9d455cabce99077c94fe09e43)] -
+  Add QupZilla logo.
 
 ### 22.2.1 (February 10, 2016)
 
