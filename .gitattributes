@@ -9,10 +9,10 @@
 # https://git-scm.com/book/en/Customizing-Git-Git-Attributes#Exporting-Your-Repository
 
 .gitattributes export-ignore
+.github export-ignore
 .npmignore export-ignore
 .scripts export-ignore
 CHANGELOG.md export-ignore
-CONTRIBUTING.md export-ignore
 bower.json export-ignore
 package.json export-ignore
 

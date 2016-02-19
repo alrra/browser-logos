@@ -337,11 +337,11 @@ is only possible thanks to all the awesome
 ## Contributing
 
 Anyone and everyone is welcome to contribute, but before you do, please take a
-moment to review the [guidelines](CONTRIBUTING.md).
+moment to review the [guidelines](.github/CONTRIBUTING.md).
 
-* [Bug reports](CONTRIBUTING.md#bugs)
-* [Feature requests](CONTRIBUTING.md#features)
-* [Pull requests](CONTRIBUTING.md#pull-requests)
+* [Bug reports](.github/CONTRIBUTING.md#bugs)
+* [Feature requests](.github/CONTRIBUTING.md#features)
+* [Pull requests](.github/CONTRIBUTING.md#pull-requests)
 
 
 ## Getting the browser logos

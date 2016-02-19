@@ -1,5 +1,5 @@
 .gitattributes
+.github
 .npmignore
 .scripts
-CONTRIBUTING.md
 bower.json

@@ -6,11 +6,11 @@
   "homepage": "https://github.com/alrra/browser-logos#readme",
   "ignore": [
     ".gitattributes",
+    ".github",
     ".npmignore",
+    ".scripts",
     "CHANGELOG.md",
-    "CONTRIBUTING.md",
-    "package.json",
-    "scripts"
+    "package.json"
   ],
   "keywords": [
     "browser-logos",
