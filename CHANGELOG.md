@@ -1,5 +1,6 @@
 ### HEAD
 
+* Add Orca logo.
 * Add Moznet Fire.
 
 ### 22.3.0 (February 15, 2016)

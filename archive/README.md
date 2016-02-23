@@ -370,6 +370,12 @@
 |:---:|:---:|
 | <a href="opera-mini-beta_1"><img width=140 src="opera-mini-beta_1/opera-mini-beta_1_256x256.png" alt="Opera Mini Beta browser logo"></a> | <a href="opera-mini-beta_2"><img width=140 src="opera-mini-beta_2/opera-mini-beta_2_256x256.png" alt="Opera Mini Beta browser logo"></a> |
 
+### Orca
+
+| [Orca](https://en.wikipedia.org/wiki/Avant_Browser#History_and_development) |
+|:---:|
+| <a href="orca"><img width=140 src="orca/orca_256x256.png" alt="Orca browser logo"></a> |
+
 ### Orweb
 
 | [Orweb](https://web.archive.org/web/20150802023241/https://guardianproject.info/apps/orweb/) |
