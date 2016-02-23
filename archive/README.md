@@ -304,6 +304,12 @@
 |:---:|
 | <a href="mosaic"><img width=140 src="mosaic/mosaic_256x256.png" alt="Mosaic browser logo"></a> |
 
+### Moznet Fire
+
+| [Moznet Fire](https://web.archive.org/web/20141023171026/http://www.moznet.bplaced.net/) |
+|:---:|
+| <a href="moznet-fire"><img width=140 src="moznet-fire/moznet-fire_256x256.png" alt="Moznet Fire browser logo"></a> |
+
 ### Netscape
 
 | [Netscape<br>4-6](https://en.wikipedia.org/wiki/Netscape_%28web_browser%29) | [Netscape<br>8](https://en.wikipedia.org/wiki/Netscape_Browser) | [Netscape<br>9](https://en.wikipedia.org/wiki/Netscape_Navigator_9) |

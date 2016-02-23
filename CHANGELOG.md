@@ -1,3 +1,7 @@
+### HEAD
+
+* Add Moznet Fire.
+
 ### 22.3.0 (February 15, 2016)
 
 * [[`df37fc5436`](https://github.com/alrra/browser-logos/commit/df37fc54363f4135610ae08aa87666d872b54117)] -
