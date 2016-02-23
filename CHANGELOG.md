@@ -1,7 +1,9 @@
 ### HEAD
 
-* Add Orca logo.
-* Add Moznet Fire.
+* [[`e2f08eb89a`](https://github.com/alrra/browser-logos/commit/e2f08eb89ad56ad8410f16067c8b8697f130b458)] -
+  Add Orca logo.
+* [[`2471f9c556`](https://github.com/alrra/browser-logos/commit/2471f9c556aa0edbd299bab0e3954e9c855ac26f)] -
+  Add Moznet Fire.
 
 ### 22.3.0 (February 15, 2016)
 
