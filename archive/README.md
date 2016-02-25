@@ -48,7 +48,7 @@
 
 ### Baidu
 
-| [Baidu (Mobile)](https://web.archive.org/web/20150726085553/http://global.baidu.com/browser/) [`*`](#note) | [Baidu (Mobile)](https://web.archive.org/web/20150726085553/http://global.baidu.com/browser/) [`*`](#note) | [Baidu (Mobile)](https://web.archive.org/web/20150726085553/http://global.baidu.com/browser/) [`*`](#note) |
+| [Baidu<br>(Mobile)](https://web.archive.org/web/20150726085553/http://global.baidu.com/browser/) [`*`](#note) | [Baidu<br>(Mobile)](https://web.archive.org/web/20150726085553/http://global.baidu.com/browser/) [`*`](#note) | [Baidu<br>(Mobile)](https://web.archive.org/web/20150726085553/http://global.baidu.com/browser/) [`*`](#note) |
 |:---:|:---:|:---:|
 | <a href="baidu-mobile_1"><img width=140 src="baidu-mobile_1/baidu-mobile_1_256x256.png" alt="Baidu Mobile browser logo"></a> | <a href="baidu-mobile_2"><img width=140 src="baidu-mobile_2/baidu-mobile_2_256x256.png" alt="Baidu Mobile browser logo"></a> | <a href="baidu-mobile_3"><img width=140 src="baidu-mobile_3/baidu-mobile_3_256x256.png" alt="Baidu Mobile browser logo"></a> |
 
@@ -84,13 +84,13 @@
 
 ### Chrome (Android)
 
-| [Chrome 25-36<br>(Android)](https://en.wikipedia.org/wiki/Google_Chrome_for_Android) |
+| [Chrome<br>(Android)<br> 25-36](https://en.wikipedia.org/wiki/Google_Chrome_for_Android) |
 |:---:|
 | <a href="chrome-android_18-36"><img width=140 src="chrome-android_18-36/chrome-android_18-36_256x256.png" alt="Chrome for Android 18-36 browser logo"></a> |
 
 ### Chrome Beta (Android)
 
-| [Chrome Beta 25-36<br>(Android)](https://en.wikipedia.org/wiki/Google_Chrome_for_Android) |
+| [Chrome Beta<br>(Android)<br>25-36<br>](https://en.wikipedia.org/wiki/Google_Chrome_for_Android) |
 |:---:|
 | <a href="chrome-beta-android_25-36"><img width=140 src="chrome-beta-android_25-36/chrome-beta-android_25-36_256x256.png" alt="Chrome Beta for Android 25-36 browser logo"></a> |
 
@@ -174,7 +174,7 @@
 
 ### Firefox
 
-| [Phoenix /<br>  Firebird](https://en.wikipedia.org/wiki/Firefox#History) | [Firefox<br>1](https://en.wikipedia.org/wiki/Firefox) | [Firefox<br>1.5-3](https://en.wikipedia.org/wiki/Firefox) | [Firefox<br>3.5-22](https://en.wikipedia.org/wiki/Firefox) |
+| [Phoenix /<br>Firebird](https://en.wikipedia.org/wiki/Firefox#History) | [Firefox<br>1](https://en.wikipedia.org/wiki/Firefox) | [Firefox<br>1.5-3](https://en.wikipedia.org/wiki/Firefox) | [Firefox<br>3.5-22](https://en.wikipedia.org/wiki/Firefox) |
 |:---:|:---:|:---:|:---:|
 | <a href="phoenix_firebird"><img width=140 src="phoenix_firebird/phoenix_firebird_256x256.png" alt="Phoenix/Firebird browser logo"></a> | <a href="firefox_1"><img width=140 src="firefox_1/firefox_1_256x256.png" alt="Firefox 1 browser logo"></a> | <a href="firefox_1.5-3"><img width=140 src="firefox_1.5-3/firefox_1.5-3_256x256.png" alt="Firefox 1 browser logo"></a> | <a href="firefox_3.5-22"><img width=140 src="firefox_3.5-22/firefox_3.5-22_256x256.png" alt="Firefox 3.5-22 browser logo"></a> |
 
@@ -204,7 +204,7 @@
 
 ### iCab
 
-| [iCab Mobile](https://en.wikipedia.org/wiki/ICab) [`*`](#note) |
+| [iCab<br>(Mobile)](https://en.wikipedia.org/wiki/ICab) [`*`](#note) |
 |:---:|
 | <a href="icab-mobile"><img width=140 src="icab-mobile/icab-mobile_256x256.png" alt="iCab Mobile browser logo"></a> |
 
@@ -366,7 +366,7 @@
 
 ### Opera Mini Beta
 
-| [Opera Mini Beta](https://en.wikipedia.org/wiki/Opera_Mini) [`*`](#note) | [Opera Mini Beta](https://en.wikipedia.org/wiki/Opera_Mini) [`*`](#note) |
+| [Opera Mini<br>Beta](https://en.wikipedia.org/wiki/Opera_Mini) [`*`](#note) | [Opera Mini<br>Beta](https://en.wikipedia.org/wiki/Opera_Mini) [`*`](#note) |
 |:---:|:---:|
 | <a href="opera-mini-beta_1"><img width=140 src="opera-mini-beta_1/opera-mini-beta_1_256x256.png" alt="Opera Mini Beta browser logo"></a> | <a href="opera-mini-beta_2"><img width=140 src="opera-mini-beta_2/opera-mini-beta_2_256x256.png" alt="Opera Mini Beta browser logo"></a> |
 
@@ -396,7 +396,7 @@
 
 ### Rockmelt
 
-| [Rockmelt](https://en.wikipedia.org/wiki/Rockmelt) | [Rockmelt (iOS)](https://en.wikipedia.org/wiki/Rockmelt) |
+| [Rockmelt](https://en.wikipedia.org/wiki/Rockmelt) | [Rockmelt<br>(iOS)](https://en.wikipedia.org/wiki/Rockmelt) |
 |:---:|:---:|
 | <a href="rockmelt"><img width=140 src="rockmelt/rockmelt_256x256.png" alt="Rockmelt iOS browser logo"></a> | <a href="rockmelt-ios"><img width=140 src="rockmelt-ios/rockmelt-ios_256x256.png" alt="Rockmelt for iOS browser logo"></a> |
 
@@ -426,13 +426,13 @@
 
 ### Skyfire
 
-| [Skyfire (Android)](https://en.wikipedia.org/wiki/Skyfire_%28company%29#Skyfire_Web_Browser) [`*`](#note) | [Skyfire (iOS)](https://en.wikipedia.org/wiki/Skyfire_%28company%29#Skyfire_Web_Browser) [`*`](#note) |
+| [Skyfire<br>(Android)](https://en.wikipedia.org/wiki/Skyfire_%28company%29#Skyfire_Web_Browser) [`*`](#note) | [Skyfire<br>(iOS)](https://en.wikipedia.org/wiki/Skyfire_%28company%29#Skyfire_Web_Browser) [`*`](#note) |
 |:---:|:---:|
 | <a href="skyfire-android"><img width=140 src="skyfire-android/skyfire-android_256x256.png" alt="Skyfire for Android browser logo"></a> | <a href="skyfire-ios"><img width=140 src="skyfire-ios/skyfire-ios_256x256.png" alt="Skyfire for iOS browser logo"></a> |
 
 ### Sleipnir
 
-| [Sleipnir (Mobile)](https://en.wikipedia.org/wiki/Sleipnir_%28web_browser%29) [`*`](#note) |
+| [Sleipnir<br>(Mobile)](https://en.wikipedia.org/wiki/Sleipnir_%28web_browser%29) [`*`](#note) |
 |:---:|
 | <a href="sleipnir-mobile"><img width=140 src="sleipnir-mobile/sleipnir-mobile_256x256.png" alt="Sleipnir Mobile browser logo"></a> |
 
@@ -444,7 +444,7 @@
 
 ### Sogou
 
-| [Sogou (Mobile)](https://en.wikipedia.org/wiki/Sogou#Sogou_browser) [`*`](#note) | [Sogou (Mobile)](https://en.wikipedia.org/wiki/Sogou#Sogou_browser) [`*`](#note) |
+| [Sogou<br>(Mobile)](https://en.wikipedia.org/wiki/Sogou#Sogou_browser) [`*`](#note) | [Sogou<br>(Mobile)](https://en.wikipedia.org/wiki/Sogou#Sogou_browser) [`*`](#note) |
 |:---:|:---:|
 | <a href="sogou-mobile_1"><img width=140 src="sogou-mobile_1/sogou-mobile_1_256x256.png" alt="Sogou Mobile browser logo"></a> | <a href="sogou-mobile_2"><img width=140 src="sogou-mobile_2/sogou-mobile_2_256x256.png" alt="Sogou Mobile browser logo"></a> |
 
@@ -504,7 +504,7 @@
 
 ### WebKit
 
-| [Webkit Nightly<br>1 - 7](https://en.wikipedia.org/wiki/WebKit) |
+| [Webkit Nightly<br>1-7](https://en.wikipedia.org/wiki/WebKit) |
 |:---:|
 | <a href="webkit-nightly_1-7"><img width=140 src="webkit-nightly_1-7/webkit-nightly_1-7_256x256.png" alt="WebKit Nightly 1-7 browser logo"></a> |
 

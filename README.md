@@ -25,7 +25,7 @@ logos are high resolution with transparent backgrounds.
 
 ### Android
 
-| [Android](https://en.wikipedia.org/wiki/Android_%28operating_system%29) | [Android WebView<br>Beta](https://plus.google.com/+MattGaunt/posts/71X8tBLToLY) |
+| [Android](https://en.wikipedia.org/wiki/Android_%28operating_system%29) | [Android<br>WebView Beta](https://plus.google.com/+MattGaunt/posts/71X8tBLToLY) |
 |:---:|:---:|
 | <a href="android"><img width=140 src="android/android_256x256.png" alt="Android browser logo"></a> | <a href="android-webview-beta"><img width=140 src="android-webview-beta/android-webview-beta_256x256.png" alt="Android WebView Beta logo"></a> |
 
@@ -40,13 +40,13 @@ logos are high resolution with transparent backgrounds.
 | [Boat](http://www.boatmob.com/mobile/product_browser_free.html) |
 |:---:|
 | <a href="boat"><img width=140 src="boat/boat_256x256.png" alt="Boat browser logo"></a> |
- 
+
 ### Brave
 
 | [Brave](https://www.brave.com/) |
 |:---:|
 | <a href="brave"><img width=140 src="brave/brave_256x256.png" alt="Brave browser logo"></a> |
-     
+
 ### Chrome
 
 | [Chrome](https://www.google.com/chrome/) | [Chrome Canary](https://www.google.com/intl/en/chrome/browser/canary.html) |
@@ -82,13 +82,13 @@ logos are high resolution with transparent backgrounds.
 | [Cốc Cốc](https://coccoc.com/) |
 |:---:|:---:|
 | <a href="c%E1%BB%91c-c%E1%BB%91c"><img width=140 src="c%E1%BB%91c-c%E1%BB%91c/c%E1%BB%91c-c%E1%BB%91c_256x256.png" alt="Cốc Cốc browser logo"></a> |
- 
+
 ### Diigo
 
 | [Diigo](https://www.diigo.com/) |
 |:---:|
 | <a href="diigo"><img width=140 src="diigo/diigo_256x256.png" alt="Diigo browser logo"></a> |
- 
+
 ### Dolphin
 
 | [Dolphin](https://dolphin.com/) |
@@ -121,7 +121,7 @@ logos are high resolution with transparent backgrounds.
 
 ### iCab
 
-| [iCab (Mobile)](http://www.icab.de/mobile.html) |
+| [iCab<br>(Mobile)](http://www.icab.de/mobile.html) |
 |:---:|
 | <a href="icab-mobile"><img width=140 src="icab-mobile/icab-mobile_256x256.png" alt="iCab Mobile browser logo"></a> |
 
@@ -247,7 +247,7 @@ logos are high resolution with transparent backgrounds.
 
 ### Safari
 
-| [Safari](https://www.apple.com/safari/) | [Safari (iOS)](https://www.apple.com/safari/) |
+| [Safari](https://www.apple.com/safari/) | [Safari<br>(iOS)](https://www.apple.com/safari/) |
 |:---:|:---:|
 | <a href="safari"><img width=140 src="safari/safari_256x256.png" alt="Safari browser logo"></a> | <a href="safari-ios"><img width=140 src="safari-ios/safari-ios_256x256.png" alt="Safari for iOS browser logo"></a> |
 
@@ -265,13 +265,13 @@ logos are high resolution with transparent backgrounds.
 
 ### Sleipnir
 
-| [Sleipnir (Mac)](http://www.fenrir-inc.com/us/sleipnir-family/) | [Sleipnir (Mobile)](http://www.fenrir-inc.com/us/sleipnir-family/) | [Sleipnir (Windows)](http://www.fenrir-inc.com/us/sleipnir-family/) |
+| [Sleipnir<br>(Mac)](http://www.fenrir-inc.com/us/sleipnir-family/) | [Sleipnir<br>(Mobile)](http://www.fenrir-inc.com/us/sleipnir-family/) | [Sleipnir<br>(Windows)](http://www.fenrir-inc.com/us/sleipnir-family/) |
 |:---:|:---:|:---:|
 | <a href="sleipnir-mac"><img width=140 src="sleipnir-mac/sleipnir-mac_256x256.png" alt="Sleipnir for Mac browser logo"></a> | <a href="sleipnir-mobile"><img width=140 src="sleipnir-mobile/sleipnir-mobile_256x256.png" alt="Sleipnir Mobile browser logo"></a> | <a href="sleipnir-windows"><img width=140 src="sleipnir-windows/sleipnir-windows_256x256.png" alt="Sleipnir for Windows browser logo"></a> |
 
 ### Sogou
 
-| [Sogou (Mobile)](http://mse.sogou.com/) |
+| [Sogou<br>(Mobile)](http://mse.sogou.com/) |
 |:---:|
 | <a href="sogou-mobile"><img width=140 src="sogou-mobile/sogou-mobile_256x256.png" alt="Sogou Mobile browser logo"></a> |
 
@@ -348,10 +348,10 @@ moment to review the [guidelines](.github/CONTRIBUTING.md).
 
 There are a few options for getting the browser logos:
 
-* Download the [zip archive](https://github.com/alrra/browser-logos/archive/22.4.0.zip)
+* Download the [`zip` archive](https://github.com/alrra/browser-logos/archive/22.4.0.zip)
 * Install them via:
-    * [npm](https://npmjs.org/): `npm install --save-dev alrra/browser-logos`
-    * [Bower](http://bower.io/): `bower install --save-dev browser-logos`
+    * [`npm`](https://npmjs.org/): `npm install --save-dev alrra/browser-logos`
+    * [`Bower`](http://bower.io/): `bower install --save-dev browser-logos`
 
 
 ## Legal
@@ -366,5 +366,5 @@ takedown and we will remove it as soon as possible.
 
 ## Project origin and history
 
-Read [Paul Irish](https://github.com/paulirish/)'s ["High-res Browser
-Logos"](https://www.paulirish.com/2010/high-res-browser-icons/) blog post.
+Read [Paul Irish](https://github.com/paulirish/)'s [*"High-res Browser
+Logos"*](https://www.paulirish.com/2010/high-res-browser-icons/) blog post.
