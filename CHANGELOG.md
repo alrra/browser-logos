@@ -1,6 +1,7 @@
 ### HEAD
 
-* Make minor consistency changes in the `README.md` files.
+* [[`e75e66cf03`](https://github.com/alrra/browser-logos/commit/e75e66cf036c86e12cb5e3139bb535808abc3bed)] -
+  Make minor consistency changes in the `README.md` files.
 
 ### 22.4.0 (February 24, 2016)
 
