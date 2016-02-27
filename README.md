@@ -103,9 +103,9 @@ logos are high resolution with transparent backgrounds.
 
 ### Edge
 
-| [Edge](https://www.microsoft.com/en-us/windows/microsoft-edge) |
-|:---:|
-| <a href="edge"><img width=140 src="edge/edge_256x256.png" alt="Edge browser logo"></a> |
+| [Edge](https://www.microsoft.com/en-us/windows/microsoft-edge) | [Edge](https://www.microsoft.com/en-us/windows/microsoft-edge) tile |
+|:---:|:---:|
+| <a href="edge"><img width=140 src="edge/edge_256x256.png" alt="Microsoft Edge browser logo"></a> | <a href="edge-tile"><img width=140 src="edge-tile/edge-tile_256x256.png" alt="Microsoft Edge tile browser logo"></a> |
 
 ### Epic
 
