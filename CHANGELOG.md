@@ -1,5 +1,6 @@
 ### HEAD
 
+* Add Edge tile logo.
 * Update Edge logo to match the official one.
 
 ### 22.4.1 (February 26, 2016)
