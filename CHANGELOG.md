@@ -1,7 +1,9 @@
 ### HEAD
 
-* Add Edge tile logo.
-* Update Edge logo to match the official one.
+* [[`d89b320c07`](https://github.com/alrra/browser-logos/commit/d89b320c07a14b172b4ed32d8570480e33b152a4)] -
+  Add Edge tile logo.
+* [[`fa4b536421`](https://github.com/alrra/browser-logos/commit/fa4b5364211c585fde97e82618b8c2a67b8e717f)] -
+  Update Edge logo to match the official one.
 
 ### 22.4.1 (February 26, 2016)
 
