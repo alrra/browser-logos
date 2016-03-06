@@ -72,9 +72,9 @@
 
 ### Chrome
 
-| [Chrome<br>1-10](https://en.wikipedia.org/wiki/Google_Chrome) |
-|:---:|
-| <a href="chrome_1-10"><img width=140 src="chrome_1-10/chrome_1-10_256x256.png" alt="Chrome 1-10 browser logo"></a> |
+| [Chrome<br>1-10](https://en.wikipedia.org/wiki/Google_Chrome) | [Chrome<br>11-48](https://en.wikipedia.org/wiki/Google_Chrome) |
+|:---:|:---:|
+| <a href="chrome_1-10"><img width=140 src="chrome_1-10/chrome_1-10_256x256.png" alt="Chrome 1-10 browser logo"></a> | <a href="chrome_11-48"><img width=140 src="chrome_11-48/chrome_11-48_256x256.png" alt="Chrome 11-48 browser logo"></a> |
 
 ### Chrome Canary
 
