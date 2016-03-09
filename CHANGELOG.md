@@ -1,6 +1,7 @@
-### HEAD
+### 22.6.1 (March 9, 2016)
 
-* Fix `chrome/chrome.svg`.
+* [[`f9029bdad8`](https://github.com/alrra/browser-logos/commit/f9029bdad888f57d1fe2a3f58c870336d89fb672)] -
+  Fix `chrome/chrome.svg`.
 
 ### 22.6.0 (March 7, 2016)
 
