@@ -1,6 +1,7 @@
 ### HEAD
 
-* Add Iridium logo.
+* [[`2d59d3e835`](https://github.com/alrra/browser-logos/commit/2d59d3e8358c1cc35dc7c0f32a291a8f0a3f479f)] -
+  Add Iridium logo.
 
 ### 22.6.1 (March 9, 2016)
 
