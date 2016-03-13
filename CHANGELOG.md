@@ -1,3 +1,7 @@
+### HEAD
+
+* Move Link Bubble logo into the `archive`.
+
 ### 22.7.0 (March 14, 2016)
 
 * [[`2d59d3e835`](https://github.com/alrra/browser-logos/commit/2d59d3e8358c1cc35dc7c0f32a291a8f0a3f479f)] -

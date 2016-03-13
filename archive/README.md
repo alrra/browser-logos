@@ -262,11 +262,11 @@
 |:---:|
 | <a href="lightning"><img width=140 src="lightning/lightning_256x256.png" alt="Lightning browser logo"></a> |
 
-### Link Bubble
+ ### Link Bubble
 
-| [Link Bubble<br>1-1.4](https://web.archive.org/web/20150320102407/http://www.linkbubble.com/) |
-|:---:|
-| <a href="link-bubble_1-1.4"><img width=140 src="link-bubble_1-1.4/link-bubble_1-1.4_256x256.png" alt="Link Bubble 1-1.4 browser logo"></a> |
+| [Link Bubble<br>1-1.4](https://web.archive.org/web/20150320102407/http://www.linkbubble.com/) | [Link Bubble<br>1.5-1.7](https://web.archive.org/web/20150320102407/http://www.linkbubble.com/) |
+|:---:|:---:|
+| <a href="link-bubble_1-1.4"><img width=140 src="link-bubble_1-1.4/link-bubble_1-1.4_256x256.png" alt="Link Bubble 1-1.4 browser logo"></a> | <a href="link-bubble_1.5-1.7"><img width=140 src="link-bubble_1.5-1.7/link-bubble_1.5-1.7_256x256.png" alt="Link Bubble 1.5-1.7 browser logo"></a> |
 
 ### Links
 
