@@ -1,5 +1,6 @@
 ### HEAD
 
+* Update Opera Mini Beta logo.
 * Move Link Bubble logo into the `archive`.
 
 ### 22.7.0 (March 14, 2016)
