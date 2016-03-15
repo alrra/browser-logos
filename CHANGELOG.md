@@ -1,7 +1,9 @@
 ### HEAD
 
-* Update Opera Mini Beta logo.
-* Move Link Bubble logo into the `archive`.
+* [[`e7f8ccacbc`](https://github.com/alrra/browser-logos/commit/e7f8ccacbcb0f0c28ab6554b3be9e253c99d0e71)] -
+  Update Opera Mini Beta logo.
+* [[`cb83bbb895`](https://github.com/alrra/browser-logos/commit/cb83bbb895c692f59670cd5706a3d3a143a72501)] -
+  Move Link Bubble logo into the `archive`.
 
 ### 22.7.0 (March 14, 2016)
 
