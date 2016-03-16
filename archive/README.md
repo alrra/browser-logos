@@ -262,7 +262,7 @@
 |:---:|
 | <a href="lightning"><img width=140 src="lightning/lightning_256x256.png" alt="Lightning browser logo"></a> |
 
- ### Link Bubble
+### Link Bubble
 
 | [Link Bubble<br>1-1.4](https://web.archive.org/web/20150320102407/http://www.linkbubble.com/) | [Link Bubble<br>1.5-1.7](https://web.archive.org/web/20150320102407/http://www.linkbubble.com/) |
 |:---:|:---:|
