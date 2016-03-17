@@ -17,12 +17,6 @@ logos are high resolution with transparent backgrounds.
 |:---:|
 | <a href="adblock"><img width=140 src="adblock/adblock_256x256.png" alt="Adblock browser logo"></a> |
 
-### AirWeb
-
-| [AirWeb](http://airwebapp.com/) |
-|:---:|
-| <a href="airweb"><img width=140 src="airweb/airweb_256x256.png" alt="AirWeb browser logo"></a> |
-
 ### Android
 
 | [Android](https://en.wikipedia.org/wiki/Android_%28operating_system%29) | [Android<br>WebView Beta](https://plus.google.com/+MattGaunt/posts/71X8tBLToLY) |

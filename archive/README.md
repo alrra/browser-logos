@@ -10,6 +10,12 @@
 |:---:|
 | <a href="adrenaline"><img width=140 src="adrenaline/adrenaline_256x256.png" alt="Adrenaline browser logo"></a> |
 
+### AirWeb
+
+| [AirWeb](http://airwebapp.com/) |
+|:---:|
+| <a href="airweb"><img width=140 src="airweb/airweb_256x256.png" alt="AirWeb browser logo"></a> |
+
 ### AllInOne
 
 | [AllInOne](https://web.archive.org/web/20150801011234/http://allinonebrowser.com/) |
