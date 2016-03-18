@@ -1,5 +1,6 @@
 ### HEAD
 
+* Further losslessly optimize images.
 * Move AirWeb into the `archive`.
 
 ### 23.0.0 (March 15, 2016)
