@@ -1,6 +1,7 @@
-### HEAD
+### 24.0.1 (March 22, 2016)
 
-* Readd `11` in the `Internet Explorer` logo description from 
+* [[`da82662c77`](https://github.com/alrra/browser-logos/commit/da82662c774560479eaa8190c7552c4295888d6a)] -
+  Readd `11` in the `Internet Explorer` logo description from 
   `README.md`.
 
 ### 24.0.0 (March 20, 2016)
