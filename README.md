@@ -133,7 +133,7 @@ logos are high resolution with transparent backgrounds.
 
 ### Internet Explorer
 
-| Internet Explorer <br>[9](https://en.wikipedia.org/wiki/Internet_Explorer_9) / [10](https://en.wikipedia.org/wiki/Internet_Explorer_10)  | Internet Explorer <br>[10](https://en.wikipedia.org/wiki/Internet_Explorer_10) / [11](https://en.wikipedia.org/wiki/Internet_Explorer_11) tile |
+| Internet Explorer <br>[9](https://en.wikipedia.org/wiki/Internet_Explorer_9) / [10](https://en.wikipedia.org/wiki/Internet_Explorer_10) / [11](https://en.wikipedia.org/wiki/Internet_Explorer_11) | Internet Explorer <br>[10](https://en.wikipedia.org/wiki/Internet_Explorer_10) / [11](https://en.wikipedia.org/wiki/Internet_Explorer_11) tile |
 |:---:|:---:|
 | <a href="internet-explorer"><img width=140 src="internet-explorer/internet-explorer_256x256.png"alt="Internet Explorer 9, 10 and 11 browser logo"></a> | <a href="internet-explorer-tile"><img width=140 src="internet-explorer-tile/internet-explorer-tile_256x256.png" alt="Internet Explorer 10 and 11 start screen tile"></a> |
 
