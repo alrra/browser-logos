@@ -1,6 +1,7 @@
-### HEAD
+### 25.0.0 (March 27, 2016)
 
-* Drop `Chrome` for Android logos.
+* [[`4245f823b7`](https://github.com/alrra/browser-logos/commit/4245f823b70777568d1cbd44db300744beaa4142)] -
+  Drop `Chrome` for Android logos.
 
 ### 24.0.1 (March 22, 2016)
 
