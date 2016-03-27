@@ -138,13 +138,13 @@
 
 ### Dolphin Beta
 
-| [Dolphin Beta](https://en.wikipedia.org/wiki/Dolphin_Browser) |
+| [Dolphin<br>Beta](https://en.wikipedia.org/wiki/Dolphin_Browser) |
 |:---:|
 | <a href="dolphin-beta"><img width=140 src="dolphin-beta/dolphin-beta_256x256.png" alt="Dolphin Beta browser logo"></a> |
 
 ### Dolphin Zero
 
-| [Dolphin Zero](https://en.wikipedia.org/wiki/Dolphin_Browser) |
+| [Dolphin<br>Zero](https://en.wikipedia.org/wiki/Dolphin_Browser) |
 |:---:|
 | <a href="dolphin-zero"><img width=140 src="dolphin-zero/dolphin-zero_256x256.png" alt="Dolphin Zero browser logo"></a> |
 
@@ -282,7 +282,7 @@
 
 ### Maxthon
 
-| [Maxthon](https://en.wikipedia.org/wiki/Maxthon) [`*`](#note) | [Maxthon Beta](https://en.wikipedia.org/wiki/Maxthon) [`*`](#note) |
+| [Maxthon](https://en.wikipedia.org/wiki/Maxthon) [`*`](#note) | [Maxthon<br>Beta](https://en.wikipedia.org/wiki/Maxthon) [`*`](#note) |
 |:---:|:---:|
 | <a href="maxthon_1"><img width=140 src="maxthon_1/maxthon_1_256x256.png" alt="Maxthon browser logo"></a> | <a href="maxthon-beta_1"><img width=140 src="maxthon-beta_1/maxthon-beta_1_256x256.png" alt="Maxthon Beta browser logo"></a> |
 

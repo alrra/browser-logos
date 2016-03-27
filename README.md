@@ -43,7 +43,7 @@ logos are high resolution with transparent backgrounds.
 
 ### Chrome
 
-| [Chrome](https://www.google.com/chrome/) | [Chrome Beta](https://www.google.com/chrome/browser/beta.html) | [Chrome Dev](https://www.chromium.org/getting-involved/dev-channel) | [Chrome Canary](https://www.google.com/intl/en/chrome/browser/canary.html) |
+| [Chrome](https://www.google.com/chrome/) | [Chrome<br>Beta](https://www.google.com/chrome/browser/beta.html) | [Chrome<br>Dev](https://www.chromium.org/getting-involved/dev-channel) | [Chrome<br>Canary](https://www.google.com/intl/en/chrome/browser/canary.html) |
 |:---:|:---:|:---:|:---:|
 | <a href="chrome"><img width=140 src="chrome/chrome_256x256.png" alt="Chrome browser logo"></a> | <a href="chrome-beta"><img width=140 src="chrome-beta/chrome-beta_256x256.png" alt="Chrome Beta browser logo"></a> | <a href="chrome-dev"><img width=140 src="chrome-dev/chrome-dev_256x256.png" alt="Chrome Dev browser logo"></a> | <a href="chrome-canary"><img width=140 src="chrome-canary/chrome-canary_256x256.png" alt="Chrome Canary browser logo"></a> |
 
@@ -103,7 +103,7 @@ logos are high resolution with transparent backgrounds.
 
 ### Firefox
 
-| [Firefox](https://www.mozilla.org/en-US/firefox/) | [Firefox Beta](https://www.mozilla.org/beta/) | [Firefox<br>Developer Edition](https://www.mozilla.org/en-US/firefox/developer/) | [Firefox Nightly](https://nightly.mozilla.org/) |
+| [Firefox](https://www.mozilla.org/en-US/firefox/) | [Firefox<br>Beta](https://www.mozilla.org/beta/) | [Firefox<br>Developer Edition](https://www.mozilla.org/en-US/firefox/developer/) | [Firefox<br>Nightly](https://nightly.mozilla.org/) |
 |:---:|:---:|:---:|:---:|
 | <a href="firefox"><img width=140 src="firefox/firefox_256x256.png" alt="Firefox browser logo"></a> | <a href="firefox-beta"><img width=140 src="firefox-beta/firefox-beta_256x256.png" alt="Firefox Beta browser logo"></a> | <a href="firefox-developer-edition"><img width=140 src="firefox-developer-edition/firefox-developer-edition_256x256.png" alt="Firefox Developer Edition browser logo"></a> | <a href="firefox-nightly"><img width=140 src="firefox-nightly/firefox-nightly_256x256.png" alt="Firefox Nightly browser logo"></a> |
 
@@ -187,13 +187,13 @@ logos are high resolution with transparent backgrounds.
 
 ### Opera
 
-| [Opera](https://www.opera.com/) | [Opera Beta](https://www.opera.com/computer/beta) | [Opera Developer](https://www.opera.com/developer) |
+| [Opera](https://www.opera.com/) | [Opera<br>Beta](https://www.opera.com/computer/beta) | [Opera<br>Developer](https://www.opera.com/developer) |
 |:---:|:---:|:---:|
 | <a href="opera"><img width=140 src="opera/opera_256x256.png" alt="Opera browser logo"></a> | <a href="opera-beta"><img width=140 src="opera-beta/opera-beta_256x256.png" alt="Opera Beta browser logo"></a> | <a href="opera-developer"><img width=140 src="opera-developer/opera-developer_256x256.png" alt="Opera Developer browser logo"></a> |
 
 ### Opera Mini
 
-| [Opera Mini](https://www.opera.com/mobile/mini) | [Opera Mini Beta](https://www.opera.com/mobile/mini) |
+| [Opera Mini](https://www.opera.com/mobile/mini) | [Opera Mini<br>Beta](https://www.opera.com/mobile/mini) |
 |:---:|:---:|
 | <a href="opera-mini"><img width=140 src="opera-mini/opera-mini_256x256.png" alt="Opera Mini browser logo"></a> | <a href="opera-mini-beta"><img width=140 src="opera-mini-beta/opera-mini-beta_256x256.png" alt="Opera Mini Beta browser logo"></a> |
 
@@ -295,7 +295,7 @@ logos are high resolution with transparent backgrounds.
 
 ### WebKit
 
-| [WebKit Nightly](https://webkit.org/nightly/) |
+| [WebKit<br>Nightly](https://webkit.org/nightly/) |
 |:---:|
 | <a href="webkit-nightly"><img width=140 src="webkit-nightly/webkit-nightly_256x256.png" alt="WebKit Nightly browser logo"></a> |
 
@@ -307,10 +307,11 @@ logos are high resolution with transparent backgrounds.
 
 --
 
-### Archive
+## Archive
 
-For logos of browsers that are no longer active, or for older logos of the
-browsers listed above, check the [archive](archive#readme) directory.
+For logos of browsers that are no longer active, or for older logos
+of the browsers listed above, check the [archive](archive#readme)
+directory.
 
 ---
 
@@ -324,8 +325,8 @@ is only possible thanks to all the awesome
 
 ## Contributing
 
-Anyone and everyone is welcome to contribute, but before you do, please take a
-moment to review the [guidelines](.github/CONTRIBUTING.md).
+Anyone and everyone is welcome to contribute, but before you do, please
+take a moment to review the [guidelines](.github/CONTRIBUTING.md).
 
 * [Bug reports](.github/CONTRIBUTING.md#bugs)
 * [Feature requests](.github/CONTRIBUTING.md#features)
@@ -336,7 +337,7 @@ moment to review the [guidelines](.github/CONTRIBUTING.md).
 
 There are a few options for getting the browser logos:
 
-* Download the [`zip` archive](https://github.com/alrra/browser-logos/archive/25.0.0.zip)
+* Download the [`zip` archive](https://github.com/alrra/browser-logos/archive/25.0.0.zip).
 * Install them via:
     * [`npm`](https://npmjs.org/): `npm install --save-dev alrra/browser-logos`
     * [`Bower`](http://bower.io/): `bower install --save-dev browser-logos`
@@ -346,13 +347,14 @@ There are a few options for getting the browser logos:
 
 #### __All logos and trademarks are the property of their respective owners!__
 
-If you represent the entity that has the rights over a logo and you want,
-for whatever reason, that logo removed from this project, [open an
-issue](https://github.com/alrra/browser-logos/issues/new) requesting its
-takedown and we will remove it as soon as possible.
+If you represent the entity that has the rights over a logo and you
+want, for whatever reason, that logo removed from this project, [open
+an issue](https://github.com/alrra/browser-logos/issues/new) requesting
+its takedown and we will remove it as soon as possible.
 
 
 ## Project origin and history
 
 Read [Paul Irish](https://github.com/paulirish/)'s [*"High-res Browser
-Logos"*](https://www.paulirish.com/2010/high-res-browser-icons/) blog post.
+Logos"*](https://www.paulirish.com/2010/high-res-browser-icons/) blog
+post.
