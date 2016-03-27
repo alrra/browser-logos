@@ -1,6 +1,7 @@
-### HEAD
+### 25.0.1 (March 27, 2016)
 
-* Make minor improvements.
+* [[`e47edb96f4`](https://github.com/alrra/browser-logos/commit/e47edb96f46d9ff4f40322f99e3c2497261998fa)] -
+  Make minor improvements.
 
 ### 25.0.0 (March 27, 2016)
 
