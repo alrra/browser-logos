@@ -1,6 +1,8 @@
 ### HEAD
 
-* Make minor consistency changes in the `README.md` files.
+* Further losslessly optimize images.
+* [[`ddb7d859f1`](https://github.com/alrra/browser-logos/commit/ddb7d859f1c4988b52e9b9f4dc3b913ac50cb4cb)] -
+  Make minor consistency changes in the `README.md` files.
 
 ### 25.0.1 (March 27, 2016)
 
