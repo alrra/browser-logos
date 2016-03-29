@@ -107,7 +107,7 @@ logos are high resolution with transparent backgrounds.
 |:---:|:---:|:---:|:---:|
 | <a href="firefox"><img width=140 src="firefox/firefox_256x256.png" alt="Firefox browser logo"></a> | <a href="firefox-beta"><img width=140 src="firefox-beta/firefox-beta_256x256.png" alt="Firefox Beta browser logo"></a> | <a href="firefox-developer-edition"><img width=140 src="firefox-developer-edition/firefox-developer-edition_256x256.png" alt="Firefox Developer Edition browser logo"></a> | <a href="firefox-nightly"><img width=140 src="firefox-nightly/firefox-nightly_256x256.png" alt="Firefox Nightly browser logo"></a> |
 
-### iCab
+### iCab (Mobile)
 
 | [iCab<br>(Mobile)](http://www.icab.de/mobile.html) |
 |:---:|
@@ -257,7 +257,7 @@ logos are high resolution with transparent backgrounds.
 |:---:|:---:|:---:|
 | <a href="sleipnir-mac"><img width=140 src="sleipnir-mac/sleipnir-mac_256x256.png" alt="Sleipnir for Mac browser logo"></a> | <a href="sleipnir-mobile"><img width=140 src="sleipnir-mobile/sleipnir-mobile_256x256.png" alt="Sleipnir Mobile browser logo"></a> | <a href="sleipnir-windows"><img width=140 src="sleipnir-windows/sleipnir-windows_256x256.png" alt="Sleipnir for Windows browser logo"></a> |
 
-### Sogou
+### Sogou (Mobile)
 
 | [Sogou<br>(Mobile)](http://mse.sogou.com/) |
 |:---:|
@@ -293,7 +293,7 @@ logos are high resolution with transparent backgrounds.
 |:---:|
 | <a href="web"><img width=140 src="web/web.png" alt="Web (f.k.a. Epiphany) browser logo"></a> |
 
-### WebKit
+### WebKit Nightly
 
 | [WebKit<br>Nightly](https://webkit.org/nightly/) |
 |:---:|
@@ -313,7 +313,7 @@ For logos of browsers that are no longer active, or for older logos
 of the browsers listed above, check the [archive](archive#readme)
 directory.
 
----
+--
 
 
 ## Acknowledgements

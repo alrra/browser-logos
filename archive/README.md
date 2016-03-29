@@ -52,7 +52,7 @@
 |:---:|
 | <a href="axis"><img width=140 src="axis/axis_256x256.png" alt="Yahoo! Axis browser logo"></a> |
 
-### Baidu
+### Baidu (Mobile)
 
 | [Baidu<br>(Mobile)](https://web.archive.org/web/20150726085553/http://global.baidu.com/browser/) [`*`](#note) | [Baidu<br>(Mobile)](https://web.archive.org/web/20150726085553/http://global.baidu.com/browser/) [`*`](#note) | [Baidu<br>(Mobile)](https://web.archive.org/web/20150726085553/http://global.baidu.com/browser/) [`*`](#note) |
 |:---:|:---:|:---:|
@@ -208,7 +208,7 @@
 |:---:|
 | <a href="greenbrowser"><img width=140 src="greenbrowser/greenbrowser_256x256.png" alt="GreenBrowser browser logo"></a> |
 
-### iCab
+### iCab (Mobile)
 
 | [iCab<br>(Mobile)](https://en.wikipedia.org/wiki/ICab) [`*`](#note) |
 |:---:|
@@ -448,7 +448,7 @@
 |:---:|
 | <a href="slimboat"><img width=140 src="slimboat/slimboat_256x256.png" alt="SlimBoat browser logo"></a> |
 
-### Sogou
+### Sogou (Mobile)
 
 | [Sogou<br>(Mobile)](https://en.wikipedia.org/wiki/Sogou#Sogou_browser) [`*`](#note) | [Sogou<br>(Mobile)](https://en.wikipedia.org/wiki/Sogou#Sogou_browser) [`*`](#note) |
 |:---:|:---:|
@@ -508,7 +508,7 @@
 |:---:|
 | <a href="waterfox"><img width=140 src="waterfox/waterfox.png" alt="WaterFox browser logo"></a> |
 
-### WebKit
+### WebKit Nightly
 
 | [Webkit Nightly<br>1-7](https://en.wikipedia.org/wiki/WebKit) |
 |:---:|
