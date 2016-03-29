@@ -1,6 +1,7 @@
-### HEAD
+### 25.0.2 (March 29, 2016)
 
-* Further losslessly optimize images.
+* [[`aeb4dd0cf9`](https://github.com/alrra/browser-logos/commit/aeb4dd0cf92e1332677899cc3891a9afb6fe7788)] -
+  Further losslessly optimize images.
 * [[`ddb7d859f1`](https://github.com/alrra/browser-logos/commit/ddb7d859f1c4988b52e9b9f4dc3b913ac50cb4cb)] -
   Make minor consistency changes in the `README.md` files.
 
