@@ -1,3 +1,7 @@
+### HEAD
+
+* Add `Safari Technology Preview` logo.
+
 ### 25.0.2 (March 29, 2016)
 
 * [[`aeb4dd0cf9`](https://github.com/alrra/browser-logos/commit/aeb4dd0cf92e1332677899cc3891a9afb6fe7788)] -
