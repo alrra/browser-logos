@@ -1,5 +1,6 @@
 ### HEAD
 
+* Make minor consistency changes `README.md`.
 * Further losslessly optimize images.
 
 ### 25.1.0 (March 30, 2016)
