@@ -245,6 +245,12 @@ logos are high resolution with transparent backgrounds.
 |:---:|
 | <a href="safari-ios"><img width=140 src="safari-ios/safari-ios_256x256.png" alt="Safari for iOS browser logo"></a> |
 
+### Samsung Internet
+
+| [Samsung Internet](http://developer.samsung.com/resources/samsung-internet) |
+|:---:|
+| <a href="samsung-internet"><img width=140 src="samsung-internet/samsung-internet_256x256.png" alt="Samsung Internet browser logo"></a> |
+
 ### SeaMonkey
 
 | [SeaMonkey](http://www.seamonkey-project.org/) |
