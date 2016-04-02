@@ -1,6 +1,7 @@
-### HEAD
+### 25.2.0 (April 2, 2016)
 
-* Add `Samsung Internet` logo.
+* [[`e6cbbd8928`](https://github.com/alrra/browser-logos/commit/e6cbbd8928ef3c2abd4f89abe558fa58b32ae897)] -
+  Add `Samsung Internet` logo.
 
 ### 25.1.1 (March 31, 2016)
 
