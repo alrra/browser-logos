@@ -1,7 +1,9 @@
 ### HEAD
 
-* Add `Project Tofino` logo.
-* Further losslessly optimize images.
+* [[`ddf712d237`](https://github.com/alrra/browser-logos/commit/ddf712d23713dec46189f05abafc40a23f575be3)] -
+  Add `Project Tofino` logo.
+* [[`ae2a3baadd`](https://github.com/alrra/browser-logos/commit/ae2a3baadd59c09f60324ec1d33efb33bf37ed2a)] -
+  Further losslessly optimize images.
 
 ### 25.2.0 (April 2, 2016)
 
