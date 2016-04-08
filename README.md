@@ -275,6 +275,12 @@ logos are high resolution with transparent backgrounds.
 |:---:|
 | <a href="sogou-mobile"><img width=140 src="sogou-mobile/sogou-mobile_256x256.png" alt="Sogou Mobile browser logo"></a> |
 
+### Tofino
+
+| [Tofino](https://github.com/mozilla/tofino) |
+|:---:|
+| <a href="tofino"><img width=140 src="tofino/tofino_256x256.png" alt="Project Tofino browser logo"></a> |
+
 ### Tor
 
 | [Tor](https://www.torproject.org/) |

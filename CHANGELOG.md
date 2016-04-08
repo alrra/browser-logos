@@ -1,5 +1,6 @@
 ### HEAD
 
+* Add `Project Tofino` logo.
 * Further losslessly optimize images.
 
 ### 25.2.0 (April 2, 2016)
