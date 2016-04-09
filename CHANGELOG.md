@@ -1,6 +1,7 @@
-### HEAD
+### 25.4.0 (April 10, 2016)
 
-* Add `brave.svg`.
+* [[`a376fd2e7e`](https://github.com/alrra/browser-logos/commit/a376fd2e7ec6dfdb209c5e2afe17989590508927)] -
+  Add `brave.svg`.
 
 ### 25.3.0 (April 8, 2016)
 
