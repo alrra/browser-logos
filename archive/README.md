@@ -12,7 +12,7 @@
 
 ### AirWeb
 
-| [AirWeb](http://web.archive.org/web/20160316122907/http://airwebapp.com/) |
+| [AirWeb](https://web.archive.org/web/20160316122907/http://airwebapp.com/) |
 |:---:|
 | <a href="airweb"><img width=140 src="airweb/airweb_256x256.png" alt="AirWeb browser logo"></a> |
 
@@ -122,7 +122,7 @@
 
 | [Diigo](https://en.wikipedia.org/wiki/Diigo) [`*`](#note) | [Diigo](https://en.wikipedia.org/wiki/Diigo) [`*`](#note) | [Diigo](https://en.wikipedia.org/wiki/Diigo) [`*`](#note) |
 |:---:|:---:|:---:|
-| <a href="diigo_1"><img width=140 src="diigo_1/diigo_1_256x256.png" alt="Diigo browser logo"></a> | <a href="diigo_2"><img width=140 src="diigo_2/diigo_2_256x256.png" alt="Diigo browser logo"></a> | <a href="diigo_3"><img width=140 src="diigo_3/diigo_3_256x256.png" alt="Diigo browser logo"></a> | 
+| <a href="diigo_1"><img width=140 src="diigo_1/diigo_1_256x256.png" alt="Diigo browser logo"></a> | <a href="diigo_2"><img width=140 src="diigo_2/diigo_2_256x256.png" alt="Diigo browser logo"></a> | <a href="diigo_3"><img width=140 src="diigo_3/diigo_3_256x256.png" alt="Diigo browser logo"></a> |
 
 ### Docler
 
@@ -344,7 +344,7 @@
 
 | [OmniWeb<br>1-5](https://en.wikipedia.org/wiki/OmniWeb) | [OmniWeb<br>6](https://en.wikipedia.org/wiki/OmniWeb) |
 |:---:|:---:|
-| <a href="omniweb_1-5"><img width=140 src="omniweb_1-5/omniweb_1-5_256x256.png" alt="OmniWeb 1-5 browser logo"></a> | <a href="omniweb_6"><img width=140 src="omniweb_6/omniweb_6_256x256.png" alt="OmniWeb 6 browser logo"></a> | 
+| <a href="omniweb_1-5"><img width=140 src="omniweb_1-5/omniweb_1-5_256x256.png" alt="OmniWeb 1-5 browser logo"></a> | <a href="omniweb_6"><img width=140 src="omniweb_6/omniweb_6_256x256.png" alt="OmniWeb 6 browser logo"></a> |
 
 ### NLIA
 

@@ -229,7 +229,7 @@ logos are high resolution with transparent backgrounds.
 
 ### Samsung Internet
 
-| [Samsung Internet](http://developer.samsung.com/resources/samsung-internet) |
+| [Samsung Internet](https://developer.samsung.com/resources/samsung-internet) |
 |:---:|
 | <a href="samsung-internet"><img width=140 src="samsung-internet/samsung-internet_256x256.png" alt="Samsung Internet browser logo"></a> |
 
@@ -259,7 +259,7 @@ logos are high resolution with transparent backgrounds.
 
 ### Sogou (Mobile)
 
-| [Sogou<br>(Mobile)](http://mse.sogou.com/) |
+| [Sogou<br>(Mobile)](https://mse.sogou.com/) |
 |:---:|
 | <a href="sogou-mobile"><img width=140 src="sogou-mobile/sogou-mobile_256x256.png" alt="Sogou Mobile browser logo"></a> |
 
