@@ -149,12 +149,6 @@ logos are high resolution with transparent backgrounds.
 |:---:|
 | <a href="lightning"><img width=140 src="lightning/lightning_256x256.png" alt="Lightning browser logo"></a> |
 
-### Mercury
-
-| [Mercury](https://mercury-browser.com/) |
-|:---:|
-| <a href="mercury"><img width=140 src="mercury/mercury_256x256.png" alt="Mercury browser logo"></a> |
-
 ### Midori
 
 | [Midori](http://www.midori-browser.org/) |

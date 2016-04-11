@@ -1,5 +1,6 @@
 ### HEAD
 
+* Move `Mercury` into the `archive`.
 * Move `Diigo` into the `archive`.
 
 ### 25.4.0 (April 10, 2016)

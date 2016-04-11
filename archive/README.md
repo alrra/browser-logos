@@ -294,9 +294,9 @@
 
 ### Mercury
 
-| [Mercury](https://en.wikipedia.org/wiki/Mercury_Browser) [`*`](#note) |
-|:---:|
-| <a href="mercury"><img width=140 src="mercury/mercury_256x256.png" alt="Mercury browser logo"></a> |
+| [Mercury](https://en.wikipedia.org/wiki/Mercury_Browser) [`*`](#note) | [Mercury](https://en.wikipedia.org/wiki/Mercury_Browser) [`*`](#note) |
+|:---:|:---:|
+| <a href="mercury_1"><img width=140 src="mercury_1/mercury_1_256x256.png" alt="Mercury browser logo"></a> | <a href="mercury_2"><img width=140 src="mercury_2/mercury_2_256x256.png" alt="Mercury browser logo"></a> |
 
 ### MetaCert
 
