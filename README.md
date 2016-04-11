@@ -167,12 +167,6 @@ logos are high resolution with transparent backgrounds.
 |:---:|
 | <a href="netsurf"><img width=140 src="netsurf/netsurf_256x256.png" alt="NetSurf browser logo"></a> |
 
-### OmniWeb
-
-| [OmniWeb](https://www.omnigroup.com/more) | [OmniWeb<br>Test Build](https://omnistaging.omnigroup.com/omniweb/) |
-|:---:|:---:|
-| <a href="omniweb"><img width=140 src="omniweb/omniweb_256x256.png" alt="OmniWeb browser logo"></a> | <a href="omniweb-test-build"><img width=140 src="omniweb-test-build/omniweb-test-build_256x256.png" alt="OmniWeb Test Build browser logo"></a> |
-
 ### Opera
 
 | [Opera](https://www.opera.com/) | [Opera<br>Beta](https://www.opera.com/computer/beta) | [Opera<br>Developer](https://www.opera.com/developer) |

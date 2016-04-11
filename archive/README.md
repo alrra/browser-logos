@@ -340,6 +340,12 @@
 |:---:|
 | <a href="ninesky"><img width=140 src="ninesky/ninesky_256x256.png" alt="Ninesky browser logo"></a> |
 
+### OmniWeb
+
+| [OmniWeb<br>1-5](https://en.wikipedia.org/wiki/OmniWeb) | [OmniWeb<br>6](https://en.wikipedia.org/wiki/OmniWeb) |
+|:---:|:---:|
+| <a href="omniweb_1-5"><img width=140 src="omniweb_1-5/omniweb_1-5_256x256.png" alt="OmniWeb 1-5 browser logo"></a> | <a href="omniweb_6"><img width=140 src="omniweb_6/omniweb_6_256x256.png" alt="OmniWeb 6 browser logo"></a> | 
+
 ### NLIA
 
 | [NLIA](https://web.archive.org/web/20150411053800/http://e.netpia.com/) |

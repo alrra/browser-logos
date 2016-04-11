@@ -1,5 +1,6 @@
 ### HEAD
 
+* Move `OmniWeb` into the `archive`.
 * Move `Mercury` into the `archive`.
 * Move `Diigo` into the `archive`.
 
