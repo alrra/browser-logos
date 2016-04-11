@@ -19,7 +19,7 @@ logos are high resolution with transparent backgrounds.
 
 ### Android
 
-| [Android](https://en.wikipedia.org/wiki/Android_%28operating_system%29) | [Android<br>WebView Beta](https://plus.google.com/+MattGaunt/posts/71X8tBLToLY) |
+| [Android<br>Browser](https://en.wikipedia.org/wiki/Android_%28operating_system%29) | [Android<br>WebView Beta](https://plus.google.com/+MattGaunt/posts/71X8tBLToLY) |
 |:---:|:---:|
 | <a href="android"><img width=140 src="android/android_256x256.png" alt="Android browser logo"></a> | <a href="android-webview-beta"><img width=140 src="android-webview-beta/android-webview-beta_256x256.png" alt="Android WebView Beta logo"></a> |
 
@@ -70,12 +70,6 @@ logos are high resolution with transparent backgrounds.
 | [Cốc Cốc](https://coccoc.com/) |
 |:---:|:---:|
 | <a href="c%E1%BB%91c-c%E1%BB%91c"><img width=140 src="c%E1%BB%91c-c%E1%BB%91c/c%E1%BB%91c-c%E1%BB%91c_256x256.png" alt="Cốc Cốc browser logo"></a> |
-
-### Diigo
-
-| [Diigo](https://www.diigo.com/) |
-|:---:|
-| <a href="diigo"><img width=140 src="diigo/diigo_256x256.png" alt="Diigo browser logo"></a> |
 
 ### Dolphin
 
@@ -265,9 +259,15 @@ logos are high resolution with transparent backgrounds.
 
 ### Sleipnir
 
-| [Sleipnir<br>(Mac)](http://www.fenrir-inc.com/us/sleipnir-family/) | [Sleipnir<br>(Mobile)](http://www.fenrir-inc.com/us/sleipnir-family/) | [Sleipnir<br>(Windows)](http://www.fenrir-inc.com/us/sleipnir-family/) |
-|:---:|:---:|:---:|
-| <a href="sleipnir-mac"><img width=140 src="sleipnir-mac/sleipnir-mac_256x256.png" alt="Sleipnir for Mac browser logo"></a> | <a href="sleipnir-mobile"><img width=140 src="sleipnir-mobile/sleipnir-mobile_256x256.png" alt="Sleipnir Mobile browser logo"></a> | <a href="sleipnir-windows"><img width=140 src="sleipnir-windows/sleipnir-windows_256x256.png" alt="Sleipnir for Windows browser logo"></a> |
+| [Sleipnir<br>(Mac)](http://www.fenrir-inc.com/us/sleipnir-family/) | [Sleipnir<br>(Windows)](http://www.fenrir-inc.com/us/sleipnir-family/) |
+|:---:|:---:|
+| <a href="sleipnir-mac"><img width=140 src="sleipnir-mac/sleipnir-mac_256x256.png" alt="Sleipnir for Mac browser logo"></a> | <a href="sleipnir-windows"><img width=140 src="sleipnir-windows/sleipnir-windows_256x256.png" alt="Sleipnir for Windows browser logo"></a> |
+
+### Sleipnir (Mobile)
+
+| [Sleipnir<br>(Mobile)](http://www.fenrir-inc.com/us/sleipnir-family/) |
+|:---:|
+| <a href="sleipnir-mobile"><img width=140 src="sleipnir-mobile/sleipnir-mobile_256x256.png" alt="Sleipnir Mobile browser logo"></a> |
 
 ### Sogou (Mobile)
 
@@ -331,7 +331,7 @@ For logos of browsers that are no longer active, or for older logos
 of the browsers listed above, check the [archive](archive#readme)
 directory.
 
---
+---
 
 
 ## Acknowledgements

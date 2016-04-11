@@ -1,3 +1,7 @@
+### HEAD
+
+* Move `Diigo` into the `archive`.
+
 ### 25.4.0 (April 10, 2016)
 
 * [[`a376fd2e7e`](https://github.com/alrra/browser-logos/commit/a376fd2e7ec6dfdb209c5e2afe17989590508927)] -

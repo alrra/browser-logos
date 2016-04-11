@@ -120,9 +120,9 @@
 
 ### Diigo
 
-| [Diigo](https://en.wikipedia.org/wiki/Diigo) [`*`](#note) | [Diigo](https://en.wikipedia.org/wiki/Diigo) [`*`](#note) |
-|:---:|:---:|
-| <a href="diigo_1"><img width=140 src="diigo_1/diigo_1_256x256.png" alt="Diigo browser logo"></a> | <a href="diigo_2"><img width=140 src="diigo_2/diigo_2_256x256.png" alt="Diigo browser logo"></a> |
+| [Diigo](https://en.wikipedia.org/wiki/Diigo) [`*`](#note) | [Diigo](https://en.wikipedia.org/wiki/Diigo) [`*`](#note) | [Diigo](https://en.wikipedia.org/wiki/Diigo) [`*`](#note) |
+|:---:|:---:|:---:|
+| <a href="diigo_1"><img width=140 src="diigo_1/diigo_1_256x256.png" alt="Diigo browser logo"></a> | <a href="diigo_2"><img width=140 src="diigo_2/diigo_2_256x256.png" alt="Diigo browser logo"></a> | <a href="diigo_3"><img width=140 src="diigo_3/diigo_3_256x256.png" alt="Diigo browser logo"></a> | 
 
 ### Docler
 
@@ -282,9 +282,15 @@
 
 ### Maxthon
 
-| [Maxthon](https://en.wikipedia.org/wiki/Maxthon) [`*`](#note) | [Maxthon<br>Beta](https://en.wikipedia.org/wiki/Maxthon) [`*`](#note) |
-|:---:|:---:|
-| <a href="maxthon_1"><img width=140 src="maxthon_1/maxthon_1_256x256.png" alt="Maxthon browser logo"></a> | <a href="maxthon-beta_1"><img width=140 src="maxthon-beta_1/maxthon-beta_1_256x256.png" alt="Maxthon Beta browser logo"></a> |
+| [Maxthon](https://en.wikipedia.org/wiki/Maxthon) [`*`](#note) |
+|:---:|
+| <a href="maxthon_1"><img width=140 src="maxthon_1/maxthon_1_256x256.png" alt="Maxthon browser logo"></a> |
+
+### Maxthon Beta
+
+| [Maxthon<br>Beta](https://en.wikipedia.org/wiki/Maxthon) [`*`](#note) |
+|:---:|
+| <a href="maxthon-beta_1"><img width=140 src="maxthon-beta_1/maxthon-beta_1_256x256.png" alt="Maxthon Beta browser logo"></a> |
 
 ### Mercury
 
@@ -436,7 +442,7 @@
 |:---:|:---:|
 | <a href="skyfire-android"><img width=140 src="skyfire-android/skyfire-android_256x256.png" alt="Skyfire for Android browser logo"></a> | <a href="skyfire-ios"><img width=140 src="skyfire-ios/skyfire-ios_256x256.png" alt="Skyfire for iOS browser logo"></a> |
 
-### Sleipnir
+### Sleipnir (Mobile)
 
 | [Sleipnir<br>(Mobile)](https://en.wikipedia.org/wiki/Sleipnir_%28web_browser%29) [`*`](#note) |
 |:---:|
