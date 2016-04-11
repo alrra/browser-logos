@@ -1,8 +1,11 @@
 ### HEAD
 
-* Move `OmniWeb` into the `archive`.
-* Move `Mercury` into the `archive`.
-* Move `Diigo` into the `archive`.
+* [[`8f78ff068f`](https://github.com/alrra/browser-logos/commit/8f78ff068fc444bdc0d4f08d60f4d2b57c281cb0)] -
+  Move `OmniWeb` into the `archive`.
+* [[`28d6d51b12`](https://github.com/alrra/browser-logos/commit/28d6d51b12a43eb46c3e31cb09287cfaecfc4982)] -
+  Move `Mercury` into the `archive`.
+* [[`585964df58`](https://github.com/alrra/browser-logos/commit/585964df58f65a5132bec42d525b1400494f7b40)] -
+  Move `Diigo` into the `archive`.
 
 ### 25.4.0 (April 10, 2016)
 
