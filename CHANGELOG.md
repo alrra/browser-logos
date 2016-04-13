@@ -1,3 +1,7 @@
+### HEAD
+
+* Update `WebKit Nightly` logo.
+
 ### 26.0.0 (April 12, 2016)
 
 * [[`8f78ff068f`](https://github.com/alrra/browser-logos/commit/8f78ff068fc444bdc0d4f08d60f4d2b57c281cb0)] -

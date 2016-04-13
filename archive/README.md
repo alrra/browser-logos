@@ -522,9 +522,9 @@
 
 ### WebKit Nightly
 
-| [Webkit Nightly<br>1-7](https://en.wikipedia.org/wiki/WebKit) |
-|:---:|
-| <a href="webkit-nightly_1-7"><img width=140 src="webkit-nightly_1-7/webkit-nightly_1-7_256x256.png" alt="WebKit Nightly 1-7 browser logo"></a> |
+| [Webkit Nightly<br>1-7](https://en.wikipedia.org/wiki/WebKit) | [Webkit Nightly<br>8-9](https://en.wikipedia.org/wiki/WebKit) |
+|:---:|:---:|
+| <a href="webkit-nightly_1-7"><img width=140 src="webkit-nightly_1-7/webkit-nightly_1-7_256x256.png" alt="WebKit Nightly 1-7 browser logo"></a> | <a href="webkit-nightly_8-9"><img width=140 src="webkit-nightly_8-9/webkit-nightly_8-9_256x256.png" alt="WebKit Nightly 8-9 browser logo"></a> |
 
 ### Wyzo
 
