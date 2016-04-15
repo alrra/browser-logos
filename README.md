@@ -161,6 +161,12 @@ logos are high resolution with transparent backgrounds.
 |:---:|
 | <a href="mihtool"><img width=140 src="mihtool/mihtool_256x256.png" alt="MIHTool browser logo"></a> |
 
+### Min
+
+| [Min](https://palmeral.github.io/min/) |
+|:---:|
+| <a href="min"><img width=140 src="min/min_256x256.png" alt="Min browser logo"></a> |
+
 ### NetSurf
 
 | [NetSurf](http://www.netsurf-browser.org/) |
