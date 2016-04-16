@@ -1,6 +1,7 @@
-### HEAD
+### 26.2.0 (April 16, 2016)
 
-* Add `Min` logo.
+* [[`3761776a85`](https://github.com/alrra/browser-logos/commit/3761776a8582ab3501a9ca09238bc9d715e65aa8)] -
+  Add `Min` logo.
 
 ### 26.1.0 (April 13, 2016)
 
