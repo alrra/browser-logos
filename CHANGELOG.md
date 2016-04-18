@@ -1,3 +1,7 @@
+### HEAD
+
+* Remove `--save-dev` recommendation from `README.md`.
+
 ### 26.2.0 (April 16, 2016)
 
 * [[`3761776a85`](https://github.com/alrra/browser-logos/commit/3761776a8582ab3501a9ca09238bc9d715e65aa8)] -
