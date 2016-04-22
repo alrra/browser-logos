@@ -1,5 +1,6 @@
 ### HEAD
 
+* Update `Edge` tile logo to better match the official one.
 * Update `Edge` logo to better match the official one.
 
 ### 26.2.1 (April 19, 2016)
