@@ -1,7 +1,9 @@
 ### HEAD
 
-* Update `Edge` tile logo to better match the official one.
-* Update `Edge` logo to better match the official one.
+* [[`65fc7376cf`](https://github.com/alrra/browser-logos/commit/65fc7376cf3280c3b850eceba9ef4d42296ac7f0)] -
+  Update `Edge` tile logo to better match the official one.
+* [[`f999cf9db0`](https://github.com/alrra/browser-logos/commit/f999cf9db0d89ab1b66e9487f2a5e3c592a76157)] -
+  Update `Edge` logo to better match the official one.
 
 ### 26.2.1 (April 19, 2016)
 
