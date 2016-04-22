@@ -271,7 +271,7 @@ logos are high resolution with transparent backgrounds.
 
 ### Tofino
 
-| [Tofino](https://github.com/mozilla/tofino) |
+| [Tofino](https://mozilla.github.io/tofino/) |
 |:---:|
 | <a href="tofino"><img width=140 src="tofino/tofino_256x256.png" alt="Project Tofino browser logo"></a> |
 
