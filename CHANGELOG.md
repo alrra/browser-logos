@@ -1,5 +1,6 @@
 ### HEAD
 
+* Fix version numbers for old `Chrome` and `Chromium` logos.
 * Update `Chrome` logo to better match the official one.
 
 ### 26.2.2 (April 22, 2016)

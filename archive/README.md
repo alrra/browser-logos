@@ -78,9 +78,9 @@
 
 ### Chrome
 
-| [Chrome<br>1-10](https://en.wikipedia.org/wiki/Google_Chrome) | [Chrome<br>11-48](https://en.wikipedia.org/wiki/Google_Chrome) |
+| [Chrome<br>1-11](https://en.wikipedia.org/wiki/Google_Chrome) | [Chrome<br>12-48](https://en.wikipedia.org/wiki/Google_Chrome) |
 |:---:|:---:|
-| <a href="chrome_1-10"><img width=140 src="chrome_1-10/chrome_1-10_256x256.png" alt="Chrome 1-10 browser logo"></a> | <a href="chrome_11-48"><img width=140 src="chrome_11-48/chrome_11-48_256x256.png" alt="Chrome 11-48 browser logo"></a> |
+| <a href="chrome_1-11"><img width=140 src="chrome_1-11/chrome_1-11_256x256.png" alt="Chrome 1-11 browser logo"></a> | <a href="chrome_12-48"><img width=140 src="chrome_12-48/chrome_12-48_256x256.png" alt="Chrome 12-48 browser logo"></a> |
 
 ### Chrome Canary
 
@@ -102,9 +102,9 @@
 
 ### Chromium
 
-| [Chromium<br>1-10](https://en.wikipedia.org/wiki/Chromium_%28web_browser%29) | [Chromium<br>11-48](https://en.wikipedia.org/wiki/Chromium_%28web_browser%29) |
+| [Chromium<br>1-11](https://en.wikipedia.org/wiki/Chromium_%28web_browser%29) | [Chromium<br>12-48](https://en.wikipedia.org/wiki/Chromium_%28web_browser%29) |
 |:---:|:---:|
-| <a href="chromium_1-10"><img width=140 src="chromium_1-10/chromium_1-10_256x256.png" alt="Chromium 1-10 browser logo"></a> | <a href="chromium_11-48"><img width=140 src="chromium_11-48/chromium_11-48_256x256.png" alt="Chromium 11-48 browser logo"></a> |
+| <a href="chromium_1-11"><img width=140 src="chromium_1-11/chromium_1-11_256x256.png" alt="Chromium 1-11 browser logo"></a> | <a href="chromium_12-48"><img width=140 src="chromium_12-48/chromium_12-48_256x256.png" alt="Chromium 12-48 browser logo"></a> |
 
 ### Cruz
 
