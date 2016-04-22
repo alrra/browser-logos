@@ -1,3 +1,7 @@
+### HEAD
+
+* Update `Chrome` logo to better match the official one.
+
 ### 26.2.2 (April 22, 2016)
 
 * [[`65fc7376cf`](https://github.com/alrra/browser-logos/commit/65fc7376cf3280c3b850eceba9ef4d42296ac7f0)] -
