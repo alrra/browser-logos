@@ -1,7 +1,9 @@
 ### HEAD
 
-* Fix version numbers for old `Chrome` and `Chromium` logos.
-* Update `Chrome` logo to better match the official one.
+* [[`ddf1787807`](https://github.com/alrra/browser-logos/commit/ddf1787807954e23b94f8e14c11da79e5863ddba)] -
+  Fix version numbers for old `Chrome` and `Chromium` logos.
+* [[`c07c7beadc`](https://github.com/alrra/browser-logos/commit/c07c7beadc19dd1f5eaa25d3cf8f6d42838f0413)] -
+  Update `Chrome` logo to better match the official one.
 
 ### 26.2.2 (April 22, 2016)
 
