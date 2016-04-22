@@ -1,3 +1,7 @@
+### HEAD
+
+* Update `Edge` logo to better match the official one.
+
 ### 26.2.1 (April 19, 2016)
 
 * [[`a6b7daa49d`](https://github.com/alrra/browser-logos/commit/a6b7daa49da7ec3c2feb792ca7b34ba1deb0f251)] -
