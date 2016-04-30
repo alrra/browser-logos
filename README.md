@@ -311,7 +311,6 @@ logos are high resolution with transparent backgrounds.
 |:---:|
 | <a href="yandex"><img width=140 src="yandex/yandex_256x256.png" alt="Yandex browser logo"></a> |
 
---
 
 ## Archive
 

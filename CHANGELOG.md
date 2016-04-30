@@ -1,7 +1,9 @@
 ### HEAD
 
-* Use same logo for the desktop versions of `sleipnir`.
-* Move `rekonq` into the `archive`.
+* [[`079425fcaf`](https://github.com/alrra/browser-logos/commit/079425fcafb0379b835b73d8f1c8b64d428c4378)] -
+  Use same logo for the desktop versions of `sleipnir`.
+* [[`7eaf042de2`](https://github.com/alrra/browser-logos/commit/7eaf042de2157e8b295803a305adb14255df777d)] -
+  Move `rekonq` into the `archive`.
 
 ### 27.0.1 (April 28, 2016)
 
