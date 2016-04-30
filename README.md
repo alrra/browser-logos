@@ -247,9 +247,9 @@ logos are high resolution with transparent backgrounds.
 
 ### Sleipnir
 
-| [Sleipnir<br>(Mac)](http://www.fenrir-inc.com/us/sleipnir-family/) | [Sleipnir<br>(Windows)](http://www.fenrir-inc.com/us/sleipnir-family/) |
-|:---:|:---:|
-| <a href="sleipnir-mac"><img width=140 src="sleipnir-mac/sleipnir-mac_256x256.png" alt="Sleipnir for Mac browser logo"></a> | <a href="sleipnir-windows"><img width=140 src="sleipnir-windows/sleipnir-windows_256x256.png" alt="Sleipnir for Windows browser logo"></a> |
+| [Sleipnir](http://www.fenrir-inc.com/us/sleipnir-family/) | 
+|:---:|
+| <a href="sleipnir"><img width=140 src="sleipnir/sleipnir_256x256.png" alt="Sleipnir browser logo"></a> | 
 
 ### Sleipnir (Mobile)
 

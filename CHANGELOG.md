@@ -1,5 +1,6 @@
 ### HEAD
 
+* Use same logo for the desktop versions of `sleipnir`.
 * Move `rekonq` into the `archive`.
 
 ### 27.0.1 (April 28, 2016)
