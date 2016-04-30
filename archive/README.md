@@ -412,6 +412,12 @@
 |:---:|:---:|
 | <a href="qq_1"><img width=140 src="qq_1/qq_1.png" alt="QQ browser logo"></a> | <a href="qq_2"><img width=140 src="qq_2/qq_2.png" alt="QQ browser logo"></a> |
 
+### rekonq
+
+| [rekonq](https://en.wikipedia.org/wiki/Rekonq) |
+|:---:|
+| <a href="rekonq"><img width=140 src="rekonq/rekonq_256x256.png" alt="rekonq browser logo"></a> |
+
 ### Rockmelt
 
 | [Rockmelt](https://en.wikipedia.org/wiki/Rockmelt) | [Rockmelt<br>(iOS)](https://en.wikipedia.org/wiki/Rockmelt) |

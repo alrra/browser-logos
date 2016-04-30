@@ -209,12 +209,6 @@ logos are high resolution with transparent backgrounds.
 |:---:|
 | <a href="qupzilla"><img width=140 src="qupzilla/qupzilla_256x256.png" alt="QupZilla browser logo"></a> |
 
-### rekonq
-
-| [rekonq](https://rekonq.kde.org/) |
-|:---:|
-| <a href="rekonq"><img width=140 src="rekonq/rekonq_256x256.png" alt="rekonq browser logo"></a> |
-
 ### Roccat
 
 | [Roccat](http://runecats.com/) |
