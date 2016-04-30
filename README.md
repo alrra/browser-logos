@@ -157,7 +157,7 @@ logos are high resolution with transparent backgrounds.
 
 ### MIHTool
 
-| [MIHTool](http://www.iunbug.com/mihtool) |
+| [MIHTool](http://www.mihtool.com/) |
 |:---:|
 | <a href="mihtool"><img width=140 src="mihtool/mihtool_256x256.png" alt="MIHTool browser logo"></a> |
 
