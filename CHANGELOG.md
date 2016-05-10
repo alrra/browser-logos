@@ -1,6 +1,7 @@
 ### HEAD
 
-* Add better version of the `Tofino` logo.
+* [[`f06c44ec55`](https://github.com/alrra/browser-logos/commit/f06c44ec55100a160fe4a37b4e5b666e0f5bf822)] -
+  Add better version of the `Tofino` logo.
 
 ### 28.0.0 (April 30, 2016)
 
