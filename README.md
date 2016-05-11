@@ -29,6 +29,12 @@ logos are high resolution with transparent backgrounds.
 |:---:|
 | <a href="avant"><img width=140 src="avant/avant_256x256.png" alt="Avant browser logo"></a> |
 
+### Blisk
+
+| [Blisk](https://blisk.io/) |
+|:---:|
+| <a href="blisk"><img width=140 src="blisk/blisk_256x256.png" alt="Blisk browser logo"></a> |
+
 ### Boat
 
 | [Boat](http://www.boatmob.com/mobile/product_browser_free.html) |
