@@ -1,6 +1,7 @@
-### HEAD
+### 28.1.0 (May 13, 2016)
 
-* Add `Blisk` logo.
+* [[`781de3333d`](https://github.com/alrra/browser-logos/commit/781de3333d55bd8caa9ec918510521f48baa2554)] -
+  Add `Blisk` logo.
 
 ### 28.0.1 (May 10, 2016)
 
