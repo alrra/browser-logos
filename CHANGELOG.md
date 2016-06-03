@@ -1,6 +1,7 @@
-### HEAD
+### 28.1.2 (June 3, 2016)
 
-Further losslessly optimize images.
+* [[`54ae2c1890`](https://github.com/alrra/browser-logos/commit/54ae2c1890e2778ea918b06595637ce6e6877874)] -
+  Further losslessly optimize images.
 
 ### 28.1.1 (June 2, 2016)
 
