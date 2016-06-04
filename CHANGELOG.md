@@ -1,4 +1,4 @@
-### HEAD
+### 28.2.0 (June 4, 2016)
 
 * [[`5687598148`](https://github.com/alrra/browser-logos/commit/56875981485276e0ee2f7614dec63b715406264c)] -
   Add `Liri` logo.
