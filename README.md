@@ -161,6 +161,12 @@ logos are high resolution with transparent backgrounds.
 |:---:|
 | <a href="midori"><img width=140 src="midori/midori_256x256.png" alt="Midori browser logo"></a> |
 
+### Liri
+
+| [Liri](http://liriproject.me/browser/) |
+|:---:|
+| <a href="liri"><img width=140 src="liri/liri_256x256.png" alt="Liri browser logo"></a> |
+
 ### MIHTool
 
 | [MIHTool](http://www.mihtool.com/) |

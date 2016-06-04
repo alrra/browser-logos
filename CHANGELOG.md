@@ -1,5 +1,6 @@
 ### HEAD
 
+* Add `Liri` logo.
 * Add `Polarity` logo
   (see also: [`#84`](https://github.com/alrra/browser-logos/issues/84)).
 
