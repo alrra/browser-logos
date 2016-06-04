@@ -1,7 +1,9 @@
 ### HEAD
 
-* Add `Liri` logo.
-* Add `Polarity` logo
+* [[`5687598148`](https://github.com/alrra/browser-logos/commit/56875981485276e0ee2f7614dec63b715406264c)] -
+  Add `Liri` logo.
+* [[`3e47f1abf2`](https://github.com/alrra/browser-logos/commit/3e47f1abf220adb8749bd863af27b7303ca3be2a)] -
+  Add `Polarity` logo
   (see also: [`#84`](https://github.com/alrra/browser-logos/issues/84)).
 
 ### 28.1.2 (June 3, 2016)
