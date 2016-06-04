@@ -1,3 +1,8 @@
+### HEAD
+
+* Add `Polarity` logo
+  (see also: [`#84`](https://github.com/alrra/browser-logos/issues/84)).
+
 ### 28.1.2 (June 3, 2016)
 
 * [[`54ae2c1890`](https://github.com/alrra/browser-logos/commit/54ae2c1890e2778ea918b06595637ce6e6877874)] -

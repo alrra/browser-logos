@@ -203,6 +203,12 @@ logos are high resolution with transparent backgrounds.
 |:---:|
 | <a href="pale-moon"><img width=140 src="pale-moon/pale-moon_256x256.png" alt="Pale Moon browser logo"></a> |
 
+### Polarity
+
+| [Polarity](http://polarityweb.weebly.com/) |
+|:---:|
+| <a href="polarity"><img width=140 src="polarity/polarity_256x256.png" alt="Polarity browser logo"></a> |
+
 ### Puffin
 
 | [Puffin](https://www.puffinbrowser.com/) |
@@ -253,9 +259,9 @@ logos are high resolution with transparent backgrounds.
 
 ### Sleipnir
 
-| [Sleipnir](http://www.fenrir-inc.com/us/sleipnir-family/) | 
+| [Sleipnir](http://www.fenrir-inc.com/us/sleipnir-family/) |
 |:---:|
-| <a href="sleipnir"><img width=140 src="sleipnir/sleipnir_256x256.png" alt="Sleipnir browser logo"></a> | 
+| <a href="sleipnir"><img width=140 src="sleipnir/sleipnir_256x256.png" alt="Sleipnir browser logo"></a> |
 
 ### Sleipnir (Mobile)
 
