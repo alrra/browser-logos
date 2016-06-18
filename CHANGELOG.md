@@ -1,4 +1,4 @@
-### HEAD
+### 29.0.0 (June 18, 2016)
 
 * [[`8ebf869868`](https://github.com/alrra/browser-logos/commit/8ebf8698682ae350cd9a9d88d230ee5fcb63e6e4)] -
   Add `Samsung Internet` in `main-mobile.png`.
