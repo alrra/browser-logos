@@ -363,7 +363,7 @@ There are a few options for getting the browser logos:
 * Download [`zip` archive](https://github.com/alrra/browser-logos/archive/28.2.1.zip).
 * Install via:
     * [`npm`](https://npmjs.org/): `npm install alrra/browser-logos`
-    * [`Bower`](http://bower.io/): `bower install browser-logos`
+    * [`Bower`](https://bower.io/): `bower install browser-logos`
 * Use [`cdnjs`](https://cdnjs.com/libraries/browser-logos).
 
 
