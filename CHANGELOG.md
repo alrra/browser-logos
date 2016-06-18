@@ -1,7 +1,9 @@
 ### HEAD
 
-* Add `Samsung Internet` in `main-mobile.png`.
-* Further losslessly optimize images.
+* [[`8ebf869868`](https://github.com/alrra/browser-logos/commit/8ebf8698682ae350cd9a9d88d230ee5fcb63e6e4)] -
+  Add `Samsung Internet` in `main-mobile.png`.
+* [[`ecbebdbb65`](https://github.com/alrra/browser-logos/commit/ecbebdbb65898087784b38996e3a3e4e7977fd63)] -
+  Further losslessly optimize images.
 
 ### 28.2.1 (June 12, 2016)
 
