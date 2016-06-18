@@ -50,6 +50,7 @@ declare -r -a MAIN_MOBILE_BROWSERS=(
     "firefox"
     "opera-mini"
     "safari-ios"
+    "samsung-internet"
     "uc"
 )
 

@@ -1,5 +1,6 @@
 ### HEAD
 
+* Add `Samsung Internet` in `main-mobile.png`.
 * Further losslessly optimize images.
 
 ### 28.2.1 (June 12, 2016)
