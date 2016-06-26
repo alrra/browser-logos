@@ -1,6 +1,7 @@
 ### HEAD
 
-* Remove latest `Opera Mini Beta` logo from the `archive`.
+* [[`7257002a5e`](https://github.com/alrra/browser-logos/commit/7257002a5e596ff31f358fdb18a4d0f65baa450e)] -
+  Remove latest `Opera Mini Beta` logo from the `archive`.
 
 ### 29.0.0 (June 18, 2016)
 
