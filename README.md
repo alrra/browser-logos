@@ -259,7 +259,7 @@ logos are high resolution with transparent backgrounds.
 
 ### Silk
 
-| [Silk](https://amazonsilk.wordpress.com/) |
+| [Silk](https://amazon.com/silk) |
 |:---:|
 | <a href="silk"><img width=140 src="silk/silk_256x256.png" alt="Silk browser logo"></a> |
 
