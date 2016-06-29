@@ -47,6 +47,12 @@ logos are high resolution with transparent backgrounds.
 |:---:|
 | <a href="brave"><img width=140 src="brave/brave_256x256.png" alt="Brave browser logo"></a> |
 
+### Browser.html
+
+| [Browser.html](https://github.com/browserhtml/browserhtml#readme) |
+|:---:|
+| <a href="browser.html"><img width=140 src="browser.html/browser.html_256x256.png" alt="Browser.html browser logo"></a> |
+
 ### Chrome
 
 | [Chrome](https://www.google.com/chrome/) | [Chrome<br>Beta](https://www.google.com/chrome/browser/beta.html) | [Chrome<br>Dev](https://www.chromium.org/getting-involved/dev-channel) | [Chrome<br>Canary](https://www.google.com/intl/en/chrome/browser/canary.html) |
