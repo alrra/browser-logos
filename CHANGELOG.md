@@ -1,6 +1,7 @@
-### HEAD
+### 30.1.0 (June 30, 2016)
 
-* Add `Browser.html` logo.
+* [[`7ea3c94f36`](https://github.com/alrra/browser-logos/commit/7ea3c94f36b51cb6bf4e6b4c75d4337d91e84290)] -
+  Add `Browser.html` logo.
 
 ### 30.0.0 (June 27, 2016)
 
