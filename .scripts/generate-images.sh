@@ -47,7 +47,6 @@ declare -r -a MAIN_MOBILE_BROWSERS=(
     "android"
     "chrome"
     "edge-tile"
-    "firefox"
     "opera-mini"
     "safari-ios"
     "samsung-internet"
