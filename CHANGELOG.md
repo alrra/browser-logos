@@ -1,3 +1,8 @@
+### HEAD
+
+* [[`0d01e477aa`](https://github.com/alrra/browser-logos/commit/0d01e477aa8b3dd70e08e9d5604139a24f03edbc)] -
+  Remove `Firefox` from `main-mobile.png`.
+
 ### 30.1.0 (June 30, 2016)
 
 * [[`7ea3c94f36`](https://github.com/alrra/browser-logos/commit/7ea3c94f36b51cb6bf4e6b4c75d4337d91e84290)] -
