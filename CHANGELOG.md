@@ -1,3 +1,7 @@
+### HEAD
+
+* Move `Liri` into the `archive`.
+
 ### 31.0.0 (July 21, 2016)
 
 * [[`0d01e477aa`](https://github.com/alrra/browser-logos/commit/0d01e477aa8b3dd70e08e9d5604139a24f03edbc)] -

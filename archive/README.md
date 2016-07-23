@@ -280,6 +280,12 @@
 |:---:|
 | <a href="links"><img width=140 src="links/links_256x256.png" alt="Links browser logo"></a> |
 
+### Liri
+
+| [Liri](https://github.com/liri-project/liri-browser#readme) |
+|:---:|
+| <a href="liri"><img width=140 src="liri/liri_256x256.png" alt="Liri browser logo"></a> |
+
 ### Maxthon
 
 | [Maxthon](https://en.wikipedia.org/wiki/Maxthon) [`*`](#note) |
@@ -384,7 +390,7 @@
 
 ### Opera Mini Beta
 
-| [Opera Mini<br>Beta](https://en.wikipedia.org/wiki/Opera_Mini) [`*`](#note) | 
+| [Opera Mini<br>Beta](https://en.wikipedia.org/wiki/Opera_Mini) [`*`](#note) |
 |:---:|
 | <a href="opera-mini-beta_1"><img width=140 src="opera-mini-beta_1/opera-mini-beta_1_256x256.png" alt="Opera Mini Beta browser logo"></a> |
 
