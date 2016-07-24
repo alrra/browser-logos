@@ -149,12 +149,6 @@ logos are high resolution with transparent backgrounds.
 |:---:|
 | <a href="k-meleon"><img width=140 src="k-meleon/k-meleon_256x256.png" alt="K-Meleon browser logo"></a> |
 
-### Konqueror
-
-| [Konqueror](https://www.konqueror.org/) |
-|:---:|
-| <a href="konqueror"><img width=140 src="konqueror/konqueror_256x256.png" alt="Konqueror browser logo"></a> |
-
 ### Lightning
 
 | [Lightning](https://github.com/anthonycr/Lightning-Browser/) |

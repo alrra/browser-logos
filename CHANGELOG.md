@@ -1,5 +1,6 @@
 ### HEAD
 
+* Move `Konqueror` into the `archive`.
 * Move `Liri` into the `archive`.
 
 ### 31.0.0 (July 21, 2016)

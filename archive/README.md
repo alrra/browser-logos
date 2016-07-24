@@ -252,9 +252,9 @@
 
 ### Konqueror
 
-| [Konqueror<br>1-3](https://en.wikipedia.org/wiki/Konqueror) |
-|:---:|
-| <a href="konqueror_1-3"><img width=140 src="konqueror_1-3/konqueror_1-3_256x256.png" alt="Konqueror 1-14 browser logo"></a> |
+| [Konqueror<br>1-3](https://en.wikipedia.org/wiki/Konqueror) | [Konqueror<br>4](https://en.wikipedia.org/wiki/Konqueror) |
+|:---:|:---:|
+| <a href="konqueror_1-3"><img width=140 src="konqueror_1-3/konqueror_1-3_256x256.png" alt="Konqueror 1-3 browser logo"></a> | <a href="konqueror_4"><img width=140 src="konqueror_4/konqueror_4_256x256.png" alt="Konqueror 4 browser logo"></a> |
 
 ### Kylo
 
