@@ -1,7 +1,9 @@
 ### HEAD
 
-* Move `Konqueror` into the `archive`.
-* Move `Liri` into the `archive`.
+* [[`333a3bcdf0`](https://github.com/alrra/browser-logos/commit/333a3bcdf02aa602dadadd2706f749547ab3b342)] -
+  Move `Konqueror` into the `archive`.
+* [[`b850328052`](https://github.com/alrra/browser-logos/commit/b850328052ea76156ab02ea7e1c98774edc9ffec)] -
+  Move `Liri` into the `archive`.
 
 ### 31.0.0 (July 21, 2016)
 
