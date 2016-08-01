@@ -1,4 +1,4 @@
-### HEAD
+### 32.0.0 (August 1, 2016)
 
 * [[`333a3bcdf0`](https://github.com/alrra/browser-logos/commit/333a3bcdf02aa602dadadd2706f749547ab3b342)] -
   Move `Konqueror` into the `archive`.
