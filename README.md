@@ -143,12 +143,6 @@ logos are high resolution with transparent backgrounds.
 |:---:|
 | <a href="iridium"><img width=140 src="iridium/iridium_256x256.png" alt="Iridium browser logo"></a> |
 
-### K-Meleon
-
-| [K-Meleon](http://kmeleonbrowser.org/) |
-|:---:|
-| <a href="k-meleon"><img width=140 src="k-meleon/k-meleon_256x256.png" alt="K-Meleon browser logo"></a> |
-
 ### Lightning
 
 | [Lightning](https://github.com/anthonycr/Lightning-Browser/) |

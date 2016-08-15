@@ -238,6 +238,12 @@
 |:---:|
 | <a href="internet-explorer-developer-channel"><img width=140 src="internet-explorer-developer-channel/internet-explorer-developer-channel_256x256.png" alt="Internet Explorer Developer Channel browser logo"></a> |
 
+### K-Meleon
+
+| [K-Meleon](https://en.wikipedia.org/wiki/K-Meleon) |
+|:---:|
+| <a href="k-meleon"><img width=140 src="k-meleon/k-meleon_256x256.png" alt="K-Meleon browser logo"></a> |
+
 ### K9
 
 | [K9](https://en.wikipedia.org/wiki/K9_Web_Protection) |
@@ -423,7 +429,7 @@
 | [rekonq](https://en.wikipedia.org/wiki/Rekonq) |
 |:---:|
 | <a href="rekonq"><img width=140 src="rekonq/rekonq_256x256.png" alt="rekonq browser logo"></a> |
- 
+
 ### Roccat
 
 | [Roccat](https://web.archive.org/web/20160708015650/http://runecats.com/) |

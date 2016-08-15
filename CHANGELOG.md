@@ -1,5 +1,6 @@
 ### HEAD
 
+* Move `K-Meleon` into the `archive`.
 * Move `Roccat` into the `archive`.
 
 ### 32.0.1 (August 11, 2016)
