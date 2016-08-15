@@ -221,12 +221,6 @@ logos are high resolution with transparent backgrounds.
 |:---:|
 | <a href="qupzilla"><img width=140 src="qupzilla/qupzilla_256x256.png" alt="QupZilla browser logo"></a> |
 
-### Roccat
-
-| [Roccat](http://runecats.com/) |
-|:---:|
-| <a href="roccat"><img width=140 src="roccat/roccat_256x256.png" alt="Roccat browser logo"></a> |
-
 ### Safari
 
 | [Safari](https://www.apple.com/safari/) | [Safari<br>Technology<br>Preview](https://developer.apple.com/safari/technology-preview/) |

@@ -1,3 +1,7 @@
+### HEAD
+
+* Move `Roccat` into the `archive`.
+
 ### 32.0.1 (August 11, 2016)
 
 * [[`333a3bcdf0...64f3a79228`](https://github.com/alrra/browser-logos/compare/32ca963d7f3da5e791fbf549df30fb7e299497cd...64f3a7922818e8d44f84e724562214d4fd9f19f4)] -

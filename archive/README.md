@@ -423,6 +423,12 @@
 | [rekonq](https://en.wikipedia.org/wiki/Rekonq) |
 |:---:|
 | <a href="rekonq"><img width=140 src="rekonq/rekonq_256x256.png" alt="rekonq browser logo"></a> |
+ 
+### Roccat
+
+| [Roccat](https://web.archive.org/web/20160708015650/http://runecats.com/) |
+|:---:|
+| <a href="roccat"><img width=140 src="roccat/roccat_256x256.png" alt="Roccat browser logo"></a> |
 
 ### Rockmelt
 
