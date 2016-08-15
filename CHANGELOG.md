@@ -1,7 +1,9 @@
 ### HEAD
 
-* Move `K-Meleon` into the `archive`.
-* Move `Roccat` into the `archive`.
+* [[`a5bdb26aa4`](https://github.com/alrra/browser-logos/commit/a5bdb26aa4722749402186f36acc7fbab268042c)] -
+  Move `K-Meleon` into the `archive`.
+* [[`3c1ba27bbc`](https://github.com/alrra/browser-logos/commit/3c1ba27bbcc0f55155e6dd12b1fc01a6fb4bca16)] -
+  Move `Roccat` into the `archive`.
 
 ### 32.0.1 (August 11, 2016)
 
