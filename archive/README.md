@@ -310,6 +310,12 @@
 |:---:|:---:|
 | <a href="mercury_1"><img width=140 src="mercury_1/mercury_1_256x256.png" alt="Mercury browser logo"></a> | <a href="mercury_2"><img width=140 src="mercury_2/mercury_2_256x256.png" alt="Mercury browser logo"></a> |
 
+### Midori
+
+| [Midori](https://en.wikipedia.org/wiki/Midori_(web_browser)) |
+|:---:|
+| <a href="midori"><img width=140 src="midori/midori_256x256.png" alt="Midori browser logo"></a> |
+
 ### MetaCert
 
 | [MetaCert](https://web.archive.org/web/20150624200845/https://metacert.com/) [`*`](#note) |

@@ -149,12 +149,6 @@ logos are high resolution with transparent backgrounds.
 |:---:|
 | <a href="lightning"><img width=140 src="lightning/lightning_256x256.png" alt="Lightning browser logo"></a> |
 
-### Midori
-
-| [Midori](http://www.midori-browser.org/) |
-|:---:|
-| <a href="midori"><img width=140 src="midori/midori_256x256.png" alt="Midori browser logo"></a> |
-
 ### MIHTool
 
 | [MIHTool](http://www.mihtool.com/) |
