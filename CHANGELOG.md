@@ -1,4 +1,4 @@
-### HEAD
+### 34.0.0 (August 17, 2016)
 
 * [[`accf35d64f`](https://github.com/alrra/browser-logos/commit/accf35d64f14745a83fbe482c5e94b612fb34822)] -
   Move `Midori` into the `archive`.
