@@ -1,3 +1,7 @@
+### HEAD
+
+* Further losslessly optimize images.
+
 ### 34.0.0 (August 17, 2016)
 
 * [[`accf35d64f`](https://github.com/alrra/browser-logos/commit/accf35d64f14745a83fbe482c5e94b612fb34822)] -
@@ -240,7 +244,7 @@
 ### 22.2.1 (February 10, 2016)
 
 * [[`49e362d392`](https://github.com/alrra/browser-logos/commit/49e362d39248e6d7a1419fed249749c97cb6be3a)] -
-  Further losslessly optimize all images.
+  Further losslessly optimize images.
 
 ### 22.2.0 (February 8, 2016)
 
@@ -315,7 +319,7 @@
 ### 18.0.1 (November 20, 2015)
 
 * [[`60ff139e9b`](https://github.com/alrra/browser-logos/commit/60ff139e9bf906b556c135df516255324e938815)] -
-  Further losslessly optimize all images.
+  Further losslessly optimize images.
 
 ### 18.0.0 (November 17, 2015)
 
@@ -555,7 +559,7 @@
 * [[`2b9d28209c`](https://github.com/alrra/browser-logos/commit/2b9d28209c2f1356bb5fe5e99ae7e8b5401e7579)] -
   Add better version of the `Android` browser logo.
 * [[`fc8ec4e093`](https://github.com/alrra/browser-logos/commit/fc8ec4e09358213b1c71ae56b9863c46189d5fc4)] -
-  Further optimize all SVGs.
+  Further optimize SVGs.
 
 ### 5.0.2 (December 17, 2014)
 
@@ -667,7 +671,7 @@
 ### 1.1.1 (September 15, 2014)
 
 * [[`ca6089f264`](https://github.com/alrra/browser-logos/commit/ca6089f2649db46d18e58883f91dac4e4581c86f)] -
-  Further losslessly optimize some of the images.
+  Further losslessly optimize images.
 
 ### 1.1.0 (September 5, 2014)
 
