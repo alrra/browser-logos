@@ -1,584 +1,1521 @@
 ### 360 Secure
 
-| [360 Secure](https://en.wikipedia.org/wiki/360_Secure_Browser) |
-|:---:|
-| <a href="360-secure"><img width=140 src="360-secure/360-secure_256x256.png" alt="360 Secure browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/360_Secure_Browser">360 Secure</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="360-secure"><img width=140 src="360-secure/360-secure_256x256.png" alt="360 Secure browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Adrenaline
 
-| [Adrenaline](https://web.archive.org/web/20141218215235/http://www.adrenalinemobility.com/) |
-|:---:|
-| <a href="adrenaline"><img width=140 src="adrenaline/adrenaline_256x256.png" alt="Adrenaline browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://web.archive.org/web/20141218215235/http://www.adrenalinemobility.com/">Adrenaline</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="adrenaline"><img width=140 src="adrenaline/adrenaline_256x256.png" alt="Adrenaline browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### AirWeb
 
-| [AirWeb](https://web.archive.org/web/20160316122907/http://airwebapp.com/) |
-|:---:|
-| <a href="airweb"><img width=140 src="airweb/airweb_256x256.png" alt="AirWeb browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://web.archive.org/web/20160316122907/http://airwebapp.com/">AirWeb</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="airweb"><img width=140 src="airweb/airweb_256x256.png" alt="AirWeb browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### AllInOne
 
-| [AllInOne](https://web.archive.org/web/20150801011234/http://allinonebrowser.com/) |
-|:---:|
-| <a href="allinone"><img width=140 src="allinone/allinone_256x256.png" alt="AllInOne browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://web.archive.org/web/20150801011234/http://allinonebrowser.com/">AllInOne</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="allinone"><img width=140 src="allinone/allinone_256x256.png" alt="AllInOne browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Apollo
 
-| [Apollo](https://web.archive.org/web/20141006164535/http://apollobrowser.wordpress.com/the-most-innovative-browser-for-ipad/) |
-|:---:|
-| <a href="apollo"><img width=140 src="apollo/apollo_256x256.png" alt="Apollo browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://web.archive.org/web/20141006164535/http://apollobrowser.wordpress.com/the-most-innovative-browser-for-ipad/">Apollo</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="apollo"><img width=140 src="apollo/apollo_256x256.png" alt="Apollo browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Arora
 
-| [Arora](https://en.wikipedia.org/wiki/Arora_%28web_browser%29) |
-|:---:|
-| <a href="arora"><img width=140 src="arora/arora_256x256.png" alt="Arora browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/Arora_%28web_browser%29">Arora</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="arora"><img width=140 src="arora/arora_256x256.png" alt="Arora browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Atomic
 
-| [Atomic](https://web.archive.org/web/20150801050429/http://atomicwebbrowser.com/) |
-|:---:|
-| <a href="atomic"><img width=140 src="atomic/atomic_256x256.png" alt="Atomic browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://web.archive.org/web/20150801050429/http://atomicwebbrowser.com/">Atomic</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="atomic"><img width=140 src="atomic/atomic_256x256.png" alt="Atomic browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Aviator
 
-| [Aviator](https://web.archive.org/web/20151021044307/https://www.whitehatsec.com/aviator/) |
-|:---:|
-| <a href="aviator"><img width=140 src="aviator/aviator_256x256.png" alt="Aviator browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://web.archive.org/web/20151021044307/https://www.whitehatsec.com/aviator/">Aviator</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="aviator"><img width=140 src="aviator/aviator_256x256.png" alt="Aviator browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Axis
 
-| [Axis](https://en.wikipedia.org/wiki/Yahoo!_Axis) |
-|:---:|
-| <a href="axis"><img width=140 src="axis/axis_256x256.png" alt="Yahoo! Axis browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/Yahoo!_Axis">Axis</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="axis"><img width=140 src="axis/axis_256x256.png" alt="Yahoo! Axis browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Baidu (Mobile)
 
-| [Baidu<br>(Mobile)](https://web.archive.org/web/20150726085553/http://global.baidu.com/browser/) [`*`](#note) | [Baidu<br>(Mobile)](https://web.archive.org/web/20150726085553/http://global.baidu.com/browser/) [`*`](#note) | [Baidu<br>(Mobile)](https://web.archive.org/web/20150726085553/http://global.baidu.com/browser/) [`*`](#note) |
-|:---:|:---:|:---:|
-| <a href="baidu-mobile_1"><img width=140 src="baidu-mobile_1/baidu-mobile_1_256x256.png" alt="Baidu Mobile browser logo"></a> | <a href="baidu-mobile_2"><img width=140 src="baidu-mobile_2/baidu-mobile_2_256x256.png" alt="Baidu Mobile browser logo"></a> | <a href="baidu-mobile_3"><img width=140 src="baidu-mobile_3/baidu-mobile_3_256x256.png" alt="Baidu Mobile browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://web.archive.org/web/20150726085553/http://global.baidu.com/browser/">Baidu<br>(Mobile)</a> <a href="#note"><code>*</code></a></th>
+            <th><a href="https://web.archive.org/web/20150726085553/http://global.baidu.com/browser/">Baidu<br>(Mobile)</a> <a href="#note"><code>*</code></a></th>
+            <th><a href="https://web.archive.org/web/20150726085553/http://global.baidu.com/browser/">Baidu<br>(Mobile)</a> <a href="#note"><code>*</code></a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="baidu-mobile_1"><img width=140 src="baidu-mobile_1/baidu-mobile_1_256x256.png" alt="Baidu Mobile browser logo"></a></td>
+            <td><a href="baidu-mobile_2"><img width=140 src="baidu-mobile_2/baidu-mobile_2_256x256.png" alt="Baidu Mobile browser logo"></a></td>
+            <td><a href="baidu-mobile_3"><img width=140 src="baidu-mobile_3/baidu-mobile_3_256x256.png" alt="Baidu Mobile browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Breach
 
-| [Breach](https://github.com/breach) [`*`](#note) |
-|:---:|
-| <a href="breach"><img width=140 src="breach/breach_256x256.png" alt="Breach browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <td><a href="https://github.com/breach">Breach</a> <a href="#note"><code>*</code></a></td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="breach"><img width=140 src="breach/breach_256x256.png" alt="Breach browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Camino
 
-| [Camino](https://en.wikipedia.org/wiki/Camino) |
-|:---:|
-| <a href="camino"><img width=140 src="camino/camino_256x256.png" alt="Camino browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/Camino">Camino</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="camino"><img width=140 src="camino/camino_256x256.png" alt="Camino browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Cheetah
 
-| [Cheetah](https://en.wikipedia.org/wiki/Cheetah_Mobile) |
-|:---:|
-| <a href="cheetah"><img width=140 src="cheetah/cheetah_256x256.png" alt="Cheetah browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/Cheetah_Mobile">Cheetah</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="cheetah"><img width=140 src="cheetah/cheetah_256x256.png" alt="Cheetah browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Chrome
 
-| [Chrome<br>1-11](https://en.wikipedia.org/wiki/Google_Chrome) | [Chrome<br>12-48](https://en.wikipedia.org/wiki/Google_Chrome) |
-|:---:|:---:|
-| <a href="chrome_1-11"><img width=140 src="chrome_1-11/chrome_1-11_256x256.png" alt="Chrome 1-11 browser logo"></a> | <a href="chrome_12-48"><img width=140 src="chrome_12-48/chrome_12-48_256x256.png" alt="Chrome 12-48 browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/Google_Chrome">Chrome<br>1-11</a></th>
+            <th><a href="https://en.wikipedia.org/wiki/Google_Chrome">Chrome<br>12-48</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="chrome_1-11"><img width=140 src="chrome_1-11/chrome_1-11_256x256.png" alt="Chrome 1-11 browser logo"></a></td>
+            <td><a href="chrome_12-48"><img width=140 src="chrome_12-48/chrome_12-48_256x256.png" alt="Chrome 12-48 browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Chrome Canary
 
-| [Chrome Canary<br>19-48](https://en.wikipedia.org/wiki/Google_Chrome#Pre-releases) |
-|:---:|
-| <a href="chrome-canary_19-48"><img width=140 src="chrome-canary_19-48/chrome-canary_19-48_256x256.png" alt="Chrome Canary 19-49 browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/Google_Chrome#Pre-releases">Chrome Canary<br>19-48</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="chrome-canary_19-48"><img width=140 src="chrome-canary_19-48/chrome-canary_19-48_256x256.png" alt="Chrome Canary 19-49 browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Chrome (Android)
 
-| [Chrome<br>(Android)<br> 25-36](https://en.wikipedia.org/wiki/Google_Chrome_for_Android) |
-|:---:|
-| <a href="chrome-android_18-36"><img width=140 src="chrome-android_18-36/chrome-android_18-36_256x256.png" alt="Chrome for Android 18-36 browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/Google_Chrome_for_Android">Chrome<br>(Android)<br> 25-36</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="chrome-android_18-36"><img width=140 src="chrome-android_18-36/chrome-android_18-36_256x256.png" alt="Chrome for Android 18-36 browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Chrome Beta (Android)
 
-| [Chrome Beta<br>(Android)<br>25-36<br>](https://en.wikipedia.org/wiki/Google_Chrome_for_Android) |
-|:---:|
-| <a href="chrome-beta-android_25-36"><img width=140 src="chrome-beta-android_25-36/chrome-beta-android_25-36_256x256.png" alt="Chrome Beta for Android 25-36 browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/Google_Chrome_for_Android">Chrome Beta<br>(Android)<br>25-36<br></a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="chrome-beta-android_25-36"><img width=140 src="chrome-beta-android_25-36/chrome-beta-android_25-36_256x256.png" alt="Chrome Beta for Android 25-36 browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Chromium
 
-| [Chromium<br>1-11](https://en.wikipedia.org/wiki/Chromium_%28web_browser%29) | [Chromium<br>12-48](https://en.wikipedia.org/wiki/Chromium_%28web_browser%29) |
-|:---:|:---:|
-| <a href="chromium_1-11"><img width=140 src="chromium_1-11/chromium_1-11_256x256.png" alt="Chromium 1-11 browser logo"></a> | <a href="chromium_12-48"><img width=140 src="chromium_12-48/chromium_12-48_256x256.png" alt="Chromium 12-48 browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/Chromium_%28web_browser%29">Chromium<br>1-11</a></th>
+            <th><a href="https://en.wikipedia.org/wiki/Chromium_%28web_browser%29">Chromium<br>12-48</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="chromium_1-11"><img width=140 src="chromium_1-11/chromium_1-11_256x256.png" alt="Chromium 1-11 browser logo"></a></td>
+            <td><a href="chromium_12-48"><img width=140 src="chromium_12-48/chromium_12-48_256x256.png" alt="Chromium 12-48 browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Cruz
 
-| [Cruz](https://en.wikipedia.org/wiki/Fluid_%28web_browser%29) |
-|:---:|:---:|
-| <a href="cruz"><img width=140 src="cruz/cruz_256x256.png" alt="Cruz browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/Fluid_%28web_browser%29">Cruz</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="cruz"><img width=140 src="cruz/cruz_256x256.png" alt="Cruz browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### CXM Web
 
-| [CXM Web](https://itunes.apple.com/us/app/cxm-web-by-citrix/id666516824) [`*`](#note) |
-|:---:|:---:|
-| <a href="cxm-web"><img width=140 src="cxm-web/cxm-web_256x256.png" alt="CXM Web browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://itunes.apple.com/us/app/cxm-web-by-citrix/id666516824">CXM Web</a> <a href="#note"><code>*</code></a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="cxm-web"><img width=140 src="cxm-web/cxm-web_256x256.png" alt="CXM Web browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Diigo
 
-| [Diigo](https://en.wikipedia.org/wiki/Diigo) [`*`](#note) | [Diigo](https://en.wikipedia.org/wiki/Diigo) [`*`](#note) | [Diigo](https://en.wikipedia.org/wiki/Diigo) [`*`](#note) |
-|:---:|:---:|:---:|
-| <a href="diigo_1"><img width=140 src="diigo_1/diigo_1_256x256.png" alt="Diigo browser logo"></a> | <a href="diigo_2"><img width=140 src="diigo_2/diigo_2_256x256.png" alt="Diigo browser logo"></a> | <a href="diigo_3"><img width=140 src="diigo_3/diigo_3_256x256.png" alt="Diigo browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/Diigo">Diigo</a> <a href="#note"><code>*</code></a></th>
+            <th><a href="https://en.wikipedia.org/wiki/Diigo">Diigo</a> <a href="#note"><code>*</code></a></th>
+            <th><a href="https://en.wikipedia.org/wiki/Diigo">Diigo</a> <a href="#note"><code>*</code></a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="diigo_1"><img width=140 src="diigo_1/diigo_1_256x256.png" alt="Diigo browser logo"></a></td>
+            <td><a href="diigo_2"><img width=140 src="diigo_2/diigo_2_256x256.png" alt="Diigo browser logo"></a></td>
+            <td><a href="diigo_3"><img width=140 src="diigo_3/diigo_3_256x256.png" alt="Diigo browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Docler
 
-| [Docler](https://web.archive.org/web/20150801111856/http://doclerbrowser.com/) [`*`](#note)  |
-|:---:|:---:|
-| <a href="docler"><img width=140 src="docler/docler_256x256.png" alt="Docler browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://web.archive.org/web/20150801111856/http://doclerbrowser.com/">Docler</a> <a href="#note"><code>*</code></a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="docler"><img width=140 src="docler/docler_256x256.png" alt="Docler browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Dolphin
 
-| [Dolphin](https://en.wikipedia.org/wiki/Dolphin_Browser) [`*`](#note) | [Dolphin](https://en.wikipedia.org/wiki/Dolphin_Browser) [`*`](#note) |
-|:---:|:---:|
-| <a href="dolphin_1"><img width=140 src="dolphin_1/dolphin_1_256x256.png" alt="Dolphin browser logo"></a> | <a href="dolphin_2"><img width=140 src="dolphin_2/dolphin_2_256x256.png" alt="Dolphin browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/Dolphin_Browser">Dolphin</a> <a href="#note"><code>*</code></a></th>
+            <th><a href="https://en.wikipedia.org/wiki/Dolphin_Browser">Dolphin</a> <a href="#note"><code>*</code></a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="dolphin_1"><img width=140 src="dolphin_1/dolphin_1_256x256.png" alt="Dolphin browser logo"></a></td>
+            <td><a href="dolphin_2"><img width=140 src="dolphin_2/dolphin_2_256x256.png" alt="Dolphin browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Dolphin Beta
 
-| [Dolphin<br>Beta](https://en.wikipedia.org/wiki/Dolphin_Browser) |
-|:---:|
-| <a href="dolphin-beta"><img width=140 src="dolphin-beta/dolphin-beta_256x256.png" alt="Dolphin Beta browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/Dolphin_Browser">Dolphin<br>Beta</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="dolphin-beta"><img width=140 src="dolphin-beta/dolphin-beta_256x256.png" alt="Dolphin Beta browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Dolphin Zero
 
-| [Dolphin<br>Zero](https://en.wikipedia.org/wiki/Dolphin_Browser) |
-|:---:|
-| <a href="dolphin-zero"><img width=140 src="dolphin-zero/dolphin-zero_256x256.png" alt="Dolphin Zero browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/Dolphin_Browser">Dolphin<br>Zero</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="dolphin-zero"><img width=140 src="dolphin-zero/dolphin-zero_256x256.png" alt="Dolphin Zero browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Epic
 
-| [Epic](https://en.wikipedia.org/wiki/Epic_%28web_browser%29) [`*`](#note) |
-|:---:|
-| <a href="epic"><img width=140 src="epic/epic.png" alt="Epic browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/Epic_%28web_browser%29">Epic</a> <a href="#note"><code>*</code></a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="epic"><img width=140 src="epic/epic.png" alt="Epic browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Epiphany
 
-| [Epiphany](https://en.wikipedia.org/wiki/Web_%28web_browser%29) |
-|:---:|
-| <a href="epiphany"><img width=140 src="epiphany/epiphany.png" alt="Epiphany browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/Web_%28web_browser%29">Epiphany</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="epiphany"><img width=140 src="epiphany/epiphany.png" alt="Epiphany browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Exsoul
 
-| [Exsoul](https://web.archive.org/web/20150803013210/http://www.exsoul-browser.com/) [`*`](#note) | [Exsoul](https://web.archive.org/web/20150803013210/http://www.exsoul-browser.com/) [`*`](#note) |
-|:---:|:---:|
-| <a href="exsoul_1"><img width=140 src="exsoul_1/exsoul_1_256x256.png" alt="Exsoul browser logo"></a> | <a href="exsoul_2"><img width=140 src="exsoul_2/exsoul_2_256x256.png" alt="Exsoul browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://web.archive.org/web/20150803013210/http://www.exsoul-browser.com/">Exsoul</a> <a href="#note"><code>*</code></a></th>
+            <th><a href="https://web.archive.org/web/20150803013210/http://www.exsoul-browser.com/">Exsoul</a> <a href="#note"><code>*</code></a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="exsoul_1"><img width=140 src="exsoul_1/exsoul_1_256x256.png" alt="Exsoul browser logo"></a></td>
+            <td><a href="exsoul_2"><img width=140 src="exsoul_2/exsoul_2_256x256.png" alt="Exsoul browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Fake
 
-| [Fake](https://web.archive.org/web/20150801071338/http://fakeapp.com/) |
-|:---:|
-| <a href="fake"><img width=140 src="fake/fake_256x256.png" alt="Fake browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://web.archive.org/web/20150801071338/http://fakeapp.com/">Fake</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="fake"><img width=140 src="fake/fake_256x256.png" alt="Fake browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Fennec
 
-| [Fennec](https://en.wikipedia.org/wiki/Firefox_for_mobile) |
-|:---:|
-| <a href="fennec"><img width=140 src="fennec/fennec_256x256.png" alt="Fennec browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/Firefox_for_mobile">Fennec</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="fennec"><img width=140 src="fennec/fennec_256x256.png" alt="Fennec browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Firefox
 
-| [Phoenix /<br>Firebird](https://en.wikipedia.org/wiki/Firefox#History) | [Firefox<br>1](https://en.wikipedia.org/wiki/Firefox) | [Firefox<br>1.5-3](https://en.wikipedia.org/wiki/Firefox) | [Firefox<br>3.5-22](https://en.wikipedia.org/wiki/Firefox) |
-|:---:|:---:|:---:|:---:|
-| <a href="phoenix_firebird"><img width=140 src="phoenix_firebird/phoenix_firebird_256x256.png" alt="Phoenix/Firebird browser logo"></a> | <a href="firefox_1"><img width=140 src="firefox_1/firefox_1_256x256.png" alt="Firefox 1 browser logo"></a> | <a href="firefox_1.5-3"><img width=140 src="firefox_1.5-3/firefox_1.5-3_256x256.png" alt="Firefox 1 browser logo"></a> | <a href="firefox_3.5-22"><img width=140 src="firefox_3.5-22/firefox_3.5-22_256x256.png" alt="Firefox 3.5-22 browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/Firefox#History">Phoenix /<br>Firebird</a></th>
+            <th><a href="https://en.wikipedia.org/wiki/Firefox">Firefox<br>1</a></th>
+            <th><a href="https://en.wikipedia.org/wiki/Firefox">Firefox<br>1.5-3</a></th>
+            <th><a href="https://en.wikipedia.org/wiki/Firefox">Firefox<br>3.5-22</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="phoenix_firebird"><img width=140 src="phoenix_firebird/phoenix_firebird_256x256.png" alt="Phoenix/Firebird browser logo"></a></td>
+            <td><a href="firefox_1"><img width=140 src="firefox_1/firefox_1_256x256.png" alt="Firefox 1 browser logo"></a></td>
+            <td><a href="firefox_1.5-3"><img width=140 src="firefox_1.5-3/firefox_1.5-3_256x256.png" alt="Firefox 1 browser logo"></a></td>
+            <td><a href="firefox_3.5-22"><img width=140 src="firefox_3.5-22/firefox_3.5-22_256x256.png" alt="Firefox 3.5-22 browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Firefox Aurora
 
-| [Firefox Aurora<br>5-22](https://en.wikipedia.org/wiki/Firefox#Versions) | [Firefox Aurora<br>23-35](https://en.wikipedia.org/wiki/Firefox#Versions) |
-|:---:|:---:|
-| <a href="firefox-aurora_5-22"><img width=140 src="firefox-aurora_5-22/firefox-aurora_5-22_256x256.png" alt="Firefox Aurora 5-22 browser logo"></a> | <a href="firefox-aurora_23-35"><img width=140 src="firefox-aurora_23-35/firefox-aurora_23-35_256x256.png" alt="Firefox Aurora 23-35 browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/Firefox#Versions">Firefox Aurora<br>5-22</a></th>
+            <th><a href="https://en.wikipedia.org/wiki/Firefox#Versions">Firefox Aurora<br>23-35</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="firefox-aurora_5-22"><img width=140 src="firefox-aurora_5-22/firefox-aurora_5-22_256x256.png" alt="Firefox Aurora 5-22 browser logo"></a></td>
+            <td><a href="firefox-aurora_23-35"><img width=140 src="firefox-aurora_23-35/firefox-aurora_23-35_256x256.png" alt="Firefox Aurora 23-35 browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Firefox Nightly
 
-| [Firefox Nightly<br>6-22](https://en.wikipedia.org/wiki/Firefox#Versions) |
-|:---:|
-| <a href="firefox-nightly_6-22"><img width=140 src="firefox-nightly_6-22/firefox-nightly_6-22_256x256.png" alt="Firefox Nightly 6-22 browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/Firefox#Versions">Firefox Nightly<br>6-22</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="firefox-nightly_6-22"><img width=140 src="firefox-nightly_6-22/firefox-nightly_6-22_256x256.png" alt="Firefox Nightly 6-22 browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Flock
 
-| [Flock](https://en.wikipedia.org/wiki/Flock_%28web_browser%29) |
-|:---:|
-| <a href="flock"><img width=140 src="flock/flock_256x256.png" alt="Flock browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/Flock_%28web_browser%29">Flock</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="flock"><img width=140 src="flock/flock_256x256.png" alt="Flock browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### GreenBrowser
 
-| [GreenBrowser](https://en.wikipedia.org/wiki/GreenBrowser) |
-|:---:|
-| <a href="greenbrowser"><img width=140 src="greenbrowser/greenbrowser_256x256.png" alt="GreenBrowser browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/GreenBrowser">GreenBrowser</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="greenbrowser"><img width=140 src="greenbrowser/greenbrowser_256x256.png" alt="GreenBrowser browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### iCab (Mobile)
 
-| [iCab<br>(Mobile)](https://en.wikipedia.org/wiki/ICab) [`*`](#note) |
-|:---:|
-| <a href="icab-mobile"><img width=140 src="icab-mobile/icab-mobile_256x256.png" alt="iCab Mobile browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/ICab">iCab<br>(Mobile)</a> <a href="#note"><code>*</code></a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="icab-mobile"><img width=140 src="icab-mobile/icab-mobile_256x256.png" alt="iCab Mobile browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Iceape
 
-| [Iceape](https://en.wikipedia.org/wiki/Mozilla_Corporation_software_rebranded_by_the_Debian_project#Iceape) |
-|:---:|
-| <a href="iceape"><img width=140 src="iceape/iceape_256x256.png" alt="Iceape browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/Mozilla_Corporation_software_rebranded_by_the_Debian_project#Iceape">Iceape</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="iceape"><img width=140 src="iceape/iceape_256x256.png" alt="Iceape browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### iLunascape
 
-| [iLunascape <br>(Android)](https://en.wikipedia.org/wiki/Lunascape) [`*`](#note) | [iLunascape <br>(iOS)](https://en.wikipedia.org/wiki/Lunascape) [`*`](#note) |
-|:---:|:---:|
-| <a href="ilunascape-android"><img width=140 src="ilunascape-android/ilunascape-android_256x256.png" alt="iLunascape for Android browser logo"></a> | <a href="ilunascape-ios"><img width=140 src="ilunascape-ios/ilunascape-ios_256x256.png" alt="iLunascape for iOS browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/Lunascape">iLunascape <br>(Android)</a> <a href="#note"><code>*</code></a></th>
+            <th><a href="https://en.wikipedia.org/wiki/Lunascape">iLunascape <br>(iOS)</a> <a href="#note"><code>*</code></a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="ilunascape-android"><img width=140 src="ilunascape-android/ilunascape-android_256x256.png" alt="iLunascape for Android browser logo"></a></td>
+            <td><a href="ilunascape-ios"><img width=140 src="ilunascape-ios/ilunascape-ios_256x256.png" alt="iLunascape for iOS browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Internet Explorer
 
-| [Internet Explorer<br>6](https://en.wikipedia.org/wiki/Internet_Explorer_6) | [Internet Explorer<br>7](https://en.wikipedia.org/wiki/Internet_Explorer_7) / [8](https://en.wikipedia.org/wiki/Internet_Explorer_8) |
-|:---:|:---:|
-| <a href="internet-explorer_6"><img width=140 src="internet-explorer_6/internet-explorer_6_256x256.png" alt="Internet Explorer 6 browser logo"></a> | <a href="internet-explorer_7-8"><img width=140 src="internet-explorer_7-8/internet-explorer_7-8_256x256.png" alt="Internet Explorer 7 and 8 browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/Internet_Explorer_6">Internet Explorer<br>6</a></th>
+            <th><a href="https://en.wikipedia.org/wiki/Internet_Explorer_7">Internet Explorer<br>7</a> / <a href="https://en.wikipedia.org/wiki/Internet_Explorer_8">8</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="internet-explorer_6"><img width=140 src="internet-explorer_6/internet-explorer_6_256x256.png" alt="Internet Explorer 6 browser logo"></a></td>
+            <td><a href="internet-explorer_7-8"><img width=140 src="internet-explorer_7-8/internet-explorer_7-8_256x256.png" alt="Internet Explorer 7 and 8 browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Internet Explorer Developer Channel
 
-| [Internet Explorer <br>Developer Channel](https://web.archive.org/web/20150906060618/http://blogs.msdn.com/b/ie/archive/2014/06/16/announcing-internet-explorer-developer-channel.aspx) |
-|:---:|
-| <a href="internet-explorer-developer-channel"><img width=140 src="internet-explorer-developer-channel/internet-explorer-developer-channel_256x256.png" alt="Internet Explorer Developer Channel browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://web.archive.org/web/20150906060618/http://blogs.msdn.com/b/ie/archive/2014/06/16/announcing-internet-explorer-developer-channel.aspx">Internet Explorer <br>Developer Channel</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="internet-explorer-developer-channel"><img width=140 src="internet-explorer-developer-channel/internet-explorer-developer-channel_256x256.png" alt="Internet Explorer Developer Channel browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### K-Meleon
 
-| [K-Meleon](https://en.wikipedia.org/wiki/K-Meleon) |
-|:---:|
-| <a href="k-meleon"><img width=140 src="k-meleon/k-meleon_256x256.png" alt="K-Meleon browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/K-Meleon">K-Meleon</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="k-meleon"><img width=140 src="k-meleon/k-meleon_256x256.png" alt="K-Meleon browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### K9
 
-| [K9](https://en.wikipedia.org/wiki/K9_Web_Protection) |
-|:---:|
-| <a href="k9"><img width=140 src="k9/k9_256x256.png" alt="K9 browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/K9_Web_Protection">K9</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="k9"><img width=140 src="k9/k9_256x256.png" alt="K9 browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### KidZui
 
-| [KidZui](https://en.wikipedia.org/wiki/KidZui) |
-|:---:|
-| <a href="kidzui"><img width=140 src="kidzui/kidzui_256x256.png" alt="KidZui Browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/KidZui">KidZui</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="kidzui"><img width=140 src="kidzui/kidzui_256x256.png" alt="KidZui Browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Konqueror
 
-| [Konqueror<br>1-3](https://en.wikipedia.org/wiki/Konqueror) | [Konqueror<br>4](https://en.wikipedia.org/wiki/Konqueror) |
-|:---:|:---:|
-| <a href="konqueror_1-3"><img width=140 src="konqueror_1-3/konqueror_1-3_256x256.png" alt="Konqueror 1-3 browser logo"></a> | <a href="konqueror_4"><img width=140 src="konqueror_4/konqueror_4_256x256.png" alt="Konqueror 4 browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/Konqueror">Konqueror<br>1-3</a></th>
+            <th><a href="https://en.wikipedia.org/wiki/Konqueror">Konqueror<br>4</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="konqueror_1-3"><img width=140 src="konqueror_1-3/konqueror_1-3_256x256.png" alt="Konqueror 1-3 browser logo"></a></td>
+            <td><a href="konqueror_4"><img width=140 src="konqueror_4/konqueror_4_256x256.png" alt="Konqueror 4 browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Kylo
 
-| [Kylo](https://en.wikipedia.org/wiki/Kylo_%28web_browser%29) |
-|:---:|
-| <a href="kylo"><img width=140 src="kylo/kylo_256x256.png" alt="Kylo browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/Kylo_%28web_browser%29">Kylo</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="kylo"><img width=140 src="kylo/kylo_256x256.png" alt="Kylo browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Lightning
 
-| [Lightning](https://github.com/anthonycr/Lightning-Browser/) [`*`](#note) |
-|:---:|
-| <a href="lightning"><img width=140 src="lightning/lightning_256x256.png" alt="Lightning browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://github.com/anthonycr/Lightning-Browser/">Lightning</a> <a href="#note"><code>*</code></a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="lightning"><img width=140 src="lightning/lightning_256x256.png" alt="Lightning browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Link Bubble
 
-| [Link Bubble<br>1-1.4](https://web.archive.org/web/20150320102407/http://www.linkbubble.com/) | [Link Bubble<br>1.5-1.7](https://web.archive.org/web/20150320102407/http://www.linkbubble.com/) |
-|:---:|:---:|
-| <a href="link-bubble_1-1.4"><img width=140 src="link-bubble_1-1.4/link-bubble_1-1.4_256x256.png" alt="Link Bubble 1-1.4 browser logo"></a> | <a href="link-bubble_1.5-1.7"><img width=140 src="link-bubble_1.5-1.7/link-bubble_1.5-1.7_256x256.png" alt="Link Bubble 1.5-1.7 browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://web.archive.org/web/20150320102407/http://www.linkbubble.com/">Link Bubble<br>1-1.4</a></th>
+            <th><a href="https://web.archive.org/web/20150320102407/http://www.linkbubble.com/">Link Bubble<br>1.5-1.7</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="link-bubble_1-1.4"><img width=140 src="link-bubble_1-1.4/link-bubble_1-1.4_256x256.png" alt="Link Bubble 1-1.4 browser logo"></a></td>
+            <td><a href="link-bubble_1.5-1.7"><img width=140 src="link-bubble_1.5-1.7/link-bubble_1.5-1.7_256x256.png" alt="Link Bubble 1.5-1.7 browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Links
 
-| [Links](https://en.wikipedia.org/wiki/Links_%28web_browser%29) |
-|:---:|
-| <a href="links"><img width=140 src="links/links_256x256.png" alt="Links browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/Links_%28web_browser%29">Links</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="links"><img width=140 src="links/links_256x256.png" alt="Links browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Liri
 
-| [Liri](https://github.com/liri-project/liri-browser#readme) |
-|:---:|
-| <a href="liri"><img width=140 src="liri/liri_256x256.png" alt="Liri browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://github.com/liri-project/liri-browser#readme">Liri</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="liri"><img width=140 src="liri/liri_256x256.png" alt="Liri browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Maxthon
 
-| [Maxthon](https://en.wikipedia.org/wiki/Maxthon) [`*`](#note) |
-|:---:|
-| <a href="maxthon_1"><img width=140 src="maxthon_1/maxthon_1_256x256.png" alt="Maxthon browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/Maxthon">Maxthon</a> <a href="#note"><code>*</code></a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="maxthon_1"><img width=140 src="maxthon_1/maxthon_1_256x256.png" alt="Maxthon browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Maxthon Beta
 
-| [Maxthon<br>Beta](https://en.wikipedia.org/wiki/Maxthon) [`*`](#note) |
-|:---:|
-| <a href="maxthon-beta_1"><img width=140 src="maxthon-beta_1/maxthon-beta_1_256x256.png" alt="Maxthon Beta browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/Maxthon">Maxthon<br>Beta</a> <a href="#note"><code>*</code></a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="maxthon-beta_1"><img width=140 src="maxthon-beta_1/maxthon-beta_1_256x256.png" alt="Maxthon Beta browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Mercury
 
-| [Mercury](https://en.wikipedia.org/wiki/Mercury_Browser) [`*`](#note) | [Mercury](https://en.wikipedia.org/wiki/Mercury_Browser) [`*`](#note) |
-|:---:|:---:|
-| <a href="mercury_1"><img width=140 src="mercury_1/mercury_1_256x256.png" alt="Mercury browser logo"></a> | <a href="mercury_2"><img width=140 src="mercury_2/mercury_2_256x256.png" alt="Mercury browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/Mercury_Browser">Mercury</a> <a href="#note"><code>*</code></a></th>
+            <th><a href="https://en.wikipedia.org/wiki/Mercury_Browser">Mercury</a> <a href="#note"><code>*</code></a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="mercury_1"><img width=140 src="mercury_1/mercury_1_256x256.png" alt="Mercury browser logo"></a></td>
+            <td><a href="mercury_2"><img width=140 src="mercury_2/mercury_2_256x256.png" alt="Mercury browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Midori
 
-| [Midori](https://en.wikipedia.org/wiki/Midori_(web_browser)) |
-|:---:|
-| <a href="midori"><img width=140 src="midori/midori_256x256.png" alt="Midori browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/Midori_(web_browser)">Midori</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="midori"><img width=140 src="midori/midori_256x256.png" alt="Midori browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### MetaCert
 
-| [MetaCert](https://web.archive.org/web/20150624200845/https://metacert.com/) [`*`](#note) |
-|:---:|
-| <a href="metacert"><img width=140 src="metacert/metacert_256x256.png" alt="MetaCert browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://web.archive.org/web/20150624200845/https://metacert.com/">MetaCert</a> <a href="#note"><code>*</code></a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="metacert"><img width=140 src="metacert/metacert_256x256.png" alt="MetaCert browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Mobicip
 
-| [Mobicip](https://en.wikipedia.org/wiki/Mobicip) [`*`](#note) | [Mobicip](https://en.wikipedia.org/wiki/Mobicip) [`*`](#note) |
-|:---:|:---:|
-| <a href="mobicip_1"><img width=140 src="mobicip_1/mobicip_1_256x256.png" alt="Mobicip browser logo"></a> | <a href="mobicip_2"><img width=140 src="mobicip_2/mobicip_2_256x256.png" alt="Mobicip browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/Mobicip">Mobicip</a> <a href="#note"><code>*</code></a></th>
+            <th><a href="https://en.wikipedia.org/wiki/Mobicip">Mobicip</a> <a href="#note"><code>*</code></a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="mobicip_1"><img width=140 src="mobicip_1/mobicip_1_256x256.png" alt="Mobicip browser logo"></a></td>
+            <td><a href="mobicip_2"><img width=140 src="mobicip_2/mobicip_2_256x256.png" alt="Mobicip browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Mosaic
 
-| [Mosaic](https://en.wikipedia.org/wiki/Mosaic_%28web_browser%29) |
-|:---:|
-| <a href="mosaic"><img width=140 src="mosaic/mosaic_256x256.png" alt="Mosaic browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/Mosaic_%28web_browser%29">Mosaic</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="mosaic"><img width=140 src="mosaic/mosaic_256x256.png" alt="Mosaic browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Moznet Fire
 
-| [Moznet Fire](https://web.archive.org/web/20141023171026/http://www.moznet.bplaced.net/) |
-|:---:|
-| <a href="moznet-fire"><img width=140 src="moznet-fire/moznet-fire_256x256.png" alt="Moznet Fire browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://web.archive.org/web/20141023171026/http://www.moznet.bplaced.net/">Moznet Fire</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="moznet-fire"><img width=140 src="moznet-fire/moznet-fire_256x256.png" alt="Moznet Fire browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Netscape
 
-| [Netscape<br>4-6](https://en.wikipedia.org/wiki/Netscape_%28web_browser%29) | [Netscape<br>8](https://en.wikipedia.org/wiki/Netscape_Browser) | [Netscape<br>9](https://en.wikipedia.org/wiki/Netscape_Navigator_9) |
-|:---:|:---:|:---:|
-| <a href="netscape_4-6"><img width=140 src="netscape_4-6/netscape_4-6_256x256.png" alt="Netscape 4-6 browser logo"></a> | <a href="netscape_8"><img width=140 src="netscape_8/netscape_8_256x256.png" alt="Netscape 8 browser logo"></a> | <a href="netscape_9"><img width=140 src="netscape_9/netscape_9_256x256.png" alt="Netscape 9 browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/Netscape_%28web_browser%29">Netscape<br>4-6</a></th>
+            <th><a href="https://en.wikipedia.org/wiki/Netscape_Browser">Netscape<br>8</a></th>
+            <th><a href="https://en.wikipedia.org/wiki/Netscape_Navigator_9">Netscape<br>9</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="netscape_4-6"><img width=140 src="netscape_4-6/netscape_4-6_256x256.png" alt="Netscape 4-6 browser logo"></a></td>
+            <td><a href="netscape_8"><img width=140 src="netscape_8/netscape_8_256x256.png" alt="Netscape 8 browser logo"></a></td>
+            <td><a href="netscape_9"><img width=140 src="netscape_9/netscape_9_256x256.png" alt="Netscape 9 browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Next
 
-| [Next](https://web.archive.org/web/20141116131240/http://nextbrowser.goforandroid.com/) |
-|:---:|
-| <a href="next"><img width=140 src="next/next_256x256.png" alt="Next browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://web.archive.org/web/20141116131240/http://nextbrowser.goforandroid.com/">Next</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="next"><img width=140 src="next/next_256x256.png" alt="Next browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Ninesky
 
-| [Ninesky](https://web.archive.org/web/20140102181923/http://ninesky.com/) [`*`](#note)  |
-|:---:|
-| <a href="ninesky"><img width=140 src="ninesky/ninesky_256x256.png" alt="Ninesky browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://web.archive.org/web/20140102181923/http://ninesky.com/">Ninesky</a> <a href="#note"><code>*</code></a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="ninesky"><img width=140 src="ninesky/ninesky_256x256.png" alt="Ninesky browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### OmniWeb
 
-| [OmniWeb<br>1-5](https://en.wikipedia.org/wiki/OmniWeb) | [OmniWeb<br>6](https://en.wikipedia.org/wiki/OmniWeb) |
-|:---:|:---:|
-| <a href="omniweb_1-5"><img width=140 src="omniweb_1-5/omniweb_1-5_256x256.png" alt="OmniWeb 1-5 browser logo"></a> | <a href="omniweb_6"><img width=140 src="omniweb_6/omniweb_6_256x256.png" alt="OmniWeb 6 browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/OmniWeb">OmniWeb<br>1-5</a></th>
+            <th><a href="https://en.wikipedia.org/wiki/OmniWeb">OmniWeb<br>6</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="omniweb_1-5"><img width=140 src="omniweb_1-5/omniweb_1-5_256x256.png" alt="OmniWeb 1-5 browser logo"></a></td>
+            <td><a href="omniweb_6"><img width=140 src="omniweb_6/omniweb_6_256x256.png" alt="OmniWeb 6 browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### NLIA
 
-| [NLIA](https://web.archive.org/web/20150411053800/http://e.netpia.com/) |
-|:---:|
-| <a href="nlia"><img width=140 src="nlia/nlia_256x256.png" alt="NLIA browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://web.archive.org/web/20150411053800/http://e.netpia.com/">NLIA</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="nlia"><img width=140 src="nlia/nlia_256x256.png" alt="NLIA browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### ONE
 
-| [ONE<br>(Android)](https://web.archive.org/web/20140406142259/http://one-browser.com/mobile/home/) [`*`](#note) | [ONE<br>(iOS)](https://web.archive.org/web/20140406142259/http://one-browser.com/mobile/home/) [`*`](#note) |
-|:---:|:---:|
-| <a href="one-android"><img width=140 src="one-android/one-android_256x256.png" alt="ONE for Android browser logo"></a> | <a href="one-ios"><img width=140 src="one-ios/one-ios_256x256.png" alt="ONE for iOS browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://web.archive.org/web/20140406142259/http://one-browser.com/mobile/home/">ONE<br>(Android)</a> <a href="#note"><code>*</code></a></th>
+            <th><a href="https://web.archive.org/web/20140406142259/http://one-browser.com/mobile/home/">ONE<br>(iOS)</a> <a href="#note"><code>*</code></a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="one-android"><img width=140 src="one-android/one-android_256x256.png" alt="ONE for Android browser logo"></a></td>
+            <td><a href="one-ios"><img width=140 src="one-ios/one-ios_256x256.png" alt="ONE for iOS browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Onion
 
-| [Onion](https://github.com/OnionBrowser/iOS-OnionBrowser) [`*`](#note) |
-|:---:|
-| <a href="onion"><img width=140 src="onion/onion_256x256.png" alt="Onion browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://github.com/OnionBrowser/iOS-OnionBrowser">Onion</a> <a href="#note"><code>*</code></a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="onion"><img width=140 src="onion/onion_256x256.png" alt="Onion browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Opera
 
-| [Opera<br>2-6](https://en.wikipedia.org/wiki/Opera_%28web_browser%29) | [Opera<br>7-9](https://en.wikipedia.org/wiki/Opera_%28web_browser%29) | [Opera<br>10-14](https://en.wikipedia.org/wiki/Opera_%28web_browser%29) | [Opera<br>15-32](https://en.wikipedia.org/wiki/Opera_%28web_browser%29) |
-|:---:|:---:|:---:|:---:|
-| <a href="opera_2-6"><img width=140 src="opera_2-6/opera_2-6_256x256.png" alt="Opera 2-6 browser logo"></a> | <a href="opera_7-9"><img width=140 src="opera_7-9/opera_7-9_256x256.png" alt="Opera 7-9 browser logo"></a> | <a href="opera_10-14"><img width=140 src="opera_10-14/opera_10-14_256x256.png" alt="Opera 10-14 browser logo"></a> | <a href="opera_15-32"><img width=140 src="opera_15-32/opera_15-32_256x256.png" alt="Opera 15-32 browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/Opera_%28web_browser%29">Opera<br>2-6</a></th>
+            <th><a href="https://en.wikipedia.org/wiki/Opera_%28web_browser%29">Opera<br>7-9</a></th>
+            <th><a href="https://en.wikipedia.org/wiki/Opera_%28web_browser%29">Opera<br>10-14</a></th>
+            <th><a href="https://en.wikipedia.org/wiki/Opera_%28web_browser%29">Opera<br>15-32</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="opera_2-6"><img width=140 src="opera_2-6/opera_2-6_256x256.png" alt="Opera 2-6 browser logo"></a></td>
+            <td><a href="opera_7-9"><img width=140 src="opera_7-9/opera_7-9_256x256.png" alt="Opera 7-9 browser logo"></a></td>
+            <td><a href="opera_10-14"><img width=140 src="opera_10-14/opera_10-14_256x256.png" alt="Opera 10-14 browser logo"></a></td>
+            <td><a href="opera_15-32"><img width=140 src="opera_15-32/opera_15-32_256x256.png" alt="Opera 15-32 browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Opera Beta
 
-| [Opera Next<br>15-24](https://en.wikipedia.org/wiki/Opera_%28web_browser%29#Opera_Developer_and_Opera_Next) | [Opera Beta<br>25-32](https://en.wikipedia.org/wiki/Opera_%28web_browser%29#Opera_Developer_and_Opera_Next) |
-|:---:|:---:|
-| <a href="opera-next_15-24"><img width=140 src="opera-next_15-24/opera-next_15-24_256x256.png" alt="Opera Next 15 browser logo"></a> | <a href="opera-beta_25-32"><img width=140 src="opera-beta_25-32/opera-beta_25-32_256x256.png" alt="Opera Beta 25-32 browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/Opera_%28web_browser%29#Opera_Developer_and_Opera_Nex">Opera Next<br>15-24</a></th>
+            <th><a href="https://en.wikipedia.org/wiki/Opera_%28web_browser%29#Opera_Developer_and_Opera_Next">Opera Beta<br>25-32</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="opera-next_15-24"><img width=140 src="opera-next_15-24/opera-next_15-24_256x256.png" alt="Opera Next 15 browser logo"></a></td>
+            <td><a href="opera-beta_25-32"><img width=140 src="opera-beta_25-32/opera-beta_25-32_256x256.png" alt="Opera Beta 25-32 browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Opera Mini
 
-| [Opera Mini](https://en.wikipedia.org/wiki/Opera_Mini) [`*`](#note) | [Opera Mini](https://en.wikipedia.org/wiki/Opera_Mini) [`*`](#note) |
-|:---:|:---:|
-| <a href="opera-mini_1"><img width=140 src="opera-mini_1/opera-mini_1_256x256.png" alt="Opera Mini browser logo"></a> | <a href="opera-mini_2"><img width=140 src="opera-mini_2/opera-mini_2_256x256.png" alt="Opera Mini browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/Opera_Mini">Opera Mini</a> <a href="#note"><code>*</code></a></th>
+            <th><a href="https://en.wikipedia.org/wiki/Opera_Mini">Opera Mini</a> <a href="#note"><code>*</code></a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="opera-mini_1"><img width=140 src="opera-mini_1/opera-mini_1_256x256.png" alt="Opera Mini browser logo"></a></td>
+            <td><a href="opera-mini_2"><img width=140 src="opera-mini_2/opera-mini_2_256x256.png" alt="Opera Mini browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Opera Mini Beta
 
-| [Opera Mini<br>Beta](https://en.wikipedia.org/wiki/Opera_Mini) [`*`](#note) |
-|:---:|
-| <a href="opera-mini-beta_1"><img width=140 src="opera-mini-beta_1/opera-mini-beta_1_256x256.png" alt="Opera Mini Beta browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/Opera_Mini">Opera Mini<br>Beta</a> <a href="#note"><code>*</code></a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="opera-mini-beta_1"><img width=140 src="opera-mini-beta_1/opera-mini-beta_1_256x256.png" alt="Opera Mini Beta browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Orca
 
-| [Orca](https://en.wikipedia.org/wiki/Avant_Browser#History_and_development) |
-|:---:|
-| <a href="orca"><img width=140 src="orca/orca_256x256.png" alt="Orca browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/Avant_Browser#History_and_development">Orca</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="orca"><img width=140 src="orca/orca_256x256.png" alt="Orca browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Orweb
 
-| [Orweb](https://web.archive.org/web/20150802023241/https://guardianproject.info/apps/orweb/) |
-|:---:|
-| <a href="orweb"><img width=140 src="orweb/orweb_256x256.png" alt="Orweb browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://web.archive.org/web/20150802023241/https://guardianproject.info/apps/orweb/">Orweb</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="orweb"><img width=140 src="orweb/orweb_256x256.png" alt="Orweb browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Photon
 
-| [Photon](https://web.archive.org/web/20150629011134/http://www.appsverse.com/Index) |
-|:---:|
-| <a href="photon"><img width=140 src="photon/photon_256x256.png" alt="Photon browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://web.archive.org/web/20150629011134/http://www.appsverse.com/Index">Photon</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="photon"><img width=140 src="photon/photon_256x256.png" alt="Photon browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### QQ
 
-| [QQ](https://web.archive.org/web/20160115132857/http://browser.qq.com/) [`*`](#note) | [QQ](https://web.archive.org/web/20160115132857/http://browser.qq.com/) [`*`](#note) |
-|:---:|:---:|
-| <a href="qq_1"><img width=140 src="qq_1/qq_1.png" alt="QQ browser logo"></a> | <a href="qq_2"><img width=140 src="qq_2/qq_2.png" alt="QQ browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://web.archive.org/web/20160115132857/http://browser.qq.com/">QQ</a> <a href="#note"><code>*</code></a></th>
+            <th><a href="https://web.archive.org/web/20160115132857/http://browser.qq.com/">QQ</a> <a href="#note"><code>*</code></a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="qq_1"><img width=140 src="qq_1/qq_1.png" alt="QQ browser logo"></a></td>
+            <td><a href="qq_2"><img width=140 src="qq_2/qq_2.png" alt="QQ browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### rekonq
 
-| [rekonq](https://en.wikipedia.org/wiki/Rekonq) |
-|:---:|
-| <a href="rekonq"><img width=140 src="rekonq/rekonq_256x256.png" alt="rekonq browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/Rekonq">rekonq</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="rekonq"><img width=140 src="rekonq/rekonq_256x256.png" alt="rekonq browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Roccat
 
-| [Roccat](https://web.archive.org/web/20160708015650/http://runecats.com/) |
-|:---:|
-| <a href="roccat"><img width=140 src="roccat/roccat_256x256.png" alt="Roccat browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://web.archive.org/web/20160708015650/http://runecats.com/">Roccat</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="roccat"><img width=140 src="roccat/roccat_256x256.png" alt="Roccat browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Rockmelt
 
-| [Rockmelt](https://en.wikipedia.org/wiki/Rockmelt) | [Rockmelt<br>(iOS)](https://en.wikipedia.org/wiki/Rockmelt) |
-|:---:|:---:|
-| <a href="rockmelt"><img width=140 src="rockmelt/rockmelt_256x256.png" alt="Rockmelt iOS browser logo"></a> | <a href="rockmelt-ios"><img width=140 src="rockmelt-ios/rockmelt-ios_256x256.png" alt="Rockmelt for iOS browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/Rockmelt">Rockmelt</a></th>
+            <th><a href="https://en.wikipedia.org/wiki/Rockmelt">Rockmelt<br>(iOS)</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="rockmelt"><img width=140 src="rockmelt/rockmelt_256x256.png" alt="Rockmelt iOS browser logo"></a></td>
+            <td><a href="rockmelt-ios"><img width=140 src="rockmelt-ios/rockmelt-ios_256x256.png" alt="Rockmelt for iOS browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Safari
 
-| [Safari<br>1-7](https://en.wikipedia.org/wiki/Safari_%28web_browser%29) |
-|:---:|
-| <a href="safari_1-7"><img width=140 src="safari_1-7/safari_1-7_256x256.png" alt="Safari 1-7 browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/Safari_%28web_browser%29">Safari<br>1-7</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="safari_1-7"><img width=140 src="safari_1-7/safari_1-7_256x256.png" alt="Safari 1-7 browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Safari (iOS)
 
-| [Safari (iOS)<br>1-6 ](https://en.wikipedia.org/wiki/Safari_%28web_browser%29) |
-|:---:|
-| <a href="safari-ios_1-6"><img width=140 src="safari-ios_1-6/safari-ios_1-6_256x256.png" alt="Safari for iOS 1-6 browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/Safari_%28web_browser%29">Safari (iOS)<br>1-6 </a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="safari-ios_1-6"><img width=140 src="safari-ios_1-6/safari-ios_1-6_256x256.png" alt="Safari for iOS 1-6 browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Shiira
 
-| [Shiira](https://en.wikipedia.org/wiki/Shiira) |
-|:---:|
-| <a href="shiira"><img width=140 src="shiira/shiira_256x256.png" alt="Shiira browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/Shiira">Shiira</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="shiira"><img width=140 src="shiira/shiira_256x256.png" alt="Shiira browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Silk
 
-| [Silk](https://en.wikipedia.org/wiki/Amazon_Silk) [`*`](#note) |
-|:---:|
-| <a href="silk"><img width=140 src="silk/silk_256x256.png" alt="Silk 1 browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/Amazon_Silk">Silk</a> <a href="#note"><code>*</code></a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="silk"><img width=140 src="silk/silk_256x256.png" alt="Silk 1 browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Skyfire
 
-| [Skyfire<br>(Android)](https://en.wikipedia.org/wiki/Skyfire_%28company%29#Skyfire_Web_Browser) [`*`](#note) | [Skyfire<br>(iOS)](https://en.wikipedia.org/wiki/Skyfire_%28company%29#Skyfire_Web_Browser) [`*`](#note) |
-|:---:|:---:|
-| <a href="skyfire-android"><img width=140 src="skyfire-android/skyfire-android_256x256.png" alt="Skyfire for Android browser logo"></a> | <a href="skyfire-ios"><img width=140 src="skyfire-ios/skyfire-ios_256x256.png" alt="Skyfire for iOS browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/Skyfire_%28company%29#Skyfire_Web_Browser">Skyfire<br>(Android)</a> <a href="#note"><code>*</code></a></th>
+            <th><a href="https://en.wikipedia.org/wiki/Skyfire_%28company%29#Skyfire_Web_Browser">Skyfire<br>(iOS)</a> <a href="#note"><code>*</code></a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="skyfire-android"><img width=140 src="skyfire-android/skyfire-android_256x256.png" alt="Skyfire for Android browser logo"></a></td>
+            <td><a href="skyfire-ios"><img width=140 src="skyfire-ios/skyfire-ios_256x256.png" alt="Skyfire for iOS browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Sleipnir (Mobile)
 
-| [Sleipnir<br>(Mobile)](https://en.wikipedia.org/wiki/Sleipnir_%28web_browser%29) [`*`](#note) |
-|:---:|
-| <a href="sleipnir-mobile"><img width=140 src="sleipnir-mobile/sleipnir-mobile_256x256.png" alt="Sleipnir Mobile browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/Sleipnir_%28web_browser%29">Sleipnir<br>(Mobile)</a> <a href="#note"><code>*</code></a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="sleipnir-mobile"><img width=140 src="sleipnir-mobile/sleipnir-mobile_256x256.png" alt="Sleipnir Mobile browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### SlimBoat
 
-| [SlimBoat](https://en.wikipedia.org/wiki/SlimBrowser) |
-|:---:|
-| <a href="slimboat"><img width=140 src="slimboat/slimboat_256x256.png" alt="SlimBoat browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/SlimBrowser">SlimBoat</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="slimboat"><img width=140 src="slimboat/slimboat_256x256.png" alt="SlimBoat browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Sogou (Mobile)
 
-| [Sogou<br>(Mobile)](https://en.wikipedia.org/wiki/Sogou#Sogou_browser) [`*`](#note) | [Sogou<br>(Mobile)](https://en.wikipedia.org/wiki/Sogou#Sogou_browser) [`*`](#note) |
-|:---:|:---:|
-| <a href="sogou-mobile_1"><img width=140 src="sogou-mobile_1/sogou-mobile_1_256x256.png" alt="Sogou Mobile browser logo"></a> | <a href="sogou-mobile_2"><img width=140 src="sogou-mobile_2/sogou-mobile_2_256x256.png" alt="Sogou Mobile browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/Sogou#Sogou_browser">Sogou<br>(Mobile)</a> <a href="#note"><code>*</code></a></th>
+            <th><a href="https://en.wikipedia.org/wiki/Sogou#Sogou_browser">Sogou<br>(Mobile)</a> <a href="#note"><code>*</code></a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="sogou-mobile_1"><img width=140 src="sogou-mobile_1/sogou-mobile_1_256x256.png" alt="Sogou Mobile browser logo"></a></td>
+            <td><a href="sogou-mobile_2"><img width=140 src="sogou-mobile_2/sogou-mobile_2_256x256.png" alt="Sogou Mobile browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Stainless
 
-| [Stainless](https://github.com/mesadynamics/stainless) |
-|:---:|
-| <a href="stainless"><img width=140 src="stainless/stainless_256x256.png" alt="Stainless browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://github.com/mesadynamics/stainless">Stainless</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="stainless"><img width=140 src="stainless/stainless_256x256.png" alt="Stainless browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Super Fast
 
-| [Super Fast](https://web.archive.org/web/20150423215607/http://www.sfbrowser.com/) |
-|:---:|
-| <a href="superfast"><img width=140 src="superfast/superfast_256x256.png" alt="Super Fast browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://web.archive.org/web/20150423215607/http://www.sfbrowser.com/">Super Fast</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="superfast"><img width=140 src="superfast/superfast_256x256.png" alt="Super Fast browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### surf
 
-| [surf](https://en.wikipedia.org/wiki/Surf_%28web_browser%29) |
-|:---:|
-| <a href="surf"><img width=140 src="surf/surf_256x256.png" alt="surf browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/Surf_%28web_browser%29">surf</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="surf"><img width=140 src="surf/surf_256x256.png" alt="surf browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Swiftfox
 
-| [Swiftfox](https://en.wikipedia.org/wiki/Swiftfox) |
-|:---:|
-| <a href="swiftfox"><img width=140 src="swiftfox/swiftfox_256x256.png" alt="Swiftfox browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/Swiftfox">Swiftfox</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="swiftfox"><img width=140 src="swiftfox/swiftfox_256x256.png" alt="Swiftfox browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Torch
 
-| [Torch](https://en.wikipedia.org/wiki/Torch_%28browser%29) |
-|:---:|
-| <a href="torch"><img width=140 src="torch/torch_256x256.png" alt="Torch browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/Torch_%28browser%29">Torch</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="torch"><img width=140 src="torch/torch_256x256.png" alt="Torch browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### UC
 
-| [UC](https://en.wikipedia.org/wiki/UC_Browser) [`*`](#note) |
-|:---:|
-| <a href="uc"><img width=140 src="uc/uc_256x256.png" alt="UC browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/UC_Browser">UC</a> <a href="#note"><code>*</code></a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="uc"><img width=140 src="uc/uc_256x256.png" alt="UC browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Uzbl
 
-| [Uzbl](https://en.wikipedia.org/wiki/Uzbl) |
-|:---:|
-| <a href="uzbl"><img width=140 src="uzbl/uzbl_256x256.png" alt="Uzbl browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/Uzbl">Uzbl</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="uzbl"><img width=140 src="uzbl/uzbl_256x256.png" alt="Uzbl browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Vitrum
 
-| [Vitrum](https://web.archive.org/web/20140928181625/https://itunes.apple.com/us/app/vitrum-unique-web-browser/id569847799?mt=8) |
-|:---:|
-| <a href="vitrum"><img width=140 src="vitrum/vitrum_256x256.png" alt="Vitrum browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://web.archive.org/web/20140928181625/https://itunes.apple.com/us/app/vitrum-unique-web-browser/id569847799?mt=8">Vitrum</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="vitrum"><img width=140 src="vitrum/vitrum_256x256.png" alt="Vitrum browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### WaterFox
 
-| [WaterFox](https://en.wikipedia.org/wiki/Waterfox) [`*`](#note) |
-|:---:|
-| <a href="waterfox"><img width=140 src="waterfox/waterfox.png" alt="WaterFox browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/Waterfox">WaterFox</a> <a href="#note"><code>*</code></a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="waterfox"><img width=140 src="waterfox/waterfox.png" alt="WaterFox browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### WebKit Nightly
 
-| [Webkit Nightly<br>1-7](https://en.wikipedia.org/wiki/WebKit) | [Webkit Nightly<br>8-9](https://en.wikipedia.org/wiki/WebKit) |
-|:---:|:---:|
-| <a href="webkit-nightly_1-7"><img width=140 src="webkit-nightly_1-7/webkit-nightly_1-7_256x256.png" alt="WebKit Nightly 1-7 browser logo"></a> | <a href="webkit-nightly_8-9"><img width=140 src="webkit-nightly_8-9/webkit-nightly_8-9_256x256.png" alt="WebKit Nightly 8-9 browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/WebKit">Webkit Nightly<br>1-7</a></th>
+            <th><a href="https://en.wikipedia.org/wiki/WebKit">Webkit Nightly<br>8-9</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="webkit-nightly_1-7"><img width=140 src="webkit-nightly_1-7/webkit-nightly_1-7_256x256.png" alt="WebKit Nightly 1-7 browser logo"></a></td>
+            <td><a href="webkit-nightly_8-9"><img width=140 src="webkit-nightly_8-9/webkit-nightly_8-9_256x256.png" alt="WebKit Nightly 8-9 browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Wyzo
 
-| [Wyzo](https://en.wikipedia.org/wiki/Wyzo) |
-|:---:|
-| <a href="wyzo"><img width=140 src="wyzo/wyzo_256x256.png" alt="Wyzo browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/Wyzo">Wyzo</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="wyzo"><img width=140 src="wyzo/wyzo_256x256.png" alt="Wyzo browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Xpress
 
-| [Xpress](https://en.wikipedia.org/wiki/Nokia_Xpress) [`*`](#note) |
-|:---:|
-| <a href="xpress"><img width=140 src="xpress/xpress_256x256.png" alt="Xpress browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/Nokia_Xpress">Xpress</a> <a href="#note"><code>*</code></a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="xpress"><img width=140 src="xpress/xpress_256x256.png" alt="Xpress browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Xtravo
 
-| [Xtravo](https://github.com/sheikhimran01/xtravo) |
-|:---:|
-| <a href="xtravo"><img width=140 src="xtravo/xtravo_256x256.png" alt="Xtravo browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://github.com/sheikhimran01/xtravo">Xtravo</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="xtravo"><img width=140 src="xtravo/xtravo_256x256.png" alt="Xtravo browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Yandex
 
-| [Yandex](https://en.wikipedia.org/wiki/Yandex_Browser) [`*`](#note) |
-|:---:|
-| <a href="yandex"><img width=140 src="yandex/yandex_256x256.png" alt="Yandex browser logo"></a> |
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/Yandex_Browser">Yandex</a> <a href="#note"><code>*</code></a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="yandex"><img width=140 src="yandex/yandex_256x256.png" alt="Yandex browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 --
 
