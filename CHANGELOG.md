@@ -1,4 +1,4 @@
-### HEAD
+### 34.1.0 (August 24, 2016)
 
 * [[`fc408b5bd6`](https://github.com/alrra/browser-logos/commit/fc408b5bd65b554b7017cbb0588d5210267fdfd5)] -
   Add better version of the `Pale Moon` logo.
