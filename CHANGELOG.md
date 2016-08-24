@@ -1,7 +1,9 @@
 ### HEAD
 
-* Add better version of the `Pale Moon` logo.
-* Add `SRWare Iron` logo.
+* [[`fc408b5bd6`](https://github.com/alrra/browser-logos/commit/fc408b5bd65b554b7017cbb0588d5210267fdfd5)] -
+  Add better version of the `Pale Moon` logo.
+* [[`f70ec979df`](https://github.com/alrra/browser-logos/commit/f70ec979df3bcd28fe94f7d1a8b7f8fd3c3f3f50)] -
+  Add `SRWare Iron` logo.
 
 ### 34.0.1 (August 24, 2016)
 
