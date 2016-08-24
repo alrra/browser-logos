@@ -1,5 +1,6 @@
 ### HEAD
 
+* Add better version of the `Pale Moon` logo.
 * Add `SRWare Iron` logo.
 
 ### 34.0.1 (August 24, 2016)
