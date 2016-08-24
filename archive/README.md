@@ -1445,8 +1445,8 @@
 <table>
     <thead>
         <tr>
-            <th><a href="https://en.wikipedia.org/wiki/WebKit">Webkit Nightly<br>1-7</a></th>
-            <th><a href="https://en.wikipedia.org/wiki/WebKit">Webkit Nightly<br>8-9</a></th>
+            <th><a href="https://en.wikipedia.org/wiki/WebKit">WebKit Nightly<br>1-7</a></th>
+            <th><a href="https://en.wikipedia.org/wiki/WebKit">WebKit Nightly<br>8-9</a></th>
         </tr>
     </thead>
     <tbody>
