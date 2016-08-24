@@ -1,3 +1,7 @@
+### HEAD
+
+* Add `SRWare Iron` logo.
+
 ### 34.0.1 (August 24, 2016)
 
 * [[`719beb113a`](https://github.com/alrra/browser-logos/commit/719beb113ae4f79820003ed3966498236954962c)] -

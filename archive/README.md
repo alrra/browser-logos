@@ -1305,6 +1305,21 @@
     </tbody>
 </table>
 
+### SRWare Iron
+
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/SRWare_Iron">SRWare Iron</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="srware-iron"><img width=140 src="srware-iron/srware-iron_256x256.png" alt="SRWare Iron browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
+
 ### Stainless
 
 <table>
