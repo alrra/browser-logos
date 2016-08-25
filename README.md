@@ -763,7 +763,7 @@ logos are high resolution with transparent backgrounds.
         </tr>
     </thead>
     <tbody>
-        <tr height160>
+        <tr height=160>
             <td><a href="webkit-nightly"><img width=140 src="webkit-nightly/webkit-nightly_256x256.png" alt="WebKit Nightly browser logo"></a></td>
         </tr>
     </tbody>
