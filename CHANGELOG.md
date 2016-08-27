@@ -1,3 +1,50 @@
+### HEAD
+
+* [[`0a5abad6e1`](https://github.com/alrra/browser-logos/commit/0a5abad6e18e15e0205bfcd28226fa89346910d3)] -
+  Further optimize `web.svg`.
+* [[`bf5b17d14f`](https://github.com/alrra/browser-logos/commit/bf5b17d14f6296ae9a62303352b356a113c91e02)] -
+  Further optimize `netsurf.svg`.
+* [[`9a4a0b8e83`](https://github.com/alrra/browser-logos/commit/9a4a0b8e836b47cfa902283442986f3e740e2c35)] -
+  Further optimize `internet-explorer-tile.svg`.
+* [[`64b9ba8f66`](https://github.com/alrra/browser-logos/commit/64b9ba8f661af22643f5a2692fa1186d50e27a8b)] -
+  Further optimize `iceweasel.svg`.
+* [[`20d50b9758`](https://github.com/alrra/browser-logos/commit/20d50b9758443063fad0aeae33d1f5b632bed92a)] -
+  Further optimize `chrome.svg`.
+* [[`44026f9c3f`](https://github.com/alrra/browser-logos/commit/44026f9c3f84445858cef901cb4385e5b85f094e)] -
+  Further optimize `brave.svg`.
+* [[`09a323122f`](https://github.com/alrra/browser-logos/commit/09a323122fc4ca774ff144e3d2401cc780627e0f)] -
+  Further optimize `blisk.svg`.
+* [[`425175083b`](https://github.com/alrra/browser-logos/commit/425175083b394c3f1f4cc439501eea831a9a21ed)] -
+  Further optimize `opera_10-14.svg`.
+* [[`0a0e1ba86e`](https://github.com/alrra/browser-logos/commit/0a0e1ba86e147864f6c9d4bcea39f73be3381822)] -
+  Further optimize `opera-next_15-24.svg`.
+* [[`9eaee4fcc8`](https://github.com/alrra/browser-logos/commit/9eaee4fcc8477920f6e0bdd20414e71a3e7a8e83)] -
+  Further optimize `phoenix_firebird.svg`.
+* [[`822d580fc7`](https://github.com/alrra/browser-logos/commit/822d580fc7e828c715b32898108f81d95c873251)] -
+  Further optimize `rekonq.svg`.
+* [[`7e241a2c88`](https://github.com/alrra/browser-logos/commit/7e241a2c881f1b60e32ae93b165d4972581eacef)] -
+  Further optimize `uzbl.svg`.
+* [[`d99d944e32`](https://github.com/alrra/browser-logos/commit/d99d944e32acabd91ee31934ad34ef70eb480133)] -
+  Further optimize `netscape_9.svg`.
+* [[`c5c0c720b0`](https://github.com/alrra/browser-logos/commit/c5c0c720b0afd84969a0ebdc6cc468ceeb37b1e7)] -
+  Further optimize `netscape_4-6.svg`.
+* [[`c41213c221`](https://github.com/alrra/browser-logos/commit/c41213c2211a9d58eb7c761e612d38bffadcd3a2)] -
+  Further optimize `midori.svg`.
+* [[`6c16450e63`](https://github.com/alrra/browser-logos/commit/6c16450e63d5c1af07f323dc1b4b151e0fb3f3b1)] -
+  Further optimize `maxthon_1.svg`.
+* [[`9703250789`](https://github.com/alrra/browser-logos/commit/97032507899ac6cfa2f904e1328c6958272b77f6)] -
+  Further optimize `maxthon-beta_1.svg`.
+* [[`0b5998efdd`](https://github.com/alrra/browser-logos/commit/0b5998efdd80b31305cfa217221eecc4c393b16c)] -
+  Further optimize `kylo.svg`.
+* [[`4f0837b616`](https://github.com/alrra/browser-logos/commit/4f0837b616709c00b6b5b7557eb9805465fd6e48)] -
+  Further optimize `konqueror_1-3.svg`.
+* [[`416c6317fc`](https://github.com/alrra/browser-logos/commit/416c6317fce04b0f6c4b5b9d4180afe54ee283ac)] -
+  Further optimize `iceape.svg`.
+* [[`77b8404a94`](https://github.com/alrra/browser-logos/commit/77b8404a94ab5c9fe53c48b6cc324aab28206ee1)] -
+  Further optimize `chrome_1-11.svg`.
+* [[`b92cd3868a`](https://github.com/alrra/browser-logos/commit/b92cd3868a06b5d890ab13e8178097a26d9b2aa7)] -
+  Further optimize `arora.svg`.
+
 ### 34.1.0 (August 24, 2016)
 
 * [[`fc408b5bd6`](https://github.com/alrra/browser-logos/commit/fc408b5bd65b554b7017cbb0588d5210267fdfd5)] -
@@ -24,8 +71,24 @@
 
 ### 32.0.1 (August 11, 2016)
 
-* [[`333a3bcdf0...64f3a79228`](https://github.com/alrra/browser-logos/compare/32ca963d7f3da5e791fbf549df30fb7e299497cd...64f3a7922818e8d44f84e724562214d4fd9f19f4)] -
-  Further optimize some of the SVGs.
+* [[`64f3a79228`](https://github.com/alrra/browser-logos/commit/64f3a7922818e8d44f84e724562214d4fd9f19f4)] -
+  Further optimize `epiphany.svg`.
+* [[`7296eac9cd`](https://github.com/alrra/browser-logos/commit/7296eac9cdca1722fdabf89a6b86a5dfbf86d900)] -
+  Further optimize `netscape_9.svg`.
+* [[`0922ffcda5`](https://github.com/alrra/browser-logos/commit/0922ffcda588e26b127fd1e50290ff8edcdcabed)] -
+  Further optimize `kylo.svg`.
+* [[`25c06e4055`](https://github.com/alrra/browser-logos/commit/25c06e4055c3154e961885f9cece81c89131316b)] -
+  Further optimize `netsurf.svg`.
+* [[`97928d959d`](https://github.com/alrra/browser-logos/commit/97928d959db8505fd82744e5b6290e30100f78b6)] -
+  Further optimize `safari-ios.svg`.
+* [[`ba89926340`](https://github.com/alrra/browser-logos/commit/ba89926340fc74b0e480694add6541e0c37e7852)] -
+  Further optimize `midori.svg`.
+* [[`f9bababef0`](https://github.com/alrra/browser-logos/commit/f9bababef09548304cdfc45aa4468e873c6555f1)] -
+  Further optimize `k-meleon.svg`.
+* [[`14933ade77`](https://github.com/alrra/browser-logos/commit/14933ade77e91287a29f5600a0a9d7ecf6d79c30)] -
+  Further optimize `firefox.svg`.
+* [[`32ca963d7f`](https://github.com/alrra/browser-logos/commit/32ca963d7f3da5e791fbf549df30fb7e299497cd)] -
+  Further optimize `chrome.svg`.
 
 ### 32.0.0 (August 1, 2016)
 
