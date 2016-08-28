@@ -787,19 +787,19 @@ logos are high resolution with transparent backgrounds.
 
 ## Archive
 
-For logos of browsers that are no longer active, or for older logos
-of the browsers listed above, check the [`archive/`](archive#readme)
+For logos of browsers that are no longer active, or for older logos of 
+the browsers listed above, check the [`archive/`](archive/README.md#readme) 
 directory.
 
 <table>
     <thead>
         <tr>
-            <th><a href="archive#readme">Archive ➡ </a></th>
+            <th><a href="archive/README.md#readme">Archive ➡ </a></th>
         </tr>
     </thead>
     <tbody>
         <tr height=160>
-            <td><a href="archive#readme"><img width=140 src="https://cloud.githubusercontent.com/assets/1223565/17943567/a15ccc8a-6a44-11e6-90ea-52200fd14635.gif" alt="Old browser logo"></a></td>
+            <td><a href="archive/README.md#readme"><img width=140 src="https://cloud.githubusercontent.com/assets/1223565/17943567/a15ccc8a-6a44-11e6-90ea-52200fd14635.gif" alt="Old browser logo"></a></td>
         </tr>
     </tbody>
 </table>
