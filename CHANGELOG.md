@@ -1,4 +1,4 @@
-### HEAD
+### 34.1.1 (August 28, 2016)
 
 * [[`0a5abad6e1`](https://github.com/alrra/browser-logos/commit/0a5abad6e18e15e0205bfcd28226fa89346910d3)] -
   Further optimize `web.svg`.

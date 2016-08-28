@@ -787,8 +787,8 @@ logos are high resolution with transparent backgrounds.
 
 ## Archive
 
-For logos of browsers that are no longer active, or for older logos of 
-the browsers listed above, check the [`archive/`](archive/README.md#readme) 
+For logos of browsers that are no longer active, or for older logos of
+the browsers listed above, check the [`archive/`](archive/README.md#readme)
 directory.
 
 <table>
@@ -829,7 +829,7 @@ take a moment to review the [guidelines](.github/CONTRIBUTING.md).
 
 There are a few options for getting the browser logos:
 
-* Download [`zip` archive](https://github.com/alrra/browser-logos/archive/34.1.0.zip).
+* Download [`zip` archive](https://github.com/alrra/browser-logos/archive/34.1.1.zip).
 * Install via:
     * [`npm`](https://npmjs.org/): `npm install alrra/browser-logos`
     * [`Bower`](https://bower.io/): `bower install browser-logos`
