@@ -4,10 +4,10 @@
     <tbody>
         <tr>
             <td height=320>
-                <a href="https://raw.github.com/alrra/browser-logos/master/main-desktop.png">
+                <a href="https://raw.githubusercontent.com/alrra/browser-logos/master/main-desktop.png">
                     <img src="main-desktop.png" alt="Main desktop browsers">
                 </a>
-                <a href="https://raw.github.com/alrra/browser-logos/master/main-mobile.png">
+                <a href="https://raw.githubusercontent.com/alrra/browser-logos/master/main-mobile.png">
                    <img src="main-mobile.png" alt="Main mobile browsers">
                 </a>
             </td>
@@ -276,9 +276,9 @@ logos are high resolution with transparent backgrounds.
 <table>
     <thead>
         <tr>
-            <th><a href="https://www.mozilla.org/en-US/firefox/">Firefox</a></th>
-            <th><a href="https://www.mozilla.org/beta/">Firefox<br>Beta</a></th>
-            <th><a href="https://www.mozilla.org/en-US/firefox/developer/">Firefox<br>Developer Edition</a></th>
+            <th><a href="https://www.mozilla.org/en-US/firefox/new/">Firefox</a></th>
+            <th><a href="https://www.mozilla.org/en-US/firefox/channel/#beta">Firefox<br>Beta</a></th>
+            <th><a href="https://www.mozilla.org/en-US/firefox/channel/#developer">Firefox<br>Developer Edition</a></th>
             <th><a href="https://nightly.mozilla.org/">Firefox<br>Nightly</a></th>
         </tr>
     </thead>
@@ -438,7 +438,7 @@ logos are high resolution with transparent backgrounds.
         <tr>
             <th><a href="https://www.opera.com/">Opera</a></th>
             <th><a href="https://www.opera.com/computer/beta">Opera<br>Beta</a></th>
-            <th><a href="https://www.opera.com/developer">Opera<br>Developer</a></th>
+            <th><a href="https://www.opera.com/computer/beta">Opera<br>Developer</a></th>
         </tr>
     </thead>
     <tbody>
@@ -579,7 +579,7 @@ logos are high resolution with transparent backgrounds.
 <table>
     <thead>
         <tr>
-            <th><a href="https://developer.samsung.com/resources/samsung-internet">Samsung Internet</a></th>
+            <th><a href="https://developer.samsung.com/technical-doc/view.do?v=T000000202">Samsung Internet</a></th>
         </tr>
     </thead>
     <tbody>
@@ -609,7 +609,7 @@ logos are high resolution with transparent backgrounds.
 <table>
     <thead>
         <tr>
-            <th><a href="https://amazon.com/silk">Silk</a></th>
+            <th><a href="https://www.amazon.com/silk">Silk</a></th>
         </tr>
     </thead>
     <tbody>
@@ -624,7 +624,7 @@ logos are high resolution with transparent backgrounds.
 <table>
     <thead>
         <tr>
-            <th><a href="http://www.fenrir-inc.com/us/sleipnir-family/">Sleipnir</a></th>
+            <th><a href="http://www.fenrir-inc.com/jp/sleipnir/">Sleipnir</a></th>
         </tr>
     </thead>
     <tbody>
@@ -639,7 +639,7 @@ logos are high resolution with transparent backgrounds.
 <table>
     <thead>
         <tr>
-            <th><a href="http://www.fenrir-inc.com/us/sleipnir-family/">Sleipnir<br>(Mobile)</a></th>
+            <th><a href="http://www.fenrir-inc.com/jp/sleipnir/">Sleipnir<br>(Mobile)</a></th>
         </tr>
     </thead>
     <tbody>
@@ -812,7 +812,7 @@ directory.
 
 [Browser Logos](https://github.com/alrra/browser-logos/)
 is only possible thanks to all the awesome
-[contributors](https://github.com/alrra/browser-logos/contributors)!
+[contributors](https://github.com/alrra/browser-logos/graphs/contributors)!
 
 
 ## Contributing
@@ -829,9 +829,9 @@ take a moment to review the [guidelines](.github/CONTRIBUTING.md).
 
 There are a few options for getting the browser logos:
 
-* Download [`zip` archive](https://github.com/alrra/browser-logos/archive/34.1.1.zip).
+* Download the [`zip` archive](https://github.com/alrra/browser-logos/archive/34.1.1.zip).
 * Install via:
-    * [`npm`](https://npmjs.org/): `npm install alrra/browser-logos`
+    * [`npm`](https://www.npmjs.com/): `npm install alrra/browser-logos`
     * [`Bower`](https://bower.io/): `bower install browser-logos`
 * Use [`cdnjs`](https://cdnjs.com/libraries/browser-logos).
 

@@ -817,7 +817,7 @@
 <table>
     <thead>
         <tr>
-            <th><a href="https://en.wikipedia.org/wiki/Midori_(web_browser)">Midori</a></th>
+            <th><a href="https://en.wikipedia.org/wiki/Midori_%28web_browser%29">Midori</a></th>
         </tr>
     </thead>
     <tbody>
@@ -992,7 +992,7 @@
 <table>
     <thead>
         <tr>
-            <th><a href="https://github.com/OnionBrowser/iOS-OnionBrowser">Onion</a> <a href="#note"><code>*</code></a></th>
+            <th><a href="https://github.com/mtigas/iOS-OnionBrowser">Onion</a> <a href="#note"><code>*</code></a></th>
         </tr>
     </thead>
     <tbody>
