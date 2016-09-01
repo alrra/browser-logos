@@ -1,3 +1,11 @@
+## 34.1.2 (September 1, 2016)
+
+#### Bug fixes / Improvements
+
+* [[`dfcecb4626`](https://github.com/alrra/browser-logos/commit/dfcecb4626ededa719c53375769c200cdb698780)] -
+  Update and fix various links.
+
+
 ## 34.1.1 (August 28, 2016)
 
 #### Bug fixes / Improvements
