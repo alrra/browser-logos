@@ -1,0 +1,17 @@
+# For more information about the configurations used
+# in this file, please see the Travis CI documentation.
+#
+# https://docs.travis-ci.com
+
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+before_script:
+  - gem install awesome_bot
+
+language: ruby
+
+rvm:
+  - 2.2
+
+script:
+  - find . -name "*.md" | xargs awesome_bot --allow-dupe --allow-redirect --set-timeout 30

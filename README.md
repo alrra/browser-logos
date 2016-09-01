@@ -1,4 +1,4 @@
-# High Resolution Browser Logos
+# High Resolution Browser Logos [![Build Status](https://travis-ci.org/alrra/browser-logos.svg?branch=master)](https://travis-ci.org/alrra/browser-logos)
 
 <table>
     <tbody>

@@ -2,4 +2,5 @@
 .github
 .npmignore
 .scripts
+.travis.yml
 bower.json
