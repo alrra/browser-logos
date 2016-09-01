@@ -1019,7 +1019,7 @@
 #### Bug fixes / Improvements
 
 * [[`7c3e9d6b25`](https://github.com/alrra/browser-logos/commit/7c3e9d6b2540453469d5128978a3da95c23adf73)] -
-  Add better version of the old Nokia `Xpress` logo.
+  Add better version of the old `Nokia Xpress` logo.
 
 
 ## 4.2.0 (December 12, 2014)
@@ -1027,7 +1027,7 @@
 #### New features
 
 * [[`543c361869`](https://github.com/alrra/browser-logos/commit/543c361869b2e0a2c0da91204c528d2886a415e0)] -
-  Add old Nokia `Xpress` logo.
+  Add old `Nokia Xpress` logo.
 
 
 ## 4.1.0 (December 5, 2014)

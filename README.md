@@ -1,4 +1,4 @@
-# High Resolution Browser Logos [![Build Status](https://travis-ci.org/alrra/browser-logos.svg?branch=master)](https://travis-ci.org/alrra/browser-logos)
+# Browser Logos [![Build Status](https://travis-ci.org/alrra/browser-logos.svg?branch=master)](https://travis-ci.org/alrra/browser-logos)
 
 <table>
     <tbody>
@@ -609,7 +609,7 @@ logos are high resolution with transparent backgrounds.
 <table>
     <thead>
         <tr>
-            <th><a href="https://www.amazon.com/silk">Silk</a></th>
+            <th><a href="https://docs.aws.amazon.com/silk/latest/developerguide/introduction.html">Silk</a></th>
         </tr>
     </thead>
     <tbody>
