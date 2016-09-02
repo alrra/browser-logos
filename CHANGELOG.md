@@ -1,3 +1,8 @@
+## HEAD
+
+* Exclude `.editorconfig` from the `zip` archive.
+
+
 ## 34.1.2 (September 1, 2016)
 
 #### Bug fixes / Improvements

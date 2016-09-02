@@ -8,6 +8,7 @@
 # Exclude the following files when generating an archive
 # https://git-scm.com/book/en/Customizing-Git-Git-Attributes#Exporting-Your-Repository
 
+.editorconfig export-ignore
 .gitattributes export-ignore
 .github export-ignore
 .npmignore export-ignore
