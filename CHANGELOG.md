@@ -1,7 +1,11 @@
 ## HEAD
 
-* Exclude `README.md`s from the `zip` archive.
-* Exclude `.editorconfig` from the `zip` archive.
+#### Bug fixes / Improvements
+
+* [[`e5bad62ddc`](https://github.com/alrra/browser-logos/commit/e5bad62ddcd183eac7b23e75d3ff83455bdbcf02)] -
+  Exclude `README.md`s from the `zip` archive.
+* [[`1617d88f02`](https://github.com/alrra/browser-logos/commit/1617d88f02635e63d60084a306f33becb5a3caec)] -
+  Exclude `.editorconfig` from the `zip` archive.
 
 
 ## 34.1.2 (September 1, 2016)
@@ -192,7 +196,6 @@
 
 
 ## 28.1.2 (June 3, 2016)
-
 
 #### Bug fixes / Improvements
 
