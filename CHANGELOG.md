@@ -2,9 +2,12 @@
 
 #### Bug fixes / Improvements
 
-* Further optimize `opera-next_15-24.svg`.
-* Further optimize `opera_10-14.svg`.
-* Further optimize `netsurf.svg`.
+* [[`b8c09acb75`](https://github.com/alrra/browser-logos/commit/b8c09acb75ded14519a1631725837134260bd5f5)] -
+  Further optimize `opera-next_15-24.svg`.
+* [[`15e24d24ed`](https://github.com/alrra/browser-logos/commit/15e24d24ed30fb9ee51147a16e2543cd0f49bd42)] -
+  Further optimize `opera_10-14.svg`.
+* [[`8537fedf09`](https://github.com/alrra/browser-logos/commit/8537fedf09776b29f3dae2342fdc49fd07eb3f22)] -
+  Further optimize `netsurf.svg`.
 
 
 ## 34.1.3 (September 2, 2016)
