@@ -1,4 +1,4 @@
-## HEAD
+## 34.1.4 (September 2, 2016)
 
 #### Bug fixes / Improvements
 
