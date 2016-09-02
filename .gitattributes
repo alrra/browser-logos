@@ -14,9 +14,11 @@
 .npmignore export-ignore
 .scripts export-ignore
 .travis.yml export-ignore
-CHANGELOG.md export-ignore
+archive/README.md export-ignore
 bower.json export-ignore
+CHANGELOG.md export-ignore
 package.json export-ignore
+README.md export-ignore
 
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 

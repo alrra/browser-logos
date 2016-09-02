@@ -1,5 +1,6 @@
 ## HEAD
 
+* Exclude `README.md`s from the `zip` archive.
 * Exclude `.editorconfig` from the `zip` archive.
 
 
