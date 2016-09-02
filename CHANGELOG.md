@@ -1,3 +1,10 @@
+## HEAD
+
+#### Bug fixes / Improvements
+
+* Further optimize `netsurf.svg`.
+
+
 ## 34.1.3 (September 2, 2016)
 
 #### Bug fixes / Improvements
