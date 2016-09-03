@@ -1,6 +1,7 @@
 ## HEAD
 
-Further optimize `iceape.svg`.
+* Further optimize `opera-next_15-24.svg`.
+* Further optimize `iceape.svg`.
 
 
 ## 34.1.4 (September 2, 2016)
