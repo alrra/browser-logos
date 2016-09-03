@@ -1,5 +1,6 @@
 ## HEAD
 
+* Further optimize `k-meleon.svg`.
 * Further optimize `netsurf.svg`.
 * Further optimize `iceweasel.svg`.
 * Further optimize `epiphany.svg`.
