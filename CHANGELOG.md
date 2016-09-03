@@ -1,5 +1,6 @@
 ## HEAD
 
+* Further optimize `iceweasel.svg`.
 * Further optimize `epiphany.svg`.
 * Further optimize `opera_10-14.svg`.
 * Further optimize `opera-next_15-24.svg`.
