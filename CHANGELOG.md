@@ -1,12 +1,21 @@
 ## HEAD
 
-* Further optimize `k-meleon.svg`.
-* Further optimize `netsurf.svg`.
-* Further optimize `iceweasel.svg`.
-* Further optimize `epiphany.svg`.
-* Further optimize `opera_10-14.svg`.
-* Further optimize `opera-next_15-24.svg`.
-* Further optimize `iceape.svg`.
+#### Bug fixes / Improvements
+
+* [[`f523ad1c56`](https://github.com/alrra/browser-logos/commit/f523ad1c5680374898309181093d4ee192abf097)] -
+  Further optimize `k-meleon.svg`.
+* [[`006411d04c`](https://github.com/alrra/browser-logos/commit/006411d04ce7a50eb59cdbcf4dff6ff61284eed3)] -
+  Further optimize `netsurf.svg`.
+* [[`0cc538d079`](https://github.com/alrra/browser-logos/commit/0cc538d0795cdfec8a4c8e8f0ccafef819ea14b7)] -
+  Further optimize `iceweasel.svg`.
+* [[`df000ea60a`](https://github.com/alrra/browser-logos/commit/df000ea60a9dfa26ff82bf1e709db2b0c74a825e)] -
+  Further optimize `epiphany.svg`.
+* [[`6976ca481d`](https://github.com/alrra/browser-logos/commit/6976ca481d1d605d0e5a6f1ed3270eeacf7d274e)] -
+  Further optimize `opera_10-14.svg`.
+* [[`f2bf3cece2`](https://github.com/alrra/browser-logos/commit/f2bf3cece299d68a9f93795d75c991a3d70557c4)] -
+  Further optimize `opera-next_15-24.svg`.
+* [[`1e6c001a90`](https://github.com/alrra/browser-logos/commit/1e6c001a90c665ef384bb13f80d159fb4001faa1)] -
+  Further optimize `iceape.svg`.
 
 
 ## 34.1.4 (September 2, 2016)
