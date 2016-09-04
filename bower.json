@@ -10,6 +10,7 @@
     ".github",
     ".npmignore",
     ".scripts",
+    ".travis.yml",
     "CHANGELOG.md",
     "package.json"
   ],
