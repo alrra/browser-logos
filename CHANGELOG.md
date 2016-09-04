@@ -7,6 +7,7 @@
 
 #### Bug fixes / Improvements
 
+* Further optimize `rekonq.svg`.
 * Add better version of the `NetSurf` logo.
 * Further optimize `chromium_1-11.svg`.
 
