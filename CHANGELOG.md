@@ -7,6 +7,7 @@
 
 #### Bug fixes / Improvements
 
+* Add better version of the `Iceweasel` logo.
 * Add better version of the `Midori` logo.
 * Further optimize `rekonq.svg`.
 * Add better version of the `NetSurf` logo.
