@@ -5,6 +5,7 @@
   "description": "Collection of high resolution web browser logos with transparent backgrounds",
   "homepage": "https://github.com/alrra/browser-logos#readme",
   "ignore": [
+    ".editorconfig",
     ".gitattributes",
     ".github",
     ".npmignore",

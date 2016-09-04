@@ -2,6 +2,7 @@
 
 #### Bug fixes / Improvements
 
+* Exclude `.editorconfig` from the `Bower`/`npm` installs.
 * Further losslessly optimize images.
 
 
