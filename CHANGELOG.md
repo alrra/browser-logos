@@ -2,6 +2,7 @@
 
 #### Breaking changes
 
+* Add `2048⨯2048px` version of `Opera v10-14`.
 * Add `2048⨯2048px` version of `Opera Next v15-24`.
 
 
