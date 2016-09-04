@@ -2,18 +2,27 @@
 
 #### Breaking changes
 
-* Add `2048⨯2048px` version of `Opera v10-14`.
-* Add `2048⨯2048px` version of `Opera Next v15-24`.
+* [[`33c8eff0aa`](https://github.com/alrra/browser-logos/commit/33c8eff0aa92740d9e36bcab33e42531a787c4b2)] -
+  Further optimize `firefox_1.5-3.svg` and add `2048⨯2048px`version.
+* [[`aad2f284be`](https://github.com/alrra/browser-logos/commit/aad2f284be5c4e00df2a62045277e06cfd24cb00)] -
+  Add `2048⨯2048px` version of `Opera v10-14`
+* [[`674576dab3`](https://github.com/alrra/browser-logos/commit/674576dab39b7aec946977eb40cf465466cd1bb0)] -
+  Add `2048⨯2048px` version of `Opera Next v15-24`
 
 #### Bug fixes / Improvements
 
-* Further losslessly optimize images.
-* Further optimize `firefox_1.5-3.svg`.
-* Add better version of the `Iceweasel` logo.
-* Add better version of the `Midori` logo.
-* Further optimize `rekonq.svg`.
-* Add better version of the `NetSurf` logo.
-* Further optimize `chromium_1-11.svg`.
+* [[`7041c62483`](https://github.com/alrra/browser-logos/commit/7041c62483e6d74321b2015bde53706ae31c8957)] -
+  Further losslessly optimize images.
+* [[`32972f1511`](https://github.com/alrra/browser-logos/commit/32972f1511586d0785df9ea2f4115e987e427710)] -
+  Add better version of the `Iceweasel` logo.
+* [[`ac839a5b22`](https://github.com/alrra/browser-logos/commit/ac839a5b22670dba6819b66ba7d82ef79b8675ae)] -
+  Add better version of the `Midori` logo.
+* [[`4d51a60b17`](https://github.com/alrra/browser-logos/commit/4d51a60b17bdbafed210daff5753efd601554f5c)] -
+  Further optimize `rekonq.svg`.
+* [[`b8da51f64d`](https://github.com/alrra/browser-logos/commit/b8da51f64dbb16500db69cccf8332b3e84b053ff)] -
+  Add better version of the `NetSurf` logo.
+* [[`08cd413de7`](https://github.com/alrra/browser-logos/commit/08cd413de71567ddf5d4ce1b1e5533270def11ca)] -
+  Further optimize `chromium_1-11.svg`.
 
 
 ## 34.1.5 (September 3, 2016)
