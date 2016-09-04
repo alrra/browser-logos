@@ -1,3 +1,10 @@
+## HEAD
+
+#### Breaking changes
+
+* Add `2048⨯2048px` version of `Opera Next v15-24`.
+
+
 ## 34.1.5 (September 3, 2016)
 
 #### Bug fixes / Improvements
