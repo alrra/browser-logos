@@ -2,8 +2,8 @@
   "authors": [
     "Cătălin Mariș <alrraa@gmail.com> (http://catalinmaris.com/)"
   ],
-  "description": "Collection of high resolution web browser logos with transparent backgrounds",
-  "homepage": "https://github.com/alrra/browser-logos#readme",
+  "description": "High resolution web browser logos",
+  "homepage": "https://github.com/alrra/browser-logos/blob/master/README.md#readme",
   "ignore": [
     ".editorconfig",
     ".gitattributes",
@@ -16,7 +16,6 @@
   ],
   "keywords": [
     "browser-logos",
-    "high-resolution",
     "logos"
   ],
   "name": "browser-logos",
