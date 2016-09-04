@@ -7,6 +7,7 @@
 
 #### Bug fixes / Improvements
 
+* Further losslessly optimize images.
 * Further optimize `firefox_1.5-3.svg`.
 * Add better version of the `Iceweasel` logo.
 * Add better version of the `Midori` logo.
