@@ -1,4 +1,4 @@
-## HEAD
+## 35.0.1 (September 4, 2016)
 
 #### Bug fixes / Improvements
 
