@@ -1,13 +1,20 @@
+## HEAD
+
+#### Bug fixes / Improvements
+
+* Further losslessly optimize images.
+
+
 ## 35.0.0 (September 4, 2016)
 
 #### Breaking changes
 
 * [[`33c8eff0aa`](https://github.com/alrra/browser-logos/commit/33c8eff0aa92740d9e36bcab33e42531a787c4b2)] -
-  Further optimize `firefox_1.5-3.svg` and add `2048⨯2048px`version.
+  Further optimize `firefox_1.5-3.svg` and add `2048⨯2048px` version.
 * [[`aad2f284be`](https://github.com/alrra/browser-logos/commit/aad2f284be5c4e00df2a62045277e06cfd24cb00)] -
-  Add `2048⨯2048px` version of `Opera v10-14`
+  Add `2048⨯2048px` version of `Opera v10-14`.
 * [[`674576dab3`](https://github.com/alrra/browser-logos/commit/674576dab39b7aec946977eb40cf465466cd1bb0)] -
-  Add `2048⨯2048px` version of `Opera Next v15-24`
+  Add `2048⨯2048px` version of `Opera Next v15-24`.
 
 #### Bug fixes / Improvements
 
