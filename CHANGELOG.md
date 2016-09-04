@@ -2,9 +2,12 @@
 
 #### Bug fixes / Improvements
 
-* Exclude `.travis.yml` from the `Bower` install.
-* Exclude `.editorconfig` from the `Bower`/`npm` installs.
-* Further losslessly optimize images.
+* [[`8c649a4412`](https://github.com/alrra/browser-logos/commit/8c649a4412e37d8346e49ce70cce9c08f87865a6)] -
+  Exclude `.travis.yml` from the `Bower` install.
+* [[`398b1c91f5`](https://github.com/alrra/browser-logos/commit/398b1c91f5e3f4dd3cb157ee25ae953f56a31558)] -
+  Exclude `.editorconfig` from the `Bower`/`npm` installs.
+* [[`819f1578d6`](https://github.com/alrra/browser-logos/commit/819f1578d6c8b6f594dfa10242f5d9441c42a4ea)] -
+  Further losslessly optimize images.
 
 
 ## 35.0.0 (September 4, 2016)
