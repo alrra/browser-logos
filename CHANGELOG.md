@@ -2,7 +2,8 @@
 
 #### New features
 
-* Add `Amigo` (`Амиго`) logo.
+* [[`aabb4aa628`](https://github.com/alrra/browser-logos/commit/aabb4aa628a53383fee0078ab360fc1b90183b33)] -
+  Add `Amigo` (`Амиго`) logo.
 
 
 ### 35.0.2 (September 7, 2016)
