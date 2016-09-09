@@ -58,6 +58,21 @@
     </tbody>
 </table>
 
+### Amigo
+
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://ru.wikipedia.org/wiki/%D0%90%D0%BC%D0%B8%D0%B3%D0%BE_%28%D0%B1%D1%80%D0%B0%D1%83%D0%B7%D0%B5%D1%80%29">Amigo</a> <a href="#note"><code>*</code></a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="amigo"><img width=140 src="amigo/amigo_256x256.png" alt="Amigo browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
+
 ### Apollo
 
 <table>

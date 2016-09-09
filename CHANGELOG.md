@@ -1,3 +1,10 @@
+## HEAD
+
+#### New features
+
+* Add `Amigo` (`Амиго`) logo.
+
+
 ### 35.0.2 (September 7, 2016)
 
 #### Bug fixes / Improvements
