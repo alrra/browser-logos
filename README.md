@@ -799,7 +799,7 @@ directory.
     </thead>
     <tbody>
         <tr height=160>
-            <td><a href="archive/README.md#readme"><img width=140 src="https://cloud.githubusercontent.com/assets/1223565/18276013/f319e942-7451-11e6-8d78-247aa355b9cc.gif" alt="Old browser logo"></a></td>
+            <td><a href="archive/README.md#readme"><img width=140 src="https://cloud.githubusercontent.com/assets/1223565/18380332/798a88f4-767f-11e6-8559-d0bc807176f0.gif" alt="Old browser logo"></a></td>
         </tr>
     </tbody>
 </table>
