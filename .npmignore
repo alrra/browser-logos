@@ -4,4 +4,5 @@
 .npmignore
 .scripts
 .travis.yml
+archive.gif
 bower.json

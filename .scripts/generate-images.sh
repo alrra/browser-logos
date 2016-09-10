@@ -12,6 +12,11 @@
 
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
+cd "$(dirname "${BASH_SOURCE[0]}")" \
+    && . "utils.sh"
+
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
 declare -r CONVERT_BASE_OPTIONS="\
     -colorspace RGB \
     +sigmoidal-contrast 11.6933 \
@@ -25,14 +30,14 @@ declare -r CONVERT_BASE_OPTIONS="\
 "
 
 declare -r -a IMAGE_SIZES=(
-    '16x16'
-    '24x24'
-    '32x32'
-    '48x48'
-    '64x64'
-    '128x128'
-    '256x256'
-    '512x512'
+    "16x16"
+    "24x24"
+    "32x32"
+    "48x48"
+    "64x64"
+    "128x128"
+    "256x256"
+    "512x512"
 )
 
 declare -r -a MAIN_DESKTOP_BROWSERS=(
@@ -66,7 +71,7 @@ generate_group_image() {
     # none of the composing images are modified
 
     while [ $# -ne 0 ] && [ "$generate" != "true" ]; do
-        for i in ${imageDirs[@]}; do
+        for i in "${imageDirs[@]}"; do
             if [ "$i" == "${1%/}" ]; then
                             # └─ remove trailing slash
                 generate="true"
@@ -78,7 +83,7 @@ generate_group_image() {
 
     if [ "$generate" == "true" ]; then
 
-        for i in ${imageDirs[@]}; do
+        for i in "${imageDirs[@]}"; do
             tmp+=("$i/$i.png")
         done
 
@@ -87,11 +92,12 @@ generate_group_image() {
             -resize 512x512 \
             -extent 562x562 \
             +append \
-            "$imageName" \
-        && print_success_msg "[create] $imageName" \
-        || print_error_msg "[create] $imageName"
+            "$imageName"
+
+        print_result $? "$imageName"
 
     fi
+
 }
 
 generate_images() {
@@ -100,53 +106,55 @@ generate_images() {
     local imageDirs=($@)
     local path=''
 
-    for i in ${imageDirs[@]}; do
+    for i in "${imageDirs[@]}"; do
 
-        basename=$(basename $i)
-        path="$(dirname $i)/$basename"
+        basename="$(basename "$i")"
+        path="$(dirname "$i")/$basename"
 
         if [ ! -f "$path/$basename.png" ]; then
             print_error_msg "'$path/$basename.png' does not exist!"
             continue
         fi
 
+        # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
         # Remove outdated images
-        rm ${path}/${basename}_* &> /dev/null
+
+        rm "${path}/${basename}"_* &> /dev/null
+
+        # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
         # Generate the different sized versions of the image
-        for s in ${IMAGE_SIZES[@]}; do
+
+        for s in "${IMAGE_SIZES[@]}"; do
+
             convert "$path/$basename.png" \
                 $CONVERT_BASE_OPTIONS \
                 -resize "$s" \
-                "$path/${basename}_$s.png" \
-            && print_success_msg "[create] $path/${basename}_$s.png" \
-            || print_error_msg "[create] $path/${basename}_$s.png"
+                "$path/${basename}_$s.png"
+
+            print_result $? "$path/${basename}_$s.png"
+
         done
 
     done
 }
 
-print_error_msg() {
-    printf "\e[0;31m $1\e[0m\n"
-}
-
-print_success_msg() {
-    printf "\e[0;32m $1\e[0m\n"
-}
-
-# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 main() {
 
-    # Check if ImageMagick's convert command-line tool is installed
-    if [ ! -x "$(command -v "convert")" ]; then
-        print_error_msg "Please install ImageMagick's \`convert\` command-line tool!"
-        exit
-    fi
+    is_convert_installed \
+        || exit 1
+
+    # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
     # Ensure that the following actions
     # are made relative to the project root
-    cd "$(dirname ${BASH_SOURCE[0]})" && cd ..
+
+    cd ..
+
+    # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
     printf "\n"
     generate_images "$@"

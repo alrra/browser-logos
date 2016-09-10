@@ -12,6 +12,7 @@
     ".scripts",
     ".travis.yml",
     "CHANGELOG.md",
+    "archive.gif",
     "package.json"
   ],
   "keywords": [
