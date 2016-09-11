@@ -1,14 +1,14 @@
 #!/bin/bash
 
-# This script automatically generates the `main-desktop.png` and the
-# `main-mobile.png` images as well as all the different sized versions
-# of the logos, but in order for it to work, you will need to have
-# ImageMagick's convert command-line tool installed.
+# This script automatically generates:
 #
-# http://www.imagemagick.org/script/convert.php
+#    * all the different sized versions of a logo
+#    * archive.gif
+#    * main-desktop.png
+#    * main-mobile.png
 #
 # Usage: generate-images.sh [dir] [dir] ...
-#   e.g: generate-images.sh chrome archive/arora
+#   e.g: generate-images.sh edge archive/arora
 
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -60,108 +60,157 @@ declare -r -a MAIN_MOBILE_BROWSERS=(
 
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-generate_group_image() {
+array_contains() {
 
-    declare -a imageDirs=("${!1}"); shift;
-    local imageName="$1.png"; shift;
-    local generate="false"
-    local tmp=()
+    declare -r -a A1=("${!1}"); shift
+    declare -r -a A2=("$@")
 
-    # Do not regenerate the group image if
-    # none of the composing images are modified
+    # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-    while [ $# -ne 0 ] && [ "$generate" != "true" ]; do
-        for i in "${imageDirs[@]}"; do
-            if [ "$i" == "${1%/}" ]; then
-                            # └─ remove trailing slash
-                generate="true"
-                break;
-            fi
-        done
-        shift
+    if [ ! -z "$(printf "%s\n" "${A1[@]}" "${A2[@]}" | sort | uniq -d)" ]; then
+        return 0
+    fi
+
+    return 1
+
+}
+
+generate_archive_gif() {
+
+    # Check if any of the specified
+    # names are from the `archive/`.
+
+    printf "%s" "$@" | grep "archive/" &> /dev/null \
+        || return 0
+
+    # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+    # If so, regenerate the preview GIF.
+
+    convert -background white \
+            -alpha remove \
+            -delay 30 \
+            -loop 0 \
+            ../archive/**/*_256x256.png \
+            ../archive.gif \
+        1> /dev/null
+
+    print_result $? "archive.gif"
+
+}
+
+generate_different_sized_images() {
+
+    local basename="$(basename "$1")"
+    local path="$1"
+
+    # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+    # Check if the main image exists.
+
+    if [ ! -f "../$path/$basename.png" ]; then
+        print_error "$path/$basename.png does not exist!"
+        return 1
+    fi
+
+    # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+    # Remove any existing outdated images.
+
+    rm "../${path}/${basename}_*" &> /dev/null
+
+    # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+    # Generate the different sized images
+    # based on the main image.
+
+    for imageSize in "${IMAGE_SIZES[@]}"; do
+
+        convert "../$path/$basename.png" \
+                $CONVERT_BASE_OPTIONS \
+                -resize "$imageSize" \
+                "../$path/${basename}_$imageSize.png" \
+            1> /dev/null
+
+        print_result $? "$path/${basename}_$imageSize.png"
+
     done
 
-    if [ "$generate" == "true" ]; then
+}
 
-        for i in "${imageDirs[@]}"; do
-            tmp+=("$i/$i.png")
-        done
+generate_group_image() {
 
-        convert "${tmp[@]}" \
+    declare -r -a GROUP_IMAGES=("${!1}"); shift;
+    declare -r GROUP_IMAGE_NAME="$1"; shift;
+
+    local tmp=()
+
+    # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+    # Check if any of the specified names
+    # are part of the specified group.
+
+    if ! array_contains "GROUP_IMAGES[@]" "$@"; then
+        return 1
+    fi
+
+    # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+    # If so, regenerate the group image.
+
+    for i in "${GROUP_IMAGES[@]}"; do
+        tmp+=("../$i/$i.png")
+    done
+
+    convert "${tmp[@]}" \
             $CONVERT_BASE_OPTIONS \
             -resize 512x512 \
             -extent 562x562 \
             +append \
-            "$imageName"
+            "../$GROUP_IMAGE_NAME" \
+        1> /dev/null
 
-        print_result $? "$imageName"
+    print_result $? "$GROUP_IMAGE_NAME"
 
-    fi
-
-}
-
-generate_images() {
-
-    local basename=''
-    local imageDirs=($@)
-    local path=''
-
-    for i in "${imageDirs[@]}"; do
-
-        basename="$(basename "$i")"
-        path="$(dirname "$i")/$basename"
-
-        if [ ! -f "$path/$basename.png" ]; then
-            print_error_msg "'$path/$basename.png' does not exist!"
-            continue
-        fi
-
-        # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
-        # Remove outdated images
-
-        rm "${path}/${basename}"_* &> /dev/null
-
-        # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
-        # Generate the different sized versions of the image
-
-        for s in "${IMAGE_SIZES[@]}"; do
-
-            convert "$path/$basename.png" \
-                $CONVERT_BASE_OPTIONS \
-                -resize "$s" \
-                "$path/${basename}_$s.png"
-
-            print_result $? "$path/${basename}_$s.png"
-
-        done
-
-    done
 }
 
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 main() {
 
-    is_convert_installed \
-        || exit 1
+    # Check if ImageMagick's `convert`
+    # command-line tool is available.
+
+    if ! cmd_exists "convert"; then
+        print_error "Please install ImageMagick's 'convert' command-line tool!"
+        return 1
+    fi
 
     # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-    # Ensure that the following actions
-    # are made relative to the project root
-
-    cd ..
+    for i in "$@"; do
+        printf "\n"
+        generate_different_sized_images "$i"
+    done
 
     # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
     printf "\n"
-    generate_images "$@"
-    generate_group_image "MAIN_DESKTOP_BROWSERS[@]" "main-desktop" "$@"
-    generate_group_image "MAIN_MOBILE_BROWSERS[@]" "main-mobile" "$@"
+
+    generate_archive_gif "$@"
+
+    generate_group_image \
+        "MAIN_DESKTOP_BROWSERS[@]" \
+        "main-desktop.png" \
+        "$@"
+
+    generate_group_image \
+        "MAIN_MOBILE_BROWSERS[@]" \
+        "main-mobile.png" \
+        "$@"
+
     printf "\n"
 
 }
 
-main "$@"
+main "${@%/}"
