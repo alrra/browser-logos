@@ -2,7 +2,8 @@
 
 #### Bug fixes / Improvements
 
-* Update `Safari` logo to better match the official one.
+* [[`3e50cea589`](https://github.com/alrra/browser-logos/commit/3e50cea5897591576961a49d86040ca975e94a6e)] -
+  Update `Safari` logo to better match the official one.
 
 #### New features
 
