@@ -1,3 +1,10 @@
+## HEAD
+
+#### Bug fixes / Improvements
+
+* Further losslessly optimize images.
+
+
 ## 35.1.0 (September 13, 2016)
 
 #### Bug fixes / Improvements
@@ -534,7 +541,7 @@
 #### Bug fixes / Improvements
 
 * [[`c4601e3e1c`](https://github.com/alrra/browser-logos/commit/c4601e3e1c1db1c2a41b52aab9369546432800d2)] -
-  Update `Edge` logo to match the official one.
+  Update `Edge` logo to better match the official one.
 
 #### New features
 
@@ -642,7 +649,7 @@
 #### Bug fixes / Improvements
 
 * [[`403ddf8e60`](https://github.com/alrra/browser-logos/commit/403ddf8e60898660b4d7d049ef643bacee8b1456)] -
-  Update `Opera` logo to match the official one
+  Update `Opera` logo to better match the official one
   (see also: [`#75`](https://github.com/alrra/browser-logos/issues/75)).
 
 
@@ -661,7 +668,7 @@
 #### Bug fixes / Improvements
 
 * [[`84829f1cd6`](https://github.com/alrra/browser-logos/commit/84829f1cd6f9deade0b0830d6a611356b848dc64)] -
-  Update `Opera` logo to match the official one
+  Update `Opera` logo to better match the official one
   (see also: [`#75`](https://github.com/alrra/browser-logos/issues/75)).
 
 
