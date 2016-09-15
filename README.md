@@ -128,6 +128,21 @@ logos are high resolution with transparent backgrounds.
     </tbody>
 </table>
 
+#### Cent Browser
+
+<table>
+	<thead>
+		<tr>
+			<th><a href="http://www.centbrowser.com">Cent Browser</a></th>
+		<tr>
+	</thead>
+	<tbody>
+		<tr height=160>
+			<td><a href="cent-browser"><img width=140 src="cent-browser/cent_browser_256x256.png" alt="Cent Browser Logo"></a></td>
+		<tr>
+	</tbody>
+</table>
+
 ### Chrome
 
 <table>
