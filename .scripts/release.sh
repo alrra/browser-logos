@@ -1,37 +1,66 @@
 #!/bin/bash
 
+# This script creates a new release,
+# updating all the necessary files.
+#
+# Usage: release.sh <newversion>
+#   e.g: release.sh patch
+#
+# See also: https://docs.npmjs.com/cli/version
+
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+cd "$(dirname "${BASH_SOURCE[0]}")" \
+    && . "utils.sh"
+
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
 git_commit() {
-    git add . && git commit -m "v$1"
+    git add -A \
+        && git commit -m "v$1"
 }
 
 git_tag() {
     git tag -a "$1" -m "v$1"
 }
 
-is_valid_version() {
-    [[ "$1" =~ ^[[:digit:]]+\.[[:digit:]]+\.[[:digit:]]+$ ]] \
-        && return 0 \
-        || return 1
-}
-
 update() {
 
-    declare -r FILE="$1"
-    declare -r TMP_FILE="/tmp/$(mktemp -u XXXXX)"
+    declare -r INPUT_FILE="../$1"
+    declare -r OUTPUT_FILE="$(mktemp /tmp/XXXXX)"
     declare -r UPDATE_FUNCTION="$2"
     declare -r VERSION="$3"
 
     declare returnValue=0
 
-    [ ! -f "$FILE" ] && return 1
+    # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-    $($UPDATE_FUNCTION "$FILE" "$VERSION" "$TMP_FILE")
+    if [ ! -e "$INPUT_FILE" ]; then
+        print_error "'$FILE' does not exist!"
+        return 1
+    fi
 
-    [ $? -eq 0 ] \
-        && mv "$TMP_FILE" "$FILE" \
-        || returnValue=1
+    if [ ! -f "$INPUT_FILE" ]; then
+        print_error "'$FILE' is not a regular file!"
+        return 1
+    fi
 
-    rm -rf "$TMP_FILE"
+    # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+    $UPDATE_FUNCTION \
+        "$INPUT_FILE" \
+        "$OUTPUT_FILE" \
+        "$VERSION"
+
+    if [ $? -eq 0 ]; then
+        mv "$OUTPUT_FILE" "$INPUT_FILE"
+    else
+        returnValue=1
+    fi
+
+    rm -rf "$OUTPUT_FILE"
+
+    # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
     return $returnValue
 
@@ -39,49 +68,70 @@ update() {
 
 update_changelog() {
 
-    declare -r DATE="$(date +"%B %-d, %Y")"
-    declare -r RELEASE_HEADER="$2 ($DATE)"
+    declare -r INPUT_FILE="$1"
+    declare -r OUTPUT_FILE="$2"
+    declare -r RELEASE_HEADER="$3 ("$(date +"%B %-d, %Y")")"
 
-    cat "$1" | grep "HEAD" &> /dev/null;
+    # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-    if [ $? -eq 0 ]; then
-        cat "$1" | sed "s/HEAD/$RELEASE_HEADER/g" > "$3"
+    # Change the release header,
+
+    if grep "HEAD" &> /dev/null < "$INPUT_FILE"; then
+        sed "s/HEAD/$RELEASE_HEADER/g" \
+            < "$INPUT_FILE" \
+            > "$OUTPUT_FILE"
+
+    # or add one.
+
     else
-        printf "### %s\n\n" "$RELEASE_HEADER" | cat - "$1" > "$3"
+        printf "## %s\n\n" "$RELEASE_HEADER" \
+            | cat - "$INPUT_FILE" > "$OUTPUT_FILE"
     fi
 
 }
 
-update_package_json() {
-    npm --quiet version "$1" --no-git-tag-version
-}
-
 update_readme() {
-    cat "$1" | sed 's/\([0-9.]*\)\(\.zip\)/'$2'\2/' > "$3"
+
+    # Update the version number
+    # from the `zip` archive URL.
+
+    sed 's/\([0-9.]*\)\(\.zip\)/'"$3"'\2/' \
+        < "$1" \
+        > "$2"
+
 }
 
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 main() {
 
-    declare -r VERSION="$1"
+    declare version=""
 
-    if [ -z "$VERSION" ]; then
-        printf "Please specify a version number!\n"
-        exit 1
-    fi
+    # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-    is_valid_version "$VERSION"
-    if [ $? -ne 0 ]; then
-        printf "Please specify a valid version number!\n"
-        exit 1
-    fi
+    # Get the new version number, and change
+    # the version in the `package.json` file.
 
-    update_package_json "$VERSION" \
-        && update "CHANGELOG.md" "update_changelog" "$VERSION" \
-        && update "README.md" "update_readme" "$VERSION" \
-        && git_commit "$VERSION" \
-        && git_tag "$VERSION"
+    version="$(npm --quiet version "$1" --no-git-tag-version)" \
+        || return 1
+
+    # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+    # Remove leading `v` from the version number.
+
+    version="${version#v}"
+
+    # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+    # Update the version number in various files,
+    # commit the changes, and tag a new release.
+
+    update "CHANGELOG.md" "update_changelog" "$version" \
+        && update "README.md" "update_readme" "$version" \
+        && git_commit "$version" \
+        && git_tag "$version"
+
+    print_result $? "v$version"
 
 }
 
