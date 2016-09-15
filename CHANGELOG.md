@@ -2,11 +2,13 @@
 
 #### Bug fixes / Improvements
 
-* Further optimize `cent.svg`.
+* [[`bf59efabfd`](https://github.com/alrra/browser-logos/commit/bf59efabfdbdd066115423afc02913231bf74664)] -
+  Further optimize `cent.svg`.
 
 #### New features
 
-* Add `Cent` logo.
+* [[`507b2bcc77`](https://github.com/alrra/browser-logos/commit/507b2bcc771bb2b33d5fc3c61fde4d3b237ac539)] -
+  Add `Cent` logo.
 
 
 ## 35.1.1 (September 15, 2016)
