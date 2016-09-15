@@ -1,5 +1,9 @@
 ## HEAD
 
+#### Bug fixes / Improvements
+
+* Further optimize `cent.svg`.
+
 #### New features
 
 * Add `Cent` logo.
