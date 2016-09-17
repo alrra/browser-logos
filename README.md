@@ -133,7 +133,7 @@ logos are high resolution with transparent backgrounds.
 <table>
     <thead>
         <tr>
-            <th><a href="https://www.centbrowser.com">Cent Browser</a></th>
+            <th><a href="https://www.centbrowser.com">Cent</a></th>
         <tr>
     </thead>
     <tbody>
