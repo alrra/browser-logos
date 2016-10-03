@@ -204,7 +204,7 @@ logos are high resolution with transparent backgrounds.
     </thead>
     <tbody>
         <tr height=160>
-            <td><a href="coast"><img width=140 src="coast/coast_256x256.png" alt="Coast browser logo"></a> </td>
+            <td><a href="coast"><img width=140 src="coast/coast_256x256.png" alt="Coast browser logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -265,7 +265,7 @@ logos are high resolution with transparent backgrounds.
     </thead>
     <tbody>
         <tr height=160>
-            <td><a href="edge"><img width=140 src="edge/edge_256x256.png" alt="Microsoft Edge browser logo"></a> </td>
+            <td><a href="edge"><img width=140 src="edge/edge_256x256.png" alt="Microsoft Edge browser logo"></a></td>
             <td><a href="edge-tile"><img width=140 src="edge-tile/edge-tile_256x256.png" alt="Microsoft Edge tile browser logo"></a></td>
         </tr>
     </tbody>
@@ -299,10 +299,10 @@ logos are high resolution with transparent backgrounds.
     </thead>
     <tbody>
         <tr height=160>
-            <td><a href="firefox"><img width=140 src="firefox/firefox_256x256.png" alt="Firefox browser logo"></a> </td>
-            <td><a href="firefox-beta"><img width=140 src="firefox-beta/firefox-beta_256x256.png" alt="Firefox Beta browser logo"></a> </td>
-            <td><a href="firefox-developer-edition"><img width=140 src="firefox-developer-edition/firefox-developer-edition_256x256.png" alt="Firefox Developer Edition browser logo"></a> </td>
-            <td><a href="firefox-nightly"><img width=140 src="firefox-nightly/firefox-nightly_256x256.png" alt="Firefox Nightly browser logo"></a> </td>
+            <td><a href="firefox"><img width=140 src="firefox/firefox_256x256.png" alt="Firefox browser logo"></a></td>
+            <td><a href="firefox-beta"><img width=140 src="firefox-beta/firefox-beta_256x256.png" alt="Firefox Beta browser logo"></a></td>
+            <td><a href="firefox-developer-edition"><img width=140 src="firefox-developer-edition/firefox-developer-edition_256x256.png" alt="Firefox Developer Edition browser logo"></a></td>
+            <td><a href="firefox-nightly"><img width=140 src="firefox-nightly/firefox-nightly_256x256.png" alt="Firefox Nightly browser logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -363,8 +363,8 @@ logos are high resolution with transparent backgrounds.
     </thead>
     <tbody>
         <tr height=160>
-            <td><a href="internet-explorer"><img width=140 src="internet-explorer/internet-explorer_256x256.png"alt="Internet Explorer 9, 10 and 11 browser logo"></a> </td>
-            <td><a href="internet-explorer-tile"><img width=140 src="internet-explorer-tile/internet-explorer-tile_256x256.png" alt="Internet Explorer 10 and 11 start screen tile"></a> </td>
+            <td><a href="internet-explorer"><img width=140 src="internet-explorer/internet-explorer_256x256.png"alt="Internet Explorer 9, 10 and 11 browser logo"></a></td>
+            <td><a href="internet-explorer-tile"><img width=140 src="internet-explorer-tile/internet-explorer-tile_256x256.png" alt="Internet Explorer 10 and 11 start screen tile"></a></td>
         </tr>
     </tbody>
 </table>
@@ -424,7 +424,7 @@ logos are high resolution with transparent backgrounds.
     </thead>
     <tbody>
         <tr height=160>
-            <td><a href="min"><img width=140 src="min/min_256x256.png" alt="Min browser logo"></a> </td>
+            <td><a href="min"><img width=140 src="min/min_256x256.png" alt="Min browser logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -456,8 +456,8 @@ logos are high resolution with transparent backgrounds.
     </thead>
     <tbody>
         <tr height=160>
-            <td><a href="opera"><img width=140 src="opera/opera_256x256.png" alt="Opera browser logo"></a> </td>
-            <td><a href="opera-beta"><img width=140 src="opera-beta/opera-beta_256x256.png" alt="Opera Beta browser logo"></a> </td>
+            <td><a href="opera"><img width=140 src="opera/opera_256x256.png" alt="Opera browser logo"></a></td>
+            <td><a href="opera-beta"><img width=140 src="opera-beta/opera-beta_256x256.png" alt="Opera Beta browser logo"></a></td>
             <td><a href="opera-developer"><img width=140 src="opera-developer/opera-developer_256x256.png" alt="Opera Developer browser logo"></a></td>
         </tr>
     </tbody>
@@ -474,7 +474,7 @@ logos are high resolution with transparent backgrounds.
     </thead>
     <tbody>
         <tr height=160>
-            <td><a href="opera-mini"><img width=140 src="opera-mini/opera-mini_256x256.png" alt="Opera Mini browser logo"></a> </td>
+            <td><a href="opera-mini"><img width=140 src="opera-mini/opera-mini_256x256.png" alt="Opera Mini browser logo"></a></td>
             <td><a href="opera-mini-beta"><img width=140 src="opera-mini-beta/opera-mini-beta_256x256.png" alt="Opera Mini Beta browser logo"></a></td>
         </tr>
     </tbody>
@@ -566,8 +566,8 @@ logos are high resolution with transparent backgrounds.
     </thead>
     <tbody>
         <tr height=160>
-            <td><a href="safari"><img width=140 src="safari/safari_256x256.png" alt="Safari browser logo"></a> </td>
-            <td><a href="safari-technology-preview"><img width=140 src="safari-technology-preview/safari-technology-preview_256x256.png" alt="Safari Technology Preview browser logo"></a> </td>
+            <td><a href="safari"><img width=140 src="safari/safari_256x256.png" alt="Safari browser logo"></a></td>
+            <td><a href="safari-technology-preview"><img width=140 src="safari-technology-preview/safari-technology-preview_256x256.png" alt="Safari Technology Preview browser logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -582,7 +582,7 @@ logos are high resolution with transparent backgrounds.
     </thead>
     <tbody>
         <tr height=160>
-            <td><a href="safari-ios"><img width=140 src="safari-ios/safari-ios_256x256.png" alt="Safari for iOS browser logo"></a> </td>
+            <td><a href="safari-ios"><img width=140 src="safari-ios/safari-ios_256x256.png" alt="Safari for iOS browser logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -612,7 +612,7 @@ logos are high resolution with transparent backgrounds.
     </thead>
     <tbody>
         <tr height=160>
-            <td><a href="seamonkey"><img width=140 src="seamonkey/seamonkey_256x256.png" alt="SeaMonkey browser logo"></a> </td>
+            <td><a href="seamonkey"><img width=140 src="seamonkey/seamonkey_256x256.png" alt="SeaMonkey browser logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -627,7 +627,7 @@ logos are high resolution with transparent backgrounds.
     </thead>
     <tbody>
         <tr height=160>
-            <td><a href="silk"><img width=140 src="silk/silk_256x256.png" alt="Silk browser logo"></a> </td>
+            <td><a href="silk"><img width=140 src="silk/silk_256x256.png" alt="Silk browser logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -672,7 +672,7 @@ logos are high resolution with transparent backgrounds.
     </thead>
     <tbody>
         <tr height=160>
-            <td><a href="sogou-mobile"><img width=140 src="sogou-mobile/sogou-mobile_256x256.png" alt="Sogou Mobile browser logo"></a> </td>
+            <td><a href="sogou-mobile"><img width=140 src="sogou-mobile/sogou-mobile_256x256.png" alt="Sogou Mobile browser logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -687,7 +687,7 @@ logos are high resolution with transparent backgrounds.
     </thead>
     <tbody>
         <tr height=160>
-            <td><a href="tofino"><img width=140 src="tofino/tofino_256x256.png" alt="Project Tofino browser logo"></a> </td>
+            <td><a href="tofino"><img width=140 src="tofino/tofino_256x256.png" alt="Project Tofino browser logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -702,7 +702,7 @@ logos are high resolution with transparent backgrounds.
     </thead>
     <tbody>
         <tr height=160>
-            <td><a href="tor"><img width=140 src="tor/tor_256x256.png" alt="Tor browser logo"></a> </td>
+            <td><a href="tor"><img width=140 src="tor/tor_256x256.png" alt="Tor browser logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -717,7 +717,7 @@ logos are high resolution with transparent backgrounds.
     </thead>
     <tbody>
         <tr height=160>
-            <td><a href="uc"><img width=140 src="uc/uc_256x256.png" alt="UC browser logo"></a> </td>
+            <td><a href="uc"><img width=140 src="uc/uc_256x256.png" alt="UC browser logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -732,7 +732,7 @@ logos are high resolution with transparent backgrounds.
     </thead>
     <tbody>
         <tr height=160>
-            <td><a href="vivaldi"><img width=140 src="vivaldi/vivaldi.png" alt="Vivaldi browser logo"></a> </td>
+            <td><a href="vivaldi"><img width=140 src="vivaldi/vivaldi.png" alt="Vivaldi browser logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -747,7 +747,7 @@ logos are high resolution with transparent backgrounds.
     </thead>
     <tbody>
         <tr height=160>
-            <td><a href="waterfox"><img width=140 src="waterfox/waterfox.png" alt="WaterFox browser logo"></a> </td>
+            <td><a href="waterfox"><img width=140 src="waterfox/waterfox.png" alt="WaterFox browser logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -762,7 +762,7 @@ logos are high resolution with transparent backgrounds.
     </thead>
     <tbody>
         <tr height=160>
-            <td><a href="web"><img width=140 src="web/web.png" alt="Web (f.k.a. Epiphany) browser logo"></a> </td>
+            <td><a href="web"><img width=140 src="web/web.png" alt="Web (f.k.a. Epiphany) browser logo"></a></td>
         </tr>
     </tbody>
 </table>
