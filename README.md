@@ -359,8 +359,6 @@ logos are high resolution with transparent backgrounds.
         <tr>
             <th>Internet Explorer <br><a href="https://en.wikipedia.org/wiki/Internet_Explorer_9">9</a> / <a href="https://en.wikipedia.org/wiki/Internet_Explorer_10">10</a> / <a href="https://en.wikipedia.org/wiki/Internet_Explorer_11">11</a></th>
             <th>Internet Explorer <br><a href="https://en.wikipedia.org/wiki/Internet_Explorer_10">10</a> / <a href="https://en.wikipedia.org/wiki/Internet_Explorer_11">11</a> tile</th>
-            <th>
-            </th>
         </tr>
     </thead>
     <tbody>
