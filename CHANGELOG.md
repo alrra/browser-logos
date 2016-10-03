@@ -1,3 +1,11 @@
+## HEAD
+
+#### Bug fixes / Improvements
+
+* [[`09bc...57eb`](https://github.com/alrra/browser-logos/compare/09bc9f7cc663c7231ede0f5ac0df53be6c136af4...57ead7bda7d479c3370362d4d7ac81971383550b)] -
+  Make minor consistency changes in `README.md`.
+
+
 ## 35.2.0 (September 15, 2016)
 
 #### Bug fixes / Improvements
