@@ -77,11 +77,10 @@ array_contains() {
 
 generate_archive_gif() {
 
-    # Check if any of the specified
-    # names are from the `archive/`.
+    # Check if something changed in the `archive/`.
 
-    printf "%s" "$@" | grep "archive/" &> /dev/null \
-        || return 0
+    git diff --quiet "../archive/**/*_256x256.png" \
+        && return 0
 
     # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
