@@ -1132,6 +1132,22 @@
     </tbody>
 </table>
 
+### Puffin
+
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://web.archive.org/web/20160804095610/https://www.puffinbrowser.com/index.php">Puffin</a> <a href="#note"><code>*</code></a></th>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="puffin"><img width=140 src="puffin/puffin_256x256.png" alt="Puffin browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
+
 ### QQ
 
 <table>

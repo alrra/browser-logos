@@ -1,3 +1,10 @@
+## HEAD
+
+#### New features
+
+* Update `Puffin` logo.
+
+
 ## 35.2.1 (October 3, 2016)
 
 #### Bug fixes / Improvements
