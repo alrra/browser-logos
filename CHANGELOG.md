@@ -2,7 +2,8 @@
 
 #### New features
 
-* Update `Puffin` logo.
+* [[`3e527d66d6`](https://github.com/alrra/browser-logos/commit/3e527d66d651df8f753f7a273d92b235656ac62d)] -
+  Update `Puffin` logo.
 
 
 ## 35.2.1 (October 3, 2016)
