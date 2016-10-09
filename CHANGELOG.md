@@ -2,7 +2,9 @@
 
 #### New features
 
-* Add `Focus` logo.
+* [[`9a79dbf7ff`](https://github.com/alrra/browser-logos/commit/9a79dbf7ff9041320b10af01dd0341daa4dbcd31)] -
+  Add `Focus` logo
+  (see also: [`#92`](https://github.com/alrra/browser-logos/issues/92)).
 
 
 ## 35.3.0 (October 6, 2016)
