@@ -1,3 +1,10 @@
+## HEAD
+
+#### New features
+
+* Add `Focus` logo.
+
+
 ## 35.3.0 (October 6, 2016)
 
 #### New features

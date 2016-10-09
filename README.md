@@ -307,6 +307,21 @@ logos are high resolution with transparent backgrounds.
     </tbody>
 </table>
 
+### Focus
+
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://github.com/mozilla-mobile/focus">Focus</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="epic"><img width=140 src="focus/focus.png" alt="Focus browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
+
 ### iCab (Mobile)
 
 <table>
