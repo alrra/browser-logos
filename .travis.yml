@@ -14,4 +14,7 @@ rvm:
   - 2.2
 
 script:
-  - find . -name "*.md" | xargs awesome_bot --allow-dupe --allow-redirect --set-timeout 30
+  - find . -name "*.md" | xargs awesome_bot --allow-dupe
+                                            --allow-redirect
+                                            --set-timeout 150
+                                            --white-list "https://web.archive.org/web"
