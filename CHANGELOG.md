@@ -1,4 +1,4 @@
-## HEAD
+## 36.0.0 (October 10, 2016)
 
 #### Breaking changes
 
