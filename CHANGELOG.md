@@ -4,6 +4,10 @@
 
 * Move the `Onion` logo outside of the `archive`.
 
+#### New features
+
+* Add `Endless` logo.
+ 
 
 ## 35.4.0 (October 9, 2016)
 
