@@ -402,6 +402,21 @@
     </tbody>
 </table>
 
+### Endless
+
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://github.com/jcs/endless">Endless</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="endless"><img width=140 src="endless/endless_256x256.png" alt="Endless browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
+
 ### Epic
 
 <table>
