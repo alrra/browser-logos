@@ -2,13 +2,19 @@
 
 #### Breaking changes
 
-* Move the `Onion` logo outside of the `archive`.
+* [[`7da2e931e5`](https://github.com/alrra/browser-logos/commit/7da2e931e55e13d6a267c4eb4765748bcd208607)] -
+  Move the `Onion` logo outside of the `archive`
+  (see also: [`#95`](https://github.com/alrra/browser-logos/issues/95)).
 
 #### New features
 
-* Add `Tob` logo.
-* Add `Endless` logo.
- 
+* [[`3649529e10`](https://github.com/alrra/browser-logos/commit/3649529e10e228804ea6073b7b47536f6a85d615)] -
+  Add `Endless` logo
+  (see also: [`#94`](https://github.com/alrra/browser-logos/issues/94)).
+* [[`f280122464`](https://github.com/alrra/browser-logos/commit/f280122464405e082007df2f26370d7f0496e789)] -
+  Add `Tob` logo
+  (see also: [`#93`](https://github.com/alrra/browser-logos/issues/93)).
+
 
 ## 35.4.0 (October 9, 2016)
 
