@@ -1,3 +1,10 @@
+## HEAD
+
+#### Breaking changes
+
+* Move the `Onion` logo outside of the `archive`.
+
+
 ## 35.4.0 (October 9, 2016)
 
 #### New features

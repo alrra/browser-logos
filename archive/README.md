@@ -1002,21 +1002,6 @@
     </tbody>
 </table>
 
-### Onion
-
-<table>
-    <thead>
-        <tr>
-            <th><a href="https://github.com/mtigas/iOS-OnionBrowser">Onion</a> <a href="#note"><code>*</code></a></th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=160>
-            <td><a href="onion"><img width=140 src="onion/onion_256x256.png" alt="Onion browser logo"></a></td>
-        </tr>
-    </tbody>
-</table>
-
 ### Opera
 
 <table>
