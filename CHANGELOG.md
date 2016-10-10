@@ -6,6 +6,10 @@
   Move the `Onion` logo outside of the `archive`
   (see also: [`#95`](https://github.com/alrra/browser-logos/issues/95)).
 
+#### Bug fixes / Improvements
+
+* Further losslessly optimize images.
+
 #### New features
 
 * [[`3649529e10`](https://github.com/alrra/browser-logos/commit/3649529e10e228804ea6073b7b47536f6a85d615)] -
