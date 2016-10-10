@@ -6,6 +6,7 @@
 
 #### New features
 
+* Add `Tob` logo.
 * Add `Endless` logo.
  
 
