@@ -464,7 +464,7 @@ logos are high resolution with transparent backgrounds.
 <table>
     <thead>
         <tr>
-            <th><a href="https://github.com/mtigas/iOS-OnionBrowser">Onion</a></th>
+            <th><a href="https://mike.tig.as/onionbrowser/">Onion</a></th>
         </tr>
     </thead>
     <tbody>
