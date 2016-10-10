@@ -8,7 +8,8 @@
 
 #### Bug fixes / Improvements
 
-* Further losslessly optimize images.
+* [[`c96d080426`](https://github.com/alrra/browser-logos/commit/c96d080426622e6ad81bee4ee1fbd3cfcbc99234)] -
+  Further losslessly optimize images.
 
 #### New features
 
