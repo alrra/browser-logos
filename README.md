@@ -459,6 +459,21 @@ logos are high resolution with transparent backgrounds.
     </tbody>
 </table>
 
+### Onion
+
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://mike.tig.as/onionbrowser/">Onion</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="onion"><img width=140 src="onion/onion_256x256.png" alt="Onion browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
+
 ### Opera
 
 <table>
