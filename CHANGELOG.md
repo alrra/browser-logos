@@ -2,7 +2,8 @@
 
 #### New features
 
-* Add `PhantomJS` logo.
+* [[`688d0012af`](https://github.com/alrra/browser-logos/commit/688d0012af0bc9861755b0eafedc95fd45a20010)] -
+  Add `PhantomJS` logo.
 
 
 ## 36.0.0 (October 10, 2016)
