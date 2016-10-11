@@ -1,3 +1,10 @@
+## HEAD
+
+#### New features
+
+* Add `PhantomJS` logo.
+
+
 ## 36.0.0 (October 10, 2016)
 
 #### Breaking changes
