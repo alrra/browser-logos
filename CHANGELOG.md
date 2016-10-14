@@ -1,13 +1,23 @@
 ## HEAD
 
-* Further optimize `maxthon-beta_1.svg`.
-* Further optimize `kylo.svg`.
-* Further optimize `konqueror_4.svg`.
-* Further optimize `konqueror_1-3.svg`.
-* Further optimize `firefox_1.5-3.svg`.
-* Further optimize `epiphany.svg`.
-* Further optimize `chrome.svg`.
-* Further optimize `arora.svg`.
+#### Bug fixes / Improvements
+
+* [[`f7f67604ba`](https://github.com/alrra/browser-logos/commit/f7f67604ba8c4f31134bab073109ac696b6686e5)] -
+  Further optimize `maxthon-beta_1.svg`.
+* [[`1fcd7363f3`](https://github.com/alrra/browser-logos/commit/1fcd7363f338a04fc5eab6c8bd3be30fa20d248a)] -
+  Further optimize `kylo.svg`.
+* [[`5ebab67e49`](https://github.com/alrra/browser-logos/commit/5ebab67e49bf11601c5d67f83376ecad726c48e3)] -
+  Further optimize `konqueror_4.svg`.
+* [[`55a918fcf9`](https://github.com/alrra/browser-logos/commit/55a918fcf9b3a70c6340c77866a32887451e6e91)] -
+  Further optimize `konqueror_1-3.svg`.
+* [[`819b2e4e4a`](https://github.com/alrra/browser-logos/commit/819b2e4e4a01387930a0f9320262b29f6fa8f8c0)] -
+  Further optimize `firefox_1.5-3.svg`.
+* [[`ed115ce969`](https://github.com/alrra/browser-logos/commit/ed115ce9699e00cd4b5dcf5397580c4703f22ee2)] -
+  Further optimize `epiphany.svg`.
+* [[`a1926003b0`](https://github.com/alrra/browser-logos/commit/a1926003b090f316a13d36b12628295419aae7c6)] -
+  Further optimize `chrome.svg`.
+* [[`b04abd639f`](https://github.com/alrra/browser-logos/commit/b04abd639f49c732731f7fb6d5fad171b0380c8c)] -
+  Further optimize `arora.svg`.
 
 
 ## 36.1.0 (October 11, 2016)
