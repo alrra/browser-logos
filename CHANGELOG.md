@@ -1,5 +1,6 @@
 ## HEAD
 
+* Further optimize `chrome.svg`.
 * Further optimize `arora.svg`.
 
 
