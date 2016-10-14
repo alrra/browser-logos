@@ -1,5 +1,6 @@
 ## HEAD
 
+* Further optimize `maxthon-beta_1.svg`.
 * Further optimize `kylo.svg`.
 * Further optimize `konqueror_4.svg`.
 * Further optimize `konqueror_1-3.svg`.
