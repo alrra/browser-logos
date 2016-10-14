@@ -1,5 +1,6 @@
 ## HEAD
 
+* Further optimize `konqueror_1-3.svg`.
 * Further optimize `firefox_1.5-3.svg`.
 * Further optimize `epiphany.svg`.
 * Further optimize `chrome.svg`.
