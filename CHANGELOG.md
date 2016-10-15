@@ -1,6 +1,10 @@
-## HEAD
+## 36.1.2 (October 15, 2016)
 
-* Fix `Iridium` link from `README.md`.
+#### Bug fixes / Improvements
+ 
+* [[`f265763e41`](https://github.com/alrra/browser-logos/commit/f265763e41e61e456806adbfcdab9d4667060d06)] -
+  Fix `Iridium` link from `README.md`.
+
 
 ## 36.1.1 (October 15, 2016)
 
