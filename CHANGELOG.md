@@ -1,3 +1,10 @@
+## HEAD
+
+#### New features
+
+* Add `Xombrero` logo.
+
+
 ## 36.2.0 (October 17, 2016)
 
 #### New features

@@ -1518,6 +1518,21 @@
     </tbody>
 </table>
 
+### Xombrero
+
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/Xombrero">Xombrero</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="xombrero"><img width=140 src="xombrero/xombrero_256x256.png" alt="Xombrero browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
+
 ### Xpress
 
 <table>
