@@ -239,6 +239,21 @@ logos are high resolution with transparent backgrounds.
     </tbody>
 </table>
 
+### Dolphin Zero
+
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://dolphin.com/">Dolphin<br>Zero</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="dolphin-zero"><img width=140 src="dolphin-zero/dolphin-zero_256x256.png" alt="Dolphin Zero browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
+
 ### Dooble
 
 <table>

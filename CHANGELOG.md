@@ -2,6 +2,7 @@
 
 #### New features
 
+* Add new `Dolphin Zero` logo.
 * Add `UC Mini` logo.
 
 
