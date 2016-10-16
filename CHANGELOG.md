@@ -2,6 +2,7 @@
 
 #### New features
 
+* Add `Otter` logo.
 * Add `Xombrero` logo.
 
 
