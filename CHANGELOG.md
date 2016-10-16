@@ -2,6 +2,7 @@
 
 #### New features
 
+* Add `WebPositive` logo.
 * Add `Otter` logo.
 * Add `Xombrero` logo.
 

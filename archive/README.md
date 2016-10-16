@@ -1503,6 +1503,21 @@
     </tbody>
 </table>
 
+### WebPositive
+
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/WebPositive">WebPositive</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="webpositive"><img width=140 src="webpositive/webpositive_256x256.png" alt="WebPositive browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
+
 ### Wyzo
 
 <table>
