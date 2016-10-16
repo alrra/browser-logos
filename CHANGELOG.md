@@ -1,4 +1,4 @@
-## HEAD
+## 36.2.0 (October 17, 2016)
 
 #### New features
 
