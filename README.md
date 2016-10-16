@@ -782,6 +782,21 @@ logos are high resolution with transparent backgrounds.
     </tbody>
 </table>
 
+### UC Mini
+
+<table>
+    <thead>
+        <tr>
+            <th><a href="http://www.ucweb.com">UC Mini</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="uc-mini"><img width=140 src="uc-mini/uc-mini_256x256.png" alt="UC Mini browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
+
 ### Vivaldi
 
 <table>

@@ -1,3 +1,10 @@
+## HEAD
+
+#### New features
+
+* Add `UC Mini` logo.
+
+
 ## 36.1.2 (October 15, 2016)
 
 #### Bug fixes / Improvements
