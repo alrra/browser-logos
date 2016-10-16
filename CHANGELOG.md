@@ -2,8 +2,10 @@
 
 #### New features
 
-* Add new `Dolphin Zero` logo.
-* Add `UC Mini` logo.
+* [[`36b3a39d6f`](https://github.com/alrra/browser-logos/commit/36b3a39d6f2fe82cc33d3c16438f4795a1b49db7)] -
+  Add new `Dolphin Zero` logo.
+* [[`ef97660d17`](https://github.com/alrra/browser-logos/commit/ef97660d17949238f246dbd9b4b309165af5f4c0)] -
+  Add `UC Mini` logo.
 
 
 ## 36.1.2 (October 15, 2016)
@@ -50,7 +52,7 @@
 
 * [[`7da2e931e5`](https://github.com/alrra/browser-logos/commit/7da2e931e55e13d6a267c4eb4765748bcd208607)] -
   Move the `Onion` logo outside of the `archive`
-  (see also: [`#95`](https://github.com/alrra/browser-logos/issues/95)).
+  (see also: [`#95`](https://github.com/alrra/browser-logos/pull/95)).
 
 #### Bug fixes / Improvements
 
@@ -61,10 +63,10 @@
 
 * [[`3649529e10`](https://github.com/alrra/browser-logos/commit/3649529e10e228804ea6073b7b47536f6a85d615)] -
   Add `Endless` logo
-  (see also: [`#94`](https://github.com/alrra/browser-logos/issues/94)).
+  (see also: [`#94`](https://github.com/alrra/browser-logos/pull/94)).
 * [[`f280122464`](https://github.com/alrra/browser-logos/commit/f280122464405e082007df2f26370d7f0496e789)] -
   Add `Tob` logo
-  (see also: [`#93`](https://github.com/alrra/browser-logos/issues/93)).
+  (see also: [`#93`](https://github.com/alrra/browser-logos/pull/93)).
 
 
 ## 35.4.0 (October 9, 2016)
