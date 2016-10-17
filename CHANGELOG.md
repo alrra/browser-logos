@@ -2,7 +2,8 @@
 
 #### Bug fixes / Improvements
 
-* Further losslessly optimize images.
+* [[`75b4b2496d`](https://github.com/alrra/browser-logos/commit/75b4b2496de83da4035b6f2e2be90817f3da497b)] -
+  Further losslessly optimize images.
 * [[`616d75e765`](https://github.com/alrra/browser-logos/commit/616d75e765851cd354754f58a2fe76f835853f08)] -
   Tweak and further optimize `webpositive.svg`.
 * [[`e732cd5d9f`](https://github.com/alrra/browser-logos/commit/e732cd5d9fcccc81cb406a4afb797692e1073af9)] -
@@ -11,11 +12,14 @@
 #### New features
 
 * [[`f97c5da8bc`](https://github.com/alrra/browser-logos/commit/f97c5da8bc41e635ef9a76b43cfd22c86e82f656)] -
-  Add `WebPositive` logo.
+  Add `WebPositive` logo
+  (see also: [`#97`](https://github.com/alrra/browser-logos/pull/97)).
 * [[`1322f0e906`](https://github.com/alrra/browser-logos/commit/1322f0e906b17d6dfff2d32caaea94ffd533e6a9)] -
-  Add `Otter` logo.
+  Add `Otter` logo
+  (see also: [`#98`](https://github.com/alrra/browser-logos/pull/98)).
 * [[`daff3bfa0b`](https://github.com/alrra/browser-logos/commit/daff3bfa0bf9fa347641e2a60af3e4edd135eab1)] -
-  Add `Xombrero` logo.
+  Add `Xombrero` logo
+  (see also: [`#96`](https://github.com/alrra/browser-logos/pull/96)).
 
 
 ## 36.2.0 (October 17, 2016)
