@@ -2,6 +2,7 @@
 
 #### Bug fixes / Improvements
 
+* Tweak and further optimize `webpositive.svg`.
 * Tweak and further optimize `otter.svg`.
 
 #### New features
