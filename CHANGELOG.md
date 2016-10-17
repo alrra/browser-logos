@@ -2,9 +2,12 @@
 
 #### New features
 
-* Add `WebPositive` logo.
-* Add `Otter` logo.
-* Add `Xombrero` logo.
+* [[`f97c5da8bc`](https://github.com/alrra/browser-logos/commit/f97c5da8bc41e635ef9a76b43cfd22c86e82f656)] -
+  Add `WebPositive` logo.
+* [[`1322f0e906`](https://github.com/alrra/browser-logos/commit/1322f0e906b17d6dfff2d32caaea94ffd533e6a9)] -
+  Add `Otter` logo.
+* [[`daff3bfa0b`](https://github.com/alrra/browser-logos/commit/daff3bfa0bf9fa347641e2a60af3e4edd135eab1)] -
+  Add `Xombrero` logo.
 
 
 ## 36.2.0 (October 17, 2016)
