@@ -540,6 +540,21 @@ logos are high resolution with transparent backgrounds.
     </tbody>
 </table>
 
+### Otter
+
+<table>
+    <thead>
+        <tr>
+            <th><a href="http://otter-browser.org/">Otter</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="otter"><img width=140 src="otter/otter_256x256.png" alt="Otter browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
+
 ### Pale Moon
 
 <table>
