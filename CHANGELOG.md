@@ -2,6 +2,7 @@
 
 #### Bug fixes / Improvements
 
+* Further losslessly optimize images.
 * [[`616d75e765`](https://github.com/alrra/browser-logos/commit/616d75e765851cd354754f58a2fe76f835853f08)] -
   Tweak and further optimize `webpositive.svg`.
 * [[`e732cd5d9f`](https://github.com/alrra/browser-logos/commit/e732cd5d9fcccc81cb406a4afb797692e1073af9)] -
