@@ -1,5 +1,9 @@
 ## HEAD
 
+#### Bug fixes / Improvements
+
+* Tweak and further optimize `otter.svg`.
+
 #### New features
 
 * [[`f97c5da8bc`](https://github.com/alrra/browser-logos/commit/f97c5da8bc41e635ef9a76b43cfd22c86e82f656)] -
@@ -23,7 +27,7 @@
 ## 36.1.2 (October 15, 2016)
 
 #### Bug fixes / Improvements
- 
+
 * [[`f265763e41`](https://github.com/alrra/browser-logos/commit/f265763e41e61e456806adbfcdab9d4667060d06)] -
   Fix `Iridium` link from `README.md`.
 
