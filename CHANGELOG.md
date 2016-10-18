@@ -4,6 +4,10 @@
 
 * Further losslessly optimize images.
 
+#### New features
+
+* Add support for `Yarn`.
+
 
 ## 36.3.0 (October 17, 2016)
 
