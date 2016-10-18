@@ -2,15 +2,18 @@
 
 #### Breaking changes
 
-* Remove `bower.json`.
+* [[`53b5101a13`](https://github.com/alrra/browser-logos/commit/53b5101a1306570ee94724164c12f23958e56381)] -
+  Remove `bower.json`.
 
 #### Bug fixes / Improvements
 
-* Further losslessly optimize images.
+* [[`a8e5afbc93`](https://github.com/alrra/browser-logos/commit/a8e5afbc93b0613e56f988ec3d7b84be082d02c6)] -
+  Further losslessly optimize images.
 
 #### New features
 
-* Add support for `Yarn`.
+* [[`20136b4373`](https://github.com/alrra/browser-logos/commit/20136b4373a19cfef989f3c1e9b7cce1b069815f)] -
+  Add support for `Yarn`.
 
 
 ## 36.3.0 (October 17, 2016)
