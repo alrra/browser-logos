@@ -1,5 +1,9 @@
 ## HEAD
 
+#### Breaking changes
+
+* Remove `bower.json`.
+
 #### Bug fixes / Improvements
 
 * Further losslessly optimize images.

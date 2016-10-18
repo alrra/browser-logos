@@ -952,7 +952,6 @@ There are a few options for getting the browser logos:
 * Install via:
     * [`npm`](https://www.npmjs.com/): `npm install alrra/browser-logos#36.3.0`
     * [`Yarn`](https://yarnpkg.com/): `yarn add browser-logos#36.3.0`
-    * [`Bower`](https://bower.io/): `bower install browser-logos`
 
 
 ## Legal

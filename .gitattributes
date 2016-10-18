@@ -16,7 +16,6 @@
 .travis.yml export-ignore
 archive.gif export-ignore
 archive/README.md export-ignore
-bower.json export-ignore
 CHANGELOG.md export-ignore
 README.md export-ignore
 
