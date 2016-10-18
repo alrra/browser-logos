@@ -92,10 +92,10 @@ update_changelog() {
 
 update_readme() {
 
-    # Update the version number
-    # from the `zip` archive URL.
+    # Update the version numbers in `README.md`.
 
-    sed 's/\([0-9.]*\)\(\.zip\)/'"$3"'\2/' \
+    sed -e 's/\([0-9.]*\)\(\.zip\)/'"$3"'\2/' \
+        -e 's/\(#\)\([0-9.]*\(`\)\)/\1'"$3"'\3/' \
         < "$1" \
         > "$2"
 
