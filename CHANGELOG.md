@@ -1,3 +1,10 @@
+## HEAD
+
+#### Bug fixes / Improvements
+
+* Further losslessly optimize images.
+
+
 ## 36.3.0 (October 17, 2016)
 
 #### Bug fixes / Improvements
