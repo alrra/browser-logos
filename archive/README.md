@@ -291,6 +291,21 @@
     </tbody>
 </table>
 
+### Cờ Rôm+
+
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/C%E1%BB%91c_C%E1%BB%91c">Cờ Rôm+</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="cờ-rôm+"><img width=140 src="cờ-rôm+/cờ-rôm+_256x256.png" alt="Cờ Rôm+ browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
+
 ### Cruz
 
 <table>

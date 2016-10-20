@@ -1,3 +1,10 @@
+## HEAD
+
+#### New features
+
+* Add `Cờ Rôm+` logo.
+
+
 ## 37.0.0 (October 18, 2016)
 
 #### Breaking changes
