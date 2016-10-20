@@ -6,6 +6,7 @@
 
 #### New features
 
+* Add `Yandex Beta` logo.
 * Add `Yandex Alpha` logo.
 * Add `Cờ Rôm+` logo.
 

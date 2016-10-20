@@ -893,12 +893,14 @@ logos are high resolution with transparent backgrounds.
     <thead>
         <tr>
             <th><a href="https://browser.yandex.com/">Yandex</a></th>
+            <th><a href="https://browser.yandex.com/">Yandex<br>Beta</a></th>
             <th><a href="https://browser.yandex.com/">Yandex<br>Alpha</a></th>
         </tr>
     </thead>
     <tbody>
         <tr height=160>
             <td><a href="yandex"><img width=140 src="yandex/yandex_256x256.png" alt="Yandex browser logo"></a></td>
+            <td><a href="yandex-beta"><img width=140 src="yandex-beta/yandex-beta_256x256.png" alt="Yandex Beta browser logo"></a></td>
             <td><a href="yandex-alpha"><img width=140 src="yandex-alpha/yandex-alpha_256x256.png" alt="Yandex Alpha browser logo"></a></td>
         </tr>
     </tbody>
