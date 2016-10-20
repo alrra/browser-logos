@@ -2,6 +2,7 @@
 
 #### Bug fixes / Improvements
 
+* Further losslessly optimize images.
 * [[`922674141c`](https://github.com/alrra/browser-logos/commit/922674141c8c73e9e2de0b7407cbdbe572a04ef5)] -
   Add better version of the `Yandex` logo.
 
