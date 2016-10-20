@@ -1,5 +1,9 @@
 ## HEAD
 
+#### Bug fixes / Improvements
+
+* Add better version of the `Yandex` logo.
+
 #### New features
 
 * Add `Cờ Rôm+` logo.
