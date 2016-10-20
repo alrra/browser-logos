@@ -301,7 +301,7 @@
     </thead>
     <tbody>
         <tr height=160>
-            <td><a href="cờ-rôm+"><img width=140 src="cờ-rôm+/cờ-rôm+_256x256.png" alt="Cờ Rôm+ browser logo"></a></td>
+            <td><a href="c%E1%BB%9D-r%C3%B4m%2B"><img width=140 src="c%E1%BB%9D-r%C3%B4m%2B/c%E1%BB%9D-r%C3%B4m%2B_256x256.png" alt="Cờ Rôm+ browser logo"></a></td>
         </tr>
     </tbody>
 </table>
