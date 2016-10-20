@@ -2,13 +2,17 @@
 
 #### Bug fixes / Improvements
 
-* Add better version of the `Yandex` logo.
+* [[`922674141c`](https://github.com/alrra/browser-logos/commit/922674141c8c73e9e2de0b7407cbdbe572a04ef5)] -
+  Add better version of the `Yandex` logo.
 
 #### New features
 
-* Add `Yandex Beta` logo.
-* Add `Yandex Alpha` logo.
-* Add `Cờ Rôm+` logo.
+* [[`dc88aa2a9c`](https://github.com/alrra/browser-logos/commit/dc88aa2a9ccfdb20afccd16a7c7c82cb18718a83)] -
+  Add `Yandex Beta` logo.
+* [[`865ab36a33`](https://github.com/alrra/browser-logos/commit/865ab36a3342fbce90fcf99c0d616229848d8462)] -
+  Add `Yandex Alpha` logo.
+* [[`188c662806`](https://github.com/alrra/browser-logos/commit/188c66280689078aa60f018dc2b9c1135bb6b16d)] -
+  Add `Cờ Rôm+` logo.
 
 
 ## 37.0.0 (October 18, 2016)
