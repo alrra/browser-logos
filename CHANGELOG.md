@@ -1,3 +1,10 @@
+## HEAD
+
+#### Bug fixes / Improvements
+
+* Further losslessly optimize images.
+
+
 ## 37.1.1 (October 20, 2016)
 
 #### Bug fixes / Improvements
