@@ -2,6 +2,7 @@
 
 #### Bug fixes / Improvements
 
+* Further optimize `netscape_4-6.svg`.
 * Further optimize `brave.svg`.
 
 
