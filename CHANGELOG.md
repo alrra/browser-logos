@@ -1,3 +1,10 @@
+## HEAD
+
+#### Bug fixes / Improvements
+
+* Further losslessly optimize images.
+
+
 ## 37.1.3 (October 22, 2016)
 
 #### Bug fixes / Improvements
@@ -24,7 +31,7 @@
 
 * [[`2555ef875c`](https://github.com/alrra/browser-logos/commit/2555ef875c4b0a4e07b12380c791122838b22b89)] -
   Fix `Cờ Rôm+` links from `archive/README.md`.
- 
+
 
 ## 37.1.0 (October 20, 2016)
 
