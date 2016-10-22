@@ -1,10 +1,13 @@
-### HEAD
+## HEAD
 
 #### Bug fixes / Improvements
 
-* Further losslessly optimize images.
-* Further optimize `netscape_4-6.svg`.
-* Further optimize `brave.svg`.
+* [[`cbb04f24ef`](https://github.com/alrra/browser-logos/commit/cbb04f24ef70185b90d4b76dfe39627ccc05dca5)] -
+  Further losslessly optimize images.
+* [[`c6e647de3c`](https://github.com/alrra/browser-logos/commit/c6e647de3c5c5f15ea96a25b0f5483bc050b2e20)] -
+  Further optimize `netscape_4-6.svg`.
+* [[`cd7144537f`](https://github.com/alrra/browser-logos/commit/cd7144537fd9723004f97672d1c9048d0e0977b0)] -
+  Further optimize `brave.svg`.
 
 
 ## 37.1.2 (October 22, 2016)
