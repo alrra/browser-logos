@@ -1,4 +1,4 @@
-## HEAD
+## 37.1.4 (October 22, 2016)
 
 #### Bug fixes / Improvements
 
