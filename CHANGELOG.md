@@ -2,10 +2,14 @@
 
 #### Bug fixes / Improvements
 
-* Further optimize `firefox.svg`.
-* Further optimize `firefox_1.5-3.svg`.
-* Further optimize `maxthon-beta_1.svg`.
-* Further optimize `maxthon_1.svg`.
+* [[`779074bf12`](https://github.com/alrra/browser-logos/commit/779074bf122cab2e03afd63d8a353d831335da94)] -
+  Further optimize `firefox.svg`.
+* [[`b417939b11`](https://github.com/alrra/browser-logos/commit/b417939b11789214439b93c2075a46867a4691c4)] -
+  Further optimize `firefox_1.5-3.svg`.
+* [[`7d7d2a0c1f`](https://github.com/alrra/browser-logos/commit/7d7d2a0c1f3be9c4ad84da6791958ae22d578574)] -
+  Further optimize `maxthon-beta_1.svg`.
+* [[`0c9003e060`](https://github.com/alrra/browser-logos/commit/0c9003e06031ffa7f4063fe42d0a83385fd4c6d8)] -
+  Further optimize `maxthon_1.svg`.
 
 
 ## 37.1.6 (October 28, 2016)
