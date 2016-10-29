@@ -1,3 +1,10 @@
+## HEAD
+
+#### Bug fixes / Improvements
+
+* Further optimize `maxthon_1.svg`.
+
+
 ## 37.1.6 (October 28, 2016)
 
 #### Bug fixes / Improvements
