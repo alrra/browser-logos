@@ -2,6 +2,7 @@
 
 #### Bug fixes / Improvements
 
+* Further optimize `maxthon-beta_1.svg`.
 * Further optimize `maxthon_1.svg`.
 
 
