@@ -2,8 +2,10 @@
 
 #### Bug fixes / Improvements
 
-* Further optimize `rekonq.svg`.
-* Further optimize `web.svg`.
+* [[`9e660a9563`](https://github.com/alrra/browser-logos/commit/9e660a95630b55d3dc7ea92be6145194d2a394f0)] -
+  Further optimize `rekonq.svg`.
+* [[`17241ffd32`](https://github.com/alrra/browser-logos/commit/17241ffd32d7d99ae6abbb5c2f41bc73c5ecf987)] -
+  Further optimize `web.svg`.
 
 
 ## 37.1.7 (October 29, 2016)
