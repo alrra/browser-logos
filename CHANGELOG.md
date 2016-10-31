@@ -2,11 +2,16 @@
 
 #### Bug fixes / Improvements
 
-* Further optimize `kylo.svg`.
-* Further optimize `konqueror_4.svg`.
-* Further optimize `konqueror_1-3.svg`.
-* Further optimize `epiphany.svg`.
-* Further optimize `arora.svg`.
+* [[`edc0ed90e0`](https://github.com/alrra/browser-logos/commit/edc0ed90e00f7d485b3fa5dcca4efacab906e3c5)] -
+  Further optimize `kylo.svg`.
+* [[`55d4fec087`](https://github.com/alrra/browser-logos/commit/55d4fec087c594a3ddaa3940ee3686f41606161b)] -
+  Further optimize `konqueror_4.svg`.
+* [[`ad359dba7c`](https://github.com/alrra/browser-logos/commit/ad359dba7c92f8f1a781b34c2025ffb0abfad0aa)] -
+  Further optimize `konqueror_1-3.svg`.
+* [[`8c184b894f`](https://github.com/alrra/browser-logos/commit/8c184b894f002efab46a8365696fbafbee2147f3)] -
+  Further optimize `epiphany.svg`.
+* [[`7d92a58d48`](https://github.com/alrra/browser-logos/commit/7d92a58d4826802afead4bf537d4bb8f55fd29d8)] -
+  Further optimize `arora.svg`.
 
 
 ## 37.1.8 (October 31, 2016)
