@@ -952,10 +952,10 @@ take a moment to review the [guidelines](.github/CONTRIBUTING.md).
 There are a few options for getting the browser logos:
 
 * Use [`cdnjs`](https://cdnjs.com/libraries/browser-logos).
-* Download the [`zip` archive](https://github.com/alrra/browser-logos/archive/37.1.8.zip).
+* Download the [`zip` archive](https://github.com/alrra/browser-logos/archive/37.1.9.zip).
 * Install via:
-    * [`npm`](https://www.npmjs.com/): `npm install alrra/browser-logos#37.1.8`
-    * [`Yarn`](https://yarnpkg.com/): `yarn add browser-logos#37.1.8`
+    * [`npm`](https://www.npmjs.com/): `npm install alrra/browser-logos#37.1.9`
+    * [`Yarn`](https://yarnpkg.com/): `yarn add browser-logos#37.1.9`
 
 
 ## Legal
