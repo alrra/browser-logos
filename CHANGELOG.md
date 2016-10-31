@@ -1,3 +1,10 @@
+## HEAD
+
+#### Bug fixes / Improvements
+
+* Further optimize `arora.svg`.
+
+
 ## 37.1.8 (October 31, 2016)
 
 #### Bug fixes / Improvements
