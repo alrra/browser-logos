@@ -2,6 +2,7 @@
 
 #### Bug fixes / Improvements
 
+* Further optimize `epiphany.svg`.
 * Further optimize `arora.svg`.
 
 
