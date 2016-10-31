@@ -2,6 +2,7 @@
 
 #### Bug fixes / Improvements
 
+* Further optimize `rekonq.svg`.
 * Further optimize `web.svg`.
 
 
