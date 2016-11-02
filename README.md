@@ -474,6 +474,21 @@ logos are high resolution with transparent backgrounds.
     </tbody>
 </table>
 
+### NW.js
+
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://nwjs.io/">NW.js</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="nw.js"><img width=140 src="nw.js/nw.js_256x256.png" alt="NW.js browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
+
 ### Onion
 
 <table>
