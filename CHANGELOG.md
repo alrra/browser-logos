@@ -2,7 +2,8 @@
 
 #### New features
 
-* Add `NW.js` logo.
+* [[`a77d8872ff`](https://github.com/alrra/browser-logos/commit/a77d8872fff9073d1a28d534dab9c1e07b8b5b6b)] -
+  Add `NW.js` logo.
 
 
 ## 37.1.10 (November 1, 2016)
