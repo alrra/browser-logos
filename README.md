@@ -387,13 +387,11 @@ logos are high resolution with transparent backgrounds.
 <table>
     <thead>
         <tr>
-            <th>Internet Explorer <br><a href="https://en.wikipedia.org/wiki/Internet_Explorer_9">9</a> / <a href="https://en.wikipedia.org/wiki/Internet_Explorer_10">10</a> / <a href="https://en.wikipedia.org/wiki/Internet_Explorer_11">11</a></th>
             <th>Internet Explorer <br><a href="https://en.wikipedia.org/wiki/Internet_Explorer_10">10</a> / <a href="https://en.wikipedia.org/wiki/Internet_Explorer_11">11</a> tile</th>
         </tr>
     </thead>
     <tbody>
         <tr height=160>
-            <td><a href="internet-explorer"><img width=140 src="internet-explorer/internet-explorer_256x256.png"alt="Internet Explorer 9, 10 and 11 browser logo"></a></td>
             <td><a href="internet-explorer-tile"><img width=140 src="internet-explorer-tile/internet-explorer-tile_256x256.png" alt="Internet Explorer 10 and 11 start screen tile"></a></td>
         </tr>
     </tbody>
