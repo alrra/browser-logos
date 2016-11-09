@@ -2,6 +2,7 @@
 
 #### Breaking changes
 
+* Move `Internet Explorer tile` into the `archive`.
 * Move `Internet Explorer` into the `archive`.
 
 

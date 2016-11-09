@@ -646,7 +646,8 @@
         <tr>
             <th>Internet Explorer<br><a href="https://en.wikipedia.org/wiki/Internet_Explorer_6">6</a></th>
             <th>Internet Explorer<br><a href="https://en.wikipedia.org/wiki/Internet_Explorer_7">7</a> / <a href="https://en.wikipedia.org/wiki/Internet_Explorer_8">8</a></th>
-            <th>Internet Explorer <br><a href="https://en.wikipedia.org/wiki/Internet_Explorer_9">9</a> / <a href="https://en.wikipedia.org/wiki/Internet_Explorer_10">10</a> / <a href="https://en.wikipedia.org/wiki/Internet_Explorer_11">11</a></th>
+            <th>Internet Explorer<br><a href="https://en.wikipedia.org/wiki/Internet_Explorer_9">9</a> / <a href="https://en.wikipedia.org/wiki/Internet_Explorer_10">10</a> / <a href="https://en.wikipedia.org/wiki/Internet_Explorer_11">11</a></th>
+            <th>Internet Explorer<br><a href="https://en.wikipedia.org/wiki/Internet_Explorer_10">10</a> / <a href="https://en.wikipedia.org/wiki/Internet_Explorer_11">11</a> tile</th>
         </tr>
     </thead>
     <tbody>
@@ -654,6 +655,7 @@
             <td><a href="internet-explorer_6"><img width=140 src="internet-explorer_6/internet-explorer_6_256x256.png" alt="Internet Explorer 6 browser logo"></a></td>
             <td><a href="internet-explorer_7-8"><img width=140 src="internet-explorer_7-8/internet-explorer_7-8_256x256.png" alt="Internet Explorer 7 and 8 browser logo"></a></td>
             <td><a href="internet-explorer_9-11"><img width=140 src="internet-explorer_9-11/internet-explorer_9-11_256x256.png"alt="Internet Explorer 9, 10 and 11 browser logo"></a></td>
+            <td><a href="internet-explorer-tile_10-11"><img width=140 src="internet-explorer-tile_10-11/internet-explorer-tile_10-11_256x256.png" alt="Internet Explorer 10 and 11 start screen tile"></a></td>
         </tr>
     </tbody>
 </table>
