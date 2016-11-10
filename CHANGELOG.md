@@ -2,8 +2,10 @@
 
 #### Breaking changes
 
-* Move `Internet Explorer tile` into the `archive`.
-* Move `Internet Explorer` into the `archive`.
+* [[`a831983776`](https://github.com/alrra/browser-logos/commit/a83198377651d7c74d7a7b6fb2deb1df9b541c8d)] -
+  Move `Internet Explorer tile` into the `archive`.
+* [[`5b1ff95395`](https://github.com/alrra/browser-logos/commit/5b1ff95395df6cdec100db3375c888cdb1b75e08)] -
+  Move `Internet Explorer` into the `archive`.
 
 
 ## 37.2.1 (November 18, 2016)
