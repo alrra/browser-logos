@@ -2,6 +2,9 @@
 .gitattributes
 .github
 .npmignore
-.scripts
 .travis.yml
-archive.gif
+scripts
+src/browser-logos.gif
+src/main-desktop-browser-logos.png
+src/main-mobile-browser-logos.png
+src/old-browser-logos.gif

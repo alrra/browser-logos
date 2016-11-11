@@ -8,20 +8,22 @@
 # Exclude the following files when generating an archive
 # https://git-scm.com/book/en/Customizing-Git-Git-Attributes#Exporting-Your-Repository
 
+**/CHANGELOG.md export-ignore
+**/README.md export-ignore
 .editorconfig export-ignore
 .gitattributes export-ignore
 .github export-ignore
 .npmignore export-ignore
-.scripts export-ignore
 .travis.yml export-ignore
-archive.gif export-ignore
-archive/README.md export-ignore
-CHANGELOG.md export-ignore
-README.md export-ignore
+scripts export-ignore
+src/browser-logos.gif export-ignore
+src/main-desktop-browser-logos.png export-ignore
+src/main-mobile-browser-logos.png export-ignore
+src/old-browser-logos.gif export-ignore
 
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 # Exclude the following files from GitHub's language statistics
 # https://github.com/github/linguist#using-gitattributes
 
-.scripts/* linguist-vendored
+scripts/* linguist-vendored
