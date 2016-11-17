@@ -2,7 +2,8 @@
 
 #### Bug fixes / Improvements
 
-* Update `Focus` logo to match the official one.
+* [[`0467a42020`](https://github.com/alrra/browser-logos/commit/0467a420208f631d045c6c1998c8f1b31b2886f2)] -
+  Update `Focus` logo to match the official one.
 
 
 ## 37.2.0 (November 6, 2016)
