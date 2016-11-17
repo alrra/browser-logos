@@ -1,3 +1,10 @@
+## HEAD
+
+#### Bug fixes / Improvements
+
+* Update `Focus` logo to match the official one.
+
+
 ## 37.2.0 (November 6, 2016)
 
 #### New features
