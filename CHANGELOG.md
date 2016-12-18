@@ -2,103 +2,196 @@
 
 #### New features
 
-* Publish `Wyzo` logo on `npm`.
-* Publish `WebKit Nightly v8-9` logo on `npm`.
-* Publish `WebKit Nightly v1-7` logo on `npm`.
-* Publish `Shiira` logo on `npm`.
-* Publish `Safari v1-7` logo on `npm`.
-* Publish `Safari v1-6` for `iOS` logo on `npm`.
-* Publish `Rekonq` logo on `npm`.
-* Publish `Phoenix/Firebird` logo on `npm`.
-* Publish `Orca` logo on `npm`.
-* Publish `Opera v7-9` logo on `npm`.
-* Publish `Opera v2-6` logo on `npm`.
-* Publish `Opera v15-32` logo on `npm`.
-* Publish `Opera v10-14` logo on `npm`.
-* Publish `Opera Next v15-24` logo on `npm`.
-* Publish `Opera Developer v16-33` logo on `npm`.
-* Publish `Opera Beta v25-32` logo on `npm`.
-* Publish `OmniWeb v6` logo on `npm`.
-* Publish `OmniWeb v1-5` logo on `npm`.
-* Publish `Netscape v9` logo on `npm`.
-* Publish `Netscape v8` logo on `npm`.
-* Publish `Netscape v4-6` logo on `npm`.
-* Publish `Mosaic` logo on `npm`.
-* Publish `Midori` logo on `npm`.
-* Publish `Links` logo on `npm`.
-* Publish `Konqueror v4` logo on `npm`.
-* Publish `Konqueror v1-3` logo on `npm`.
-* Publish `K-Meleon` logo on `npm`.
-* Publish `Internet Explorer v9-11` logo on `npm`.
-* Publish `Internet Explorer v7-8` logo on `npm`.
-* Publish `Internet Explorer v6` logo on `npm`.
-* Publish `Internet Explorer v10-11` tile logo on `npm`.
-* Publish `Internet Explorer Developer Channel` logo on `npm`.
-* Publish `Flock` logo on `npm`.
-* Publish `Firefox v3.5-22` logo on `npm`.
-* Publish `Firefox v1.5-3` logo on `npm`.
-* Publish `Firefox v1` logo on `npm`.
-* Publish `Firefox Nightly v6-22` logo on `npm`.
-* Publish `Firefox Aurora v5-22` logo on `npm`.
-* Publish `Firefox Aurora v23-35` logo on `npm`.
-* Publish `Fennec` logo on `npm`.
-* Publish `Epiphany` logo on `npm`.
-* Publish `Cờ Rôm+` logo on `npm`.
-* Publish `Chromium v12-48` logo on `npm`.
-* Publish `Chromium v1-11` logo on `npm`.
-* Publish `Chrome v12-48` logo on `npm`.
-* Publish `Chrome v1-11` logo on `npm`.
-* Publish `Chrome Canary v19-48` logo on `npm`.
-* Publish `Chrome Beta v25-36` for `Android` logo on `npm`.
-* Publish `Chrome v18-36` for `Android` logo on `npm`.
-* Publish `Camino` logo on `npm`.
-* Publish `Axis` logo on `npm`.
-* Publish `Aviator` logo on `npm`.
-* Publish `Arora` logo on `npm`.
-* Publish `Yandex` logo on `npm`.
-* Publish `WebKit Nightly` logo on `npm`.
-* Publish `Web` logo on `npm`.
-* Publish `Vivaldi` logo on `npm`.
-* Publish `UC Mini` logo on `npm`.
-* Publish `UC` logo on `npm`.
-* Publish `Tor` logo on `npm`.
-* Publish `Silk` logo on `npm`.
-* Publish `SeaMonkey` logo on `npm`.
-* Publish `Samsung Internet` logo on `npm`.
-* Publish `Safari Technology Preview` logo on `npm`.
-* Publish `Safari` for `iOS` logo on `npm`.
-* Publish `Safari` logo on `npm`.
-* Publish `PhantomJS` logo on `npm`.
-* Publish `Opera Mini Beta` logo on `npm`.
-* Publish `Opera Mini` logo on `npm`.
-* Publish `Opera Developer` logo on `npm`.
-* Publish `Opera Beta` logo on `npm`.
-* Publish `Opera` logo on `npm`.
-* Publish `NW.js` logo on `npm`.
-* Publish `NetSurf` logo on `npm`.
-* Publish `Iceweasel` logo on `npm`.
-* Publish `IceCat` logo on `npm`.
-* Publish `Focus` logo on `npm`.
-* Publish `Firefox Nightly` logo on `npm`.
-* Publish `Firefox Developer Edition` logo on `npm`.
-* Publish `Firefox Beta` logo on `npm`.
-* Publish `Firefox` logo on `npm`.
-* Publish `Microsoft Edge` tile logo on `npm`.
-* Publish `Microsoft Edge` logo on `npm`.
-* Publish `Coast` logo on `npm`.
-* Publish `Chromium` logo on `npm`.
-* Publish `Chrome Dev` logo on `npm`.
-* Publish `Chrome Canary` logo on `npm`.
-* Publish `Chrome Beta` logo on `npm`.
-* Publish `Chrome` logo on `npm`.
-* Publish `Brave` logo on `npm`.
-* Publish `Android WebView Beta` logo on `npm`.
-* Publish `Android` browser logo on `npm`.
+* [[`16ce45608b`](https://github.com/alrra/browser-logos/commit/16ce45608bfd3ba4c8e352a1561a3c8f32061f88)] -
+  Publish `Wyzo` logo on `npm`.
+* [[`0d7a88ff1f`](https://github.com/alrra/browser-logos/commit/0d7a88ff1f45eeeecc363ffea63855c6847223ff)] -
+  Publish `WebKit Nightly v8-9` logo on `npm`.
+* [[`ad05d162e7`](https://github.com/alrra/browser-logos/commit/ad05d162e7f62472c06f4ce2166a433195c1722d)] -
+  Publish `WebKit Nightly v1-7` logo on `npm`.
+* [[`fde680e986`](https://github.com/alrra/browser-logos/commit/fde680e9860d5b8b10f8142003eaa803338da4f1)] -
+  Publish `Shiira` logo on `npm`.
+* [[`9bbcc215f5`](https://github.com/alrra/browser-logos/commit/9bbcc215f56e2730e098aaf4fc3132e2abf2b8b3)] -
+  Publish `Safari v1-7` logo on `npm`.
+* [[`cdf086e821`](https://github.com/alrra/browser-logos/commit/cdf086e821a46bc5267506a22f87f3001ea9d19e)] -
+  Publish `Safari v1-6` for `iOS` logo on `npm`.
+* [[`accdbb11b8`](https://github.com/alrra/browser-logos/commit/accdbb11b85641d29e4bac37d5b954c151fc2b40)] -
+  Publish `Rekonq` logo on `npm`.
+* [[`f86cddb404`](https://github.com/alrra/browser-logos/commit/f86cddb404b4c0efa01e7683a075ef04aa3f0253)] -
+  Publish `Phoenix/Firebird` logo on `npm`.
+* [[`d560ffabcf`](https://github.com/alrra/browser-logos/commit/d560ffabcf13c36965fce79b2bb9cf692ebc94cd)] -
+  Publish `Orca` logo on `npm`.
+* [[`d8bcf2f2a5`](https://github.com/alrra/browser-logos/commit/d8bcf2f2a5efcd8cf5ac479c74f599779991d3eb)] -
+  Publish `Opera v7-9` logo on `npm`.
+* [[`c3b2283a2f`](https://github.com/alrra/browser-logos/commit/c3b2283a2f67ac21e15a93c1c00ac46a95db5ea9)] -
+  Publish `Opera v2-6` logo on `npm`.
+* [[`4af407f5cd`](https://github.com/alrra/browser-logos/commit/4af407f5cd3e21e8f98faf13e4d70054c4c85d34)] -
+  Publish `Opera v15-32` logo on `npm`.
+* [[`14db4a16b0`](https://github.com/alrra/browser-logos/commit/14db4a16b0425e37424515dda6d896c667d69592)] -
+  Publish `Opera v10-14` logo on `npm`.
+* [[`5ff29efd1b`](https://github.com/alrra/browser-logos/commit/5ff29efd1ba7d2f7665ac54dda0dd47162821e98)] -
+  Publish `Opera Next v15-24` logo on `npm`.
+* [[`0c7c933665`](https://github.com/alrra/browser-logos/commit/0c7c933665bb62992ea8b1200aba4a2fa14a250a)] -
+  Publish `Opera Developer v16-33` logo on `npm`.
+* [[`beca286b7c`](https://github.com/alrra/browser-logos/commit/beca286b7c6a94ac174fe1d34c5b510d951af2db)] -
+  Publish `Opera Beta v25-32` logo on `npm`.
+* [[`ac11d0c06f`](https://github.com/alrra/browser-logos/commit/ac11d0c06fa2695310a109f94abd67aaf60e26b8)] -
+  Publish `OmniWeb v6` logo on `npm`.
+* [[`8bf9dc50f7`](https://github.com/alrra/browser-logos/commit/8bf9dc50f74b55bd3fd407be0591e6912d73accf)] -
+  Publish `OmniWeb v1-5` logo on `npm`.
+* [[`ac21bffc4b`](https://github.com/alrra/browser-logos/commit/ac21bffc4b72f6f33d04914bd101b16356b5891f)] -
+  Publish `Netscape v9` logo on `npm`.
+* [[`d2483ba030`](https://github.com/alrra/browser-logos/commit/d2483ba03057ad20ddd420ca27c674b15d28bbcc)] -
+  Publish `Netscape v8` logo on `npm`.
+* [[`c630f0c9d5`](https://github.com/alrra/browser-logos/commit/c630f0c9d561640c948ffda1b4ab45602b92bdcd)] -
+  Publish `Netscape v4-6` logo on `npm`.
+* [[`7376203db6`](https://github.com/alrra/browser-logos/commit/7376203db687e689f86ac9666595aea9f34a870d)] -
+  Publish `Mosaic` logo on `npm`.
+* [[`38ceb1a077`](https://github.com/alrra/browser-logos/commit/38ceb1a077ab2560a2e7abb7fea52a314f614583)] -
+  Publish `Midori` logo on `npm`.
+* [[`6f9f851522`](https://github.com/alrra/browser-logos/commit/6f9f85152229df59aa27a39cd04d7bfbe01ae5c0)] -
+  Publish `Links` logo on `npm`.
+* [[`fa5eb17ccf`](https://github.com/alrra/browser-logos/commit/fa5eb17ccf688f629deb6055fb0a179d29ccf2f3)] -
+  Publish `Konqueror v4` logo on `npm`.
+* [[`0dc923afec`](https://github.com/alrra/browser-logos/commit/0dc923afec8b12f63285ca0f4b881fdcc0cfd827)] -
+  Publish `Konqueror v1-3` logo on `npm`.
+* [[`05e01b1077`](https://github.com/alrra/browser-logos/commit/05e01b10770f38a265593a7c58ef9a23525b3be7)] -
+  Publish `K-Meleon` logo on `npm`.
+* [[`1b95b7f0bd`](https://github.com/alrra/browser-logos/commit/1b95b7f0bd2c925e4ac169baa622487b7c35ee0d)] -
+  Publish `Internet Explorer v9-11` logo on `npm`.
+* [[`32925a21f2`](https://github.com/alrra/browser-logos/commit/32925a21f2e9b4489b89244bc81b09677a0a3117)] -
+  Publish `Internet Explorer v7-8` logo on `npm`.
+* [[`3c785dbadf`](https://github.com/alrra/browser-logos/commit/3c785dbadf145c6d04f26d85565e06d7c2fdfb63)] -
+  Publish `Internet Explorer v6` logo on `npm`.
+* [[`0ca2baee7a`](https://github.com/alrra/browser-logos/commit/0ca2baee7a9d4ee19bddb3b67519a93fac463ff6)] -
+  Publish `Internet Explorer v10-11` tile logo on npm.
+* [[`74cb302e1a`](https://github.com/alrra/browser-logos/commit/74cb302e1a2f3e901eb4108a648a6243ac3bb008)] -
+  Publish `Internet Explorer Developer Channel` logo on `npm`.
+* [[`827f05f2a1`](https://github.com/alrra/browser-logos/commit/827f05f2a1feba5cc060e46ffde36e0595877122)] -
+  Publish `Flock` logo on `npm`.
+* [[`2478ee2ba7`](https://github.com/alrra/browser-logos/commit/2478ee2ba772f1b93aa152eb68590e6838fc6621)] -
+  Publish `Firefox v3.5-22` logo on `npm`.
+* [[`45135311f8`](https://github.com/alrra/browser-logos/commit/45135311f883b9ee89ea1a41c249833db47222a8)] -
+  Publish `Firefox v1.5-3` logo on `npm`.
+* [[`2621feeb5d`](https://github.com/alrra/browser-logos/commit/2621feeb5dbd1e55e72deaa5b3b1e9dbab51a6e4)] -
+  Publish `Firefox v1` logo on `npm`.
+* [[`dc73cad9ae`](https://github.com/alrra/browser-logos/commit/dc73cad9aebbe914211f12a943eebc55a569fa20)] -
+  Publish `Firefox Nightly v6-22` logo on `npm`.
+* [[`cbe4268b6d`](https://github.com/alrra/browser-logos/commit/cbe4268b6d61dde400355afeed16539d4c91ad53)] -
+  Publish `Firefox Aurora v5-22` logo on `npm`.
+* [[`752d22f3ed`](https://github.com/alrra/browser-logos/commit/752d22f3ed8942a0ec380a3d964c241771fc0e8e)] -
+  Publish `Firefox Aurora v23-35` logo on `npm`.
+* [[`800f48f222`](https://github.com/alrra/browser-logos/commit/800f48f22211ad026b856add96f76612e1774bab)] -
+  Publish `Fennec` logo on `npm`.
+* [[`bcc93f6c19`](https://github.com/alrra/browser-logos/commit/bcc93f6c199ecf3b2f0280f8c632c1c6c8fb34ef)] -
+  Publish `Epiphany` logo on `npm`.
+* [[`88a3ce2d2c`](https://github.com/alrra/browser-logos/commit/88a3ce2d2c7436eb76b6f02c3caa1f245a5a8598)] -
+  Publish `Cờ Rôm+` logo on `npm`.
+* [[`4c1e17ad6b`](https://github.com/alrra/browser-logos/commit/4c1e17ad6b85437378cdf64e63434da21d4ba1a7)] -
+  Publish `Chromium v12-48` logo on `npm`.
+* [[`7bbaf774b3`](https://github.com/alrra/browser-logos/commit/7bbaf774b3a67e94e22296126a3f5c7fa184a5f7)] -
+  Publish `Chromium v1-11` logo on `npm`.
+* [[`b8db16e258`](https://github.com/alrra/browser-logos/commit/b8db16e258a705e94dedaf3d0493e516669ae0a3)] -
+  Publish `Chrome v12-48` logo on `npm`.
+* [[`85c17a619b`](https://github.com/alrra/browser-logos/commit/85c17a619bd09e2c0fa2e78703ddb3c35ba89683)] -
+  Publish `Chrome v1-11` logo on `npm`.
+* [[`e465b6f91a`](https://github.com/alrra/browser-logos/commit/e465b6f91ae23b15dad090c4decf0599a37251d6)] -
+  Publish `Chrome Canary v19-48` logo on `npm`.
+* [[`1462478ae2`](https://github.com/alrra/browser-logos/commit/1462478ae269b6519be7c54f5bf2aa807e878540)] -
+  Publish Chrome Beta v25-36 for Android logo on npm.
+* [[`a08e4f7af1`](https://github.com/alrra/browser-logos/commit/a08e4f7af18c27361595b017f8917a4845c9d5e1)] -
+  Publish `Chrome v18-36` for Android logo on `npm`.
+* [[`1c11688e38`](https://github.com/alrra/browser-logos/commit/1c11688e3857fa214cc427728037f763322cf2b8)] -
+  Publish `Camino` logo on `npm`.
+* [[`78c3d5cd09`](https://github.com/alrra/browser-logos/commit/78c3d5cd097eb9e03ee80c0f94a4284bc69f2ad8)] -
+  Publish `Axis` logo on `npm`.
+* [[`e5bf24102a`](https://github.com/alrra/browser-logos/commit/e5bf24102a1fb72da6cf59e90a7589d9bf5d8e10)] -
+  Publish `Aviator` logo on `npm`.
+* [[`e37350b4aa`](https://github.com/alrra/browser-logos/commit/e37350b4aa491012b3e149cb9464310f575b389a)] -
+  Publish `Arora` logo on `npm`.
+* [[`aa0bfdd313`](https://github.com/alrra/browser-logos/commit/aa0bfdd3135c1598355988d5aef8ce3805bb7197)] -
+  Publish `Yandex` logo on `npm`.
+* [[`ef86c0debb`](https://github.com/alrra/browser-logos/commit/ef86c0debb37eb7adb44db8ba0f58e986a01cc91)] -
+  Publish `WebKit Nightly` logo on `npm`.
+* [[`7b43d94e47`](https://github.com/alrra/browser-logos/commit/7b43d94e47251f4246a7cc4895204448fefb616a)] -
+  Publish `Web` logo on `npm`.
+* [[`4500c43305`](https://github.com/alrra/browser-logos/commit/4500c4330581f70fc9f08380d7d34559a78ec108)] -
+  Publish `Vivaldi` logo on `npm`.
+* [[`174bcb459d`](https://github.com/alrra/browser-logos/commit/174bcb459d9e964e9b7deebaa6dc4d3583d406f6)] -
+  Publish `UC Mini` logo on `npm`.
+* [[`0af415b142`](https://github.com/alrra/browser-logos/commit/0af415b142dc15731063ceeab67490caa3695603)] -
+  Publish `UC` logo on `npm`.
+* [[`b3d3db8948`](https://github.com/alrra/browser-logos/commit/b3d3db89489cf9b62c5b8809832fd3c605374a8a)] -
+  Publish `Tor` logo on `npm`.
+* [[`a9714272c1`](https://github.com/alrra/browser-logos/commit/a9714272c124ef185ed1b2ba460fd7bac01cd67e)] -
+  Publish `Silk` logo on `npm`.
+* [[`a1e60c113e`](https://github.com/alrra/browser-logos/commit/a1e60c113ebcb980f7f3b571b2213690446d76ea)] -
+  Publish `SeaMonkey` logo on `npm`.
+* [[`dd10a4d918`](https://github.com/alrra/browser-logos/commit/dd10a4d9188d6fee3fd92230b6f438169f5aab1b)] -
+  Publish `Samsung Internet` logo on `npm`.
+* [[`cbfae1abb8`](https://github.com/alrra/browser-logos/commit/cbfae1abb831d50a8ea0cd187a4a48d66925cf2a)] -
+  Publish `Safari Technology Preview` logo on `npm`.
+* [[`0b2b01f8bf`](https://github.com/alrra/browser-logos/commit/0b2b01f8bf6345260d92cf9eaf2f036f95ed33c5)] -
+  Publish `Safari` for `iOS` logo on `npm`.
+* [[`16c571b8b9`](https://github.com/alrra/browser-logos/commit/16c571b8b9bc4ef3a4b7830d15a333be409990c5)] -
+  Publish `Safari` logo on `npm`.
+* [[`85fedc1aec`](https://github.com/alrra/browser-logos/commit/85fedc1aec5fd506a5a55c65d7c5e6dda5c59497)] -
+  Publish `PhantomJS` logo on `npm`.
+* [[`f5ad0c14d1`](https://github.com/alrra/browser-logos/commit/f5ad0c14d14cf3182705944be4f7ec8d5fd3081c)] -
+  Publish `Opera Mini Beta` logo on `npm`.
+* [[`7adf0ed1c5`](https://github.com/alrra/browser-logos/commit/7adf0ed1c515fc14e2b7e5ce5787f2ce9c3d16df)] -
+  Publish `Opera Mini` logo on `npm`.
+* [[`a744815f57`](https://github.com/alrra/browser-logos/commit/a744815f57489d88e969ef7050edb76f80ba3317)] -
+  Publish `Opera Developer` logo on `npm`.
+* [[`fa071be8c9`](https://github.com/alrra/browser-logos/commit/fa071be8c933ad08f71dac293d7917e5283aa69e)] -
+  Publish `Opera Beta` logo on `npm`.
+* [[`d9628b2f68`](https://github.com/alrra/browser-logos/commit/d9628b2f6848f4d16fa47c175b177641639ec4e8)] -
+  Publish `Opera` logo on `npm`.
+* [[`cfb5df1bcf`](https://github.com/alrra/browser-logos/commit/cfb5df1bcfebcd5b65881fd0c8d4fa526a9a8bc5)] -
+  Publish `NW.js` logo on `npm`.
+* [[`b87d10c356`](https://github.com/alrra/browser-logos/commit/b87d10c35666997353f5a779d1108cf25bb24d3c)] -
+  Publish `NetSurf` logo on `npm`.
+* [[`59bea458e2`](https://github.com/alrra/browser-logos/commit/59bea458e213c769bfc0bb75e38e2bde1029e908)] -
+  Publish `Iceweasel` logo on `npm`.
+* [[`3b72a2d614`](https://github.com/alrra/browser-logos/commit/3b72a2d614c5fb602ad6cde950c18974c32e9f6e)] -
+  Publish `IceCat` logo on `npm`.
+* [[`57ae96b215`](https://github.com/alrra/browser-logos/commit/57ae96b215566ec3e8a6afe304fd1913b1d3e989)] -
+  Publish `Focus` logo on `npm`.
+* [[`d07af8e6ca`](https://github.com/alrra/browser-logos/commit/d07af8e6ca87b4c0edba49876ad3a539f681c156)] -
+  Publish `Firefox Nightly` logo on `npm`.
+* [[`e7c7c0f67f`](https://github.com/alrra/browser-logos/commit/e7c7c0f67fd00d781a010d1fb2d6f72260914d91)] -
+  Publish `Firefox Developer Edition` logo on `npm`.
+* [[`7c5b9d8527`](https://github.com/alrra/browser-logos/commit/7c5b9d852795a7f5a26d43dc4004a1348ab3fc69)] -
+  Publish `Firefox Beta` logo on `npm`.
+* [[`a4601d3517`](https://github.com/alrra/browser-logos/commit/a4601d351794396dda50e73495bf07f8ac91d289)] -
+  Publish `Firefox` logo on `npm`.
+* [[`f89882f98a`](https://github.com/alrra/browser-logos/commit/f89882f98afbd960babfbf04e54fe3a3579df4df)] -
+  Publish `Microsoft Edge` tile logo on `npm`.
+* [[`94cd375197`](https://github.com/alrra/browser-logos/commit/94cd3751979a31bd6e084852bb0da8aa2e694e6f)] -
+  Publish `Microsoft Edge` logo on `npm`.
+* [[`237cdbc830`](https://github.com/alrra/browser-logos/commit/237cdbc830c67c6febfc0a1d6cba8ced01eec636)] -
+  Publish `Coast` logo on `npm`.
+* [[`4f93e61e6d`](https://github.com/alrra/browser-logos/commit/4f93e61e6dd34dd77a964c65ff94b174f7081ea0)] -
+  Publish `Chromium` logo on `npm`.
+* [[`183cf18691`](https://github.com/alrra/browser-logos/commit/183cf1869169a5da9a9bbc09ec2da353a9aac05f)] -
+  Publish `Chrome Dev` logo on `npm`.
+* [[`b4adcee963`](https://github.com/alrra/browser-logos/commit/b4adcee963388122bdace07173b8a07c406b2e1a)] -
+  Publish `Chrome Canary` logo on `npm`.
+* [[`fc588c9323`](https://github.com/alrra/browser-logos/commit/fc588c9323956ccc301113c8bb0f1396b88ebeb7)] -
+  Publish `Chrome Beta` logo on `npm`.
+* [[`bb146c7e2d`](https://github.com/alrra/browser-logos/commit/bb146c7e2d651055b662a838736650749eaf3e47)] -
+  Publish `Chrome` logo on `npm`.
+* [[`7fe4507d5a`](https://github.com/alrra/browser-logos/commit/7fe4507d5a7892e195368fa37fbe2933e8795e50)] -
+  Publish `Brave` logo on `npm`.
+* [[`8a8fa7e18b`](https://github.com/alrra/browser-logos/commit/8a8fa7e18b45a49726dc4f079b11d72fd3a29b63)] -
+  Publish `Android WebView Beta` logo on `npm`.
+* [[`fa11225e81`](https://github.com/alrra/browser-logos/commit/fa11225e81183bf902c37e8a08c686826386df22)] -
+  Publish `Android` browser logo on `npm`.
 
 
 #### Breaking changes
 
-* Move logos into `src/`.
+* [[`a335e3357a`](https://github.com/alrra/browser-logos/commit/a335e3357a524160c33e9b0c33b72f7d57d58c6e)] -
+  Move logos into `src/`.
 * [[`a831983776`](https://github.com/alrra/browser-logos/commit/a83198377651d7c74d7a7b6fb2deb1df9b541c8d)] -
   Move `Internet Explorer tile` into the `archive`.
 * [[`5b1ff95395`](https://github.com/alrra/browser-logos/commit/5b1ff95395df6cdec100db3375c888cdb1b75e08)] -
