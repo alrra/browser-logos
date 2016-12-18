@@ -1,0 +1,14 @@
+{
+  "bugs": "https://github.com/alrra/browser-logos/issues",
+  "description": "Chromium v1-11 browser logo",
+  "homepage": "https://github.com/alrra/browser-logos",
+  "keywords": [
+      "browser-logos",
+      "logo",
+      "chromium",
+      "chromium-logo"
+   ],
+  "name": "@browser-logos/chromium_1-11",
+  "repository": "alrra/browser-logos",
+  "version": "1.0.0"
+}
