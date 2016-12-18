@@ -190,7 +190,8 @@
 
 #### Breaking changes
 
-* Rename `phoenix_firebird` to `phoenix-firebird`.
+* [[`712f85a6d2`](https://github.com/alrra/browser-logos/commit/712f85a6d2c0738df691d7774f3b0d4d57f8d033)] -
+  Rename `phoenix_firebird` to `phoenix-firebird`.
 * [[`a335e3357a`](https://github.com/alrra/browser-logos/commit/a335e3357a524160c33e9b0c33b72f7d57d58c6e)] -
   Move logos into `src/`.
 * [[`a831983776`](https://github.com/alrra/browser-logos/commit/a83198377651d7c74d7a7b6fb2deb1df9b541c8d)] -
