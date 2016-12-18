@@ -2,6 +2,7 @@
 
 #### New features
 
+* Publish `Safari` logo on `npm`.
 * Publish `PhantomJS` logo on `npm`.
 * Publish `Opera Mini Beta` logo on `npm`.
 * Publish `Opera Mini` logo on `npm`.
