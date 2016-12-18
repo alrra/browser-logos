@@ -2,6 +2,7 @@
 
 #### New features
 
+* Publish `Camino` logo on `npm`.
 * Publish `Axis` logo on `npm`.
 * Publish `Aviator` logo on `npm`.
 * Publish `Arora` logo on `npm`.
