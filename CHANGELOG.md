@@ -2,6 +2,7 @@
 
 #### New features
 
+* Publish `Opera Developer v16-33` logo on `npm`.
 * Publish `Opera Beta v25-32` logo on `npm`.
 * Publish `OmniWeb v6` logo on `npm`.
 * Publish `OmniWeb v1-5` logo on `npm`.
