@@ -2,6 +2,7 @@
 
 #### New features
 
+* Publish `Chrome v18-36` for `Android` logo on `npm`.
 * Publish `Camino` logo on `npm`.
 * Publish `Axis` logo on `npm`.
 * Publish `Aviator` logo on `npm`.
