@@ -1074,6 +1074,21 @@
     </tbody>
 </table>
 
+### Opera Developer
+
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/Opera_%28web_browser%29#Opera_Developer_and_Opera_Nex">Opera Developer<br>16-33</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="opera-developer_16-33"><img width=140 src="opera-developer_16-33/opera-developer_16-33_256x256.png" alt="Opera Developer 16-33 browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
+
 ### Opera Mini
 
 <table>
