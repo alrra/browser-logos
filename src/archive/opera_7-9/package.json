@@ -1,0 +1,14 @@
+{
+  "bugs": "https://github.com/alrra/browser-logos/issues",
+  "description": "Opera v7-9 browser logo",
+  "homepage": "https://github.com/alrra/browser-logos",
+  "keywords": [
+      "browser-logos",
+      "logo",
+      "opera",
+      "opera-logo"
+   ],
+  "name": "@browser-logos/opera_7-9",
+  "repository": "alrra/browser-logos",
+  "version": "1.0.0"
+}

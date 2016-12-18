@@ -2,6 +2,7 @@
 
 #### New features
 
+* Publish `Opera v7-9` logo on `npm`.
 * Publish `Opera v2-6` logo on `npm`.
 * Publish `Opera v15-32` logo on `npm`.
 * Publish `Opera v10-14` logo on `npm`.
