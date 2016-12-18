@@ -2,6 +2,7 @@
 
 #### New features
 
+* Publish `Phoenix/Firebird` logo on `npm`.
 * Publish `Orca` logo on `npm`.
 * Publish `Opera v7-9` logo on `npm`.
 * Publish `Opera v2-6` logo on `npm`.

@@ -1,0 +1,14 @@
+{
+  "bugs": "https://github.com/alrra/browser-logos/issues",
+  "description": "Phoenix/Firebird browser logo",
+  "homepage": "https://github.com/alrra/browser-logos",
+  "keywords": [
+      "browser-logos",
+      "logo",
+      "phoenix",
+      "phoenix-logo"
+   ],
+  "name": "@browser-logos/phoenix_firebird",
+  "repository": "alrra/browser-logos",
+  "version": "1.0.0"
+}
