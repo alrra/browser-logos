@@ -1,0 +1,14 @@
+{
+  "bugs": "https://github.com/alrra/browser-logos/issues",
+  "description": "Arora browser logo",
+  "homepage": "https://github.com/alrra/browser-logos",
+  "keywords": [
+      "browser-logos",
+      "logo",
+      "arora",
+      "arora-logo"
+   ],
+  "name": "@browser-logos/arora",
+  "repository": "alrra/browser-logos",
+  "version": "1.0.0"
+}
