@@ -2,6 +2,7 @@
 
 #### New features
 
+* Publish `Shiira` logo on `npm`.
 * Publish `Safari v1-7` logo on `npm`.
 * Publish `Safari v1-6` for `iOS` logo on `npm`.
 * Publish `Rekonq` logo on `npm`.
