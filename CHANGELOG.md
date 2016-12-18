@@ -2,6 +2,7 @@
 
 #### New features
 
+* Publish `Firefox Nightly` logo on `npm`.
 * Publish `Firefox Developer Edition` logo on `npm`.
 * Publish `Firefox Beta` logo on `npm`.
 * Publish `Firefox` logo on `npm`.
