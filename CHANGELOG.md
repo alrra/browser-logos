@@ -2,6 +2,7 @@
 
 #### New features
 
+* Publish `OmniWeb v6` logo on `npm`.
 * Publish `OmniWeb v1-5` logo on `npm`.
 * Publish `Netscape v9` logo on `npm`.
 * Publish `Netscape v8` logo on `npm`.

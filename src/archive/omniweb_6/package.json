@@ -1,0 +1,14 @@
+{
+  "bugs": "https://github.com/alrra/browser-logos/issues",
+  "description": "OmniWeb v6 browser logo",
+  "homepage": "https://github.com/alrra/browser-logos",
+  "keywords": [
+      "browser-logos",
+      "logo",
+      "omniweb",
+      "omniweb-logo"
+   ],
+  "name": "@browser-logos/omniweb_6",
+  "repository": "alrra/browser-logos",
+  "version": "1.0.0"
+}
