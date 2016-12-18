@@ -2,6 +2,7 @@
 
 #### New features
 
+* Publish `Epiphany` logo on `npm`.
 * Publish `Cờ Rôm+` logo on `npm`.
 * Publish `Chromium v12-48` logo on `npm`.
 * Publish `Chromium v1-11` logo on `npm`.

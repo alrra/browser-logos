@@ -1,0 +1,14 @@
+{
+  "bugs": "https://github.com/alrra/browser-logos/issues",
+  "description": "Epiphany browser logo",
+  "homepage": "https://github.com/alrra/browser-logos",
+  "keywords": [
+      "browser-logos",
+      "logo",
+      "epiphany",
+      "epiphany-logo"
+   ],
+  "name": "@browser-logos/epiphany",
+  "repository": "alrra/browser-logos",
+  "version": "1.0.0"
+}
