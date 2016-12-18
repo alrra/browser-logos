@@ -2,6 +2,7 @@
 
 #### New features
 
+* Publish `Links` logo on `npm`.
 * Publish `Konqueror v4` logo on `npm`.
 * Publish `Konqueror v1-3` logo on `npm`.
 * Publish `K-Meleon` logo on `npm`.
