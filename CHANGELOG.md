@@ -1,5 +1,10 @@
 ## HEAD
 
+#### New features
+
+* Publish `Android` browser logo on `npm`.
+
+
 #### Breaking changes
 
 * Move logos into `src/`.
