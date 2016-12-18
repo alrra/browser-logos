@@ -2,6 +2,7 @@
 
 #### New features
 
+* Publish `Silk` logo on `npm`.
 * Publish `SeaMonkey` logo on `npm`.
 * Publish `Samsung Internet` logo on `npm`.
 * Publish `Safari Technology Preview` logo on `npm`.
