@@ -2,6 +2,7 @@
 
 #### New features
 
+* Publish `UC` logo on `npm`.
 * Publish `Tor` logo on `npm`.
 * Publish `Silk` logo on `npm`.
 * Publish `SeaMonkey` logo on `npm`.
