@@ -2,6 +2,7 @@
 
 #### New features
 
+* Publish `Yandex` logo on `npm`.
 * Publish `WebKit Nightly` logo on `npm`.
 * Publish `Web` logo on `npm`.
 * Publish `Vivaldi` logo on `npm`.
