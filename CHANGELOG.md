@@ -2,6 +2,7 @@
 
 #### New features
 
+* Publish `IceCat` logo on `npm`.
 * Publish `Focus` logo on `npm`.
 * Publish `Firefox Nightly` logo on `npm`.
 * Publish `Firefox Developer Edition` logo on `npm`.
