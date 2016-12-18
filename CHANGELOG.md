@@ -2,6 +2,7 @@
 
 #### New features
 
+* Publish `Netscape v4-6` logo on `npm`.
 * Publish `Mosaic` logo on `npm`.
 * Publish `Midori` logo on `npm`.
 * Publish `Links` logo on `npm`.
