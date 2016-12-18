@@ -2,6 +2,7 @@
 
 #### New features
 
+* Publish `K-Meleon` logo on `npm`.
 * Publish `Internet Explorer v9-11` logo on `npm`.
 * Publish `Internet Explorer v7-8` logo on `npm`.
 * Publish `Internet Explorer v6` logo on `npm`.
