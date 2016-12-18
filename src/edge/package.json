@@ -1,0 +1,14 @@
+{
+  "bugs": "https://github.com/alrra/browser-logos/issues",
+  "description": "Microsoft Edge browser logo",
+  "homepage": "https://github.com/alrra/browser-logos",
+  "keywords": [
+      "browser-logos",
+      "logo",
+      "microsoft-edge",
+      "microsoft-edge-logo"
+   ],
+  "name": "@browser-logos/edge",
+  "repository": "alrra/browser-logos",
+  "version": "1.0.0"
+}

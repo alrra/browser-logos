@@ -2,6 +2,7 @@
 
 #### New features
 
+* Publish `Microsoft Edge` logo on `npm`.
 * Publish `Coast` logo on `npm`.
 * Publish `Chromium` logo on `npm`.
 * Publish `Chrome Dev` logo on `npm`.
