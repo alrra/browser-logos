@@ -2,6 +2,7 @@
 
 #### New features
 
+* Publish `Firefox` logo on `npm`.
 * Publish `Microsoft Edge` tile logo on `npm`.
 * Publish `Microsoft Edge` logo on `npm`.
 * Publish `Coast` logo on `npm`.

@@ -1,0 +1,14 @@
+{
+  "bugs": "https://github.com/alrra/browser-logos/issues",
+  "description": "Firefox browser logo",
+  "homepage": "https://github.com/alrra/browser-logos",
+  "keywords": [
+      "browser-logos",
+      "logo",
+      "firefox",
+      "firefox-logo"
+   ],
+  "name": "@browser-logos/firefox",
+  "repository": "alrra/browser-logos",
+  "version": "1.0.0"
+}
