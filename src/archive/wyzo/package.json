@@ -1,0 +1,14 @@
+{
+  "bugs": "https://github.com/alrra/browser-logos/issues",
+  "description": "Wyzo browser logo",
+  "homepage": "https://github.com/alrra/browser-logos",
+  "keywords": [
+      "browser-logos",
+      "logo",
+      "wyzo",
+      "wyzo-logo"
+   ],
+  "name": "@browser-logos/wyzo",
+  "repository": "alrra/browser-logos",
+  "version": "1.0.0"
+}
