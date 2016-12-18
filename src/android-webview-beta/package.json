@@ -1,0 +1,14 @@
+{
+  "bugs": "https://github.com/alrra/browser-logos/issues",
+  "description": "Android WebView Beta browser logo",
+  "homepage": "https://github.com/alrra/browser-logos",
+  "keywords": [
+      "browser-logos",
+      "logo",
+      "android-webview-beta",
+      "android-webview-beta-logo"
+   ],
+  "name": "@browser-logos/android-webview-beta",
+  "repository": "alrra/browser-logos",
+  "version": "1.0.0"
+}
