@@ -2,6 +2,7 @@
 
 #### New features
 
+* Publish `Web` logo on `npm`.
 * Publish `Vivaldi` logo on `npm`.
 * Publish `UC Mini` logo on `npm`.
 * Publish `UC` logo on `npm`.
