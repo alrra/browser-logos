@@ -2,6 +2,7 @@
 
 #### New features
 
+* Publish `Chrome v1-11` logo on `npm`.
 * Publish `Chrome Canary v19-48` logo on `npm`.
 * Publish `Chrome Beta v25-36` for `Android` logo on `npm`.
 * Publish `Chrome v18-36` for `Android` logo on `npm`.
