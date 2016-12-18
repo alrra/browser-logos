@@ -2,6 +2,7 @@
 
 #### New features
 
+* Publish `Brave` logo on `npm`.
 * Publish `Android WebView Beta` logo on `npm`.
 * Publish `Android` browser logo on `npm`.
 
