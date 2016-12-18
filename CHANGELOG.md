@@ -2,6 +2,7 @@
 
 #### New features
 
+* Publish `UC Mini` logo on `npm`.
 * Publish `UC` logo on `npm`.
 * Publish `Tor` logo on `npm`.
 * Publish `Silk` logo on `npm`.
