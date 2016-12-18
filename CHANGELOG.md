@@ -2,6 +2,7 @@
 
 #### New features
 
+* Publish `Opera Developer` logo on `npm`.
 * Publish `Opera Beta` logo on `npm`.
 * Publish `Opera` logo on `npm`.
 * Publish `NW.js` logo on `npm`.
