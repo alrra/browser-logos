@@ -1,0 +1,14 @@
+{
+  "bugs": "https://github.com/alrra/browser-logos/issues",
+  "description": "Opera Next v15-24 browser logo",
+  "homepage": "https://github.com/alrra/browser-logos",
+  "keywords": [
+      "browser-logos",
+      "logo",
+      "opera-next",
+      "opera-next-logo"
+   ],
+  "name": "@browser-logos/opera-next_15-24",
+  "repository": "alrra/browser-logos",
+  "version": "1.0.0"
+}
