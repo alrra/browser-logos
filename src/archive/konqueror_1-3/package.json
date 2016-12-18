@@ -1,0 +1,14 @@
+{
+  "bugs": "https://github.com/alrra/browser-logos/issues",
+  "description": "Konqueror v1-3 browser logo",
+  "homepage": "https://github.com/alrra/browser-logos",
+  "keywords": [
+      "browser-logos",
+      "logo",
+      "konqueror",
+      "konqueror-logo"
+   ],
+  "name": "@browser-logos/konqueror_1-3",
+  "repository": "alrra/browser-logos",
+  "version": "1.0.0"
+}

@@ -2,6 +2,7 @@
 
 #### New features
 
+* Publish `Konqueror v1-3` logo on `npm`.
 * Publish `K-Meleon` logo on `npm`.
 * Publish `Internet Explorer v9-11` logo on `npm`.
 * Publish `Internet Explorer v7-8` logo on `npm`.
