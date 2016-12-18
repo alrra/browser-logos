@@ -2,6 +2,7 @@
 
 #### New features
 
+* Publish `Firefox Aurora v5-22` logo on `npm`.
 * Publish `Firefox Aurora v23-35` logo on `npm`.
 * Publish `Fennec` logo on `npm`.
 * Publish `Epiphany` logo on `npm`.
