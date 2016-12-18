@@ -1,0 +1,14 @@
+{
+  "bugs": "https://github.com/alrra/browser-logos/issues",
+  "description": "Safari Ios v1-6 browser logo",
+  "homepage": "https://github.com/alrra/browser-logos",
+  "keywords": [
+      "browser-logos",
+      "logo",
+      "safari-ios",
+      "safari-ios-logo"
+   ],
+  "name": "@browser-logos/safari-ios_1-6",
+  "repository": "alrra/browser-logos",
+  "version": "1.0.0"
+}

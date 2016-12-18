@@ -2,6 +2,7 @@
 
 #### New features
 
+* Publish `Safari v1-6` for `iOS` logo on `npm`.
 * Publish `Rekonq` logo on `npm`.
 * Publish `Phoenix/Firebird` logo on `npm`.
 * Publish `Orca` logo on `npm`.
