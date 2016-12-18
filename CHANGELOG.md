@@ -2,6 +2,7 @@
 
 #### New features
 
+* Publish `Opera Mini Beta` logo on `npm`.
 * Publish `Opera Mini` logo on `npm`.
 * Publish `Opera Developer` logo on `npm`.
 * Publish `Opera Beta` logo on `npm`.
