@@ -1,0 +1,14 @@
+{
+  "bugs": "https://github.com/alrra/browser-logos/issues",
+  "description": "Iceweasel browser logo",
+  "homepage": "https://github.com/alrra/browser-logos",
+  "keywords": [
+      "browser-logos",
+      "logo",
+      "iceweasel",
+      "iceweasel-logo"
+   ],
+  "name": "@browser-logos/iceweasel",
+  "repository": "alrra/browser-logos",
+  "version": "1.0.0"
+}
