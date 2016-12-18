@@ -2,6 +2,7 @@
 
 #### New features
 
+* Publish `Tor` logo on `npm`.
 * Publish `Silk` logo on `npm`.
 * Publish `SeaMonkey` logo on `npm`.
 * Publish `Samsung Internet` logo on `npm`.
