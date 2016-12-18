@@ -2,6 +2,7 @@
 
 #### New features
 
+* Publish `WebKit Nightly v8-9` logo on `npm`.
 * Publish `WebKit Nightly v1-7` logo on `npm`.
 * Publish `Shiira` logo on `npm`.
 * Publish `Safari v1-7` logo on `npm`.
