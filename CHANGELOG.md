@@ -2,6 +2,7 @@
 
 #### New features
 
+* Publish `Chrome Canary` logo on `npm`.
 * Publish `Chrome Beta` logo on `npm`.
 * Publish `Chrome` logo on `npm`.
 * Publish `Brave` logo on `npm`.
