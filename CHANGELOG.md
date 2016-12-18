@@ -2,6 +2,7 @@
 
 #### New features
 
+* Publish `Safari Technology Preview` logo on `npm`.
 * Publish `Safari` for `iOS` logo on `npm`.
 * Publish `Safari` logo on `npm`.
 * Publish `PhantomJS` logo on `npm`.
