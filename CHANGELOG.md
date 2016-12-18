@@ -2,6 +2,7 @@
 
 #### New features
 
+* Publish `Netscape v9` logo on `npm`.
 * Publish `Netscape v8` logo on `npm`.
 * Publish `Netscape v4-6` logo on `npm`.
 * Publish `Mosaic` logo on `npm`.
