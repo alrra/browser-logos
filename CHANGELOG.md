@@ -2,6 +2,7 @@
 
 #### New features
 
+* Publish `Internet Explorer v6` logo on `npm`.
 * Publish `Internet Explorer v10-11` tile logo on `npm`.
 * Publish `Internet Explorer Developer Channel` logo on `npm`.
 * Publish `Flock` logo on `npm`.
