@@ -1,0 +1,14 @@
+{
+  "bugs": "https://github.com/alrra/browser-logos/issues",
+  "description": "Fennec browser logo",
+  "homepage": "https://github.com/alrra/browser-logos",
+  "keywords": [
+      "browser-logos",
+      "logo",
+      "fennec",
+      "fennec-logo"
+   ],
+  "name": "@browser-logos/fennec",
+  "repository": "alrra/browser-logos",
+  "version": "1.0.0"
+}

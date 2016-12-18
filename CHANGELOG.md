@@ -2,6 +2,7 @@
 
 #### New features
 
+* Publish `Fennec` logo on `npm`.
 * Publish `Epiphany` logo on `npm`.
 * Publish `Cờ Rôm+` logo on `npm`.
 * Publish `Chromium v12-48` logo on `npm`.
