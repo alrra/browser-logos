@@ -2,6 +2,7 @@
 
 #### New features
 
+* Publish `Samsung Internet` logo on `npm`.
 * Publish `Safari Technology Preview` logo on `npm`.
 * Publish `Safari` for `iOS` logo on `npm`.
 * Publish `Safari` logo on `npm`.
