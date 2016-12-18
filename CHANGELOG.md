@@ -2,6 +2,7 @@
 
 #### New features
 
+* Publish `Aviator` logo on `npm`.
 * Publish `Arora` logo on `npm`.
 * Publish `Yandex` logo on `npm`.
 * Publish `WebKit Nightly` logo on `npm`.
