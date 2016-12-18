@@ -2,6 +2,7 @@
 
 #### New features
 
+* Publish `Flock` logo on `npm`.
 * Publish `Firefox v3.5-22` logo on `npm`.
 * Publish `Firefox v1.5-3` logo on `npm`.
 * Publish `Firefox v1` logo on `npm`.
