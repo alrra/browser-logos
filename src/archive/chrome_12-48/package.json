@@ -1,0 +1,14 @@
+{
+  "bugs": "https://github.com/alrra/browser-logos/issues",
+  "description": "Chrome v12-48 browser logo",
+  "homepage": "https://github.com/alrra/browser-logos",
+  "keywords": [
+      "browser-logos",
+      "logo",
+      "chrome",
+      "chrome-logo"
+   ],
+  "name": "@browser-logos/chrome_12-48",
+  "repository": "alrra/browser-logos",
+  "version": "1.0.0"
+}
