@@ -522,7 +522,7 @@
     </thead>
     <tbody>
         <tr height=160>
-            <td><a href="phoenix_firebird"><img width=140 src="phoenix_firebird/phoenix_firebird_256x256.png" alt="Phoenix/Firebird browser logo"></a></td>
+            <td><a href="phoenix-firebird"><img width=140 src="phoenix-firebird/phoenix-firebird_256x256.png" alt="Phoenix/Firebird browser logo"></a></td>
             <td><a href="firefox_1"><img width=140 src="firefox_1/firefox_1_256x256.png" alt="Firefox 1 browser logo"></a></td>
             <td><a href="firefox_1.5-3"><img width=140 src="firefox_1.5-3/firefox_1.5-3_256x256.png" alt="Firefox 1 browser logo"></a></td>
             <td><a href="firefox_3.5-22"><img width=140 src="firefox_3.5-22/firefox_3.5-22_256x256.png" alt="Firefox 3.5-22 browser logo"></a></td>
