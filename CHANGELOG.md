@@ -2,6 +2,7 @@
 
 #### New features
 
+* Publish `Chromium v12-48` logo on `npm`.
 * Publish `Chromium v1-11` logo on `npm`.
 * Publish `Chrome v12-48` logo on `npm`.
 * Publish `Chrome v1-11` logo on `npm`.
