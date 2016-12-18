@@ -2,6 +2,7 @@
 
 #### New features
 
+* Publish `NetSurf` logo on `npm`.
 * Publish `Iceweasel` logo on `npm`.
 * Publish `IceCat` logo on `npm`.
 * Publish `Focus` logo on `npm`.

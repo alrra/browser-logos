@@ -1,0 +1,14 @@
+{
+  "bugs": "https://github.com/alrra/browser-logos/issues",
+  "description": "NetSurf browser logo",
+  "homepage": "https://github.com/alrra/browser-logos",
+  "keywords": [
+      "browser-logos",
+      "logo",
+      "netsurf",
+      "netsurf-logo"
+   ],
+  "name": "@browser-logos/netsurf",
+  "repository": "alrra/browser-logos",
+  "version": "1.0.0"
+}
