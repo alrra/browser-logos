@@ -3,11 +3,11 @@
   "description": "UC browser logo",
   "homepage": "https://github.com/alrra/browser-logos",
   "keywords": [
-      "browser-logos",
-      "logo",
-      "uc",
-      "uc-logo"
-   ],
+    "browser-logos",
+    "logo",
+    "uc",
+    "uc-logo"
+  ],
   "name": "@browser-logos/uc",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"

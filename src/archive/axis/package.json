@@ -3,11 +3,11 @@
   "description": "Axis browser logo",
   "homepage": "https://github.com/alrra/browser-logos",
   "keywords": [
-      "browser-logos",
-      "logo",
-      "axis",
-      "axis-logo"
-   ],
+    "browser-logos",
+    "logo",
+    "axis",
+    "axis-logo"
+  ],
   "name": "@browser-logos/axis",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"

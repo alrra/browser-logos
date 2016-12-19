@@ -3,11 +3,11 @@
   "description": "Aviator browser logo",
   "homepage": "https://github.com/alrra/browser-logos",
   "keywords": [
-      "browser-logos",
-      "logo",
-      "aviator",
-      "aviator-logo"
-   ],
+    "browser-logos",
+    "logo",
+    "aviator",
+    "aviator-logo"
+  ],
   "name": "@browser-logos/aviator",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"

@@ -3,11 +3,11 @@
   "description": "Microsoft Edge browser tile logo",
   "homepage": "https://github.com/alrra/browser-logos",
   "keywords": [
-      "browser-logos",
-      "logo",
-      "microsoft-edge-tile",
-      "microsoft-edge-tile-logo"
-   ],
+    "browser-logos",
+    "logo",
+    "microsoft-edge-tile",
+    "microsoft-edge-tile-logo"
+  ],
   "name": "@browser-logos/edge-tile",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"

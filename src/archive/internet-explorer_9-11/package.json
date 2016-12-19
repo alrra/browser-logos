@@ -3,11 +3,11 @@
   "description": "Internet Explorer v9-11 browser logo",
   "homepage": "https://github.com/alrra/browser-logos",
   "keywords": [
-      "browser-logos",
-      "logo",
-      "internet-explorer",
-      "internet-explorer-logo"
-   ],
+    "browser-logos",
+    "logo",
+    "internet-explorer",
+    "internet-explorer-logo"
+  ],
   "name": "@browser-logos/internet-explorer_9-11",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"

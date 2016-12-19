@@ -3,11 +3,11 @@
   "description": "Silk browser logo",
   "homepage": "https://github.com/alrra/browser-logos",
   "keywords": [
-      "browser-logos",
-      "logo",
-      "silk",
-      "silk-logo"
-   ],
+    "browser-logos",
+    "logo",
+    "silk",
+    "silk-logo"
+  ],
   "name": "@browser-logos/silk",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"

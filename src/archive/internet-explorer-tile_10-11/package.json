@@ -3,11 +3,11 @@
   "description": "Internet Explorer v10-11 tile browser logo",
   "homepage": "https://github.com/alrra/browser-logos",
   "keywords": [
-      "browser-logos",
-      "logo",
-      "internet-explorer-tile",
-      "internet-explorer-tile-logo"
-   ],
+    "browser-logos",
+    "logo",
+    "internet-explorer-tile",
+    "internet-explorer-tile-logo"
+  ],
   "name": "@browser-logos/internet-explorer-tile_10-11",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"

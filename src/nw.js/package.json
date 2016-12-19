@@ -3,11 +3,11 @@
   "description": "NW.js browser logo",
   "homepage": "https://github.com/alrra/browser-logos",
   "keywords": [
-      "browser-logos",
-      "logo",
-      "nw.js",
-      "nw.js-logo"
-   ],
+    "browser-logos",
+    "logo",
+    "nw.js",
+    "nw.js-logo"
+  ],
   "name": "@browser-logos/nw.js",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"

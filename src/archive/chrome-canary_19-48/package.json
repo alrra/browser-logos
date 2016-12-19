@@ -3,11 +3,11 @@
   "description": "Chrome Canary v19-48 browser logo",
   "homepage": "https://github.com/alrra/browser-logos",
   "keywords": [
-      "browser-logos",
-      "logo",
-      "chrome-canary",
-      "chrome-canary-logo"
-   ],
+    "browser-logos",
+    "logo",
+    "chrome-canary",
+    "chrome-canary-logo"
+  ],
   "name": "@browser-logos/chrome-canary_19-48",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"

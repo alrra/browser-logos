@@ -3,11 +3,11 @@
   "description": "Chrome v18-36 for Android browser logo",
   "homepage": "https://github.com/alrra/browser-logos",
   "keywords": [
-      "browser-logos",
-      "logo",
-      "chrome-android",
-      "chrome-android-logo"
-   ],
+    "browser-logos",
+    "logo",
+    "chrome-android",
+    "chrome-android-logo"
+  ],
   "name": "@browser-logos/chrome-android_18-36",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"

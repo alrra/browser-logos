@@ -3,11 +3,11 @@
   "description": "Netscape v9 browser logo",
   "homepage": "https://github.com/alrra/browser-logos",
   "keywords": [
-      "browser-logos",
-      "logo",
-      "netscape",
-      "netscape-logo"
-   ],
+    "browser-logos",
+    "logo",
+    "netscape",
+    "netscape-logo"
+  ],
   "name": "@browser-logos/netscape_9",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"

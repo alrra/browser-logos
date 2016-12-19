@@ -3,11 +3,11 @@
   "description": "IceCat browser logo",
   "homepage": "https://github.com/alrra/browser-logos",
   "keywords": [
-      "browser-logos",
-      "logo",
-      "icecat",
-      "icecat-logo"
-   ],
+    "browser-logos",
+    "logo",
+    "icecat",
+    "icecat-logo"
+  ],
   "name": "@browser-logos/icecat",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"

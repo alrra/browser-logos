@@ -3,11 +3,11 @@
   "description": "Chrome Beta Android v25-36 browser logo",
   "homepage": "https://github.com/alrra/browser-logos",
   "keywords": [
-      "browser-logos",
-      "logo",
-      "chrome-beta-android",
-      "chrome-beta-android-logo"
-   ],
+    "browser-logos",
+    "logo",
+    "chrome-beta-android",
+    "chrome-beta-android-logo"
+  ],
   "name": "@browser-logos/chrome-beta-android_25-36",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"

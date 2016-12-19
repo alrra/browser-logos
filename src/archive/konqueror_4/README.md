@@ -1,17 +1,6 @@
 # Konqueror v4
 
-<table>
-    <tbody>
-        <tr>
-            <td height="512px" width="512px">
-                <a href="./"><img width="500px" src="konqueror_4_512x512.png" alt="Konqueror v4 browser logo"></a>
-            </td>
-        <tr>
-    </tbody>
-</table>
-
-
-## How to get this logo
+### How to get this logo
 
 * Install with:
 

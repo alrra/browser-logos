@@ -3,11 +3,11 @@
   "description": "Chrome Dev browser logo",
   "homepage": "https://github.com/alrra/browser-logos",
   "keywords": [
-      "browser-logos",
-      "logo",
-      "chrome-dev",
-      "chrome-dev-logo"
-   ],
+    "browser-logos",
+    "logo",
+    "chrome-dev",
+    "chrome-dev-logo"
+  ],
   "name": "@browser-logos/chrome-dev",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"

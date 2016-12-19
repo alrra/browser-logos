@@ -3,11 +3,11 @@
   "description": "Focus browser logo",
   "homepage": "https://github.com/alrra/browser-logos",
   "keywords": [
-      "browser-logos",
-      "logo",
-      "focus",
-      "focus-logo"
-   ],
+    "browser-logos",
+    "logo",
+    "focus",
+    "focus-logo"
+  ],
   "name": "@browser-logos/focus",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"

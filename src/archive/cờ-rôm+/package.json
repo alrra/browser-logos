@@ -3,11 +3,11 @@
   "description": "Cờ Rôm+ browser logo",
   "homepage": "https://github.com/alrra/browser-logos",
   "keywords": [
-      "browser-logos",
-      "logo",
-      "cờ-rôm+",
-      "cờ-rôm+-logo"
-   ],
+    "browser-logos",
+    "logo",
+    "cờ-rôm+",
+    "cờ-rôm+-logo"
+  ],
   "name": "@browser-logos/cờ-rôm+",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"

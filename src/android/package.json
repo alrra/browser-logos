@@ -3,12 +3,12 @@
   "description": "Android browser logo",
   "homepage": "https://github.com/alrra/browser-logos",
   "keywords": [
-      "browser-logos",
-      "logo",
-      "android",
-      "android-logo"
-   ],
+    "browser-logos",
+    "logo",
+    "android",
+    "android-logo"
+  ],
   "name": "@browser-logos/android",
   "repository": "alrra/browser-logos",
-  "version": "1.0.0"
+  "version": "1.0.5"
 }

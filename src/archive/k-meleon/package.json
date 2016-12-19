@@ -3,11 +3,11 @@
   "description": "K-Meleon browser logo",
   "homepage": "https://github.com/alrra/browser-logos",
   "keywords": [
-      "browser-logos",
-      "logo",
-      "k-meleon",
-      "k-meleon-logo"
-   ],
+    "browser-logos",
+    "logo",
+    "k-meleon",
+    "k-meleon-logo"
+  ],
   "name": "@browser-logos/k-meleon",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"

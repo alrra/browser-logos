@@ -3,11 +3,11 @@
   "description": "Orca browser logo",
   "homepage": "https://github.com/alrra/browser-logos",
   "keywords": [
-      "browser-logos",
-      "logo",
-      "orca",
-      "orca-logo"
-   ],
+    "browser-logos",
+    "logo",
+    "orca",
+    "orca-logo"
+  ],
   "name": "@browser-logos/orca",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"

@@ -3,11 +3,11 @@
   "description": "Opera v15-32 browser logo",
   "homepage": "https://github.com/alrra/browser-logos",
   "keywords": [
-      "browser-logos",
-      "logo",
-      "opera",
-      "opera-logo"
-   ],
+    "browser-logos",
+    "logo",
+    "opera",
+    "opera-logo"
+  ],
   "name": "@browser-logos/opera_15-32",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"

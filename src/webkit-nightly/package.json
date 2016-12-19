@@ -3,11 +3,11 @@
   "description": "WebKit Nightly browser logo",
   "homepage": "https://github.com/alrra/browser-logos",
   "keywords": [
-      "browser-logos",
-      "logo",
-      "webkit-nightly",
-      "webkit-nightly-logo"
-   ],
+    "browser-logos",
+    "logo",
+    "webkit-nightly",
+    "webkit-nightly-logo"
+  ],
   "name": "@browser-logos/webkit-nightly",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"

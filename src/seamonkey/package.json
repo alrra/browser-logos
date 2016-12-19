@@ -3,11 +3,11 @@
   "description": "SeaMonkey browser logo",
   "homepage": "https://github.com/alrra/browser-logos",
   "keywords": [
-      "browser-logos",
-      "logo",
-      "seamonkey",
-      "seamonkey-logo"
-   ],
+    "browser-logos",
+    "logo",
+    "seamonkey",
+    "seamonkey-logo"
+  ],
   "name": "@browser-logos/seamonkey",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"

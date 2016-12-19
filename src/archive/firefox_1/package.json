@@ -3,11 +3,11 @@
   "description": "Firefox v1 browser logo",
   "homepage": "https://github.com/alrra/browser-logos",
   "keywords": [
-      "browser-logos",
-      "logo",
-      "firefox",
-      "firefox-logo"
-   ],
+    "browser-logos",
+    "logo",
+    "firefox",
+    "firefox-logo"
+  ],
   "name": "@browser-logos/firefox_1",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"

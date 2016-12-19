@@ -3,11 +3,11 @@
   "description": "OmniWeb v1-5 browser logo",
   "homepage": "https://github.com/alrra/browser-logos",
   "keywords": [
-      "browser-logos",
-      "logo",
-      "omniweb",
-      "omniweb-logo"
-   ],
+    "browser-logos",
+    "logo",
+    "omniweb",
+    "omniweb-logo"
+  ],
   "name": "@browser-logos/omniweb_1-5",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"

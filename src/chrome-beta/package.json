@@ -3,11 +3,11 @@
   "description": "Chrome Beta browser logo",
   "homepage": "https://github.com/alrra/browser-logos",
   "keywords": [
-      "browser-logos",
-      "logo",
-      "chrome-beta",
-      "chrome-beta-logo"
-   ],
+    "browser-logos",
+    "logo",
+    "chrome-beta",
+    "chrome-beta-logo"
+  ],
   "name": "@browser-logos/chrome-beta",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"

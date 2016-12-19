@@ -3,11 +3,11 @@
   "description": "Firefox Beta browser logo",
   "homepage": "https://github.com/alrra/browser-logos",
   "keywords": [
-      "browser-logos",
-      "logo",
-      "firefox-beta",
-      "firefox-beta-logo"
-   ],
+    "browser-logos",
+    "logo",
+    "firefox-beta",
+    "firefox-beta-logo"
+  ],
   "name": "@browser-logos/firefox-beta",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"

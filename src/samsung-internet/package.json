@@ -3,11 +3,11 @@
   "description": "Samsung Internet browser logo",
   "homepage": "https://github.com/alrra/browser-logos",
   "keywords": [
-      "browser-logos",
-      "logo",
-      "samsung-internet",
-      "samsung-internet-logo"
-   ],
+    "browser-logos",
+    "logo",
+    "samsung-internet",
+    "samsung-internet-logo"
+  ],
   "name": "@browser-logos/samsung-internet",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"

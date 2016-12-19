@@ -3,11 +3,11 @@
   "description": "Firefox Nightly browser logo",
   "homepage": "https://github.com/alrra/browser-logos",
   "keywords": [
-      "browser-logos",
-      "logo",
-      "firefox-nightly",
-      "firefox-nightly-logo"
-   ],
+    "browser-logos",
+    "logo",
+    "firefox-nightly",
+    "firefox-nightly-logo"
+  ],
   "name": "@browser-logos/firefox-nightly",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"

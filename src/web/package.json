@@ -3,11 +3,11 @@
   "description": "Web browser logo",
   "homepage": "https://github.com/alrra/browser-logos",
   "keywords": [
-      "browser-logos",
-      "logo",
-      "web",
-      "web-logo"
-   ],
+    "browser-logos",
+    "logo",
+    "web",
+    "web-logo"
+  ],
   "name": "@browser-logos/web",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"

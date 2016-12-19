@@ -3,11 +3,11 @@
   "description": "Chromium v12-48 browser logo",
   "homepage": "https://github.com/alrra/browser-logos",
   "keywords": [
-      "browser-logos",
-      "logo",
-      "chromium",
-      "chromium-logo"
-   ],
+    "browser-logos",
+    "logo",
+    "chromium",
+    "chromium-logo"
+  ],
   "name": "@browser-logos/chromium_12-48",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"

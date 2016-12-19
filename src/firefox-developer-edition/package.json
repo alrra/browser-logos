@@ -3,11 +3,11 @@
   "description": "Firefox Developer Edition browser logo",
   "homepage": "https://github.com/alrra/browser-logos",
   "keywords": [
-      "browser-logos",
-      "logo",
-      "firefox-developer-edition",
-      "firefox-developer-edition-logo"
-   ],
+    "browser-logos",
+    "logo",
+    "firefox-developer-edition",
+    "firefox-developer-edition-logo"
+  ],
   "name": "@browser-logos/firefox-developer-edition",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"

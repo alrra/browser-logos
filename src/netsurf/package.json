@@ -3,12 +3,12 @@
   "description": "NetSurf browser logo",
   "homepage": "https://github.com/alrra/browser-logos",
   "keywords": [
-      "browser-logos",
-      "logo",
-      "netsurf",
-      "netsurf-logo"
-   ],
+    "browser-logos",
+    "logo",
+    "netsurf",
+    "netsurf-logo"
+  ],
   "name": "@browser-logos/netsurf",
   "repository": "alrra/browser-logos",
-  "version": "1.0.0"
+  "version": "1.0.2"
 }

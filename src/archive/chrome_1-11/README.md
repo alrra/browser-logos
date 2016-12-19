@@ -1,17 +1,6 @@
 # Chrome v1-11
 
-<table>
-    <tbody>
-        <tr>
-            <td height="512px" width="512px">
-                <a href="./"><img width="500px" src="chrome_1-11_512x512.png" alt="Chrome v1-11 browser logo"></a>
-            </td>
-        <tr>
-    </tbody>
-</table>
-
-
-## How to get this logo
+### How to get this logo
 
 * Install with:
 

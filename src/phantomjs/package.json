@@ -3,11 +3,11 @@
   "description": "PhantomJS browser logo",
   "homepage": "https://github.com/alrra/browser-logos",
   "keywords": [
-      "browser-logos",
-      "logo",
-      "phantomjs",
-      "phantomjs-logo"
-   ],
+    "browser-logos",
+    "logo",
+    "phantomjs",
+    "phantomjs-logo"
+  ],
   "name": "@browser-logos/phantomjs",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"

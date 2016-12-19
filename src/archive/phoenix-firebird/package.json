@@ -3,11 +3,11 @@
   "description": "Phoenix/Firebird browser logo",
   "homepage": "https://github.com/alrra/browser-logos",
   "keywords": [
-      "browser-logos",
-      "logo",
-      "phoenix",
-      "phoenix-logo"
-   ],
+    "browser-logos",
+    "logo",
+    "phoenix",
+    "phoenix-logo"
+  ],
   "name": "@browser-logos/phoenix-firebird",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"

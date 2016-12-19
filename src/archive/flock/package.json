@@ -3,11 +3,11 @@
   "description": "Flock browser logo",
   "homepage": "https://github.com/alrra/browser-logos",
   "keywords": [
-      "browser-logos",
-      "logo",
-      "flock",
-      "flock-logo"
-   ],
+    "browser-logos",
+    "logo",
+    "flock",
+    "flock-logo"
+  ],
   "name": "@browser-logos/flock",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"

@@ -3,11 +3,11 @@
   "description": "Camino browser logo",
   "homepage": "https://github.com/alrra/browser-logos",
   "keywords": [
-      "browser-logos",
-      "logo",
-      "camino",
-      "camino-logo"
-   ],
+    "browser-logos",
+    "logo",
+    "camino",
+    "camino-logo"
+  ],
   "name": "@browser-logos/camino",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"

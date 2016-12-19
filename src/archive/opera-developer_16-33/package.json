@@ -3,11 +3,11 @@
   "description": "Opera Developer v16-33 browser logo",
   "homepage": "https://github.com/alrra/browser-logos",
   "keywords": [
-      "browser-logos",
-      "logo",
-      "opera-developer",
-      "opera-developer-logo"
-   ],
+    "browser-logos",
+    "logo",
+    "opera-developer",
+    "opera-developer-logo"
+  ],
   "name": "@browser-logos/opera-developer_16-33",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"

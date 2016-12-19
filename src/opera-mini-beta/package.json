@@ -3,11 +3,11 @@
   "description": "Opera Mini Beta browser logo",
   "homepage": "https://github.com/alrra/browser-logos",
   "keywords": [
-      "browser-logos",
-      "logo",
-      "opera-mini-beta",
-      "opera-mini-beta-logo"
-   ],
+    "browser-logos",
+    "logo",
+    "opera-mini-beta",
+    "opera-mini-beta-logo"
+  ],
   "name": "@browser-logos/opera-mini-beta",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"

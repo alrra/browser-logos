@@ -3,11 +3,11 @@
   "description": "Links browser logo",
   "homepage": "https://github.com/alrra/browser-logos",
   "keywords": [
-      "browser-logos",
-      "logo",
-      "links",
-      "links-logo"
-   ],
+    "browser-logos",
+    "logo",
+    "links",
+    "links-logo"
+  ],
   "name": "@browser-logos/links",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"

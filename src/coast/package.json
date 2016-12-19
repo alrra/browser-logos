@@ -3,11 +3,11 @@
   "description": "Coast browser logo",
   "homepage": "https://github.com/alrra/browser-logos",
   "keywords": [
-      "browser-logos",
-      "logo",
-      "coast",
-      "coast-logo"
-   ],
+    "browser-logos",
+    "logo",
+    "coast",
+    "coast-logo"
+  ],
   "name": "@browser-logos/coast",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"

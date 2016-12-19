@@ -3,11 +3,11 @@
   "description": "Safari browser logo",
   "homepage": "https://github.com/alrra/browser-logos",
   "keywords": [
-      "browser-logos",
-      "logo",
-      "safari",
-      "safari-logo"
-   ],
+    "browser-logos",
+    "logo",
+    "safari",
+    "safari-logo"
+  ],
   "name": "@browser-logos/safari",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"

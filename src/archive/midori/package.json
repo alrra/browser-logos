@@ -3,11 +3,11 @@
   "description": "Midori browser logo",
   "homepage": "https://github.com/alrra/browser-logos",
   "keywords": [
-      "browser-logos",
-      "logo",
-      "midori",
-      "midori-logo"
-   ],
+    "browser-logos",
+    "logo",
+    "midori",
+    "midori-logo"
+  ],
   "name": "@browser-logos/midori",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"

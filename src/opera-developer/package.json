@@ -3,11 +3,11 @@
   "description": "Opera Developer browser logo",
   "homepage": "https://github.com/alrra/browser-logos",
   "keywords": [
-      "browser-logos",
-      "logo",
-      "opera-developer",
-      "opera-developer-logo"
-   ],
+    "browser-logos",
+    "logo",
+    "opera-developer",
+    "opera-developer-logo"
+  ],
   "name": "@browser-logos/opera-developer",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"

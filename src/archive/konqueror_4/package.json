@@ -3,11 +3,11 @@
   "description": "Konqueror v4 browser logo",
   "homepage": "https://github.com/alrra/browser-logos",
   "keywords": [
-      "browser-logos",
-      "logo",
-      "konqueror",
-      "konqueror-logo"
-   ],
+    "browser-logos",
+    "logo",
+    "konqueror",
+    "konqueror-logo"
+  ],
   "name": "@browser-logos/konqueror_4",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"

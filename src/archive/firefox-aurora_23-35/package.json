@@ -3,11 +3,11 @@
   "description": "Firefox Aurora v23-35 browser logo",
   "homepage": "https://github.com/alrra/browser-logos",
   "keywords": [
-      "browser-logos",
-      "logo",
-      "firefox-aurora",
-      "firefox-aurora-logo"
-   ],
+    "browser-logos",
+    "logo",
+    "firefox-aurora",
+    "firefox-aurora-logo"
+  ],
   "name": "@browser-logos/firefox-aurora_23-35",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"

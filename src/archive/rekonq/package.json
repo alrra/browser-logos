@@ -3,11 +3,11 @@
   "description": "Rekonq browser logo",
   "homepage": "https://github.com/alrra/browser-logos",
   "keywords": [
-      "browser-logos",
-      "logo",
-      "rekonq",
-      "rekonq-logo"
-   ],
+    "browser-logos",
+    "logo",
+    "rekonq",
+    "rekonq-logo"
+  ],
   "name": "@browser-logos/rekonq",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"

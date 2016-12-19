@@ -3,11 +3,11 @@
   "description": "Mosaic browser logo",
   "homepage": "https://github.com/alrra/browser-logos",
   "keywords": [
-      "browser-logos",
-      "logo",
-      "mosaic",
-      "mosaic-logo"
-   ],
+    "browser-logos",
+    "logo",
+    "mosaic",
+    "mosaic-logo"
+  ],
   "name": "@browser-logos/mosaic",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"
