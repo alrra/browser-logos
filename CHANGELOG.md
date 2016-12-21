@@ -2,6 +2,7 @@
 
 #### New features
 
+* Add `qutebrowser` logo.
 * [[`16ce45608b`](https://github.com/alrra/browser-logos/commit/16ce45608bfd3ba4c8e352a1561a3c8f32061f88)] -
   Publish `Wyzo` logo on `npm`.
 * [[`0d7a88ff1f`](https://github.com/alrra/browser-logos/commit/0d7a88ff1f45eeeecc363ffea63855c6847223ff)] -

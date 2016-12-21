@@ -606,6 +606,21 @@
     </tbody>
 </table>
 
+### qutebrowser
+
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://www.qutebrowser.org/">qutebrowser</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="qutebrowser"><img width=140 src="qutebrowser/qutebrowser_256x256.png" alt="qutebrowser browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
+
 ### Safari
 
 <table>
