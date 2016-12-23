@@ -1,8 +1,25 @@
 ## HEAD
 
+#### Breaking changes
+
+* [[`712f85a6d2`](https://github.com/alrra/browser-logos/commit/712f85a6d2c0738df691d7774f3b0d4d57f8d033)] -
+  Rename `phoenix_firebird` to `phoenix-firebird`.
+* [[`a335e3357a`](https://github.com/alrra/browser-logos/commit/a335e3357a524160c33e9b0c33b72f7d57d58c6e)] -
+  Move logos into `src/`.
+* [[`a831983776`](https://github.com/alrra/browser-logos/commit/a83198377651d7c74d7a7b6fb2deb1df9b541c8d)] -
+  Move `Internet Explorer tile` into the `archive`.
+* [[`5b1ff95395`](https://github.com/alrra/browser-logos/commit/5b1ff95395df6cdec100db3375c888cdb1b75e08)] -
+  Move `Internet Explorer` into the `archive`.
+
+#### Bug fixes / Improvements
+
+* [[`51d5fe5001`](https://github.com/alrra/browser-logos/commit/51d5fe5001d307e2b6c30f6a313185224f61da4c)] -
+  Further optimize `qutebrowser.svg`.
+
 #### New features
 
-* Add `qutebrowser` logo.
+* [[`902c0d9855`](https://github.com/alrra/browser-logos/commit/902c0d985570ffba65dc6c1c841d3a8f239eb87d)] -
+  Add `qutebrowser` logo.
 * [[`16ce45608b`](https://github.com/alrra/browser-logos/commit/16ce45608bfd3ba4c8e352a1561a3c8f32061f88)] -
   Publish `Wyzo` logo on `npm`.
 * [[`0d7a88ff1f`](https://github.com/alrra/browser-logos/commit/0d7a88ff1f45eeeecc363ffea63855c6847223ff)] -
@@ -85,8 +102,6 @@
   Publish `Fennec` logo on `npm`.
 * [[`bcc93f6c19`](https://github.com/alrra/browser-logos/commit/bcc93f6c199ecf3b2f0280f8c632c1c6c8fb34ef)] -
   Publish `Epiphany` logo on `npm`.
-* [[`88a3ce2d2c`](https://github.com/alrra/browser-logos/commit/88a3ce2d2c7436eb76b6f02c3caa1f245a5a8598)] -
-  Publish `Cờ Rôm+` logo on `npm`.
 * [[`4c1e17ad6b`](https://github.com/alrra/browser-logos/commit/4c1e17ad6b85437378cdf64e63434da21d4ba1a7)] -
   Publish `Chromium v12-48` logo on `npm`.
 * [[`7bbaf774b3`](https://github.com/alrra/browser-logos/commit/7bbaf774b3a67e94e22296126a3f5c7fa184a5f7)] -
@@ -187,21 +202,6 @@
   Publish `Android WebView Beta` logo on `npm`.
 * [[`fa11225e81`](https://github.com/alrra/browser-logos/commit/fa11225e81183bf902c37e8a08c686826386df22)] -
   Publish `Android` browser logo on `npm`.
-
-#### Breaking changes
-
-* [[`712f85a6d2`](https://github.com/alrra/browser-logos/commit/712f85a6d2c0738df691d7774f3b0d4d57f8d033)] -
-  Rename `phoenix_firebird` to `phoenix-firebird`.
-* [[`a335e3357a`](https://github.com/alrra/browser-logos/commit/a335e3357a524160c33e9b0c33b72f7d57d58c6e)] -
-  Move logos into `src/`.
-* [[`a831983776`](https://github.com/alrra/browser-logos/commit/a83198377651d7c74d7a7b6fb2deb1df9b541c8d)] -
-  Move `Internet Explorer tile` into the `archive`.
-* [[`5b1ff95395`](https://github.com/alrra/browser-logos/commit/5b1ff95395df6cdec100db3375c888cdb1b75e08)] -
-  Move `Internet Explorer` into the `archive`.
-
-#### Bug fixes / Improvements
-
-* Further optimize `qutebrowser.svg`.
 
 
 ## 37.2.1 (November 18, 2016)
