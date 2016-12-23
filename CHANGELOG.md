@@ -188,7 +188,6 @@
 * [[`fa11225e81`](https://github.com/alrra/browser-logos/commit/fa11225e81183bf902c37e8a08c686826386df22)] -
   Publish `Android` browser logo on `npm`.
 
-
 #### Breaking changes
 
 * [[`712f85a6d2`](https://github.com/alrra/browser-logos/commit/712f85a6d2c0738df691d7774f3b0d4d57f8d033)] -
@@ -199,6 +198,10 @@
   Move `Internet Explorer tile` into the `archive`.
 * [[`5b1ff95395`](https://github.com/alrra/browser-logos/commit/5b1ff95395df6cdec100db3375c888cdb1b75e08)] -
   Move `Internet Explorer` into the `archive`.
+
+#### Bug fixes / Improvements
+
+* Further optimize `qutebrowser.svg`.
 
 
 ## 37.2.1 (November 18, 2016)
