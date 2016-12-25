@@ -1,0 +1,14 @@
+{
+  "bugs": "https://github.com/alrra/browser-logos/issues",
+  "description": "Dolphin browser logo",
+  "homepage": "https://github.com/alrra/browser-logos",
+  "keywords": [
+      "browser-logos",
+      "logo",
+      "dolphin",
+      "dolphin-logo"
+   ],
+  "name": "@browser-logos/dolphin",
+  "repository": "alrra/browser-logos",
+  "version": "1.0.0"
+}

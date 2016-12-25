@@ -2,6 +2,7 @@
 
 #### New features
 
+* Publish the `Dolphin` logo on `npm`.
 * Publish the `Wyzo` logo on `npm`.
 * Publish the `WebPositive` logo on `npm`.
 * Publish the `SRWare Iron` logo on `npm`.
