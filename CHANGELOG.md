@@ -2,7 +2,8 @@
 
 #### Breaking changes
 
-* Move `Omega` into the `archive`.
+* [[`fafa085c97`](https://github.com/alrra/browser-logos/commit/fafa085c97ca02622adc8234ac6a19f1f5fca36d)] -
+  Move `Omega` into the `archive`.
 
 #### New features
 
