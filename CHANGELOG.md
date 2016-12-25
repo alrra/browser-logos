@@ -2,6 +2,7 @@
 
 #### New features
 
+* Publish the `KidZui` logo on `npm`.
 * Publish the `Iceape` logo on `npm`.
 * Publish the `Fake` logo on `npm`.
 * Publish the `Cruz` logo on `npm`.
