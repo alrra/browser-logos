@@ -2,6 +2,7 @@
 
 #### New features
 
+* Publish the `Orweb` logo on `npm`.
 * Publish the `KidZui` logo on `npm`.
 * Publish the `Iceape` logo on `npm`.
 * Publish the `Fake` logo on `npm`.
