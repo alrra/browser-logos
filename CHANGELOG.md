@@ -2,6 +2,7 @@
 
 #### New features
 
+* Publish the `Iridium` logo on `npm`.
 * Publish the `Epic` logo on `npm`.
 * Publish the `Dolphin` logo on `npm`.
 * Publish the `Wyzo` logo on `npm`.
