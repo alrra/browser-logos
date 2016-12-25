@@ -1,3 +1,9 @@
+## HEAD
+
+#### New features
+
+* Publish the `Cruz` logo on `npm`.
+
 ## 38.0.0 (December 24, 2016)
 
 #### Breaking changes
