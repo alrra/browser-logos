@@ -2,6 +2,7 @@
 
 #### New features
 
+* Publish the `SRWare Iron` logo on `npm`.
 * Publish the `Skyfire` for `iOS` logo on `npm`.
 * Publish the `Skyfire` for `Android` logo on `npm`.
 * Publish the `Rockmelt` for `iOS` logo on `npm`.
