@@ -2,6 +2,7 @@
 
 #### New features
 
+* Publish the `Rockmelt` for `iOS` logo on `npm`.
 * Publish the `Rockmelt` logo on `npm`.
 * Publish the `Orweb` logo on `npm`.
 * Publish the `KidZui` logo on `npm`.
