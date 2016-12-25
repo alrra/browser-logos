@@ -2,6 +2,7 @@
 
 #### New features
 
+* Publish the `QupZilla` logo on `npm`.
 * Publish the `Pale Moon` logo on `npm`.
 * Publish the `MIHTool` logo on `npm`.
 * Publish the `Iridium` logo on `npm`.
