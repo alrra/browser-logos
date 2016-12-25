@@ -2,6 +2,7 @@
 
 #### New features
 
+* Publish the `Skyfire` for `Android` logo on `npm`.
 * Publish the `Rockmelt` for `iOS` logo on `npm`.
 * Publish the `Rockmelt` logo on `npm`.
 * Publish the `Orweb` logo on `npm`.
