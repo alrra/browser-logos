@@ -2,6 +2,7 @@
 
 #### New features
 
+* Publish the `Fake` logo on `npm`.
 * Publish the `Cruz` logo on `npm`.
 
 ## 38.0.0 (December 24, 2016)
