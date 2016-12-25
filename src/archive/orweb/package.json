@@ -3,11 +3,11 @@
   "description": "Orweb browser logo",
   "homepage": "https://github.com/alrra/browser-logos",
   "keywords": [
-      "browser-logos",
-      "logo",
-      "orweb",
-      "orweb-logo"
-   ],
+    "browser-logos",
+    "logo",
+    "orweb",
+    "orweb-logo"
+  ],
   "name": "@browser-logos/orweb",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"

@@ -3,11 +3,11 @@
   "description": "Cruz browser logo",
   "homepage": "https://github.com/alrra/browser-logos",
   "keywords": [
-      "browser-logos",
-      "logo",
-      "cruz",
-      "cruz-logo"
-   ],
+    "browser-logos",
+    "logo",
+    "cruz",
+    "cruz-logo"
+  ],
   "name": "@browser-logos/cruz",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"

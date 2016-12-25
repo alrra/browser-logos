@@ -3,11 +3,11 @@
   "description": "MIHTool browser logo",
   "homepage": "https://github.com/alrra/browser-logos",
   "keywords": [
-      "browser-logos",
-      "logo",
-      "mihtool",
-      "mihtool-logo"
-   ],
+    "browser-logos",
+    "logo",
+    "mihtool",
+    "mihtool-logo"
+  ],
   "name": "@browser-logos/mihtool",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"

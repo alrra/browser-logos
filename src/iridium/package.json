@@ -3,11 +3,11 @@
   "description": "Iridium browser logo",
   "homepage": "https://github.com/alrra/browser-logos",
   "keywords": [
-      "browser-logos",
-      "logo",
-      "iridium",
-      "iridium-logo"
-   ],
+    "browser-logos",
+    "logo",
+    "iridium",
+    "iridium-logo"
+  ],
   "name": "@browser-logos/iridium",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"

@@ -3,11 +3,11 @@
   "description": "WebPositive browser logo",
   "homepage": "https://github.com/alrra/browser-logos",
   "keywords": [
-      "browser-logos",
-      "logo",
-      "webpositive",
-      "webpositive-logo"
-   ],
+    "browser-logos",
+    "logo",
+    "webpositive",
+    "webpositive-logo"
+  ],
   "name": "@browser-logos/webpositive",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"

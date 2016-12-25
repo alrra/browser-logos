@@ -3,11 +3,11 @@
   "description": "Iceape browser logo",
   "homepage": "https://github.com/alrra/browser-logos",
   "keywords": [
-      "browser-logos",
-      "logo",
-      "iceape",
-      "iceape-logo"
-   ],
+    "browser-logos",
+    "logo",
+    "iceape",
+    "iceape-logo"
+  ],
   "name": "@browser-logos/iceape",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"

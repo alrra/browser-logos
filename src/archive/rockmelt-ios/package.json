@@ -3,11 +3,11 @@
   "description": "Rockmelt for iOS browser logo",
   "homepage": "https://github.com/alrra/browser-logos",
   "keywords": [
-      "browser-logos",
-      "logo",
-      "rockmelt-ios",
-      "rockmelt-ios-logo"
-   ],
+    "browser-logos",
+    "logo",
+    "rockmelt-ios",
+    "rockmelt-ios-logo"
+  ],
   "name": "@browser-logos/rockmelt-ios",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"

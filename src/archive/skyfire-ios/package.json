@@ -3,11 +3,11 @@
   "description": "Skyfire for iOS browser logo",
   "homepage": "https://github.com/alrra/browser-logos",
   "keywords": [
-      "browser-logos",
-      "logo",
-      "skyfire-ios",
-      "skyfire-ios-logo"
-   ],
+    "browser-logos",
+    "logo",
+    "skyfire-ios",
+    "skyfire-ios-logo"
+  ],
   "name": "@browser-logos/skyfire-ios",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"

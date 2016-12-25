@@ -3,11 +3,11 @@
   "description": "QupZilla browser logo",
   "homepage": "https://github.com/alrra/browser-logos",
   "keywords": [
-      "browser-logos",
-      "logo",
-      "qupzilla",
-      "qupzilla-logo"
-   ],
+    "browser-logos",
+    "logo",
+    "qupzilla",
+    "qupzilla-logo"
+  ],
   "name": "@browser-logos/qupzilla",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"

@@ -3,11 +3,11 @@
   "description": "SRWare Iron browser logo",
   "homepage": "https://github.com/alrra/browser-logos",
   "keywords": [
-      "browser-logos",
-      "logo",
-      "srware-iron",
-      "srware-iron-logo"
-   ],
+    "browser-logos",
+    "logo",
+    "srware-iron",
+    "srware-iron-logo"
+  ],
   "name": "@browser-logos/srware-iron",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"

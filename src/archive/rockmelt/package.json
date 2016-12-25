@@ -3,11 +3,11 @@
   "description": "Rockmelt browser logo",
   "homepage": "https://github.com/alrra/browser-logos",
   "keywords": [
-      "browser-logos",
-      "logo",
-      "rockmelt",
-      "rockmelt-logo"
-   ],
+    "browser-logos",
+    "logo",
+    "rockmelt",
+    "rockmelt-logo"
+  ],
   "name": "@browser-logos/rockmelt",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"

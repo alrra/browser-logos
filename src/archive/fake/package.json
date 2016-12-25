@@ -3,11 +3,11 @@
   "description": "Fake browser logo",
   "homepage": "https://github.com/alrra/browser-logos",
   "keywords": [
-      "browser-logos",
-      "logo",
-      "fake",
-      "fake-logo"
-   ],
+    "browser-logos",
+    "logo",
+    "fake",
+    "fake-logo"
+  ],
   "name": "@browser-logos/fake",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"

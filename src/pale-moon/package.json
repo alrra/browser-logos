@@ -3,11 +3,11 @@
   "description": "Pale Moon browser logo",
   "homepage": "https://github.com/alrra/browser-logos",
   "keywords": [
-      "browser-logos",
-      "logo",
-      "pale-moon",
-      "pale-moon-logo"
-   ],
+    "browser-logos",
+    "logo",
+    "pale-moon",
+    "pale-moon-logo"
+  ],
   "name": "@browser-logos/pale-moon",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"

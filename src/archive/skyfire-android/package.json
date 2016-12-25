@@ -3,11 +3,11 @@
   "description": "Skyfire for Android browser logo",
   "homepage": "https://github.com/alrra/browser-logos",
   "keywords": [
-      "browser-logos",
-      "logo",
-      "skyfire-android",
-      "skyfire-android-logo"
-   ],
+    "browser-logos",
+    "logo",
+    "skyfire-android",
+    "skyfire-android-logo"
+  ],
   "name": "@browser-logos/skyfire-android",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"
