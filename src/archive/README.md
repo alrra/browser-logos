@@ -3,7 +3,7 @@
 <table>
     <thead>
         <tr>
-            <th><a href="https://en.wikipedia.org/wiki/360_Secure_Browser">360 Secure</a></th>
+            <th><a href="https://en.wikipedia.org/wiki/360_Secure_Browser">360 Secure</a> <a href="#note"><code>*</code></a></th>
         </tr>
     </thead>
     <tbody>
@@ -18,7 +18,7 @@
 <table>
     <thead>
         <tr>
-            <th><a href="https://web.archive.org/web/20141218215235/http://www.adrenalinemobility.com/">Adrenaline</a></th>
+            <th><a href="https://web.archive.org/web/20141218215235/http://www.adrenalinemobility.com/">Adrenaline</a> <a href="#note"><code>*</code></a></th>
         </tr>
     </thead>
     <tbody>
@@ -33,7 +33,7 @@
 <table>
     <thead>
         <tr>
-            <th><a href="https://web.archive.org/web/20160316122907/http://airwebapp.com/">AirWeb</a></th>
+            <th><a href="https://web.archive.org/web/20160316122907/http://airwebapp.com/">AirWeb</a> <a href="#note"><code>*</code></a></th>
         </tr>
     </thead>
     <tbody>
@@ -48,7 +48,7 @@
 <table>
     <thead>
         <tr>
-            <th><a href="https://web.archive.org/web/20150801011234/http://allinonebrowser.com/">AllInOne</a></th>
+            <th><a href="https://web.archive.org/web/20150801011234/http://allinonebrowser.com/">AllInOne</a> <a href="#note"><code>*</code></a></th>
         </tr>
     </thead>
     <tbody>
@@ -78,7 +78,7 @@
 <table>
     <thead>
         <tr>
-            <th><a href="https://web.archive.org/web/20141006164535/http://apollobrowser.wordpress.com/the-most-innovative-browser-for-ipad/">Apollo</a></th>
+            <th><a href="https://web.archive.org/web/20141006164535/http://apollobrowser.wordpress.com/the-most-innovative-browser-for-ipad/">Apollo</a> <a href="#note"><code>*</code></a></th>
         </tr>
     </thead>
     <tbody>
@@ -108,7 +108,7 @@
 <table>
     <thead>
         <tr>
-            <th><a href="https://web.archive.org/web/20150801050429/http://atomicwebbrowser.com/">Atomic</a></th>
+            <th><a href="https://web.archive.org/web/20150801050429/http://atomicwebbrowser.com/">Atomic</a> <a href="#note"><code>*</code></a></th>
         </tr>
     </thead>
     <tbody>
@@ -172,7 +172,7 @@
 <table>
     <thead>
         <tr>
-            <td><a href="https://github.com/breach">Breach</a> <a href="#note"><code>*</code></a></td>
+            <th><a href="https://github.com/breach">Breach</a> <a href="#note"><code>*</code></a></th>
         </tr>
     </thead>
     <tbody>
@@ -202,7 +202,7 @@
 <table>
     <thead>
         <tr>
-            <th><a href="https://en.wikipedia.org/wiki/Cheetah_Mobile">Cheetah</a></th>
+            <th><a href="https://en.wikipedia.org/wiki/Cheetah_Mobile">Cheetah</a> <a href="#note"><code>*</code></a></th>
         </tr>
     </thead>
     <tbody>
@@ -392,7 +392,7 @@
 <table>
     <thead>
         <tr>
-            <th><a href="https://en.wikipedia.org/wiki/Dolphin_Browser">Dolphin<br>Beta</a></th>
+            <th><a href="https://en.wikipedia.org/wiki/Dolphin_Browser">Dolphin<br>Beta</a> <a href="#note"><code>*</code></a></th>
         </tr>
     </thead>
     <tbody>
@@ -407,7 +407,7 @@
 <table>
     <thead>
         <tr>
-            <th><a href="https://en.wikipedia.org/wiki/Dolphin_Browser">Dolphin<br>Zero</a></th>
+            <th><a href="https://en.wikipedia.org/wiki/Dolphin_Browser">Dolphin<br>Zero</a> <a href="#note"><code>*</code></a></th>
         </tr>
     </thead>
     <tbody>
@@ -422,7 +422,7 @@
 <table>
     <thead>
         <tr>
-            <th><a href="https://github.com/jcs/endless">Endless</a></th>
+            <th><a href="https://github.com/jcs/endless">Endless</a> <a href="#note"><code>*</code></a></th>
         </tr>
     </thead>
     <tbody>
@@ -582,7 +582,7 @@
 <table>
     <thead>
         <tr>
-            <th><a href="https://en.wikipedia.org/wiki/GreenBrowser">GreenBrowser</a></th>
+            <th><a href="https://en.wikipedia.org/wiki/GreenBrowser">GreenBrowser</a> <a href="#note"><code>*</code></a></th>
         </tr>
     </thead>
     <tbody>
@@ -695,7 +695,7 @@
 <table>
     <thead>
         <tr>
-            <th><a href="https://en.wikipedia.org/wiki/K9_Web_Protection">K9</a></th>
+            <th><a href="https://en.wikipedia.org/wiki/K9_Web_Protection">K9</a> <a href="#note"><code>*</code></a></th>
         </tr>
     </thead>
     <tbody>
@@ -742,7 +742,7 @@
 <table>
     <thead>
         <tr>
-            <th><a href="https://en.wikipedia.org/wiki/Kylo_%28web_browser%29">Kylo</a></th>
+            <th><a href="https://en.wikipedia.org/wiki/Kylo_%28web_browser%29">Kylo</a> <a href="#note"><code>*</code></a></th>
         </tr>
     </thead>
     <tbody>
@@ -804,7 +804,7 @@
 <table>
     <thead>
         <tr>
-            <th><a href="https://github.com/liri-project/liri-browser#readme">Liri</a></th>
+            <th><a href="https://github.com/liri-project/liri-browser#readme">Liri</a> <a href="#note"><code>*</code></a></th>
         </tr>
     </thead>
     <tbody>
@@ -928,7 +928,7 @@
 <table>
     <thead>
         <tr>
-            <th><a href="https://web.archive.org/web/20141023171026/http://www.moznet.bplaced.net/">Moznet Fire</a></th>
+            <th><a href="https://web.archive.org/web/20141023171026/http://www.moznet.bplaced.net/">Moznet Fire</a> <a href="#note"><code>*</code></a></th>
         </tr>
     </thead>
     <tbody>
@@ -962,7 +962,7 @@
 <table>
     <thead>
         <tr>
-            <th><a href="https://web.archive.org/web/20141116131240/http://nextbrowser.goforandroid.com/">Next</a></th>
+            <th><a href="https://web.archive.org/web/20141116131240/http://nextbrowser.goforandroid.com/">Next</a> <a href="#note"><code>*</code></a></th>
         </tr>
     </thead>
     <tbody>
@@ -1009,7 +1009,7 @@
 <table>
     <thead>
         <tr>
-            <th><a href="https://web.archive.org/web/20150411053800/http://e.netpia.com/">NLIA</a></th>
+            <th><a href="https://web.archive.org/web/20150411053800/http://e.netpia.com/">NLIA</a> <a href="#note"><code>*</code></a></th>
         </tr>
     </thead>
     <tbody>
@@ -1156,7 +1156,7 @@
 <table>
     <thead>
         <tr>
-            <th><a href="https://web.archive.org/web/20150629011134/http://www.appsverse.com/Index">Photon</a></th>
+            <th><a href="https://web.archive.org/web/20150629011134/http://www.appsverse.com/Index">Photon</a> <a href="#note"><code>*</code></a></th>
         </tr>
     </thead>
     <tbody>
@@ -1219,7 +1219,7 @@
 <table>
     <thead>
         <tr>
-            <th><a href="https://web.archive.org/web/20160708015650/http://runecats.com/">Roccat</a></th>
+            <th><a href="https://web.archive.org/web/20160708015650/http://runecats.com/">Roccat</a> <a href="#note"><code>*</code></a></th>
         </tr>
     </thead>
     <tbody>
@@ -1311,8 +1311,8 @@
 <table>
     <thead>
         <tr>
-            <th><a href="https://en.wikipedia.org/wiki/Skyfire_%28company%29#Skyfire_Web_Browser">Skyfire<br>(Android)</a> <a href="#note"><code>*</code></a></th>
-            <th><a href="https://en.wikipedia.org/wiki/Skyfire_%28company%29#Skyfire_Web_Browser">Skyfire<br>(iOS)</a> <a href="#note"><code>*</code></a></th>
+            <th><a href="https://en.wikipedia.org/wiki/Skyfire_%28company%29#Skyfire_Web_Browser">Skyfire<br>(Android)</a></th>
+            <th><a href="https://en.wikipedia.org/wiki/Skyfire_%28company%29#Skyfire_Web_Browser">Skyfire<br>(iOS)</a></th>
         </tr>
     </thead>
     <tbody>
@@ -1343,7 +1343,7 @@
 <table>
     <thead>
         <tr>
-            <th><a href="https://en.wikipedia.org/wiki/SlimBrowser">SlimBoat</a></th>
+            <th><a href="https://en.wikipedia.org/wiki/SlimBrowser">SlimBoat</a> <a href="#note"><code>*</code></a></th>
         </tr>
     </thead>
     <tbody>
@@ -1390,7 +1390,7 @@
 <table>
     <thead>
         <tr>
-            <th><a href="https://github.com/mesadynamics/stainless">Stainless</a></th>
+            <th><a href="https://github.com/mesadynamics/stainless">Stainless</a> <a href="#note"><code>*</code></a></th>
         </tr>
     </thead>
     <tbody>
@@ -1405,7 +1405,7 @@
 <table>
     <thead>
         <tr>
-            <th><a href="https://web.archive.org/web/20150423215607/http://www.sfbrowser.com/">Super Fast</a></th>
+            <th><a href="https://web.archive.org/web/20150423215607/http://www.sfbrowser.com/">Super Fast</a> <a href="#note"><code>*</code></a></th>
         </tr>
     </thead>
     <tbody>
@@ -1420,7 +1420,7 @@
 <table>
     <thead>
         <tr>
-            <th><a href="https://en.wikipedia.org/wiki/Surf_%28web_browser%29">surf</a></th>
+            <th><a href="https://en.wikipedia.org/wiki/Surf_%28web_browser%29">surf</a> <a href="#note"><code>*</code></a></th>
         </tr>
     </thead>
     <tbody>
@@ -1435,7 +1435,7 @@
 <table>
     <thead>
         <tr>
-            <th><a href="https://en.wikipedia.org/wiki/Swiftfox">Swiftfox</a></th>
+            <th><a href="https://en.wikipedia.org/wiki/Swiftfox">Swiftfox</a> <a href="#note"><code>*</code></a></th>
         </tr>
     </thead>
     <tbody>
@@ -1450,7 +1450,7 @@
 <table>
     <thead>
         <tr>
-            <th><a href="https://en.wikipedia.org/wiki/Torch_%28browser%29">Torch</a></th>
+            <th><a href="https://en.wikipedia.org/wiki/Torch_%28browser%29">Torch</a> <a href="#note"><code>*</code></a></th>
         </tr>
     </thead>
     <tbody>
@@ -1480,7 +1480,7 @@
 <table>
     <thead>
         <tr>
-            <th><a href="https://en.wikipedia.org/wiki/Uzbl">Uzbl</a></th>
+            <th><a href="https://en.wikipedia.org/wiki/Uzbl">Uzbl</a> <a href="#note"><code>*</code></a></th>
         </tr>
     </thead>
     <tbody>
@@ -1495,7 +1495,7 @@
 <table>
     <thead>
         <tr>
-            <th><a href="https://web.archive.org/web/20140928181625/https://itunes.apple.com/us/app/vitrum-unique-web-browser/id569847799?mt=8">Vitrum</a></th>
+            <th><a href="https://web.archive.org/web/20140928181625/https://itunes.apple.com/us/app/vitrum-unique-web-browser/id569847799?mt=8">Vitrum</a> <a href="#note"><code>*</code></a></th>
         </tr>
     </thead>
     <tbody>
@@ -1572,7 +1572,7 @@
 <table>
     <thead>
         <tr>
-            <th><a href="https://en.wikipedia.org/wiki/Xombrero">Xombrero</a></th>
+            <th><a href="https://en.wikipedia.org/wiki/Xombrero">Xombrero</a> <a href="#note"><code>*</code></a></th>
         </tr>
     </thead>
     <tbody>
@@ -1602,7 +1602,7 @@
 <table>
     <thead>
         <tr>
-            <th><a href="https://github.com/sheikhimran01/xtravo">Xtravo</a></th>
+            <th><a href="https://github.com/sheikhimran01/xtravo">Xtravo</a> <a href="#note"><code>*</code></a></th>
         </tr>
     </thead>
     <tbody>
