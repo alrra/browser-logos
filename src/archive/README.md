@@ -861,21 +861,6 @@
     </tbody>
 </table>
 
-### Midori
-
-<table>
-    <thead>
-        <tr>
-            <th><a href="https://en.wikipedia.org/wiki/Midori_%28web_browser%29">Midori</a></th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=160>
-            <td><a href="midori"><img width=140 src="midori/midori_256x256.png" alt="Midori browser logo"></a></td>
-        </tr>
-    </tbody>
-</table>
-
 ### MetaCert
 
 <table>
@@ -887,6 +872,21 @@
     <tbody>
         <tr height=160>
             <td><a href="metacert"><img width=140 src="metacert/metacert_256x256.png" alt="MetaCert browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
+
+### Midori
+
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/Midori_%28web_browser%29">Midori</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="midori"><img width=140 src="midori/midori_256x256.png" alt="Midori browser logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -987,6 +987,21 @@
     </tbody>
 </table>
 
+### NLIA
+
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://web.archive.org/web/20150411053800/http://e.netpia.com/">NLIA</a> <a href="#note"><code>*</code></a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="nlia"><img width=140 src="nlia/nlia_256x256.png" alt="NLIA browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
+
 ### OmniWeb
 
 <table>
@@ -1000,21 +1015,6 @@
         <tr height=160>
             <td><a href="omniweb_1-5"><img width=140 src="omniweb_1-5/omniweb_1-5_256x256.png" alt="OmniWeb 1-5 browser logo"></a></td>
             <td><a href="omniweb_6"><img width=140 src="omniweb_6/omniweb_6_256x256.png" alt="OmniWeb 6 browser logo"></a></td>
-        </tr>
-    </tbody>
-</table>
-
-### NLIA
-
-<table>
-    <thead>
-        <tr>
-            <th><a href="https://web.archive.org/web/20150411053800/http://e.netpia.com/">NLIA</a> <a href="#note"><code>*</code></a></th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=160>
-            <td><a href="nlia"><img width=140 src="nlia/nlia_256x256.png" alt="NLIA browser logo"></a></td>
         </tr>
     </tbody>
 </table>
