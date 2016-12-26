@@ -8,40 +8,40 @@
 #### New features
 
 * [[`cf677b1dad`](https://github.com/alrra/browser-logos/commit/cf677b1dad38595232aaa8d7640e8d978a467adf)] -
-  Publish `QupZilla` logo on `npm`
+  Publish `QupZilla` logo on `npm`.
 * [[`54202fd04e`](https://github.com/alrra/browser-logos/commit/54202fd04e777d1b0bafd8f98cc441a29d3d09fd)] -
-  Publish `Pale Moon` logo on `npm`
+  Publish `Pale Moon` logo on `npm`.
 * [[`230a5ac408`](https://github.com/alrra/browser-logos/commit/230a5ac408e046adf33db9e3877fc3d9bf2bdb89)] -
-  Publish `MIHTool` logo on `npm`
+  Publish `MIHTool` logo on `npm`.
 * [[`926ffba302`](https://github.com/alrra/browser-logos/commit/926ffba30248efaa048080d207908671997fd6c5)] -
-  Publish `Iridium` logo on `npm`
+  Publish `Iridium` logo on `npm`.
 * [[`2d189a66e2`](https://github.com/alrra/browser-logos/commit/2d189a66e2e54417d1b65711feae4ec65ed0eac6)] -
-  Publish `Epic` logo on `npm`
+  Publish `Epic` logo on `npm`.
 * [[`b35cfba950`](https://github.com/alrra/browser-logos/commit/b35cfba9509cae0ff958f8c813ac4388e85ccae0)] -
-  Publish `Dolphin` logo on `npm`
+  Publish `Dolphin` logo on `npm`.
 * [[`565c71a69f`](https://github.com/alrra/browser-logos/commit/565c71a69f09f8a3722d33a9e09344e733607753)] -
-  Publish `WebPositive` logo on `npm`
+  Publish `WebPositive` logo on `npm`.
 * [[`16e6082ef0`](https://github.com/alrra/browser-logos/commit/16e6082ef033adba3daacfeb17be003830826422)] -
-  Publish `SRWare Iron` logo on `npm`
+  Publish `SRWare Iron` logo on `npm`.
 * [[`4fe0bde95a`](https://github.com/alrra/browser-logos/commit/4fe0bde95aed6da62997b2c19d20614c03e907df)] -
-  Publish `Skyfire` for `iOS` logo on `npm`
+  Publish `Skyfire` for `iOS` logo on `npm`.
 * [[`3dc63b4a15`](https://github.com/alrra/browser-logos/commit/3dc63b4a15bfbc8a9a6c19c3b34d9542952289a3)] -
-  Publish `Skyfire` for `Android` logo on `npm`
+  Publish `Skyfire` for `Android` logo on `npm`.
 * [[`07cfee50d1`](https://github.com/alrra/browser-logos/commit/07cfee50d15d673868258f95ac3b4575fc5339c1)] -
-  Publish `Rockmelt` for `iOS` logo on `npm`
+  Publish `Rockmelt` for `iOS` logo on `npm`.
 * [[`0ef4a88daa`](https://github.com/alrra/browser-logos/commit/0ef4a88daa2fb927bbefc3efa87ee81f1c2f633d)] -
-  Publish `Rockmelt` logo on `npm`
+  Publish `Rockmelt` logo on `npm`.
 * [[`0596c6b682`](https://github.com/alrra/browser-logos/commit/0596c6b6825f9d7d42f5208af9ff1c9e50a313f6)] -
-  Publish `Orweb` logo on `npm`
+  Publish `Orweb` logo on `npm`.
 * [[`b1897346c2`](https://github.com/alrra/browser-logos/commit/b1897346c25bacbc70104ffd63ef847d1a1e713d)] -
-  Publish `KidZui` logo on `npm`
+  Publish `KidZui` logo on `npm`.
 * [[`2f0fbc4b45`](https://github.com/alrra/browser-logos/commit/2f0fbc4b45f2bbe03a0e62af940a2caecbec8f7a)] -
-  Publish `Iceape` logo on `npm`
+  Publish `Iceape` logo on `npm`.
 * [[`973cbee125`](https://github.com/alrra/browser-logos/commit/973cbee1251f33f1fb10ac47098b2b63da72cbb3)] -
-  Publish `Fake` logo on `npm`
+  Publish `Fake` logo on `npm`.
 * [[`23325263f6`](https://github.com/alrra/browser-logos/commit/23325263f6dc85bdc18cc15b69a4c7b5698d7e9e)] -
-  Publish `Cruz` logo on `npm`
- 
+  Publish `Cruz` logo on `npm`.
+
 
 ## 38.0.0 (December 24, 2016)
 
