@@ -1,5 +1,9 @@
 ## HEAD
 
+#### Bug fixes / Improvements
+
+* Further losslessly optimize images.
+
 #### New features
 
 * Add `Maxthon` logo.
