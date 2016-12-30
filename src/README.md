@@ -390,6 +390,21 @@
     </tbody>
 </table>
 
+### Maxthon
+
+<table>
+    <thead>
+        <tr>
+            <th><a href="http://www.maxthon.com/">Maxthon</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="maxthon"><img width=140 src="maxthon/maxthon_256x256.png" alt="Maxthon browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
+
 ### MIHTool
 
 <table>

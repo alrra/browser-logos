@@ -1,3 +1,10 @@
+## HEAD
+
+#### New features
+
+* Add `Maxthon` logo.
+
+
 ## 39.0.0 (December 27, 2016)
 
 #### Breaking changes
