@@ -2,11 +2,13 @@
 
 #### Bug fixes / Improvements
 
-* Further losslessly optimize images.
+* [[`6f0e47f500`](https://github.com/alrra/browser-logos/commit/6f0e47f500df96ea0659d3cb2cf975617b22e04b)] -
+  Further losslessly optimize images.
 
 #### New features
 
-* Add `Maxthon` logo.
+* [[`3c87a3d63e`](https://github.com/alrra/browser-logos/commit/3c87a3d63e0413320dcb38481c4aa04a7cffc1e2)] -
+  Add `Maxthon` logo.
 
 
 ## 39.0.0 (December 27, 2016)
