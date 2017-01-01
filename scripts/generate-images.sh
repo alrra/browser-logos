@@ -2,18 +2,16 @@
 
 # This script automatically generates:
 #
-#    * all the different sized versions of a logo
-#    * archive.gif
-#    * main-desktop.png
-#    * main-mobile.png
+#   1) all the different sized versions of a logo
+#   2) and, if needed:
+#
+#       * main-desktop-browser-logos.png
+#       * main-mobile-browser-logos.png
+#       * old-browser-logos.gif
+#       * src/browser-logos.gif
 #
 # Usage: generate-images.sh [dir] [dir] ...
-#   e.g: generate-images.sh edge archive/arora
-
-# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
-cd "$(dirname "${BASH_SOURCE[0]}")" \
-    && . "utils.sh"
+#   e.g: generate-images.sh src/edge src/archive/arora
 
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -58,31 +56,16 @@ declare -r -a MAIN_MOBILE_BROWSERS=(
     "uc"
 )
 
+declare -r PROJECT_ROOT="$(dirname "${BASH_SOURCE[0]}")/.."
+
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-array_contains() {
+generate_preview_gif() {
 
-    declare -r -a A1=("${!1}"); shift
-    declare -r -a A2=("$@")
+    # Check if the GIF needs to be regenerated.
 
-    # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
-    if [ ! -z "$(printf "%s\n" "${A1[@]}" "${A2[@]}" | sort | uniq -d)" ]; then
-        return 0
-    fi
-
-    return 1
-
-}
-
-generate_archive_gif() {
-
-    # Check if something changed in the `archive/`.
-
-    git diff --quiet "../archive/**/*_256x256.png" \
+    [ -z "$(git status --porcelain "$1")" ] \
         && return 0
-
-    # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
     # If so, regenerate the preview GIF.
 
@@ -90,11 +73,11 @@ generate_archive_gif() {
             -alpha remove \
             -delay 30 \
             -loop 0 \
-            ../archive/**/*_256x256.png \
-            ../archive.gif \
+            $1 \
+            "$2" \
         1> /dev/null
 
-    print_result $? "archive.gif"
+    print_result $? "$(basename "$2")"
 
 }
 
@@ -107,28 +90,24 @@ generate_different_sized_images() {
 
     # Check if the main image exists.
 
-    if [ ! -f "../$path/$basename.png" ]; then
+    if [ ! -f "$path/$basename.png" ]; then
         print_error "$path/$basename.png does not exist!"
         return 1
     fi
 
-    # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
     # Remove any existing outdated images.
 
-    rm "../${path}/${basename}_*" &> /dev/null
-
-    # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+    rm "${path}/${basename}_*" &> /dev/null
 
     # Generate the different sized images
     # based on the main image.
 
     for imageSize in "${IMAGE_SIZES[@]}"; do
 
-        convert "../$path/$basename.png" \
+        convert "$path/$basename.png" \
                 $CONVERT_BASE_OPTIONS \
                 -resize "$imageSize" \
-                "../$path/${basename}_$imageSize.png" \
+                "$path/${basename}_$imageSize.png" \
             1> /dev/null
 
         print_result $? "$path/${basename}_$imageSize.png"
@@ -142,6 +121,7 @@ generate_group_image() {
     declare -r -a GROUP_IMAGES=("${!1}"); shift;
     declare -r GROUP_IMAGE_NAME="$1"; shift;
 
+    local regenerateImage=false
     local tmp=()
 
     # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -149,16 +129,22 @@ generate_group_image() {
     # Check if any of the specified names
     # are part of the specified group.
 
-    if ! array_contains "GROUP_IMAGES[@]" "$@"; then
-        return 1
-    fi
+    for i in "$@"; do
+        for j in "${GROUP_IMAGES[@]}"; do
+            if [ "$(basename "$i")" == "$j" ]; then
+                regenerateImage=true
+                break 2
+            fi
+        done
+    done
 
-    # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+    ! $regenerateImage \
+        && return 1
 
     # If so, regenerate the group image.
 
     for i in "${GROUP_IMAGES[@]}"; do
-        tmp+=("../$i/$i.png")
+        tmp+=("src/$i/$i.png")
     done
 
     convert "${tmp[@]}" \
@@ -166,16 +152,23 @@ generate_group_image() {
             -resize 512x512 \
             -extent 562x562 \
             +append \
-            "../$GROUP_IMAGE_NAME" \
+            "$GROUP_IMAGE_NAME" \
         1> /dev/null
 
-    print_result $? "$GROUP_IMAGE_NAME"
+    print_result $? "$(basename "$GROUP_IMAGE_NAME")"
 
 }
 
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 main() {
+
+    # Load utils.
+
+    . "$PROJECT_ROOT/scripts/utils.sh" \
+        || exit 1
+
+    # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
     # Check if ImageMagick's `convert`
     # command-line tool is available.
@@ -192,23 +185,32 @@ main() {
         generate_different_sized_images "$i"
     done
 
+    cd "$PROJECT_ROOT" \
+        || exit 1
+
     # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
     printf "\n"
 
-    generate_archive_gif "$@"
+    generate_preview_gif \
+        "src/archive/*/*_256x256.png" \
+        "src/old-browser-logos.gif"
+
+    generate_preview_gif \
+        "src/*/*_256x256.png" \
+        "src/browser-logos.gif"
+
+    printf "\n"
 
     generate_group_image \
         "MAIN_DESKTOP_BROWSERS[@]" \
-        "main-desktop.png" \
+        "src/main-desktop-browser-logos.png" \
         "$@"
 
     generate_group_image \
         "MAIN_MOBILE_BROWSERS[@]" \
-        "main-mobile.png" \
+        "src/main-mobile-browser-logos.png" \
         "$@"
-
-    printf "\n"
 
 }
 
