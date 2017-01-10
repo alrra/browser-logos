@@ -2,6 +2,7 @@
 
 #### Bug fixes / Improvements
 
+* Use official version of blue in `edge` logo.
 * Use official version of blue in `edge-tile` logo.
 
 
