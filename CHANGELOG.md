@@ -1,3 +1,10 @@
+## HEAD
+
+#### Bug fixes / Improvements
+
+* Use official version of blue in `edge-tile` logo.
+
+
 ## 39.1.0 (December 30, 2016)
 
 #### Bug fixes / Improvements
