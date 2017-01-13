@@ -2,8 +2,10 @@
 
 #### New features
 
-* Publish `Opera Neon` logo on `npm`.
-* Add `Opera Neon` logo.
+* [[`4b914db9c4`](https://github.com/alrra/browser-logos/commit/4b914db9c424e1a744d7429278c7006f1be44cde)] -
+  Publish `Opera Neon` logo on `npm`.
+* [[`b3e9374cca`](https://github.com/alrra/browser-logos/commit/b3e9374cca4af9b812ba58d6e9f6ca2c703685e4)] -
+  Add `Opera Neon` logo.
 
 
 ## 39.1.1 (January 10, 2017)
