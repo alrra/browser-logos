@@ -516,6 +516,21 @@
     </tbody>
 </table>
 
+### Opera Neon
+
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://www.opera.com/computer/neon">Opera Neon</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="opera-neon"><img width=140 src="opera-neon/opera-neon_256x256.png" alt="Opera Neon browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
+
 ### Orbitum
 
 <table>
