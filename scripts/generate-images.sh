@@ -64,7 +64,7 @@ generate_preview_gif() {
 
     # Check if the GIF needs to be regenerated.
 
-    [ -z "$(git status --porcelain "$1")" ] \
+    [ -z "$(git status --porcelain --untracked-files=all "$1")" ] \
         && return 0
 
     # If so, regenerate the preview GIF.
