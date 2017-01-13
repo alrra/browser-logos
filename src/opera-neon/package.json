@@ -1,0 +1,14 @@
+{
+  "bugs": "https://github.com/alrra/browser-logos/issues",
+  "description": "Opera Neon browser logo",
+  "homepage": "https://github.com/alrra/browser-logos",
+  "keywords": [
+    "browser-logos",
+    "logo",
+    "opera-neon",
+    "opera-neon-logo"
+  ],
+  "name": "@browser-logos/opera-neon",
+  "repository": "alrra/browser-logos",
+  "version": "1.0.0"
+}

@@ -2,6 +2,7 @@
 
 #### New features
 
+* Publish `Opera Neon` logo on `npm`.
 * Add `Opera Neon` logo.
 
 
