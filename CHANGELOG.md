@@ -1,3 +1,10 @@
+## HEAD
+
+#### Bug fixes / Improvements
+
+* Further losslessly optimize images.
+
+
 ## 39.2.2 (January 14, 2017)
 
 #### Bug fixes / Improvements
