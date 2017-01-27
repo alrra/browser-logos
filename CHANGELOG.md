@@ -2,7 +2,8 @@
 
 #### Bug fixes / Improvements
 
-* Further losslessly optimize images.
+* [[`636493849b`](https://github.com/alrra/browser-logos/commit/636493849b1571d56f902888eb564b4491e2b658)] -
+  Further losslessly optimize images.
 
 
 ## 39.2.2 (January 14, 2017)
