@@ -2,6 +2,7 @@
 
 #### Bug fixes / Improvements
 
+* Further optimize `webpositive.svg`.
 * Further optimize `iceweasel.svg`.
 * Further optimize `otter.svg`.
 * Further optimize `qutebrowser.svg`.
