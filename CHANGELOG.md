@@ -2,6 +2,7 @@
 
 #### Bug fixes / Improvements
 
+* Further optimize `otter.svg`.
 * Further optimize `qutebrowser.svg`.
 * Further optimize `web.svg`.
 
