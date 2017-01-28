@@ -2,18 +2,30 @@
 
 #### Bug fixes / Improvements
 
-* Further optimize `konqueror_4.svg`.
-* Further optimize `kylo.svg`.
-* Further optimize `opera-next_15-24.svg`.
-* Further optimize `opera_10-14.svg`.
-* Further optimize `iceape.svg`.
-* Further optimize `phoenix-firebird.svg`.
-* Further optimize `uzbl.svg`.
-* Further optimize `webpositive.svg`.
-* Further optimize `iceweasel.svg`.
-* Further optimize `otter.svg`.
-* Further optimize `qutebrowser.svg`.
-* Further optimize `web.svg`.
+* [[`da669e2a92`](https://github.com/alrra/browser-logos/commit/da669e2a920e92a6782dca5840d540f23bc8682d)] -
+  Further optimize `konqueror_4.svg`.
+* [[`ad8aa2ffe0`](https://github.com/alrra/browser-logos/commit/ad8aa2ffe0044afebdd8a75c8246ee239f845c39)] -
+  Further optimize `kylo.svg`.
+* [[`8ed3aa9d04`](https://github.com/alrra/browser-logos/commit/8ed3aa9d0496b91d18cafb85eb539106a591dfe2)] -
+  Further optimize `opera-next_15-24.svg`.
+* [[`720852f5eb`](https://github.com/alrra/browser-logos/commit/720852f5ebbec30156474e7f7b8b58df32207440)] -
+  Further optimize `opera_10-14.svg`.
+* [[`f4dd86c8a5`](https://github.com/alrra/browser-logos/commit/f4dd86c8a555829b620cfc178b7b8d33f9cf7268)] -
+  Further optimize `iceape.svg`.
+* [[`3ceb0f3588`](https://github.com/alrra/browser-logos/commit/3ceb0f3588170173af712aecef2b0d85b72a79b0)] -
+  Further optimize `phoenix-firebird.svg`.
+* [[`b1d1aed998`](https://github.com/alrra/browser-logos/commit/b1d1aed998df51030b1c75a45bcddbc194ecf1b7)] -
+  Further optimize `uzbl.svg`.
+* [[`20807abebc`](https://github.com/alrra/browser-logos/commit/20807abebc72e64b38f51a2cbb7bbb4a2af8a0ce)] -
+  Further optimize `webpositive.svg`.
+* [[`b67816e82e`](https://github.com/alrra/browser-logos/commit/b67816e82e918ec5c624bba72ba2f0ec3e512b3b)] -
+  Further optimize `iceweasel.svg`.
+* [[`7e5270faa4`](https://github.com/alrra/browser-logos/commit/7e5270faa4adc8ec91f586eec68a90ebad064614)] -
+  Further optimize `otter.svg`.
+* [[`275e161fba`](https://github.com/alrra/browser-logos/commit/275e161fbaf6c61cc519bf8b93f93bd016ac04c9)] -
+  Further optimize `qutebrowser.svg`.
+* [[`c713a4965b`](https://github.com/alrra/browser-logos/commit/c713a4965b6ac062250c7a42d6e1526790c0d8c7)] -
+  Further optimize `web.svg`.
 
 
 ## 39.2.3 (January 28, 2017)
