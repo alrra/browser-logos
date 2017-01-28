@@ -2,6 +2,7 @@
 
 #### Bug fixes / Improvements
 
+* Further optimize `opera_10-14.svg`.
 * Further optimize `iceape.svg`.
 * Further optimize `phoenix-firebird.svg`.
 * Further optimize `uzbl.svg`.
