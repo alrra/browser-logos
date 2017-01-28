@@ -1,3 +1,10 @@
+## HEAD
+
+#### Bug fixes / Improvements
+
+* Further optimize `web.svg`.
+
+
 ## 39.2.3 (January 28, 2017)
 
 #### Bug fixes / Improvements
