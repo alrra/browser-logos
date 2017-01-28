@@ -2,7 +2,8 @@
 
 #### Bug fixes / Improvements
 
-* Change `Android WebView Beta` URL from `src/README.md`.
+* [[`aa62305826`](https://github.com/alrra/browser-logos/commit/aa62305826c9a27c9e508bea82d8cce5d5360f41)] -
+  Change `Android WebView Beta` URL from `src/README.md`.
 
 
 ## 39.2.4 (January 28, 2017)
