@@ -2,6 +2,7 @@
 
 #### Bug fixes / Improvements
 
+* Further optimize `iceape.svg`.
 * Further optimize `phoenix-firebird.svg`.
 * Further optimize `uzbl.svg`.
 * Further optimize `webpositive.svg`.
