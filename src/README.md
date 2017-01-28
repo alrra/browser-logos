@@ -19,7 +19,7 @@
     <thead>
         <tr>
             <th><a href="https://en.wikipedia.org/wiki/Android_%28operating_system%29">Android<br>Browser</a></th>
-            <th><a href="https://plus.google.com/+MattGaunt/posts/71X8tBLToLY">Android<br>WebView Beta</a></th>
+            <th><a href="https://play.google.com/store/apps/details?id=com.google.android.webview">Android<br>WebView Beta</a></th>
         </tr>
     </thead>
     <tbody>

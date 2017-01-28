@@ -1,3 +1,10 @@
+## HEAD
+
+#### Bug fixes / Improvements
+
+* Change `Android WebView Beta` URL from `src/README.md`.
+
+
 ## 39.2.4 (January 28, 2017)
 
 #### Bug fixes / Improvements
