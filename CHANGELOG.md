@@ -1,4 +1,4 @@
-## HEAD
+## 39.2.5 (January 28, 2017)
 
 #### Bug fixes / Improvements
 
