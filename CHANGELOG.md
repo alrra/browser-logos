@@ -2,6 +2,7 @@
 
 #### Bug fixes / Improvements
 
+* Further optimize `kylo.svg`.
 * Further optimize `opera-next_15-24.svg`.
 * Further optimize `opera_10-14.svg`.
 * Further optimize `iceape.svg`.
