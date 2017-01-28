@@ -10,6 +10,11 @@ before_script:
 
 language: ruby
 
+notifications:
+  email:
+    on_failure: always
+    on_success: never
+
 rvm:
   - 2.2
 
