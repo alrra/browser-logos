@@ -2,7 +2,8 @@
 
 #### New features
 
-* Add `Beaker` logo.
+* [[`682093f3db`](https://github.com/alrra/browser-logos/commit/682093f3db192f87ad3b14d757d12cd63954a51b)] -
+  Add `Beaker` logo.
 
 
 ## 39.2.5 (January 28, 2017)
