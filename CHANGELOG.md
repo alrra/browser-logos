@@ -1,4 +1,4 @@
-## HEAD
+## 39.3.0 (February 8, 2017)
 
 #### New features
 
