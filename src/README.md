@@ -45,6 +45,21 @@
     </tbody>
 </table>
 
+### Beaker
+
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://beakerbrowser.com/">Beaker</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="beaker"><img width=140 src="beaker/beaker_256x256.png" alt="Beaker browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
+
 ### Blisk
 
 <table>
