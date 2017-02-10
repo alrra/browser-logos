@@ -1,3 +1,10 @@
+## HEAD
+
+#### Breaking changes
+
+* Move `Iceweasel` into the `archive`.
+
+
 ## 39.3.1 (February 9, 2017)
 
 #### Bug fixes / Improvements

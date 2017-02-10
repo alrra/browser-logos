@@ -359,22 +359,6 @@
     </tbody>
 </table>
 
-### Iceweasel
-
-<table>
-    <thead>
-        <tr>
-            <th><a href="https://en.wikipedia.org/wiki/Mozilla_software_rebranded_by_Debian#Iceweasel">Iceweasel</a></th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=160>
-            <td><a href="iceweasel"><img width=140 src="iceweasel/iceweasel_256x256.png" alt="Iceweasel browser logo"></a></td>
-        </tr>
-    </tbody>
-</table>
-
-
 ### Iridium
 
 <table>
