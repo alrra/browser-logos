@@ -2,7 +2,8 @@
 
 #### Bug fixes / Improvements
 
-* Further losslessly optimize `web.png`.
+* [[`730bb0b836`](https://github.com/alrra/browser-logos/commit/730bb0b83657710aaa7f9b1477a6d7703233af6e)] -
+  Further losslessly optimize `web.png`.
 
 
 ## 1.1.0 (February 11, 2017)
