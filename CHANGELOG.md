@@ -2,7 +2,8 @@
 
 #### Breaking changes
 
-* Move `Iceweasel` into the `archive`.
+* [[`6420c1e819`](https://github.com/alrra/browser-logos/commit/6420c1e81906d17e94b4dd34009829f20a8dca93)] -
+  Move `Iceweasel` into the `archive`.
 
 
 ## 39.3.1 (February 9, 2017)
