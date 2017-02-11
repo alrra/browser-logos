@@ -1,3 +1,10 @@
+## 1.1.1 (February 12, 2017)
+
+#### Bug fixes / Improvements
+
+* Further losslessly optimize `web.png`.
+
+
 ## 1.1.0 (February 11, 2017)
 
 #### New features
