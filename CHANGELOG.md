@@ -2,7 +2,8 @@
 
 #### New features
 
-* Update `Web` logo.
+* [[`b9577f049a`](https://github.com/alrra/browser-logos/commit/b9577f049a1b5963d95f04798d0a55d186af7082)] -
+  Update `Web` logo.
 
 
 ## 40.0.0 (February 11, 2017)

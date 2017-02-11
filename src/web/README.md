@@ -1,4 +1,4 @@
-# Web
+# Web (f.k.a. Epiphany)
 
 ### How to get this logo
 
