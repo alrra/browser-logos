@@ -1,4 +1,4 @@
-## HEAD
+## 40.0.0 (February 11, 2017)
 
 #### Breaking changes
 
