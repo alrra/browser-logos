@@ -1,3 +1,10 @@
+## 1.1.0 (February 11, 2017)
+
+#### New features
+
+* Update `Web` logo.
+
+
 ## 1.0.1 (January 28, 2017)
 
 #### Bug fixes / Improvements

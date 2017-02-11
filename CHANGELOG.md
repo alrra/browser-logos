@@ -1,3 +1,10 @@
+## HEAD
+
+#### New features
+
+* Update `Web` logo.
+
+
 ## 40.0.0 (February 11, 2017)
 
 #### Breaking changes
@@ -550,7 +557,7 @@
 #### New features
 
 * [[`36b3a39d6f`](https://github.com/alrra/browser-logos/commit/36b3a39d6f2fe82cc33d3c16438f4795a1b49db7)] -
-  Add new `Dolphin Zero` logo.
+  Update `Dolphin Zero` logo.
 * [[`ef97660d17`](https://github.com/alrra/browser-logos/commit/ef97660d17949238f246dbd9b4b309165af5f4c0)] -
   Add `UC Mini` logo.
 
@@ -1166,7 +1173,7 @@
 #### New features
 
 * [[`e7f8ccacbc`](https://github.com/alrra/browser-logos/commit/e7f8ccacbcb0f0c28ab6554b3be9e253c99d0e71)] -
-  Add new `Opera Mini Beta` logo.
+  Update `Opera Mini Beta` logo.
 
 
 ## 22.7.0 (March 14, 2016)
@@ -1190,7 +1197,7 @@
 #### New features
 
 * [[`03ded7c383`](https://github.com/alrra/browser-logos/commit/03ded7c383385bc564a8929e162968d0fa953674)] -
-  Add new `Chrome` logo.
+  Update `Chrome` logo.
 
 
 ## 22.5.0 (March 1, 2016)
@@ -1265,7 +1272,7 @@
 #### Breaking changes
 
 * [[`1327d3d23b`](https://github.com/alrra/browser-logos/commit/1327d3d23b9d0c86235c4ee6e736c78429ca1510)] -
-  Add new `Opera Mini Beta` logo.
+  Update `Opera Mini Beta` logo.
 
 
 ## 21.1.0 (January 21, 2016)
@@ -1290,7 +1297,7 @@
 #### New features
 
 * [[`878a9d1e08`](https://github.com/alrra/browser-logos/commit/878a9d1e0852484cfde16fb7162170bae7a4afa9)] -
-  Add new `Diigo` logo.
+  Update `Diigo` logo.
 
 
 ## 20.4.1 (January 14, 2016)
@@ -1315,9 +1322,9 @@
 #### New features
 
 * [[`672bc08e09`](https://github.com/alrra/browser-logos/commit/672bc08e096c1fe94f03477f0f38214651a602bc)] -
-  Add new `Chromium` logo.
+  Update `Chromium` logo.
 * [[`5c0eea1c40`](https://github.com/alrra/browser-logos/commit/5c0eea1c407576ba36a75f9fa4647bf789f8c5a4)] -
-  Add new `Chrome Canary` logo.
+  Update `Chrome Canary` logo.
 
 
 ## 20.2.0 (January 7, 2016)
@@ -1375,9 +1382,9 @@
 #### New features
 
 * [[`f5ff9d2b49`](https://github.com/alrra/browser-logos/commit/f5ff9d2b493ab4e350553480bfde1ca5492675e8)] -
-  Add new `Opera Mini Beta` logo.
+  Update `Opera Mini Beta` logo.
 * [[`b5213e4120`](https://github.com/alrra/browser-logos/commit/b5213e4120335c2badf0a218d0290e192ad5a82f)] -
-  Add new `Opera Mini` logo.
+  Update `Opera Mini` logo.
 
 
 ## 17.1.0 (November 1, 2015)
@@ -1385,10 +1392,10 @@
 #### New features
 
 * [[`9bc8f3c908`](https://github.com/alrra/browser-logos/commit/9bc8f3c908424837680a05a4eead0a9ece1d5907)] -
-  Add new `Opera Developer` logo
+  Update `Opera Developer` logo
   (see also: [`#72`](https://github.com/alrra/browser-logos/issues/72)).
 * [[`3e3753a467`](https://github.com/alrra/browser-logos/commit/3e3753a467f86f693acfcf9acf80c84ccb35680d)] -
-  Add new `Opera Beta` logo
+  Update `Opera Beta` logo
   (see also: [`#72`](https://github.com/alrra/browser-logos/issues/72)).
 
 
@@ -1402,7 +1409,7 @@
 #### New features
 
 * [[`c79ca1a783`](https://github.com/alrra/browser-logos/commit/c79ca1a7836b1da16188d53cf816f14c27cb8553)] -
-  Add new `Opera` logo.
+  Update `Opera` logo.
 
 
 ## 16.0.0 (September 12, 2015)
@@ -1423,7 +1430,7 @@
 #### New features
 
 * [[`9c7d77e0f6`](https://github.com/alrra/browser-logos/commit/9c7d77e0f65406515bfe8e730dc94403ff31a540)] -
-  Add new `Dolphin` logo.
+  Update `Dolphin` logo.
 
 
 ## 14.1.0 (September 8, 2015)
@@ -1460,7 +1467,7 @@
 #### New features
 
 * [[`8b2a49d6a8`](https://github.com/alrra/browser-logos/commit/8b2a49d6a8f4feb60f323c0d4f1de9b7d67c5801)] -
-  Add new `WaterFox` logo.
+  Update `WaterFox` logo.
 
 
 ## 13.0.0 (August 10, 2015)
@@ -1475,9 +1482,9 @@
 #### New features
 
 * [[`70d49c97d7`](https://github.com/alrra/browser-logos/commit/70d49c97d79f228c6e0c9f03b43964599f81c2d2)] -
-  Add new `Sogou Mobile` logo.
+  Update `Sogou Mobile` logo.
 * [[`04334669a8`](https://github.com/alrra/browser-logos/commit/04334669a8eed5bba4cefc337fc32621bdaa2ef0)] -
-  Add new `Baidu` logo.
+  Update `Baidu` logo.
 
 
 ## 12.0.1 (August 7, 2015)
@@ -1498,7 +1505,7 @@
 #### New features
 
 * [[`d37361b0e7`](https://github.com/alrra/browser-logos/commit/d37361b0e7346dd22dab4c91a43072e3f04650af)] -
-  Add new `WebKit` logo
+  Update `WebKit` logo
   (see also: [`#68`](https://github.com/alrra/browser-logos/issues/68)).
 
 
@@ -1515,7 +1522,7 @@
 #### Breaking changes
 
 * [[`096d3b750d`](https://github.com/alrra/browser-logos/commit/096d3b750d6c5806ed0449df7ad7d650c4614421)] -
-  Add new `Yandex` logo.
+  Update `Yandex` logo.
 
 
 ## 10.0.2 (June 4, 2015)
@@ -1544,7 +1551,7 @@
 #### New features
 
 * [[`3688e98abb`](https://github.com/alrra/browser-logos/commit/3688e98abb6bca04c7dd08a42d5b66c2d18aa76c)] -
-  Add new `Opera Mini` logo.
+  Update `Opera Mini` logo.
 
 
 ## 9.2.2 (May 7, 2015)
@@ -1593,11 +1600,11 @@
 #### New features
 
 * [[`810e4dc1ef`](https://github.com/alrra/browser-logos/commit/810e4dc1efbb9ccfafab868ac1bb40a7cf320779)] -
-  Add new `Chromium` logo.
+  Update `Chromium` logo.
 * [[`4ff5f86255`](https://github.com/alrra/browser-logos/commit/4ff5f862552c603b663f3ed71df332671aa64aac)] -
-  Add new `Chrome Canary` logo.
+  Update `Chrome Canary` logo.
 * [[`ba858d0a57`](https://github.com/alrra/browser-logos/commit/ba858d0a577c6490962072994c59987b86a89e9c)] -
-  Add new `Chrome` logo.
+  Update `Chrome` logo.
 
 
 ## 8.7.0 (March 16, 2015)
@@ -1624,7 +1631,7 @@
 #### New features
 
 * [[`ca303a5945`](https://github.com/alrra/browser-logos/commit/ca303a59454cc7f13469b83ce7c0877f17d77366)] -
-  Add new `Dolphin` logo.
+  Update `Dolphin` logo.
 
 
 ## 8.4.0 (February 13, 2015)
@@ -1642,7 +1649,7 @@
 * [[`0af59c89bd`](https://github.com/alrra/browser-logos/commit/0af59c89bd96acb64d16a83a0c13911b74a62c6e)] -
   Add `OmniWeb Test Build` logo.
 * [[`f7fc7d6b21`](https://github.com/alrra/browser-logos/commit/f7fc7d6b21422698353a38881a0334caa3483bf6)] -
-  Add new `UC` logo.
+  Update `UC` logo.
 
 
 ## 8.2.0 (January 27, 2015)
@@ -1723,7 +1730,7 @@
 #### New features
 
 * [[`c42be68bba`](https://github.com/alrra/browser-logos/commit/c42be68bba24de87046cf6276547e9ef1dc31611)] -
-  Add new `Silk` logo.
+  Update `Silk` logo.
 
 
 ## 6.0.0 (December 28, 2014)
@@ -1921,7 +1928,7 @@
 #### New features
 
 * [[`4fb1ea39ce`](https://github.com/alrra/browser-logos/commit/4fb1ea39cec319099720ac9ca717661b9fe7466b)] -
-  Add new `Chrome for Android` logo.
+  Update `Chrome for Android` logo.
 
 
 ## 1.0.0 (September 4, 2014)

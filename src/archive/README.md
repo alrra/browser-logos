@@ -1550,6 +1550,21 @@
     </tbody>
 </table>
 
+### Web
+
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/Web_(web_browser)">Web <br>(f.k.a. Epiphany)</a>  <a href="#note"><code>*</code></a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="web"><img width=140 src="web/web.png" alt="Web (f.k.a. Epiphany) browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
+
 ### WebKit Nightly
 
 <table>
