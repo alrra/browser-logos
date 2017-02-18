@@ -1,3 +1,10 @@
+## HEAD
+
+#### New features
+
+* Add `CLIQZ` logo.
+
+
 ## 40.1.1 (February 12, 2017)
 
 #### Bug fixes / Improvements
