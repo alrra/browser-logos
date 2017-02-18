@@ -2,7 +2,8 @@
 
 #### New features
 
-* Add `CLIQZ` logo.
+* [[`74ab715897`](https://github.com/alrra/browser-logos/commit/74ab71589709758671b212ed681c38a503115f22)] -
+  Add `CLIQZ` logo.
 
 
 ## 40.1.1 (February 12, 2017)
