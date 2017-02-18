@@ -73,11 +73,11 @@ generate_preview_gif() {
             -alpha remove \
             -delay 30 \
             -loop 0 \
-            $1 \
-            "$2" \
+            $2 \
+            "$3" \
         1> /dev/null
 
-    print_result $? "$(basename "$2")"
+    print_result $? "$(basename "$3")"
 
 }
 
@@ -193,10 +193,12 @@ main() {
     printf "\n"
 
     generate_preview_gif \
+        "src/archive/*/*.png" \
         "src/archive/*/*_256x256.png" \
         "src/old-browser-logos.gif"
 
     generate_preview_gif \
+        "src/*/*.png" \
         "src/*/*_256x256.png" \
         "src/browser-logos.gif"
 
