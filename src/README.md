@@ -324,7 +324,7 @@
     </thead>
     <tbody>
         <tr height=160>
-            <td><a href="epic"><img width=140 src="focus/focus.png" alt="Focus browser logo"></a></td>
+            <td><a href="focus"><img width=140 src="focus/focus.png" alt="Focus browser logo"></a></td>
         </tr>
     </tbody>
 </table>
