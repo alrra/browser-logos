@@ -1,4 +1,4 @@
-## HEAD
+## 40.3.0 (March 10, 2017)
 
 #### New features
 
