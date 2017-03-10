@@ -2,7 +2,8 @@
 
 #### New features
 
-* Update `Samsung Internet` logo.
+* [[`43b672b9df`](https://github.com/alrra/browser-logos/commit/43b672b9df91027960b7f7b3b168e04cbf160d2b)] -
+  Update `Samsung Internet` logo.
 
 
 ## 1.0.0 (December 18, 2016)
