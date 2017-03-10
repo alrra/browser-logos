@@ -1,3 +1,10 @@
+## HEAD
+
+#### New features
+
+* Add `Samsung Internet Beta` logo.
+
+
 ## 40.2.1 (February 23, 2017)
 
 #### Bug fixes / Improvements

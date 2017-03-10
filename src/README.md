@@ -687,12 +687,14 @@
 <table>
     <thead>
         <tr>
-            <th><a href="https://developer.samsung.com/technical-doc/view.do?v=T000000202">Samsung Internet</a></th>
+            <th><a href="https://samsunginter.net/">Samsung Internet</a></th>
+            <th><a href="https://samsunginter.net/">Samsung Internet Beta</a></th>
         </tr>
     </thead>
     <tbody>
         <tr height=160>
             <td><a href="samsung-internet"><img width=140 src="samsung-internet/samsung-internet_256x256.png" alt="Samsung Internet browser logo"></a></td>
+            <td><a href="samsung-internet-beta"><img width=140 src="samsung-internet-beta/samsung-internet-beta_256x256.png" alt="Samsung Internet Beta browser logo"></a></td>
         </tr>
     </tbody>
 </table>
