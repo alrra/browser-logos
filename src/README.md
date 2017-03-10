@@ -687,7 +687,7 @@
 <table>
     <thead>
         <tr>
-            <th><a href="https://samsunginter.net/">Samsung Internet</a></th>
+            <th><a href="https://developer.samsung.com/internet">Samsung Internet</a></th>
             <th><a href="https://samsunginter.net/">Samsung Internet Beta</a></th>
         </tr>
     </thead>

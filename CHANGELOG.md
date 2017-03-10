@@ -2,6 +2,7 @@
 
 #### New features
 
+* Update `Samsung Internet` logo.
 * [[`fe284c2133`](https://github.com/alrra/browser-logos/commit/fe284c21339b73f2e6b579df4ca0b340e5f96200)] -
   Publish `Samsung Internet Beta` logo on `npm`.
 * [[`96b6112989`](https://github.com/alrra/browser-logos/commit/96b6112989f5fd9a9e2eb4e4b94e1a642ccbfa2b)] -

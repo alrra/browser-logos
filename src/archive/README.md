@@ -621,7 +621,7 @@
         </tr>
     </tbody>
 </table>
-     
+
 ### Iceweasel
 
 <table>
@@ -1302,6 +1302,21 @@
     <tbody>
         <tr height=160>
             <td><a href="safari-ios_1-6"><img width=140 src="safari-ios_1-6/safari-ios_1-6_256x256.png" alt="Safari for iOS 1-6 browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
+
+### Samsung Internet
+
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://web.archive.org/web/20170215040801/http://developer.samsung.com/internet">Samsung Internet</a> <a href="#note"><code>*</code></a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="samsung-internet"><img width=140 src="samsung-internet/samsung-internet_256x256.png" alt="Samsung Internet browser logo"></a></td>
         </tr>
     </tbody>
 </table>
