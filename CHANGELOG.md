@@ -2,6 +2,7 @@
 
 #### New features
 
+* Publish `Samsung Internet Beta` logo on `npm`.
 * Add `Samsung Internet Beta` logo.
 
 

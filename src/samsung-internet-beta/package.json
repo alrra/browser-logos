@@ -1,0 +1,14 @@
+{
+  "bugs": "https://github.com/alrra/browser-logos/issues",
+  "description": "Samsung Internet Beta browser logo",
+  "homepage": "https://github.com/alrra/browser-logos",
+  "keywords": [
+    "browser-logos",
+    "logo",
+    "samsung-internet-beta",
+    "samsung-internet-beta-logo"
+  ],
+  "name": "@browser-logos/samsung-internet-beta",
+  "repository": "alrra/browser-logos",
+  "version": "1.0.0"
+}
