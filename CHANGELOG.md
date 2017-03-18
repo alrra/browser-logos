@@ -2,6 +2,7 @@
 
 #### Breaking changes
 
+* Rename `archive/samsung-internet` to `samsung-internet_3-4.2`.
 * [[`90e21f519d`](https://github.com/alrra/browser-logos/commit/90e21f519dd7fbcc46b8579c45f362dc77db374b)] -
   Update `Samsung Internet` logo to better match the official one.
 

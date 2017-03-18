@@ -1311,12 +1311,12 @@
 <table>
     <thead>
         <tr>
-            <th><a href="https://web.archive.org/web/20170215040801/http://developer.samsung.com/internet">Samsung Internet</a> <a href="#note"><code>*</code></a></th>
+            <th><a href="https://web.archive.org/web/20170215040801/http://developer.samsung.com/internet">Samsung Internet<br>3-4.2</a></th>
         </tr>
     </thead>
     <tbody>
         <tr height=160>
-            <td><a href="samsung-internet"><img width=140 src="samsung-internet/samsung-internet_256x256.png" alt="Samsung Internet browser logo"></a></td>
+            <td><a href="samsung-internet_3-4.2"><img width=140 src="samsung-internet_3-4.2/samsung-internet_3-4.2_256x256.png" alt="Samsung Internet 3-4.2 browser logo"></a></td>
         </tr>
     </tbody>
 </table>
