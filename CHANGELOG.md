@@ -2,13 +2,15 @@
 
 #### Breaking changes
 
-* Rename `archive/samsung-internet` to `samsung-internet_3-4.2`.
+* [[`f95719941d`](https://github.com/alrra/browser-logos/commit/f95719941d2c46fbbba543d9df9d89ef177f574b)] -
+  Rename `archive/samsung-internet` to `samsung-internet_3-4.2`.
 * [[`90e21f519d`](https://github.com/alrra/browser-logos/commit/90e21f519dd7fbcc46b8579c45f362dc77db374b)] -
   Update `Samsung Internet` logo to better match the official one.
 
 #### New features
 
-* Publish `Samsung Internet v3-4.2` logo on `npm`.
+* [[`337fde6cd0`](https://github.com/alrra/browser-logos/commit/337fde6cd08db5178825f41cc37e40cd69d9841e)] -
+  Publish `Samsung Internet v3-4.2` logo on `npm`.
 * [[`a23c6f66b0`](https://github.com/alrra/browser-logos/commit/a23c6f66b0c9d13c6e43c83a24a3db06f4fc5e96)] -
   Add SVG version of the `Samsung Internet Beta` logo.
 
