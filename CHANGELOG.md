@@ -1,3 +1,10 @@
+## HEAD
+
+#### New features
+
+* Add SVG version of the `Samsung Internet Beta` logo.
+
+
 ## 40.3.0 (March 10, 2017)
 
 #### New features
