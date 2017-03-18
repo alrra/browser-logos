@@ -1,5 +1,9 @@
 ## HEAD
 
+#### Breaking changes
+
+* Update `Samsung Internet` logo to better match the official one.
+
 #### New features
 
 * [[`a23c6f66b0`](https://github.com/alrra/browser-logos/commit/a23c6f66b0c9d13c6e43c83a24a3db06f4fc5e96)] -
