@@ -16,7 +16,8 @@
 
 #### Bug fixes / Improvements
 
-* Further optimize SVGs.
+* [[`019708df09`](https://github.com/alrra/browser-logos/commit/019708df092f51d495925ceab564e3203bf2a29d)] -
+  Further optimize SVGs.
 
 
 ## 40.3.0 (March 10, 2017)

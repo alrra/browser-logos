@@ -2,7 +2,8 @@
 
 #### Bug fixes / Improvements
 
-* Further optimize `rekonq.svg`.
+* [[`019708df09`](https://github.com/alrra/browser-logos/commit/019708df092f51d495925ceab564e3203bf2a29d)] -
+  Further optimize `rekonq.svg`.
 
 
 ## 1.0.0 (December 18, 2016)
