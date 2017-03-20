@@ -1,4 +1,4 @@
-## HEAD
+## 41.0.0 (March 20, 2017)
 
 #### Breaking changes
 
@@ -7,17 +7,17 @@
 * [[`90e21f519d`](https://github.com/alrra/browser-logos/commit/90e21f519dd7fbcc46b8579c45f362dc77db374b)] -
   Update `Samsung Internet` logo to better match the official one.
 
+#### Bug fixes / Improvements
+
+* [[`019708df09`](https://github.com/alrra/browser-logos/commit/019708df092f51d495925ceab564e3203bf2a29d)] -
+  Further optimize SVGs.
+
 #### New features
 
 * [[`337fde6cd0`](https://github.com/alrra/browser-logos/commit/337fde6cd08db5178825f41cc37e40cd69d9841e)] -
   Publish `Samsung Internet v3-4.2` logo on `npm`.
 * [[`a23c6f66b0`](https://github.com/alrra/browser-logos/commit/a23c6f66b0c9d13c6e43c83a24a3db06f4fc5e96)] -
   Add SVG version of the `Samsung Internet Beta` logo.
-
-#### Bug fixes / Improvements
-
-* [[`019708df09`](https://github.com/alrra/browser-logos/commit/019708df092f51d495925ceab564e3203bf2a29d)] -
-  Further optimize SVGs.
 
 
 ## 40.3.0 (March 10, 2017)
