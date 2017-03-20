@@ -1,3 +1,10 @@
+## 1.0.2 (March 20, 2016)
+
+#### Bug fixes / Improvements
+
+* Further optimize `opera-next_15-24.svg`.
+
+
 ## 1.0.1 (January 28, 2017)
 
 #### Bug fixes / Improvements
