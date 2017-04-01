@@ -1,4 +1,4 @@
-## HEAD
+## 41.0.1 (April 1, 2017)
 
 #### Bug fixes / Improvements
 
