@@ -1,3 +1,10 @@
+## HEAD
+
+#### Bug fixes / Improvements
+
+* Further losslessly optimize images.
+
+
 ## 41.0.0 (March 20, 2017)
 
 #### Breaking changes

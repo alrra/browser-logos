@@ -1,3 +1,10 @@
+## 1.1.1 (April 1, 2017)
+
+#### Bug fixes / Improvements
+
+* Further losslessly optimize images.
+
+
 ## 1.1.0 (March 18, 2017)
 
 #### New features
