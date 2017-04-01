@@ -2,7 +2,8 @@
 
 #### Bug fixes / Improvements
 
-* Further losslessly optimize images.
+* [[`0a8c35b31b`](https://github.com/alrra/browser-logos/commit/0a8c35b31b745aac15a45d700ceba2797ca0257f)] -
+  Further losslessly optimize images.
 
 
 ## 1.1.0 (March 18, 2017)
