@@ -2,7 +2,8 @@
 
 #### New features
 
-* Publish `Samsung Internet v5` logo on `npm`.
+* [[`07b9b26a00`](https://github.com/alrra/browser-logos/commit/07b9b26a00cf296f4ad7020c7c84a028072b1ee5)] -
+  Publish `Samsung Internet v5` logo on `npm`.
 * [[`05dd99f391`](https://github.com/alrra/browser-logos/commit/05dd99f3916bad19202221995f05d825f0eaa1a6)] -
   Update `Samsung Internet` logo.
 
