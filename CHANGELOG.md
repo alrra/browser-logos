@@ -2,7 +2,9 @@
 
 #### New features
 
-* Update `Samsung Internet` logo.
+* Publish `Samsung Internet v5` logo on `npm`.
+* [[`05dd99f391`](https://github.com/alrra/browser-logos/commit/05dd99f3916bad19202221995f05d825f0eaa1a6)] -
+  Update `Samsung Internet` logo.
 
 
 ## 41.0.1 (April 1, 2017)
