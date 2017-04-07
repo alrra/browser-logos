@@ -1,3 +1,10 @@
+## 3.0.0 (April 7, 2017)
+
+#### Breaking changes
+
+* Update logo.
+
+
 ## 2.0.0 (March 18, 2017)
 
 #### Breaking changes
