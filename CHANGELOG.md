@@ -2,6 +2,7 @@
 
 #### New features
 
+* Add `Streamy` logo.
 * Add `Vivaldi Snapshot` logo.
 
 

@@ -19,7 +19,7 @@ You may want these for a presentation, a blog post or for the site
 featuring your brand new awesome lightbox script (please no!). All
 logos are high resolution with transparent backgrounds.
 
---
+---
 
 ## Current browser logos
 

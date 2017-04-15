@@ -1445,6 +1445,21 @@
     </tbody>
 </table>
 
+### Streamy
+
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://www.streamybrowser.com/">Streamy</a> <a href="#note"><code>*</code></a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="streamy"><img width=140 src="streamy/streamy_256x256.png" alt="Streamy browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
+
 ### Super Fast
 
 <table>
