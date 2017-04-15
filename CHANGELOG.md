@@ -1,3 +1,10 @@
+## HEAD
+
+#### New features
+
+* Add `Vivaldi Snapshot` logo.
+
+
 ## 41.1.0 (April 7, 2017)
 
 #### New features

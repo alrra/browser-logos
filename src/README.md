@@ -855,11 +855,13 @@
     <thead>
         <tr>
             <th><a href="https://vivaldi.com/">Vivaldi</a></th>
+            <th><a href="https://vivaldi.com/blog/snapshots/">Vivaldi<br>Snapshot</a></th>
         </tr>
     </thead>
     <tbody>
         <tr height=160>
             <td><a href="vivaldi"><img width=140 src="vivaldi/vivaldi.png" alt="Vivaldi browser logo"></a></td>
+            <td><a href="vivaldi-snapshot"><img width=140 src="vivaldi-snapshot/vivaldi-snapshot.png" alt="Vivaldi Snapshot browser logo"></a></td>
         </tr>
     </tbody>
 </table>
