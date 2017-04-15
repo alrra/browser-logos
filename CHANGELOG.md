@@ -1,4 +1,4 @@
-## HEAD
+## 41.2.0 (April 15, 2017)
 
 #### New features
 
