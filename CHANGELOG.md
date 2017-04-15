@@ -2,8 +2,10 @@
 
 #### New features
 
-* Add `Streamy` logo.
-* Add `Vivaldi Snapshot` logo.
+* [[`184b25a909`](https://github.com/alrra/browser-logos/commit/184b25a90961c9c33984b91fe672d42facbfb7fe)] -
+  Add `Streamy` logo.
+* [[`14bb9c4319`](https://github.com/alrra/browser-logos/commit/14bb9c4319e610176e130c360262ae329d0638fe)] -
+  Add `Vivaldi Snapshot` logo.
 
 
 ## 41.1.0 (April 7, 2017)
