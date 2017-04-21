@@ -8,6 +8,8 @@
 before_script:
   - gem install awesome_bot
 
+dist: trusty
+
 language: ruby
 
 notifications:
