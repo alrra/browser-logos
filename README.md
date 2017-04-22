@@ -83,10 +83,10 @@ There are a few options for getting the browser logos:
 #### 2) Get all logos:
 
    * Use [`cdnjs`](https://cdnjs.com/libraries/browser-logos).
-   * Download the [`zip` archive](https://github.com/alrra/browser-logos/archive/41.2.1.zip).
+   * Download the [`zip` archive](https://github.com/alrra/browser-logos/archive/42.0.0.zip).
    * Install via:
-      * [`npm`](https://www.npmjs.com/): `npm install alrra/browser-logos#41.2.1`
-      * [`Yarn`](https://yarnpkg.com/): `yarn add browser-logos#41.2.1`
+      * [`npm`](https://www.npmjs.com/): `npm install alrra/browser-logos#42.0.0`
+      * [`Yarn`](https://yarnpkg.com/): `yarn add browser-logos#42.0.0`
 
 
 ## Legal

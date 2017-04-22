@@ -1002,21 +1002,6 @@
     </tbody>
 </table>
 
-### Omega
-
-<table>
-    <thead>
-        <tr>
-            <th><a href="https://web.archive.org/web/20130330103419/http://ddmsite.ucoz.ru/">Omega</a> <a href="#note"><code>*</code></a></th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=160>
-            <td><a href="omega"><img width=140 src="omega/omega_256x256.png" alt="Omega browser logo"></a></td>
-        </tr>
-    </tbody>
-</table>
-
 ### NLIA
 
 <table>
@@ -1028,6 +1013,21 @@
     <tbody>
         <tr height=160>
             <td><a href="nlia"><img width=140 src="nlia/nlia_256x256.png" alt="NLIA browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
+
+### Omega
+
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://web.archive.org/web/20130330103419/http://ddmsite.ucoz.ru/">Omega</a> <a href="#note"><code>*</code></a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="omega"><img width=140 src="omega/omega_256x256.png" alt="Omega browser logo"></a></td>
         </tr>
     </tbody>
 </table>
