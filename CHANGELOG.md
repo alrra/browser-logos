@@ -2,7 +2,8 @@
 
 #### Breaking changes
 
-* Move `PhantomJS` into the `archive`.
+* [[`464e890157`](https://github.com/alrra/browser-logos/commit/464e8901579ca54ad4c2a053310bfbd8f3c22f6a)] -
+  Move `PhantomJS` into the `archive`.
 
 
 ## 41.2.1 (April 21, 2017)
