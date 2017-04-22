@@ -575,21 +575,6 @@
     </tbody>
 </table>
 
-### PhantomJS
-
-<table>
-    <thead>
-        <tr>
-            <th><a href="http://phantomjs.org/">PhantomJS</a></th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=160>
-            <td><a href="phantomjs"><img width=140 src="phantomjs/phantomjs_256x256.png" alt="PhantomJS browser logo"></a></td>
-        </tr>
-    </tbody>
-</table>
-
 ### Polarity
 
 <table>

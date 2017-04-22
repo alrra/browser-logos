@@ -1,3 +1,10 @@
+## HEAD
+
+#### Breaking changes
+
+* Move `PhantomJS` into the `archive`.
+
+
 ## 41.2.1 (April 21, 2017)
 
 #### Bug fixes / Improvements
