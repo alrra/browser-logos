@@ -1,3 +1,14 @@
+## HEAD
+
+#### New features
+
+* Add `AOL Explorer` logo.
+
+#### Bug fixes / Improvements
+
+* Tweak and further optimize `aol-explorer.svg`.
+
+
 ## 42.0.0 (April 22, 2017)
 
 #### Breaking changes

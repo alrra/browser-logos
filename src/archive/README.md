@@ -73,6 +73,21 @@
     </tbody>
 </table>
 
+### AOL Explorer
+
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/AOL_Explorer">AOL Explorer</a> <a href="#note"><code>*</code></a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="aol-explorer"><img width=140 src="aol-explorer/aol-explorer_256x256.png" alt="AOL Explorer browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
+
 ### Apollo
 
 <table>
