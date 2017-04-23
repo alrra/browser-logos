@@ -2,7 +2,7 @@
 
 #### Bug fixes / Improvements
 
-* [[`c3dec8499d`](https://github.com/alrra/browser-logos/commit/c3dec8499d1f7a60f9834320fda541de7220c46c)] -
+* [[`915908aafd`](https://github.com/alrra/browser-logos/commit/915908aafda7f8e861f10644e2045651eb6e5f75)] -
   Tweak and further optimize `aol-explorer.svg`.
 
 #### New features
