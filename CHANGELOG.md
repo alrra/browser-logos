@@ -1,12 +1,14 @@
 ## HEAD
 
-#### New features
-
-* Add `AOL Explorer` logo.
-
 #### Bug fixes / Improvements
 
-* Tweak and further optimize `aol-explorer.svg`.
+* [[`c3dec8499d`](https://github.com/alrra/browser-logos/commit/c3dec8499d1f7a60f9834320fda541de7220c46c)] -
+  Tweak and further optimize `aol-explorer.svg`.
+
+#### New features
+
+* [[`0362e326c7`](https://github.com/alrra/browser-logos/commit/0362e326c709f5c8a374628766b88478cd41965a)] -
+  Add `AOL Explorer` logo.
 
 
 ## 42.0.0 (April 22, 2017)
