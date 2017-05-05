@@ -125,7 +125,7 @@
 <table>
     <thead>
         <tr>
-            <th><a href="https://www.centbrowser.com">Cent</a></th>
+            <th><a href="http://www.centbrowser.com">Cent</a></th>
         <tr>
     </thead>
     <tbody>
