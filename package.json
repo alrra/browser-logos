@@ -1,10 +1,5 @@
 {
-  "author": "Cătălin Mariș <alrraa@gmail.com> (http://catalinmaris.com/)",
-  "bugs": "https://github.com/alrra/browser-logos/issues",
-  "description": "High resolution web browser logos",
-  "homepage": "https://github.com/alrra/browser-logos/blob/master/README.md#readme",
   "name": "browser-logos",
   "private": true,
-  "repository": "alrra/browser-logos",
   "version": "42.1.1"
 }
