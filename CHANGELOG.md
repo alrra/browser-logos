@@ -1,3 +1,14 @@
+## HEAD
+
+#### Bug fixes / Improvements
+
+* Tweak `opera.svg`
+
+#### New features
+
+* Add `opera.svg` logo.
+
+
 ## 42.1.1 (May 5, 2017)
 
 #### Bug fixes / Improvements
