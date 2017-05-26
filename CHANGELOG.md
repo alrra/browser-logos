@@ -2,8 +2,10 @@
 
 #### Bug fixes / Improvements
 
-* Tweak and further optimize `internet-explorer_9-11.svg`.
-* Tweak and further optimize `internet-explorer-developer-channel.svg`.
+* [[`8912cc69e1`](https://github.com/alrra/browser-logos/commit/8912cc69e1fb8dbbae7801b7d6fc3b2c659ad89c)] -
+  Tweak and further optimize `internet-explorer_9-11.svg`.
+* [[`181527680c`](https://github.com/alrra/browser-logos/commit/181527680c7a1b43101a704967c08dc2d4788f75)] -
+  Tweak and further optimize `internet-explorer-developer-channel.svg`.
 * [[`32687b51ee`](https://github.com/alrra/browser-logos/commit/32687b51eed865d2568e83292abb6af1aa6d56a5)] -
   Tweak `opera.svg`
 
