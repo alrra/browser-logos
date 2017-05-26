@@ -2,6 +2,7 @@
 
 #### Bug fixes / Improvements
 
+* Tweak and further optimize `internet-explorer_9-11.svg`.
 * Tweak and further optimize `internet-explorer-developer-channel.svg`.
 * [[`32687b51ee`](https://github.com/alrra/browser-logos/commit/32687b51eed865d2568e83292abb6af1aa6d56a5)] -
   Tweak `opera.svg`
