@@ -7,7 +7,8 @@
 
 #### New features
 
-* Publish `Cờ-Rôm+` logo on `npm`.
+* [[`1d4d2e4b01`](https://github.com/alrra/browser-logos/commit/1d4d2e4b013232efd344e462ef08fa1038217624)] -
+  Publish `Cờ-Rôm+` logo on `npm`.
 
 
 ## 42.2.1 (May 27, 2017)
