@@ -5,6 +5,10 @@
 * [[`4406d8a2ef`](https://github.com/alrra/browser-logos/commit/4406d8a2ef0f9cf1fd91cf1c9b438b2096a51bba)] -
   Make minor changes in `README`s.
 
+#### New features
+
+* Publish `Cờ-Rôm+` logo on `npm`.
+
 
 ## 42.2.1 (May 27, 2017)
 
