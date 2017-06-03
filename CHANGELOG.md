@@ -1,3 +1,10 @@
+## HEAD
+
+#### Bug fixes / Improvements
+
+* Further losslessly optimize images.
+
+
 ## 42.3.0 (June 3, 2017)
 
 #### Bug fixes / Improvements
