@@ -1,0 +1,51 @@
+<svg height="1024" width="1024" xmlns="http://www.w3.org/2000/svg"
+  viewbox='0 0 1024 1024'
+  xmlns:xlink="http://www.w3.org/1999/xlink">
+
+  <!-- <rect x='0' y='0' width='1024' height='1024' fill='lightgray' /> -->
+
+  <defs>
+    <linearGradient id='lgrad' x1='0%' y1='0%' x2='0%' y2='100%'>
+      <stop offset='0%' stop-color='#f8f8f8' />
+      <stop offset='100%' stop-color='#ccc' />
+    </linearGradient>
+    <radialGradient id='rgrad' x1='0%' y1='0%' x2='0%' y2='100%' fx='50%' fy='48%'>
+      <stop offset='0%' stop-color='#00f0ff' />
+      <stop offset='100%' stop-color='#0070e0' />
+    </radialGradient>
+  </defs>
+
+  <!-- <circle cx='512' cy='512' r='480' fill='#ddd' /> -->
+  <circle cx='512' cy='512' r='480' fill='url(#lgrad)' />
+  <!-- <circle cx='512' cy='512' r='440' fill='#0070e0' /> -->
+  <circle cx='512' cy='512' r='440' fill='url(#rgrad)' />
+
+  <g stroke='#ddd' stroke-width='10' stroke-linecap='round'>
+    <g id='t16'>
+      <g id='t8'>
+        <g id='t4'>
+          <g id='t2'>
+            <line x1='512' y1='100' x2='512' y2='170' />
+            <line x1='512' y1='924' x2='512' y2='854' />
+            <line x1='512' y1='100' x2='512' y2='130' transform='rotate(5.625 512 512)' />
+            <line x1='512' y1='924' x2='512' y2='894' transform='rotate(5.625 512 512)' />
+          </g>
+          <use xlink:href='#t2' transform='rotate(90 512 512)' />
+        </g>
+        <use xlink:href='#t4' transform='rotate(45 512 512)' />
+      </g>
+      <use xlink:href='#t8' transform='rotate(22.5 512 512)' />
+    </g>
+    <use xlink:href='#t16' transform='rotate(11.25 512 512)' />
+  </g>
+
+  <!-- <polygon points='90 512 512 450 934 512 512 574' fill='red' /> -->
+
+  <g transform='rotate(-45 512 512)' >
+    <polygon points='85 512 512 450 512 512' fill='#ddd' />
+    <polygon points='512 450 939 512 512 512' fill='#e44' />
+    <polygon points='939 512 512 574 512 512' fill='#c00' />
+    <polygon points='85 512 512 574 512 512' fill='#aaa' />
+  </g>
+
+</svg>
