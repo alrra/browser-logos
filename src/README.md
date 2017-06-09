@@ -834,6 +834,25 @@
     </tbody>
 </table>
 
+### V8
+
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://developers.google.com/v8/">V8</a></th>
+            <th><a href="https://developers.google.com/v8/">V8 Ignition</a></th>
+            <th><a href="https://developers.google.com/v8/">V8 TurboFan</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="v8"><img width=140 src="v8/v8_256x256.png" alt="V8 JavaScript engine logo"></a></td>
+            <td><a href="v8-ignition"><img width=140 src="v8-ignition/v8-ignition_256x256.png" alt="V8's Ignition interpreter logo"></a></td>
+            <td><a href="v8-turbofan"><img width=140 src="v8-turbofan/v8-turbofan_256x256.png" alt="V8's TurboFan optimizing compiler logo"></a></td>
+        </tr>
+    </tbody>
+</table>
+
 ### Vivaldi
 
 <table>
