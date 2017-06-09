@@ -23,7 +23,7 @@ logos are high resolution with transparent backgrounds.
 
 ## Current browser logos
 
-For logos of browser that are currently active, check the
+For logos of browsers that are currently active, check the
 [`src/`](src/README.md#readme) directory.
 
 <table>
