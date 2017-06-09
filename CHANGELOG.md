@@ -1,3 +1,11 @@
+## HEAD
+
+#### Bug fixes / Improvements
+
+* [[`da6378af2d`](https://github.com/alrra/browser-logos/commit/da6378af2d7835cdb14aea9b629bf3521a6e47ec)] -
+  Make minor changes in `src/README.md`.
+
+
 ## 42.4.0 (June 10, 2017)
 
 #### New features
