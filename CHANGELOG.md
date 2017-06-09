@@ -11,8 +11,9 @@
 
 #### Bug fixes / Improvements
 
-* Tweak and further optimize `v8-ignition.svg`.
 * Tweak and further optimize `v8.svg`.
+* Tweak and further optimize `v8-ignition.svg`.
+* Tweak and further optimize `v8-turbofan.svg`.
 
 
 ## 42.3.1 (June 4, 2017)
