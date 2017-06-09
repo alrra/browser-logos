@@ -1,0 +1,14 @@
+{
+  "bugs": "https://github.com/alrra/browser-logos/issues",
+  "description": "V8 logo",
+  "homepage": "https://github.com/alrra/browser-logos",
+  "keywords": [
+    "browser-logos",
+    "logo",
+    "v8",
+    "v8-logo"
+  ],
+  "name": "@browser-logos/v8",
+  "repository": "alrra/browser-logos",
+  "version": "1.0.0"
+}
