@@ -2,7 +2,8 @@
 
 #### New features
 
-* Publish `V8`, `V8 Ignition`, and `V8 TurboFan` logos on `npm`.
+* [[`9b0538ebec`](https://github.com/alrra/browser-logos/commit/9b0538ebec3af690eb20da3e5adda4459d5ce1d7)] -
+  Publish `V8`, `V8 Ignition`, and `V8 TurboFan` logos on `npm`.
 * [[`b7c84fcc9f`](https://github.com/alrra/browser-logos/commit/b7c84fcc9fd5f1246f9b818d0b98115c0953e6dc)] -
   Add `V8` logo.
 * [[`b7c84fcc9f`](https://github.com/alrra/browser-logos/commit/b7c84fcc9fd5f1246f9b818d0b98115c0953e6dc)] -
