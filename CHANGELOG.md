@@ -2,6 +2,7 @@
 
 #### New features
 
+* Publish `V8`, `V8 Ignition`, and `V8 TurboFan` logos on `npm`.
 * [[`b7c84fcc9f`](https://github.com/alrra/browser-logos/commit/b7c84fcc9fd5f1246f9b818d0b98115c0953e6dc)] -
   Add `V8` logo.
 * [[`b7c84fcc9f`](https://github.com/alrra/browser-logos/commit/b7c84fcc9fd5f1246f9b818d0b98115c0953e6dc)] -
@@ -11,9 +12,12 @@
 
 #### Bug fixes / Improvements
 
-* Tweak and further optimize `v8.svg`.
-* Tweak and further optimize `v8-ignition.svg`.
-* Tweak and further optimize `v8-turbofan.svg`.
+* [[`2d1e3279b1`](https://github.com/alrra/browser-logos/commit/2d1e3279b184ab239dfa68365ef3b2cd6f35d480)] -
+  Tweak and further optimize `v8.svg`.
+* [[`66964da370`](https://github.com/alrra/browser-logos/commit/66964da3701db808e3fcbbc726ec0a44085a2a87)] -
+  Tweak and further optimize `v8-ignition.svg`.
+* [[`453ba66093`](https://github.com/alrra/browser-logos/commit/453ba66093185ea5ce17328f21ba01629a75ef2e)] -
+  Tweak and further optimize `v8-turbofan.svg`.
 
 
 ## 42.3.1 (June 4, 2017)
