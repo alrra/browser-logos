@@ -11,6 +11,7 @@
 
 #### Bug fixes / Improvements
 
+* Tweak and further optimize `v8-ignition.svg`.
 * Tweak and further optimize `v8.svg`.
 
 
