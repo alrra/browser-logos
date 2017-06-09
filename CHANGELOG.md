@@ -1,3 +1,15 @@
+## HEAD
+
+#### New features
+
+* [[`b7c84fcc9f`](https://github.com/alrra/browser-logos/commit/b7c84fcc9fd5f1246f9b818d0b98115c0953e6dc)] -
+  Add `V8` logo.
+* [[`b7c84fcc9f`](https://github.com/alrra/browser-logos/commit/b7c84fcc9fd5f1246f9b818d0b98115c0953e6dc)] -
+  Add `V8 Ignition` logo.
+* [[`b7c84fcc9f`](https://github.com/alrra/browser-logos/commit/b7c84fcc9fd5f1246f9b818d0b98115c0953e6dc)] -
+  Add `V8 TurboFan` logo.
+
+
 ## 42.3.1 (June 4, 2017)
 
 #### Bug fixes / Improvements
