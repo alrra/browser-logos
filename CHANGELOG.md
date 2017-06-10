@@ -1,3 +1,10 @@
+## HEAD
+
+#### Bug fixes / Improvements
+
+* Further optimize `v8-turbofan.svg`.
+
+
 ## 42.4.1 (June 10, 2017)
 
 #### Bug fixes / Improvements
