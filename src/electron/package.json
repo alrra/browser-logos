@@ -1,0 +1,14 @@
+{
+  "bugs": "https://github.com/alrra/browser-logos/issues",
+  "description": "Electron browser logo",
+  "homepage": "https://github.com/alrra/browser-logos",
+  "keywords": [
+    "browser-logos",
+    "logo",
+    "electron",
+    "electron-logo"
+  ],
+  "name": "@browser-logos/electron",
+  "repository": "alrra/browser-logos",
+  "version": "1.0.0"
+}
