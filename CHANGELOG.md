@@ -1,3 +1,11 @@
+## HEAD
+
+#### New features
+
+* Tweak and further optimize `electron.svg`.
+* Add `Electron` logo.
+
+
 ## 42.4.2 (June 10, 2017)
 
 #### Bug fixes / Improvements
