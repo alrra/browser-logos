@@ -1,9 +1,16 @@
 ## HEAD
 
+#### Bug fixes / Improvements
+
+* [[`ac93ee32b9`](https://github.com/alrra/browser-logos/commit/ac93ee32b97c460de3517d619a04c63e0264d378)] -
+  Tweak and further optimize `electron.svg`.
+
 #### New features
 
-* Tweak and further optimize `electron.svg`.
-* Add `Electron` logo.
+* [[`ac93ee32b9`](https://github.com/alrra/browser-logos/commit/ac93ee32b97c460de3517d619a04c63e0264d378)] -
+  Publish `Electron` logo on `npm`.
+* [[`5b93c7b77b`](https://github.com/alrra/browser-logos/commit/5b93c7b77b1bd13873a2716dec2bdb4b0dbca735)] -
+  Add `Electron` logo.
 
 
 ## 42.4.2 (June 10, 2017)
