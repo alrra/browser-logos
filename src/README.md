@@ -278,6 +278,21 @@
     </tbody>
 </table>
 
+### Electron
+
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://electron.atom.io/">Electron</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="electron"><img width=140 src="electron/electron.png" alt="Electron logo"></a></td>
+        </tr>
+    </tbody>
+</table>
+
 ### Epic
 
 <table>
