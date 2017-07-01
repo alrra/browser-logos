@@ -271,7 +271,7 @@
     </thead>
     <tbody>
         <tr height=160>
-            <td><a href="chrome-dev_37-59"><img width=140 src="chrome-beta_37-57/chrome-dev_37-59_256x256.png" alt="Chrome Dev 37-59 browser logo"></a></td>
+            <td><a href="chrome-dev_37-59"><img width=140 src="chrome-dev_37-59/chrome-dev_37-59_256x256.png" alt="Chrome Dev 37-59 browser logo"></a></td>
         </tr>
     </tbody>
 </table>
