@@ -1,4 +1,4 @@
-## HEAD
+## 42.6.0 (July 1, 2017)
 
 #### New features
 
