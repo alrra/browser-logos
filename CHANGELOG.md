@@ -2,6 +2,7 @@
 
 #### New features
 
+* Update `Chrome Beta` logo.
 * Update `Chrome Dev` logo.
 
 

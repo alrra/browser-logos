@@ -244,6 +244,38 @@
     </tbody>
 </table>
 
+### Chrome Beta
+
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/Google_Chrome_for_Android">Chrome Beta<br>(Android)<br>25-36<br></a></th>
+            <th><a href="https://en.wikipedia.org/wiki/Google_Chrome">Chrome Beta<br>37-58<br></a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="chrome-beta-android_25-36"><img width=140 src="chrome-beta-android_25-36/chrome-beta-android_25-36_256x256.png" alt="Chrome Beta for Android 25-36 browser logo"></a></td>
+            <td><a href="chrome-beta_37-58"><img width=140 src="chrome-beta_37-58/chrome-beta_37-58_256x256.png" alt="Chrome Beta 37-58 browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
+
+### Chrome Dev
+
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/Google_Chrome">Chrome Dev<br>37-59<br></a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="chrome-dev_37-59"><img width=140 src="chrome-beta_37-57/chrome-dev_37-59_256x256.png" alt="Chrome Dev 37-59 browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
+
 ### Chrome Canary
 
 <table>
@@ -270,21 +302,6 @@
     <tbody>
         <tr height=160>
             <td><a href="chrome-android_18-36"><img width=140 src="chrome-android_18-36/chrome-android_18-36_256x256.png" alt="Chrome for Android 18-36 browser logo"></a></td>
-        </tr>
-    </tbody>
-</table>
-
-### Chrome Beta (Android)
-
-<table>
-    <thead>
-        <tr>
-            <th><a href="https://en.wikipedia.org/wiki/Google_Chrome_for_Android">Chrome Beta<br>(Android)<br>25-36<br></a></th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=160>
-            <td><a href="chrome-beta-android_25-36"><img width=140 src="chrome-beta-android_25-36/chrome-beta-android_25-36_256x256.png" alt="Chrome Beta for Android 25-36 browser logo"></a></td>
         </tr>
     </tbody>
 </table>
