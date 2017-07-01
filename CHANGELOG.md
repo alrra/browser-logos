@@ -2,8 +2,10 @@
 
 #### New features
 
-* Update `Chrome Beta` logo.
-* Update `Chrome Dev` logo.
+* [[`907b11ebe8`](https://github.com/alrra/browser-logos/commit/907b11ebe817fe5535e88d5ef2bf91a640de3122)] -
+  Update `Chrome Beta` logo.
+* [[`cf1680a87c`](https://github.com/alrra/browser-logos/commit/cf1680a87c7c3438394c5fec2fc2f447981885dc)] -
+  Update `Chrome Dev` logo.
 
 
 ## 42.5.0 (June 25, 2017)
