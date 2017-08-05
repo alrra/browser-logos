@@ -2,7 +2,8 @@
 
 #### New features
 
-* Publish `Firefox Nightly v23-56` logo on `npm`.
+* [[`dafd137bcf`](https://github.com/alrra/browser-logos/commit/dafd137bcf5055c2ab508409ab3a050fb082a51f)] -
+  Publish `Firefox Nightly v23-56` logo on `npm`.
 * [[`f9861f8aad`](https://github.com/alrra/browser-logos/commit/f9861f8aad61a4445d990b9c6cef0d80eb53b776)] -
   Update `Firefox Nightly` logo.
 
