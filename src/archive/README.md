@@ -585,11 +585,13 @@
     <thead>
         <tr>
             <th><a href="https://en.wikipedia.org/wiki/Firefox#Versions">Firefox Nightly<br>6-22</a></th>
+            <th><a href="https://en.wikipedia.org/wiki/Firefox#Versions">Firefox Nightly<br>23-56</a></th>
         </tr>
     </thead>
     <tbody>
         <tr height=160>
             <td><a href="firefox-nightly_6-22"><img width=140 src="firefox-nightly_6-22/firefox-nightly_6-22_256x256.png" alt="Firefox Nightly 6-22 browser logo"></a></td>
+            <td><a href="firefox-nightly_23-56"><img width=140 src="firefox-nightly_23-56/firefox-nightly_23-56_256x256.png" alt="Firefox Nightly 23-56 browser logo"></a></td>
         </tr>
     </tbody>
 </table>
