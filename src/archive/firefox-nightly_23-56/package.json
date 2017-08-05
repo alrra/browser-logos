@@ -1,0 +1,14 @@
+{
+  "bugs": "https://github.com/alrra/browser-logos/issues",
+  "description": "Firefox Nightly v23-56 browser logo",
+  "homepage": "https://github.com/alrra/browser-logos",
+  "keywords": [
+    "browser-logos",
+    "logo",
+    "firefox-nightly",
+    "firefox-nightly-logo"
+  ],
+  "name": "@browser-logos/firefox-nightly_23-56",
+  "repository": "alrra/browser-logos",
+  "version": "1.0.0"
+}
