@@ -2,7 +2,8 @@
 
 #### New features
 
-* Update `Firefox Nightly` logo.
+* [[`f9861f8aad`](https://github.com/alrra/browser-logos/commit/f9861f8aad61a4445d990b9c6cef0d80eb53b776)] -
+  Update `Firefox Nightly` logo.
 
 
 ## 42.6.0 (July 1, 2017)
