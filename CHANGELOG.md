@@ -1,4 +1,4 @@
-## HEAD
+## 42.7.1 (August 13, 2017)
 
 #### Bug fixes / Improvements
 
