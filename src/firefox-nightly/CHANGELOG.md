@@ -1,3 +1,10 @@
+## 2.0.1 (August 13, 2017)
+
+#### Bug fixes / Improvements
+
+* Further losslessly optimize images.
+
+
 ## 2.0.0 (August 5, 2017)
 
 #### Breaking changes
