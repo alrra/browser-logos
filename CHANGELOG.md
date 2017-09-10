@@ -2,7 +2,8 @@
 
 #### New features
 
-* Update `Firefox Focus` logo.
+* [[`026cc1e1cb`](https://github.com/alrra/browser-logos/commit/026cc1e1cb8d152a57536aa6f17ab0ebcef66950)] -
+  Update `Firefox Focus` logo.
 
 
 ## 42.7.1 (August 13, 2017)
