@@ -334,7 +334,7 @@
 <table>
     <thead>
         <tr>
-            <th><a href="https://github.com/mozilla-mobile/focus">Focus</a></th>
+            <th><a href="https://www.mozilla.org/en-US/firefox/focus/">Focus</a></th>
         </tr>
     </thead>
     <tbody>

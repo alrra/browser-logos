@@ -611,6 +611,21 @@
     </tbody>
 </table>
 
+### Focus
+
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/Firefox_Focus">Focus</a>  <a href="#note"><code>*</code></a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="focus"><img width=140 src="focus/focus.png" alt="Firefox Focus browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
+
 ### GreenBrowser
 
 <table>
