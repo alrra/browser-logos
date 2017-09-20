@@ -1,3 +1,10 @@
+## 2.0.0 (September 20, 2017)
+
+#### Breaking changes
+
+* Update logo.
+
+
 ## 1.0.1 (June 3, 2017)
 
 #### Bug fixes / Improvements

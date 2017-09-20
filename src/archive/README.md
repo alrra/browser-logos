@@ -579,13 +579,28 @@
     </tbody>
 </table>
 
+### Firefox Developer Edition
+
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/Firefox#Version_history">Firefox<br>Developer Edition<br>35-56</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="firefox-developer-edition_35-56"><img width=140 src="firefox-developer-edition_35-56/firefox-developer-edition_35-56_256x256.png" alt="Firefox Developer Edition 35-56 browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
+
 ### Firefox Nightly
 
 <table>
     <thead>
         <tr>
-            <th><a href="https://en.wikipedia.org/wiki/Firefox#Versions">Firefox Nightly<br>6-22</a></th>
-            <th><a href="https://en.wikipedia.org/wiki/Firefox#Versions">Firefox Nightly<br>23-56</a></th>
+            <th><a href="https://en.wikipedia.org/wiki/Firefox#Version_history">Firefox Nightly<br>6-22</a></th>
+            <th><a href="https://en.wikipedia.org/wiki/Firefox#Version_history">Firefox Nightly<br>23-56</a></th>
         </tr>
     </thead>
     <tbody>

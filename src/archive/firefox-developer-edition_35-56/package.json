@@ -1,6 +1,6 @@
 {
   "bugs": "https://github.com/alrra/browser-logos/issues",
-  "description": "Firefox Developer Edition browser logo",
+  "description": "Firefox Developer Edition v35-56 browser logo",
   "homepage": "https://github.com/alrra/browser-logos",
   "keywords": [
     "browser-logos",
@@ -8,7 +8,7 @@
     "firefox-developer-edition",
     "firefox-developer-edition-logo"
   ],
-  "name": "@browser-logos/firefox-developer-edition",
+  "name": "@browser-logos/firefox-developer-edition_35-56",
   "repository": "alrra/browser-logos",
-  "version": "2.0.0"
+  "version": "1.0.0"
 }
