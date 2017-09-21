@@ -2,7 +2,10 @@
 
 #### New features
 
-* Update `Firefox Developer Edition` logo.
+* [[`d9aaa3f982`](https://github.com/alrra/browser-logos/commit/d9aaa3f9827ca218aac05daf5446849eb330c277)] -
+  Publish `Firefox Developer Edition v35-56` logo on `npm`.
+* [[`d9aaa3f982`](https://github.com/alrra/browser-logos/commit/d9aaa3f9827ca218aac05daf5446849eb330c277)] -
+  Update `Firefox Developer Edition` logo.
 
 
 ## 42.8.0 (September 10, 2017)
