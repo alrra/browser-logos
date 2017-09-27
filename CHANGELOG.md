@@ -1,3 +1,10 @@
+## HEAD
+
+#### New features
+
+* Add `firefox-nightly.svg`.
+
+
 ## 42.9.0 (September 21, 2017)
 
 #### New features
