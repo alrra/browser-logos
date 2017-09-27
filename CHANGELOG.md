@@ -2,7 +2,8 @@
 
 #### New features
 
-* Add `firefox-nightly.svg`.
+* [[`e68ab95abc`](https://github.com/alrra/browser-logos/commit/e68ab95abcd48fa6bb1c3422a149df35f866f646)] -
+  Add `firefox-nightly.svg`.
 
 
 ## 42.9.0 (September 21, 2017)
