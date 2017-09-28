@@ -1,3 +1,10 @@
+## 2.1.0 (September 28, 2017)
+
+#### New features
+
+* Add `focus.svg`.
+
+
 ## 2.0.0 (September 10, 2017)
 
 #### Breaking changes

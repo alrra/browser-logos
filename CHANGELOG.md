@@ -7,6 +7,7 @@
 
 #### New features
 
+* Add `focus.svg`.
 * [[`846a2a41a3`](https://github.com/alrra/browser-logos/commit/846a2a41a3670b46012be9187949c904b0de9a02)] -
   Publish `Firefox v23-56` logo on `npm`.
 * [[`846a2a41a3`](https://github.com/alrra/browser-logos/commit/846a2a41a3670b46012be9187949c904b0de9a02)] -
