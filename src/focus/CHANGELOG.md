@@ -2,7 +2,8 @@
 
 #### New features
 
-* Add `focus.svg`.
+* [[`b7e6ec9d35`](https://github.com/alrra/browser-logos/commit/b7e6ec9d358f84fce200d5c626b3b7edacd644e16)] -
+  Add `focus.svg`.
 
 
 ## 2.0.0 (September 10, 2017)
