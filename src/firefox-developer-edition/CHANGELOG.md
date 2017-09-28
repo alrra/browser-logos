@@ -1,3 +1,10 @@
+## 2.1.0 (September 28, 2017)
+
+#### New features
+
+* Add `firefox-developer-edition.svg`.
+
+
 ## 2.0.0 (September 20, 2017)
 
 #### Breaking changes
