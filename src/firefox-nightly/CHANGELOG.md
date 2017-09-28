@@ -1,3 +1,10 @@
+## 2.1.1 (September 28, 2017)
+
+#### Bug fixes / Improvements
+
+* Tweak `firefox-nightly.svg`.
+
+
 ## 2.1.0 (September 27, 2017)
 
 #### New features

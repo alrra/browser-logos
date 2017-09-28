@@ -1,5 +1,9 @@
 ## HEAD
 
+#### Bug fixes / Improvements
+
+* Tweak `firefox-nightly.svg`.
+
 #### New features
 
 * [[`8516b82486`](https://github.com/alrra/browser-logos/commit/8516b82486bfd5d5014e95dcb01eb9d5e5a94590)] -
