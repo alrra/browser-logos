@@ -1713,7 +1713,7 @@
 <table>
     <thead>
         <tr>
-            <th><a href="https://en.wikipedia.org/wiki/Wyzo">Wyzo</a></th>
+            <th><a href="https://web.archive.org/web/20161019204700/https://en.wikipedia.org/wiki/Wyzo">Wyzo</a></th>
         </tr>
     </thead>
     <tbody>
