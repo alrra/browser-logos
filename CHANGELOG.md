@@ -7,7 +7,10 @@
 
 #### New features
 
-* Update `Firefox` logo.
+* [[`846a2a41a3`](https://github.com/alrra/browser-logos/commit/846a2a41a3670b46012be9187949c904b0de9a02)] -
+  Publish `Firefox v23-56` logo on `npm`.
+* [[`846a2a41a3`](https://github.com/alrra/browser-logos/commit/846a2a41a3670b46012be9187949c904b0de9a02)] -
+  Update `Firefox` logo.
 * [[`8516b82486`](https://github.com/alrra/browser-logos/commit/8516b82486bfd5d5014e95dcb01eb9d5e5a94590)] -
   Add `firefox-developer-edition.svg`.
 * [[`e68ab95abc`](https://github.com/alrra/browser-logos/commit/e68ab95abcd48fa6bb1c3422a149df35f866f646)] -

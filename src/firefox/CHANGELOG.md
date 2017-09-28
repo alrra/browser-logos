@@ -2,7 +2,8 @@
 
 #### Breaking changes
 
-* Update logo.
+* [[`846a2a41a3`](https://github.com/alrra/browser-logos/commit/846a2a41a3670b46012be9187949c904b0de9a02)] -
+  Update logo.
 
 
 ## 1.0.3 (June 3, 2017)
