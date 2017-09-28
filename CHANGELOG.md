@@ -7,6 +7,7 @@
 
 #### New features
 
+* Update `Firefox` logo.
 * [[`8516b82486`](https://github.com/alrra/browser-logos/commit/8516b82486bfd5d5014e95dcb01eb9d5e5a94590)] -
   Add `firefox-developer-edition.svg`.
 * [[`e68ab95abc`](https://github.com/alrra/browser-logos/commit/e68ab95abcd48fa6bb1c3422a149df35f866f646)] -

@@ -1,6 +1,6 @@
 {
   "bugs": "https://github.com/alrra/browser-logos/issues",
-  "description": "Firefox browser logo",
+  "description": "Firefox v23-56 browser logo",
   "homepage": "https://github.com/alrra/browser-logos",
   "keywords": [
     "browser-logos",
@@ -8,7 +8,7 @@
     "firefox",
     "firefox-logo"
   ],
-  "name": "@browser-logos/firefox",
+  "name": "@browser-logos/firefox_23-56",
   "repository": "alrra/browser-logos",
-  "version": "2.0.0"
+  "version": "1.0.0"
 }

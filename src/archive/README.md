@@ -550,6 +550,7 @@
             <th><a href="https://en.wikipedia.org/wiki/Firefox">Firefox<br>1</a></th>
             <th><a href="https://en.wikipedia.org/wiki/Firefox">Firefox<br>1.5-3</a></th>
             <th><a href="https://en.wikipedia.org/wiki/Firefox">Firefox<br>3.5-22</a></th>
+            <th><a href="https://en.wikipedia.org/wiki/Firefox">Firefox<br>23-56</a></th>
         </tr>
     </thead>
     <tbody>
@@ -558,6 +559,7 @@
             <td><a href="firefox_1"><img width=140 src="firefox_1/firefox_1_256x256.png" alt="Firefox 1 browser logo"></a></td>
             <td><a href="firefox_1.5-3"><img width=140 src="firefox_1.5-3/firefox_1.5-3_256x256.png" alt="Firefox 1 browser logo"></a></td>
             <td><a href="firefox_3.5-22"><img width=140 src="firefox_3.5-22/firefox_3.5-22_256x256.png" alt="Firefox 3.5-22 browser logo"></a></td>
+            <td><a href="firefox_23-56"><img width=140 src="firefox_23-56/firefox_23-56_256x256.png" alt="Firefox 23-56 browser logo"></a></td>
         </tr>
     </tbody>
 </table>
