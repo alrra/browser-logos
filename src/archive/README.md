@@ -581,6 +581,21 @@
     </tbody>
 </table>
 
+### Firefox Beta
+
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/Firefox#Versions">Firefox Beta</a> <a href="#note"><code>*</code></a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="firefox-beta"><img width=140 src="firefox-beta/firefox-beta_256x256.png" alt="Firefox Beta browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
+
 ### Firefox Developer Edition
 
 <table>
