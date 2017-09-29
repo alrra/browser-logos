@@ -2,7 +2,8 @@
 
 #### New features
 
-* Update `Firefox Beta` logo.
+* [[`580a987f44`](https://github.com/alrra/browser-logos/commit/580a987f443ca7dae2bc73b8a73956e58638e55c)] -
+  Update `Firefox Beta` logo.
 
 
 ## 42.10.0 (September 28, 2017)
