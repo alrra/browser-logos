@@ -1,5 +1,8 @@
 ## HEAD
 
+#### New features
+
+* Update `Vivaldi Snapshot` logo.
 * Update `Vivaldi` logo.
 
 

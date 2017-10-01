@@ -1676,6 +1676,21 @@
     </tbody>
 </table>
 
+### Vivaldi Snapshot
+
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/Vivaldi_%28web_browser%29">Vivaldi<br>Snapshot</a> <a href="#note"><code>*</code></a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="vivaldi-snapshot"><img width=140 src="vivaldi-snapshot/vivaldi-snapshot.png" alt="Vivaldi Snapshot browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
+
 ### WaterFox
 
 <table>
