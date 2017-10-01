@@ -2,6 +2,7 @@
 
 #### New features
 
+* Publish `Vivaldi Snapshot` logo on `npm`.
 * [[`3eb900b8bd`](https://github.com/alrra/browser-logos/commit/3eb900b8bd884331fa1b5ca691ad2ab1ffd8e796)] -
   Update `Vivaldi Snapshot` logo.
 * [[`3886c5f2a6`](https://github.com/alrra/browser-logos/commit/3886c5f2a68fe7693e6407c7c77faf05491e6ef4)] -

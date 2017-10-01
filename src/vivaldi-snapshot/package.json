@@ -1,0 +1,15 @@
+{
+  "bugs": "https://github.com/alrra/browser-logos/issues",
+  "description": "Vivaldi Snapshot browser logo",
+  "homepage": "https://github.com/alrra/browser-logos",
+  "keywords": [
+    "browser-logos",
+    "logo",
+    "vivaldi",
+    "vivaldi-snapshot",
+    "vivaldi-snapshot-logo"
+  ],
+  "name": "@browser-logos/vivaldi-snapshot",
+  "repository": "alrra/browser-logos",
+  "version": "1.0.0"
+}
