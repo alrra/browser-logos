@@ -1,3 +1,8 @@
+## HEAD
+
+* Update `Vivaldi` logo.
+
+
 ## 42.11.0 (September 29, 2017)
 
 #### New features

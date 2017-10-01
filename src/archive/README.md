@@ -1661,6 +1661,21 @@
     </tbody>
 </table>
 
+### Vivaldi
+
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/Vivaldi_%28web_browser%29">Vivaldi</a> <a href="#note"><code>*</code></a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="vivaldi"><img width=140 src="vivaldi/vivaldi.png" alt="Vivaldi browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
+
 ### WaterFox
 
 <table>
