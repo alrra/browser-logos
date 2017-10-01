@@ -76,7 +76,7 @@ There are a few options for getting the browser logos:
 #### 1) Get individual logos:
 
    * Install via:
-     * [`npm`](https://www.npmjs.com/): `npm install --save-dev @browser-logos/<logo>`
+     * [`npm`](https://www.npmjs.com/): `npm install --save-dev @browser-logos/`[`<logo>`](https://www.npmjs.com/search?q=@browser-logos)
    * Use [`cdnjs`](https://cdnjs.com/libraries/browser-logos).
 
 #### 2) Get all logos:
