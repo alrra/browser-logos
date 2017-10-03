@@ -2,8 +2,10 @@
 
 #### New features
 
-* Publish `Firedoge` logo on `npm`.
-* Add `Firedoge` logo.
+* [[`67e6276d0e`](https://github.com/alrra/browser-logos/commit/67e6276d0e7dbf1864851153ec68875b7cd2affe)] -
+  Publish `Firedoge` logo on `npm`.
+* [[`67e6276d0e`](https://github.com/alrra/browser-logos/commit/67e6276d0e7dbf1864851153ec68875b7cd2affe)] -
+  Add `Firedoge` logo.
 
 
 ## 42.12.0 (October 1, 2017)
