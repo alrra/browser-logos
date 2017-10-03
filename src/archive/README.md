@@ -182,6 +182,21 @@
     </tbody>
 </table>
 
+### BeZillaBrowser
+
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://www-archive.mozilla.org/ports/beos/">BeZillaBrowser</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="bezillabrowser"><img width=140 src="bezillabrowser/bezillabrowser_256x256.png" alt="BeZillaBrowser browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
+
 ### Breach
 
 <table>
