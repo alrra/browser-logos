@@ -1,0 +1,14 @@
+{
+  "bugs": "https://github.com/alrra/browser-logos/issues",
+  "description": "Firedoge browser logo",
+  "homepage": "https://github.com/alrra/browser-logos",
+  "keywords": [
+    "browser-logos",
+    "logo",
+    "firedoge",
+    "firedoge-logo"
+  ],
+  "name": "@browser-logos/firedoge",
+  "repository": "alrra/browser-logos",
+  "version": "1.0.0"
+}

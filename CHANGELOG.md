@@ -1,3 +1,11 @@
+## HEAD
+
+#### New features
+
+* Publish `Firedoge` logo on `npm`.
+* Add `Firedoge` logo.
+
+
 ## 42.12.0 (October 1, 2017)
 
 #### New features

@@ -541,6 +541,21 @@
     </tbody>
 </table>
 
+### Firedoge
+
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/Firefox#Version_history">Firedoge</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="firedoge"><img width=140 src="firedoge/firedoge_256x256.png" alt="Firedoge browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
+
 ### Firefox
 
 <table>
