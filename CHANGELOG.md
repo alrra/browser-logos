@@ -1,4 +1,4 @@
-## HEAD
+## 42.13.0 (October 3, 2017)
 
 #### New features
 
