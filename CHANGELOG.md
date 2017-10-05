@@ -1,3 +1,10 @@
+## HEAD
+
+#### Breaking changes
+
+* Move `WebKit Nightly` into the `archive`.
+
+
 ## 42.13.0 (October 3, 2017)
 
 #### New features

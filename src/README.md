@@ -915,21 +915,6 @@
     </tbody>
 </table>
 
-### WebKit Nightly
-
-<table>
-    <thead>
-        <tr>
-            <th><a href="https://webkit.org/nightly/">WebKit<br>Nightly</a></th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=160>
-            <td><a href="webkit-nightly"><img width=140 src="webkit-nightly/webkit-nightly_256x256.png" alt="WebKit Nightly browser logo"></a></td>
-        </tr>
-    </tbody>
-</table>
-
 ### Yandex
 
 <table>

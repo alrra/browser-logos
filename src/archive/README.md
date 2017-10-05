@@ -1743,12 +1743,14 @@
         <tr>
             <th><a href="https://en.wikipedia.org/wiki/WebKit">WebKit Nightly<br>1-7</a></th>
             <th><a href="https://en.wikipedia.org/wiki/WebKit">WebKit Nightly<br>8-9</a></th>
+            <th><a href="https://en.wikipedia.org/wiki/WebKit">WebKit Nightly<br>10-11</a></a></th>
         </tr>
     </thead>
     <tbody>
         <tr height=160>
             <td><a href="webkit-nightly_1-7"><img width=140 src="webkit-nightly_1-7/webkit-nightly_1-7_256x256.png" alt="WebKit Nightly 1-7 browser logo"></a></td>
             <td><a href="webkit-nightly_8-9"><img width=140 src="webkit-nightly_8-9/webkit-nightly_8-9_256x256.png" alt="WebKit Nightly 8-9 browser logo"></a></td>
+            <td><a href="webkit-nightly_10-11"><img width=140 src="webkit-nightly_10-11/webkit-nightly_10-11_256x256.png" alt="WebKit Nightly 10-11 browser logo"></a></td>
         </tr>
     </tbody>
 </table>
