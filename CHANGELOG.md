@@ -2,7 +2,8 @@
 
 #### Breaking changes
 
-* Move `WebKit Nightly` into the `archive`.
+* [[`eb0dac0cde`](https://github.com/alrra/browser-logos/commit/eb0dac0cde66a7af514d6564195cbb98ccb4cfdd)] -
+  Move `WebKit Nightly` into the `archive`.
 
 
 ## 42.13.0 (October 3, 2017)
