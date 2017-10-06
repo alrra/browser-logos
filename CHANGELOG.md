@@ -1,5 +1,9 @@
 ## HEAD
 
+#### Bug fixes / Improvements
+
+* Tweak and further optimize `bezillabrowser.svg`.
+
 #### New features
 
 * Add `BeZillaBrowser` logo.

@@ -187,7 +187,7 @@
 <table>
     <thead>
         <tr>
-            <th><a href="https://www-archive.mozilla.org/ports/beos/">BeZillaBrowser</a></th>
+            <th><a href="https://en.wikipedia.org/wiki/WebPositive">BeZillaBrowser</a></th>
         </tr>
     </thead>
     <tbody>
