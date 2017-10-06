@@ -2,11 +2,13 @@
 
 #### Bug fixes / Improvements
 
-* Tweak and further optimize `bezillabrowser.svg`.
+* [[`8667d5f5a6`](https://github.com/alrra/browser-logos/commit/8667d5f5a6865764ef584d5ef72a29f470929c6d)] -
+  Tweak and further optimize `bezillabrowser.svg`.
 
 #### New features
 
-* Add `BeZillaBrowser` logo.
+* [[`19b25cbe36`](https://github.com/alrra/browser-logos/commit/19b25cbe36a70a7f5d53abc67d3afb56943f8957)] -
+  Add `BeZillaBrowser` logo.
 
 
 ## 43.0.0 (October 5, 2017)
