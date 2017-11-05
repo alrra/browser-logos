@@ -2,7 +2,8 @@
 
 #### New features
 
-* Add `firefox-beta.svg`.
+* [[`4107160ac7`](https://github.com/alrra/browser-logos/commit/4107160ac7ebb7f9a098bd6658ac82d92f25d1f5)] -
+  Add `firefox-beta.svg`.
 
 
 ## 2.0.0 (September 29, 2017)
