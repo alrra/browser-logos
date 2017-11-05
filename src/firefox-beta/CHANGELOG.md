@@ -1,3 +1,10 @@
+## 2.1.0 (November 5, 2017)
+
+#### New features
+
+* Add `firefox-beta.svg`.
+
+
 ## 2.0.0 (September 29, 2017)
 
 #### Breaking changes

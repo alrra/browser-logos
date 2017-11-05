@@ -1,3 +1,10 @@
+## HEAD
+
+#### New features
+
+* Add `firefox-beta.svg`.
+
+
 ## 43.1.0 (October 6, 2017)
 
 #### Bug fixes / Improvements
