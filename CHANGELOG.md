@@ -1,3 +1,10 @@
+## HEAD
+
+#### Breaking changes
+
+* Update `Silk` logo.
+
+
 ## 43.2.0 (November 5, 2017)
 
 #### New features
