@@ -2,7 +2,8 @@
 
 #### Breaking changes
 
-* Move `Android Browser` into the `archive`.
+* [[`189fb0cc6f`](https://github.com/alrra/browser-logos/commit/189fb0cc6f743c0e982d1fca372defe6f3a63dbc)] -
+  Move `Android Browser` into the `archive`.
 * [[`62c0a38fa3`](https://github.com/alrra/browser-logos/commit/62c0a38fa3a617351c332437c945543152b77fc9)] -
   Update `Silk` logo.
 
