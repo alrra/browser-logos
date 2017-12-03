@@ -18,13 +18,11 @@
 <table>
     <thead>
         <tr>
-            <th><a href="https://en.wikipedia.org/wiki/Android_%28operating_system%29">Android<br>Browser</a></th>
             <th><a href="https://play.google.com/store/apps/details?id=com.google.android.webview">Android<br>WebView Beta</a></th>
         </tr>
     </thead>
     <tbody>
         <tr height=160>
-            <td><a href="android"><img width=140 src="android/android_256x256.png" alt="Android browser logo"></a></td>
             <td><a href="android-webview-beta"><img width=140 src="android-webview-beta/android-webview-beta_256x256.png" alt="Android WebView Beta logo"></a></td>
         </tr>
     </tbody>

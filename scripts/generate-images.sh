@@ -47,7 +47,6 @@ declare -r -a MAIN_DESKTOP_BROWSERS=(
 )
 
 declare -r -a MAIN_MOBILE_BROWSERS=(
-    "android"
     "chrome"
     "edge-tile"
     "opera-mini"
