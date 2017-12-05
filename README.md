@@ -92,10 +92,11 @@ There are a few options for getting the browser logos:
 #### __All logos and trademarks are the property of their respective owners!__
 
 If you represent the entity that has the rights over a logo and you
-want, for whatever reason, that logo removed from this project, [open
-an issue](https://github.com/alrra/browser-logos/issues/new) requesting
-its takedown and we will remove it as soon as possible.
+want, for whatever reason, that logo removed from this project,
+[open an issue](https://github.com/alrra/browser-logos/issues/new)
+requesting its takedown and we will remove it as soon as possible.
 
+Everything else is available under the MIT license.
 
 ## Project origin and history
 
