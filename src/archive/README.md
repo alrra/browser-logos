@@ -212,6 +212,21 @@
     </tbody>
 </table>
 
+### Boat
+
+<table>
+    <thead>
+        <tr>
+            <th><a href="http://www.boatmob.com/mobile/product_browser_free.html">Boat</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="boat"><img width=140 src="boat/boat_256x256.png" alt="Boat browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
+
 ### Breach
 
 <table>

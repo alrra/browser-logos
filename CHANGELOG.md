@@ -2,6 +2,7 @@
 
 #### Breaking changes
 
+* Move `Boat` into the `archive`.
 * Move `Coast` into the `archive`.
 * Move `Tofino` into the `archive`.
 * Move `Sleipnir` into the `archive`.
