@@ -2,6 +2,7 @@
 
 #### Breaking changes
 
+* Move `Tofino` into the `archive`.
 * Move `Sleipnir` into the `archive`.
 
 

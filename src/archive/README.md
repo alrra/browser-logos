@@ -1666,6 +1666,21 @@
     </tbody>
 </table>
 
+### Tofino
+
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://mozilla.github.io/tofino/">Tofino</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="tofino"><img width=140 src="tofino/tofino_256x256.png" alt="Project Tofino browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
+
 ### Torch
 
 <table>
