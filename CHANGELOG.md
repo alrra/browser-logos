@@ -1,3 +1,10 @@
+## HEAD
+
+#### Breaking changes
+
+* Move `Sleipnir` into the `archive`.
+
+
 ## 44.0.0 (December 2, 2017)
 
 #### Breaking changes

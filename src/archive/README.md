@@ -1511,17 +1511,35 @@
     </tbody>
 </table>
 
+### Sleipnir
+
+<table>
+    <thead>
+        <tr>
+            <th><a href="http://www.fenrir-inc.com/jp/sleipnir/">Sleipnir</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="sleipnir"><img width=140 src="sleipnir/sleipnir_256x256.png" alt="Sleipnir browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
+
+
 ### Sleipnir (Mobile)
 
 <table>
     <thead>
         <tr>
             <th><a href="https://en.wikipedia.org/wiki/Sleipnir_%28web_browser%29">Sleipnir<br>(Mobile)</a> <a href="#note"><code>*</code></a></th>
+            <th><a href="https://en.wikipedia.org/wiki/Sleipnir_%28web_browser%29">Sleipnir<br>(Mobile)</a> <a href="#note"><code>*</code></a></th>
         </tr>
     </thead>
     <tbody>
         <tr height=160>
-            <td><a href="sleipnir-mobile"><img width=140 src="sleipnir-mobile/sleipnir-mobile_256x256.png" alt="Sleipnir Mobile browser logo"></a></td>
+            <td><a href="sleipnir-mobile_1"><img width=140 src="sleipnir-mobile_1/sleipnir-mobile_1_256x256.png" alt="Sleipnir Mobile browser logo"></a></td>
+            <td><a href="sleipnir-mobile_2"><img width=140 src="sleipnir-mobile_2/sleipnir-mobile_2_256x256.png" alt="Sleipnir Mobile browser logo"></a></td>
         </tr>
     </tbody>
 </table>

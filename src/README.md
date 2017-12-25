@@ -727,36 +727,6 @@
     </tbody>
 </table>
 
-### Sleipnir
-
-<table>
-    <thead>
-        <tr>
-            <th><a href="http://www.fenrir-inc.com/jp/sleipnir/">Sleipnir</a></th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=160>
-            <td><a href="sleipnir"><img width=140 src="sleipnir/sleipnir_256x256.png" alt="Sleipnir browser logo"></a></td>
-        </tr>
-    </tbody>
-</table>
-
-### Sleipnir (Mobile)
-
-<table>
-    <thead>
-        <tr>
-            <th><a href="http://www.fenrir-inc.com/jp/sleipnir/">Sleipnir<br>(Mobile)</a></th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=160>
-            <td><a href="sleipnir-mobile"><img width=140 src="sleipnir-mobile/sleipnir-mobile_256x256.png" alt="Sleipnir Mobile browser logo"></a></td>
-        </tr>
-    </tbody>
-</table>
-
 ### Sogou (Mobile)
 
 <table>
