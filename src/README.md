@@ -184,21 +184,6 @@
     </tbody>
 </table>
 
-### Coast
-
-<table>
-    <thead>
-        <tr>
-            <th><a href="https://www.opera.com/mobile/coast">Coast</a></th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=160>
-            <td><a href="coast"><img width=140 src="coast/coast_256x256.png" alt="Coast browser logo"></a></td>
-        </tr>
-    </tbody>
-</table>
-
 ### Cốc Cốc
 
 <table>
