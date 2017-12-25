@@ -1596,12 +1596,14 @@
         <tr>
             <th><a href="https://en.wikipedia.org/wiki/Sogou#Sogou_browser">Sogou<br>(Mobile)</a> <a href="#note"><code>*</code></a></th>
             <th><a href="https://en.wikipedia.org/wiki/Sogou#Sogou_browser">Sogou<br>(Mobile)</a> <a href="#note"><code>*</code></a></th>
+            <th><a href="https://en.wikipedia.org/wiki/Sogou#Sogou_browser">Sogou<br>(Mobile)</a> <a href="#note"><code>*</code></a></th>
         </tr>
     </thead>
     <tbody>
         <tr height=160>
             <td><a href="sogou-mobile_1"><img width=140 src="sogou-mobile_1/sogou-mobile_1_256x256.png" alt="Sogou Mobile browser logo"></a></td>
             <td><a href="sogou-mobile_2"><img width=140 src="sogou-mobile_2/sogou-mobile_2_256x256.png" alt="Sogou Mobile browser logo"></a></td>
+            <td><a href="sogou-mobile_3"><img width=140 src="sogou-mobile_3/sogou-mobile_3_256x256.png" alt="Sogou Mobile browser logo"></a></td>
         </tr>
     </tbody>
 </table>

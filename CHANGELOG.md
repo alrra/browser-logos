@@ -7,6 +7,10 @@
 * Move `Tofino` into the `archive`.
 * Move `Sleipnir` into the `archive`.
 
+#### New features
+
+* Update `Sogou Mobile` logo.
+
 
 ## 44.0.0 (December 2, 2017)
 
