@@ -2,7 +2,8 @@
 
 #### Bug fixes / Improvements
 
-* Further optimize images.
+* [[`26ea05bb01`](https://github.com/alrra/browser-logos/commit/26ea05bb012377c3306c511294be0fcb655aaa6b)] -
+  Further optimize images.
 
 
 ## 2.1.0 (November 5, 2017)

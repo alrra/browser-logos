@@ -2,18 +2,24 @@
 
 #### Breaking changes
 
-* Move `Boat` into the `archive`.
-* Move `Coast` into the `archive`.
-* Move `Tofino` into the `archive`.
-* Move `Sleipnir` into the `archive`.
+* [[`c84947f6a2`](https://github.com/alrra/browser-logos/commit/c84947f6a2fc3014f5b6c74e9127eede91cbbc25)] -
+  Move `Boat` into the `archive`.
+* [[`29300307d1`](https://github.com/alrra/browser-logos/commit/29300307d111aed841075255e059427866794137)] -
+  Move `Coast` into the `archive`.
+* [[`09feaab4ba`](https://github.com/alrra/browser-logos/commit/09feaab4baf856a7c9121ea58769aca5667e3f1e)] -
+  Move `Tofino` into the `archive`.
+* [[`4ed23ba050`](https://github.com/alrra/browser-logos/commit/4ed23ba0501f30af4d43ea3161d9456d6d61d8ca)] -
+  Move `Sleipnir` into the `archive`.
 
 #### Bug fixes / Improvements
 
-* Further optimize images.
+* [[`26ea05bb01`](https://github.com/alrra/browser-logos/commit/26ea05bb012377c3306c511294be0fcb655aaa6b)] -
+  Further optimize images.
 
 #### New features
 
-* Update `Sogou Mobile` logo.
+* [[`7c140f4a21`](https://github.com/alrra/browser-logos/commit/7c140f4a2170f4ea4d750c236dbdcd57ef1efbc6)] -
+  Update `Sogou Mobile` logo.
 
 
 ## 44.0.0 (December 2, 2017)
