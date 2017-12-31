@@ -846,6 +846,7 @@
             <th><a href="https://browser.yandex.com/">Yandex</a></th>
             <th><a href="https://browser.yandex.com/">Yandex<br>Beta</a></th>
             <th><a href="https://browser.yandex.com/">Yandex<br>Alpha</a></th>
+            <th><a href="https://yandex.com/support/browser-mobile-lite/index.html">Yandex<br>Lite</a></th>
         </tr>
     </thead>
     <tbody>
@@ -853,6 +854,7 @@
             <td><a href="yandex"><img width=140 src="yandex/yandex_256x256.png" alt="Yandex browser logo"></a></td>
             <td><a href="yandex-beta"><img width=140 src="yandex-beta/yandex-beta_256x256.png" alt="Yandex Beta browser logo"></a></td>
             <td><a href="yandex-alpha"><img width=140 src="yandex-alpha/yandex-alpha_256x256.png" alt="Yandex Alpha browser logo"></a></td>
+            <td><a href="yandex-lite"><img width=140 src="yandex-lite/yandex-lite_256x256.png" alt="Yandex Lite browser logo"></a></td>
         </tr>
     </tbody>
 </table>

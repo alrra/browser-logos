@@ -1,3 +1,10 @@
+## HEAD
+
+#### New features
+
+* Add `Yandex Lite` logo.
+
+
 ## 45.0.0 (December 30, 2017)
 
 #### Breaking changes
