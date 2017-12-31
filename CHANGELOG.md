@@ -1,4 +1,4 @@
-## HEAD
+## 45.0.0 (December 30, 2017)
 
 #### Breaking changes
 
