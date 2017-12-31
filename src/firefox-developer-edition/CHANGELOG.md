@@ -1,3 +1,10 @@
+## 2.1.1 (December 30, 2017)
+
+#### Bug fixes / Improvements
+
+* Further optimize images.
+
+
 ## 2.1.0 (September 28, 2017)
 
 #### New features

@@ -1,3 +1,10 @@
+## 1.0.4 (December 30, 2017)
+
+#### Bug fixes / Improvements
+
+* Further optimize images.
+
+
 ## 1.0.3 (June 3, 2017)
 
 #### Bug fixes / Improvements

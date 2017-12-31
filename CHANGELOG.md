@@ -7,6 +7,10 @@
 * Move `Tofino` into the `archive`.
 * Move `Sleipnir` into the `archive`.
 
+#### Bug fixes / Improvements
+
+* Further optimize images.
+
 #### New features
 
 * Update `Sogou Mobile` logo.
