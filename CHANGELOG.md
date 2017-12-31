@@ -2,7 +2,8 @@
 
 #### New features
 
-* Add `Yandex Lite` logo.
+* [[`cc647916f6`](https://github.com/alrra/browser-logos/commit/cc647916f68a453855090b1f523272a40f5c2f0d)] -
+  Add `Yandex Lite` logo.
 
 
 ## 45.0.0 (December 30, 2017)
