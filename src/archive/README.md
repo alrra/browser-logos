@@ -227,6 +227,21 @@
     </tbody>
 </table>
 
+### Brave
+
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/Brave_%28web_browser%29">Brave</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="brave"><img width=140 src="brave/brave_256x256.png" alt="Brave browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
+
 ### Breach
 
 <table>

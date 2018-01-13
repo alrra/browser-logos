@@ -1,3 +1,10 @@
+## HEAD
+
+#### New features
+
+* Update `Brave` logo.
+
+
 ## 45.1.0 (December 30, 2017)
 
 #### New features

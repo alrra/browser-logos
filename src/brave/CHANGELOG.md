@@ -1,3 +1,8 @@
+#### Breaking changes
+
+* Update logo.
+
+
 ## 1.0.3 (December 30, 2017)
 
 #### Bug fixes / Improvements
