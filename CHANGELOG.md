@@ -2,7 +2,7 @@
 
 #### New features
 
-* [[`0bb2d21bffe501581522c2ea651c9035b408512b`](https://github.com/alrra/browser-logos/commit/0bb2d21bffe501581522c2ea651c9035b408512b)] -
+* [[`0bb2d21bff`](https://github.com/alrra/browser-logos/commit/0bb2d21bffe501581522c2ea651c9035b408512b)] -
   Update `Brave` logo.
 
 
