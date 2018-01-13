@@ -2,7 +2,8 @@
 
 #### New features
 
-* Update `Brave` logo.
+* [[`0bb2d21bffe501581522c2ea651c9035b408512b`](https://github.com/alrra/browser-logos/commit/0bb2d21bffe501581522c2ea651c9035b408512b)] -
+  Update `Brave` logo.
 
 
 ## 45.1.0 (December 30, 2017)
