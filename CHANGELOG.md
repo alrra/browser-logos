@@ -1,4 +1,4 @@
-## HEAD
+## 45.2.0 (January 13, 2018)
 
 #### New features
 
