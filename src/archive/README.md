@@ -232,12 +232,14 @@
 <table>
     <thead>
         <tr>
-            <th><a href="https://en.wikipedia.org/wiki/Brave_%28web_browser%29">Brave</a></th>
+            <th><a href="https://en.wikipedia.org/wiki/Brave_%28web_browser%29">Brave</a> <a href="#note"><code>*</code></a></th>
+            <th><a href="https://en.wikipedia.org/wiki/Brave_%28web_browser%29">Brave</a> <a href="#note"><code>*</code></a></th>
         </tr>
     </thead>
     <tbody>
         <tr height=160>
-            <td><a href="brave"><img width=140 src="brave/brave_256x256.png" alt="Brave browser logo"></a></td>
+            <td><a href="brave_1"><img width=140 src="brave_1/brave_1_256x256.png" alt="Brave browser logo"></a></td>
+            <td><a href="brave_2"><img width=140 src="brave_2/brave_2_256x256.png" alt="Brave browser logo"></a></td>
         </tr>
     </tbody>
 </table>
