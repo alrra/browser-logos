@@ -217,7 +217,7 @@
 <table>
     <thead>
         <tr>
-            <th><a href="http://www.boatmob.com/mobile/product_browser_free.html">Boat</a></th>
+            <th><a href="https://web.archive.org/web/20170211081508/http://www.boatmob.com/mobile/product_browser_free.html">Boat</a></th>
         </tr>
     </thead>
     <tbody>
@@ -435,7 +435,7 @@
 <table>
     <thead>
         <tr>
-            <th><a href="https://itunes.apple.com/us/app/cxm-web-by-citrix/id666516824">CXM Web</a> <a href="#note"><code>*</code></a></th>
+            <th>CXM Web <a href="#note"><code>*</code></a></th>
         </tr>
     </thead>
     <tbody>
