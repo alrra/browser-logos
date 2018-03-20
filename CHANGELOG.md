@@ -2,7 +2,8 @@
 
 #### New features
 
-* Publish `Beaker` logo on `npm`.
+* [[`c979fe581b`](https://github.com/alrra/browser-logos/commit/c979fe581b0eee1322181235114d350c6891cbd9)] -
+  Publish `Beaker` logo on `npm`.
 
 
 ## 45.3.0 (February 10, 2018)
