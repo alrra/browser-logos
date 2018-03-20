@@ -184,6 +184,21 @@
     </tbody>
 </table>
 
+### Crusta
+
+<table>
+    <thead>
+        <tr>
+            <th><a href="http://crustabrowser.com/">Crusta</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="crusta"><img width=140 src="crusta/crusta_256x256.png" alt="Crusta browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
+
 ### Dolphin
 
 <table>
