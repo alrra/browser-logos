@@ -1,3 +1,10 @@
+## HEAD
+
+#### New features
+
+* Publish `Beaker` logo on `npm`.
+
+
 ## 45.3.0 (February 10, 2018)
 
 #### New features
