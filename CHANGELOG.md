@@ -2,11 +2,13 @@
 
 #### Bug fixes / Improvements
 
-* Tweak and further optimize `crusta.svg`.
+* [[`98ece7d50d`](https://github.com/alrra/browser-logos/commit/98ece7d50d1167c99d880b3a6bab723f874ea8b2)] -
+  Tweak and further optimize `crusta.svg`.
 
 #### New features
 
-* Add `Crusta` logo.
+* [[`6d830b1bff`](https://github.com/alrra/browser-logos/commit/6d830b1bffc413860a54b6b17cd7bb92dd220202)] -
+  Add `Crusta` logo.
 
 
 ## 45.4.0 (March 20, 2018)
