@@ -1,5 +1,9 @@
 ## HEAD
 
+#### Bug fixes / Improvements
+
+* Tweak and further optimize `crusta.svg`.
+
 #### New features
 
 * Add `Crusta` logo.
