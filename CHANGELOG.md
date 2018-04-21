@@ -1,3 +1,10 @@
+## HEAD
+
+#### New features
+
+* Add `Amazon Internet` logo.
+
+
 ## 45.5.0 (March 28, 2018)
 
 #### Bug fixes / Improvements

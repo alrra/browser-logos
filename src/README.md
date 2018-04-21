@@ -13,6 +13,21 @@
     </tbody>
 </table>
 
+### Amazon Internet
+
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://play.google.com/store/apps/details?id=com.amazon.cloud9.garuda">Amazon<br>Internet</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="amazon-internet"><img width=140 src="amazon-internet/amazon-internet_256x256.png" alt="Amazon Internet logo"></a></td>
+        </tr>
+    </tbody>
+</table>
+
 ### Android
 
 <table>
