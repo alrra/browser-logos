@@ -2,7 +2,8 @@
 
 #### New features
 
-* Add `Amazon Internet` logo.
+* [[`9b7ed5f4e2`](https://github.com/alrra/browser-logos/commit/9b7ed5f4e229c8580ce1922191d5b5fd841f95f7)] -
+  Add `Amazon Internet` logo.
 
 
 ## 45.5.0 (March 28, 2018)
