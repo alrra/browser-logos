@@ -543,6 +543,21 @@
     </tbody>
 </table>
 
+### Opera Touch
+
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://www.opera.com/mobile/touch">Opera Touch</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="opera-touch"><img width=140 src="opera-touch/opera-touch_256x256.png" alt="Opera Touch browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
+
 ### Orbitum
 
 <table>
