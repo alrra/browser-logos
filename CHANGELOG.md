@@ -2,7 +2,8 @@
 
 #### New features
 
-* Add `Opera Touch` logo.
+* [[`fe22fb6339`](https://github.com/alrra/browser-logos/commit/fe22fb6339b68f717f84bb4122ee8b999915989c)] -
+  Add `Opera Touch` logo.
 
 
 ## 45.6.0 (April 21, 2018)
