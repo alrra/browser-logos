@@ -249,7 +249,7 @@
 <table>
     <thead>
         <tr>
-            <th><a href="http://dooble.sourceforge.net/">Dooble</a></th>
+            <th><a href="https://textbrowser.github.io/dooble/">Dooble</a></th>
         </tr>
     </thead>
     <tbody>
