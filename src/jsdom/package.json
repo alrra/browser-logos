@@ -1,0 +1,14 @@
+{
+  "bugs": "https://github.com/alrra/browser-logos/issues",
+  "description": "jsdom browser logo",
+  "homepage": "https://github.com/alrra/browser-logos",
+  "keywords": [
+    "browser-logos",
+    "logo",
+    "jsdom",
+    "jsdom-logo"
+  ],
+  "name": "@browser-logos/jsdom",
+  "repository": "alrra/browser-logos",
+  "version": "1.0.0"
+}
