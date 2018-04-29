@@ -863,6 +863,21 @@
     </tbody>
 </table>
 
+### Iridium
+
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://github.com/iridium-browser">Iridium</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="iridium"><img width=140 src="iridium/iridium_256x256.png" alt="Iridium browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
+
 ### K-Meleon
 
 <table>
