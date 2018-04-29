@@ -387,6 +387,21 @@
     </tbody>
 </table>
 
+### jsdom
+
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://github.com/jsdom/jsdom">jsdom</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="jsdom"><img width=140 src="jsdom/jsdom_256x256.png" alt="jsdom browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
+
 ### Lightning
 
 <table>
