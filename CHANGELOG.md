@@ -1,4 +1,4 @@
-## HEAD
+## 45.8.0 (May 10, 2018)
 
 #### Breaking changes
 
