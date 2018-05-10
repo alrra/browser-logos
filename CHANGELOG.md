@@ -1,3 +1,27 @@
+## HEAD
+
+#### Breaking changes
+
+* [[`b5b6631dc6`](https://github.com/alrra/browser-logos/commit/b5b6631dc6cb697cb3aab995488820ea2ead1db)] -
+  Move `Iridium` into the `archive`
+
+#### Bug fixes / Improvements
+
+* [[`b75bba3ea9`](https://github.com/alrra/browser-logos/commit/b75bba3ea9b96081d913e06e25fb0c822596e223)] -
+  Further losslessly optimize `vivaldi.svg`
+* [[`a8fec9fb1c`](https://github.com/alrra/browser-logos/commit/a8fec9fb1c5c6a0374a85604c55b093e4e9d581)] -
+  Update `Dooble` URL
+
+#### New features
+
+* [[`a49e24b110`](https://github.com/alrra/browser-logos/commit/a49e24b1103e2eabddbd56e9d24305725e0b450)] -
+  Add `vivaldi.svg`
+* [[`295f1c9fd3`](https://github.com/alrra/browser-logos/commit/295f1c9fd3bbbd353a934bf350b6fb65a407493)] -
+  Publish `jsdom` logo on `npm`
+* [[`631edc5164`](https://github.com/alrra/browser-logos/commit/631edc51644dc1e2856d32d709582fea3457d28)] -
+  Add `jsdom` logo
+
+
 ## 45.7.0 (April 26, 2018)
 
 #### New features
