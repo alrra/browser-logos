@@ -265,12 +265,16 @@
     <thead>
         <tr>
             <th><a href="https://www.microsoft.com/en-us/windows/microsoft-edge">Edge</a></th>
+            <th><a href="https://www.microsoft.com/en-us/windows/microsoft-edge">Edge Beta</a></th>
+            <th><a href="https://www.microsoft.com/en-us/windows/microsoft-edge">Edge Beta</a></th>
             <th><a href="https://www.microsoft.com/en-us/windows/microsoft-edge">Edge tile</a></th>
         </tr>
     </thead>
     <tbody>
         <tr height=160>
             <td><a href="edge"><img width=140 src="edge/edge_256x256.png" alt="Microsoft Edge browser logo"></a></td>
+            <td><a href="edge-beta"><img width=140 src="edge-beta/edge-beta-1_256x256.png" alt="Microsoft Edge Beta browser logo"></a></td>
+            <td><a href="edge-beta"><img width=140 src="edge-beta/edge-beta-2_256x256.png" alt="Microsoft Edge Beta browser logo"></a></td>
             <td><a href="edge-tile"><img width=140 src="edge-tile/edge-tile_256x256.png" alt="Microsoft Edge tile browser logo"></a></td>
         </tr>
     </tbody>
