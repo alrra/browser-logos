@@ -1,3 +1,18 @@
+## HEAD
+
+#### Bug fixes / Improvements
+
+* [[`247f8d600f`](https://github.com/alrra/browser-logos/commit/247f8d600f786055f128cadc4a2f69908e174d50)] -
+  Tweak and further optimize `v8-orinoco.svg`
+
+#### New features
+
+* [[`453f51f4cf`](https://github.com/alrra/browser-logos/commit/453f51f4cf165063ef8dfd5a158e8aad43e7aa10)] -
+  Add `V8 Orinoco` logo.
+* [[`fcc06fc540`](https://github.com/alrra/browser-logos/commit/fcc06fc540d961ce91d87537278a77a2f6f9166f)] -
+  Add `Edge Beta` logo
+
+
 ## 45.8.0 (May 10, 2018)
 
 #### Breaking changes
