@@ -1,4 +1,4 @@
-## HEAD
+## 45.9.0 (June 27, 2018)
 
 #### Bug fixes / Improvements
 
