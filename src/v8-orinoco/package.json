@@ -1,0 +1,16 @@
+{
+  "bugs": "https://github.com/alrra/browser-logos/issues",
+  "description": "V8 Orinoco logo",
+  "homepage": "https://github.com/alrra/browser-logos",
+  "keywords": [
+    "browser-logos",
+    "logo",
+    "v8",
+    "v8-logo",
+    "v8-orinoco",
+    "v8-orinoco-logo"
+  ],
+  "name": "@browser-logos/v8-orinoco",
+  "repository": "alrra/browser-logos",
+  "version": "1.0.0"
+}
