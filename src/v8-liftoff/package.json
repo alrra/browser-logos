@@ -1,0 +1,16 @@
+{
+  "bugs": "https://github.com/alrra/browser-logos/issues",
+  "description": "V8 Liftoff logo",
+  "homepage": "https://github.com/alrra/browser-logos",
+  "keywords": [
+    "browser-logos",
+    "logo",
+    "v8",
+    "v8-logo",
+    "v8-liftoff",
+    "v8-liftoff-logo"
+  ],
+  "name": "@browser-logos/v8-liftoff",
+  "repository": "alrra/browser-logos",
+  "version": "1.0.0"
+}
