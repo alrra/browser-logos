@@ -1,3 +1,16 @@
+## HEAD
+
+#### Bug fixes / Improvements
+
+* [[`6b2cf09c29`](https://github.com/alrra/browser-logos/commit/6b2cf09c29f24486ff90147bb22bf8cdf9907248)] -
+  Fix: Tweak and further optimize `v8-liftoff.svg`.
+
+#### New features
+
+* [[`db94a1d30e`](https://github.com/alrra/browser-logos/commit/db94a1d30ec498e41358f165dbfee1ed438dc0c3)] -
+  New: Add `V8 Liftoff` logo.
+
+
 ## 45.9.0 (June 27, 2018)
 
 #### Bug fixes / Improvements
