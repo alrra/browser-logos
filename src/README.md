@@ -118,6 +118,21 @@
     </tbody>
 </table>
 
+### browsh
+
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://www.brow.sh/">browsh</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="browsh"><img width=140 src="browsh/browsh_256x256.png" alt="browsh browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
+
 #### Cent
 
 <table>

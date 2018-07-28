@@ -1,3 +1,10 @@
+## HEAD
+
+#### New features
+
+* New: Add `browsh` browser logo.
+
+
 ## 45.10.0 (July 7, 2018)
 
 #### Bug fixes / Improvements
