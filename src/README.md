@@ -103,21 +103,6 @@
     </tbody>
 </table>
 
-### Browser.html
-
-<table>
-    <thead>
-        <tr>
-            <th><a href="https://github.com/browserhtml/browserhtml#readme">Browser.html</a></th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=160>
-            <td><a href="browser.html"><img width=140 src="browser.html/browser.html_256x256.png" alt="Browser.html browser logo"></a></td>
-        </tr>
-    </tbody>
-</table>
-
 ### browsh
 
 <table>
@@ -727,6 +712,21 @@
     <tbody>
         <tr height=160>
             <td><a href="seamonkey"><img width=140 src="seamonkey/seamonkey_256x256.png" alt="SeaMonkey browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
+
+### Servo
+
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://servo.org/">Servo</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="servo"><img width=140 src="servo/servo_256x256.png" alt="Servo browser logo"></a></td>
         </tr>
     </tbody>
 </table>
