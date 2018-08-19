@@ -517,11 +517,13 @@
     <thead>
         <tr>
             <th><a href="https://en.wikipedia.org/wiki/Dolphin_Browser">Dolphin<br>Zero</a> <a href="#note"><code>*</code></a></th>
+            <th><a href="https://en.wikipedia.org/wiki/Dolphin_Browser">Dolphin<br>Zero</a> <a href="#note"><code>*</code></a></th>
         </tr>
     </thead>
     <tbody>
         <tr height=160>
-            <td><a href="dolphin-zero"><img width=140 src="dolphin-zero/dolphin-zero_256x256.png" alt="Dolphin Zero browser logo"></a></td>
+            <td><a href="dolphin-zero_1"><img width=140 src="dolphin-zero_1/dolphin-zero_1_256x256.png" alt="Dolphin Zero browser logo"></a></td>
+            <td><a href="dolphin-zero_2"><img width=140 src="dolphin-zero_2/dolphin-zero_2_256x256.png" alt="Dolphin Zero browser logo"></a></td>
         </tr>
     </tbody>
 </table>
