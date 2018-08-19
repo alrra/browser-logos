@@ -219,7 +219,7 @@
 <table>
     <thead>
         <tr>
-            <th><a href="http://crustabrowser.com/">Crusta</a></th>
+            <th><a href="https://github.com/Crusta/CrustaBrowser">Crusta</a></th>
         </tr>
     </thead>
     <tbody>
