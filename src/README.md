@@ -622,21 +622,6 @@
     </tbody>
 </table>
 
-### QupZilla
-
-<table>
-    <thead>
-        <tr>
-            <th><a href="https://www.qupzilla.com/">QupZilla</a></th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=160>
-            <td><a href="qupzilla"><img width=140 src="qupzilla/qupzilla_256x256.png" alt="QupZilla browser logo"></a></td>
-        </tr>
-    </tbody>
-</table>
-
 ### qutebrowser
 
 <table>
