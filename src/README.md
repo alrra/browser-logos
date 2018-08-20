@@ -295,6 +295,21 @@
     </tbody>
 </table>
 
+### Falkon
+
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://www.falkon.org/">Falkon</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="falkon"><img width=140 src="falkon/falkon.png" alt="Falkon browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
+
 ### Firefox
 
 <table>
