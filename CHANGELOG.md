@@ -1,4 +1,4 @@
-## HEAD
+## 46.0.0 (August 20, 2018)
 
 #### Breaking changes
 
