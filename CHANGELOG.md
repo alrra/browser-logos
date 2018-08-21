@@ -1,8 +1,27 @@
 ## HEAD
 
+#### Breaking changes
+
+* [[`96df4ff7d9`](https://github.com/alrra/browser-logos/commit/96df4ff7d9ae69ae2fcc82c1e61b467c23d29e9b)] -
+  Move `Qupzilla` into the `archive`.
+* [[`34210c1496`](https://github.com/alrra/browser-logos/commit/34210c14966421b29619c3dfdd3383950fb1cdce)] -
+  Rename `Browser.html` to `Servo`.
+* [[`ade18079af`](https://github.com/alrra/browser-logos/commit/ade18079afc6888a3f9ae5cc568abc34f01d9c1e)] -
+  Move `Tob` in the `archive`.
+* [[`e2076b17a1`](https://github.com/alrra/browser-logos/commit/e2076b17a117e283d4a8dfb3ff9403247b5fd874)] -
+  Move `Dolphin Zero` in the `archive`.
+
+#### Bug fixes / Improvements
+
+* [[`44a3394fbb`](https://github.com/alrra/browser-logos/commit/44a3394fbba1e6a4ad9f3b5910c0c376e351f005)] -
+  Update `Crusta` browser logo link.
+
 #### New features
 
-* New: Add `browsh` browser logo.
+* [[`1b9a1ff13f`](https://github.com/alrra/browser-logos/commit/1b9a1ff13fd436294a4013913b0f81ec497680c5)] -
+  Add `Falkon` browser logo.
+* [[`a929120457`](https://github.com/alrra/browser-logos/commit/a92912045776f46a75422572b87f5bd128cd787c)] -
+  Add `browsh` browser logo.
 
 
 ## 45.10.0 (July 7, 2018)
@@ -10,12 +29,12 @@
 #### Bug fixes / Improvements
 
 * [[`6b2cf09c29`](https://github.com/alrra/browser-logos/commit/6b2cf09c29f24486ff90147bb22bf8cdf9907248)] -
-  Fix: Tweak and further optimize `v8-liftoff.svg`.
+  Tweak and further optimize `v8-liftoff.svg`.
 
 #### New features
 
 * [[`db94a1d30e`](https://github.com/alrra/browser-logos/commit/db94a1d30ec498e41358f165dbfee1ed438dc0c3)] -
-  New: Add `V8 Liftoff` logo.
+  Add `V8 Liftoff` logo.
 
 
 ## 45.9.0 (June 27, 2018)
