@@ -1,3 +1,11 @@
+## HEAD
+
+#### New features
+
+* [[`d25fbb7886`](https://github.com/alrra/browser-logos/commit/d25fbb7886b415eca8f077e2e198c292a62eee95)] -
+  Add `Brave` Developer Edition browser logo.
+
+
 ## 46.0.0 (August 20, 2018)
 
 #### Breaking changes
