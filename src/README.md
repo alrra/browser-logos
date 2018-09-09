@@ -94,11 +94,13 @@
     <thead>
         <tr>
             <th><a href="https://www.brave.com/">Brave</a></th>
+            <th><a href="https://brave.com/download-dev/">Brave Dev</a></th>
         </tr>
     </thead>
     <tbody>
         <tr height=160>
             <td><a href="brave"><img width=140 src="brave/brave_256x256.png" alt="Brave browser logo"></a></td>
+            <td><a href="brave-dev"><img width=140 src="brave-dev/brave-dev_256x256.png" alt="Brave Developer Edition browser logo"></a></td>
         </tr>
     </tbody>
 </table>
