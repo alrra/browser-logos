@@ -1,4 +1,4 @@
-## HEAD
+## 46.1.0 (September 9, 2018)
 
 #### New features
 
