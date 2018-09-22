@@ -156,6 +156,21 @@
     </tbody>
 </table>
 
+#### Chrome DevTools
+
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://developers.google.com/web/tools/chrome-devtools/">Chrome DevTools</a></th>
+        <tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="chrome-devtools"><img width=140 src="chrome-devtools/chrome-devtools_256x256.png" alt="Chrome DevTools Logo"></a></td>
+        <tr>
+    </tbody>
+</table>
+
 ### Chromium
 
 <table>

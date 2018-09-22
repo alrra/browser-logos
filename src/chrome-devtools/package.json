@@ -1,0 +1,16 @@
+{
+  "bugs": "https://github.com/alrra/browser-logos/issues",
+  "description": "Chrome DevTools logo",
+  "homepage": "https://github.com/alrra/browser-logos",
+  "keywords": [
+    "browser-logos",
+    "chrome",
+    "chrome-devtools",
+    "chrome-devtools-logo",
+    "devtools",
+    "logo"
+  ],
+  "name": "@browser-logos/chrome-devtools",
+  "repository": "alrra/browser-logos",
+  "version": "1.0.0"
+}
