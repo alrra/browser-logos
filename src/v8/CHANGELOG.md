@@ -1,3 +1,10 @@
+## 1.0.2 (September 27, 2017)
+
+#### Bug fixes / Improvements
+
+* [[`37bbc400f8`](https://github.com/alrra/browser-logos/commit/37bbc400f85a058d1baa9fbb120ee85ef9c08762)] -
+  Further losslessly optimize `v8.svg`
+
 ## 1.0.1 (June 10, 2017)
 
 #### Bug fixes / Improvements
