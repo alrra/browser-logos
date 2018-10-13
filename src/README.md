@@ -829,19 +829,79 @@
     <thead>
         <tr>
             <th><a href="https://developers.google.com/v8/">V8</a></th>
-            <th><a href="https://developers.google.com/v8/">V8 Ignition</a></th>
-            <th><a href="https://developers.google.com/v8/">V8 Liftoff</a></th>
-            <th><a href="https://developers.google.com/v8/">V8 Orinoco</a></th>
-            <th><a href="https://developers.google.com/v8/">V8 TurboFan</a></th>
+            <th><a href="https://developers.google.com/v8/">V8<br>(with outline)</a></th>
         </tr>
     </thead>
     <tbody>
         <tr height=160>
             <td><a href="v8"><img width=140 src="v8/v8_256x256.png" alt="V8 JavaScript engine logo"></a></td>
+           <td><a href="v8"><img width=140 src="v8/v8-outline_256x256.png" alt="V8 JavaScript engine logo with outline"></a></td>
+        </tr>
+    </tbody>
+</table>
+
+### V8 Ignition
+
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://developers.google.com/v8/">V8 Ignition</a></th>
+            <th><a href="https://developers.google.com/v8/">V8 Ignition<br>(with outline)</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
             <td><a href="v8-ignition"><img width=140 src="v8-ignition/v8-ignition_256x256.png" alt="V8's Ignition interpreter logo"></a></td>
+           <td><a href="v8-ignition"><img width=140 src="v8-ignition/v8-ignition-outline_256x256.png" alt="V8's Ignition interpreter logo with outline"></a></td>
+        </tr>
+    </tbody>
+</table>
+
+### V8 Liftoff
+
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://developers.google.com/v8/">V8 Liftoff</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
             <td><a href="v8-liftoff"><img width=140 src="v8-liftoff/v8-liftoff_256x256.png" alt="V8's Liftoff baseline compiler for WebAssembly logo"></a></td>
+        </tr>
+    </tbody>
+</table>
+
+### V8 Orinoco
+
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://developers.google.com/v8/">V8 Orinoco</a></th>
+            <th><a href="https://developers.google.com/v8/">V8 Orinoco<br>(with outline)</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
             <td><a href="v8-orinoco"><img width=140 src="v8-orinoco/v8-orinoco_256x256.png" alt="V8's Orinoco garbage collector logo"></a></td>
+           <td><a href="v8-orinoco"><img width=140 src="v8-orinoco/v8-orinoco-outline_256x256.png" alt="V8's Orinoco garbage collector logo with outline"></a></td>
+        </tr>
+    </tbody>
+</table>
+
+### V8 TurboFan
+
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://developers.google.com/v8/">V8 TurboFan</a></th>
+            <th><a href="https://developers.google.com/v8/">V8 TurboFan<br>(with outline)</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
             <td><a href="v8-turbofan"><img width=140 src="v8-turbofan/v8-turbofan_256x256.png" alt="V8's TurboFan optimizing compiler logo"></a></td>
+           <td><a href="v8-turbofan"><img width=140 src="v8-turbofan/v8-turbofan-outline_256x256.png" alt="V8's TurboFan optimizing compiler logo with outline"></a></td>
         </tr>
     </tbody>
 </table>
