@@ -1,3 +1,11 @@
+## 1.1.0 (October 12, 2017)
+
+#### New features
+
+* [[`a93f95d005`](https://github.com/alrra/browser-logos/commit/a93f95d005043e52b9074dac2249627ee86fb51e)] -
+  Add logo with outline.
+
+
 ## 1.0.1 (June 10, 2017)
 
 #### Bug fixes / Improvements
