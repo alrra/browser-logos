@@ -828,8 +828,8 @@
 <table>
     <thead>
         <tr>
-            <th><a href="https://developers.google.com/v8/">V8</a></th>
-            <th><a href="https://developers.google.com/v8/">V8<br>(with outline)</a></th>
+            <th><a href="https://v8.dev/">V8</a></th>
+            <th><a href="https://v8.dev/">V8<br>(with outline)</a></th>
         </tr>
     </thead>
     <tbody>
@@ -845,8 +845,8 @@
 <table>
     <thead>
         <tr>
-            <th><a href="https://developers.google.com/v8/">V8 Ignition</a></th>
-            <th><a href="https://developers.google.com/v8/">V8 Ignition<br>(with outline)</a></th>
+            <th><a href="https://v8.dev/">V8 Ignition</a></th>
+            <th><a href="https://v8.dev/">V8 Ignition<br>(with outline)</a></th>
         </tr>
     </thead>
     <tbody>
@@ -862,7 +862,7 @@
 <table>
     <thead>
         <tr>
-            <th><a href="https://developers.google.com/v8/">V8 Liftoff</a></th>
+            <th><a href="https://v8.dev/">V8 Liftoff</a></th>
         </tr>
     </thead>
     <tbody>
@@ -877,8 +877,8 @@
 <table>
     <thead>
         <tr>
-            <th><a href="https://developers.google.com/v8/">V8 Orinoco</a></th>
-            <th><a href="https://developers.google.com/v8/">V8 Orinoco<br>(with outline)</a></th>
+            <th><a href="https://v8.dev/">V8 Orinoco</a></th>
+            <th><a href="https://v8.dev/">V8 Orinoco<br>(with outline)</a></th>
         </tr>
     </thead>
     <tbody>
@@ -894,8 +894,8 @@
 <table>
     <thead>
         <tr>
-            <th><a href="https://developers.google.com/v8/">V8 TurboFan</a></th>
-            <th><a href="https://developers.google.com/v8/">V8 TurboFan<br>(with outline)</a></th>
+            <th><a href="https://v8.dev/">V8 TurboFan</a></th>
+            <th><a href="https://v8.dev/">V8 TurboFan<br>(with outline)</a></th>
         </tr>
     </thead>
     <tbody>
