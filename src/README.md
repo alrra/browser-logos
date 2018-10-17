@@ -852,7 +852,7 @@
     <tbody>
         <tr height=160>
             <td><a href="v8-ignition"><img width=140 src="v8-ignition/v8-ignition_256x256.png" alt="V8's Ignition interpreter logo"></a></td>
-           <td><a href="v8-ignition"><img width=140 src="v8-ignition/v8-ignition-outline_256x256.png" alt="V8's Ignition interpreter logo with outline"></a></td>
+            <td><a href="v8-ignition"><img width=140 src="v8-ignition/v8-ignition-outline_256x256.png" alt="V8's Ignition interpreter logo with outline"></a></td>
         </tr>
     </tbody>
 </table>
@@ -863,11 +863,13 @@
     <thead>
         <tr>
             <th><a href="https://v8.dev/">V8 Liftoff</a></th>
+            <th><a href="https://v8.dev/">V8 Liftoff<br>(with outline)</a></th>
         </tr>
     </thead>
     <tbody>
         <tr height=160>
             <td><a href="v8-liftoff"><img width=140 src="v8-liftoff/v8-liftoff_256x256.png" alt="V8's Liftoff baseline compiler for WebAssembly logo"></a></td>
+            <td><a href="v8-Liftoff"><img width=140 src="v8-liftoff/v8-liftoff-outline_256x256.png" alt="V8's Liftoff baseline compiler for WebAssembly with outline logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -884,7 +886,7 @@
     <tbody>
         <tr height=160>
             <td><a href="v8-orinoco"><img width=140 src="v8-orinoco/v8-orinoco_256x256.png" alt="V8's Orinoco garbage collector logo"></a></td>
-           <td><a href="v8-orinoco"><img width=140 src="v8-orinoco/v8-orinoco-outline_256x256.png" alt="V8's Orinoco garbage collector logo with outline"></a></td>
+            <td><a href="v8-orinoco"><img width=140 src="v8-orinoco/v8-orinoco-outline_256x256.png" alt="V8's Orinoco garbage collector logo with outline"></a></td>
         </tr>
     </tbody>
 </table>
@@ -901,7 +903,7 @@
     <tbody>
         <tr height=160>
             <td><a href="v8-turbofan"><img width=140 src="v8-turbofan/v8-turbofan_256x256.png" alt="V8's TurboFan optimizing compiler logo"></a></td>
-           <td><a href="v8-turbofan"><img width=140 src="v8-turbofan/v8-turbofan-outline_256x256.png" alt="V8's TurboFan optimizing compiler logo with outline"></a></td>
+            <td><a href="v8-turbofan"><img width=140 src="v8-turbofan/v8-turbofan-outline_256x256.png" alt="V8's TurboFan optimizing compiler logo with outline"></a></td>
         </tr>
     </tbody>
 </table>
