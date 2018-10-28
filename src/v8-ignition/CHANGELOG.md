@@ -2,7 +2,7 @@
 
 #### New features
 
-* [[`a93f95d005`](https://github.com/alrra/browser-logos/commit/a93f95d005043e52b9074dac2249627ee86fb51e)] -
+* [[`aa56dd6764`](https://github.com/alrra/browser-logos/commit/aa56dd6764bbad5d1ffb09573b134acccae5704b)] -
   Add logo with outline.
 
 
