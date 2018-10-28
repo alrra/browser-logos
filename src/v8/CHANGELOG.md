@@ -1,4 +1,4 @@
-## 1.1.0 (October 12, 2017)
+## 1.1.0 (October 12, 2018)
 
 #### New features
 
@@ -6,7 +6,7 @@
   Add logo with outline.
 
 
-## 1.0.2 (September 27, 2017)
+## 1.0.2 (September 27, 2018)
 
 #### Bug fixes / Improvements
 

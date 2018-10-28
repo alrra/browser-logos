@@ -1,4 +1,4 @@
-## 1.1.0 (October 12, 2017)
+## 1.1.0 (October 12, 2018)
 
 #### New features
 
