@@ -1,3 +1,11 @@
+## 1.1.1 (November 4, 2018)
+
+#### Bug fixes / Improvements
+
+* [[`e4b8335b1e`](https://github.com/alrra/browser-logos/commit/e4b8335b1ecd1fa52638fccfcdc1ed7ae97847ce)] -
+  Further optimize `v8-turbofan.svg`.
+
+
 ## 1.1.0 (October 12, 2018)
 
 #### New features
