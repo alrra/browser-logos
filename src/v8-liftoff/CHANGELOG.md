@@ -1,3 +1,11 @@
+## 1.1.2 (November 4, 2018)
+
+#### Bug fixes / Improvements
+
+* [[`bc34fe58f9`](https://github.com/alrra/browser-logos/commit/bc34fe58f9cde4c1606578fc16eb7692f9496687)] -
+  Further losslessly optimize `v8-liftoff-outline.svg`
+
+
 ## 1.1.1 (October 27, 2018)
 
 #### Bug fixes / Improvements
