@@ -438,6 +438,21 @@
     </tbody>
 </table>
 
+### Midori
+
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/Midori_%28web_browser%29">Midori</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=160>
+            <td><a href="midori"><img width=140 src="midori/midori_256x256.png" alt="Midori browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
+
 ### MIHTool
 
 <table>
