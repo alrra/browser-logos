@@ -629,7 +629,7 @@
 <table>
     <thead>
         <tr>
-            <th><a href="https://www.palemoon.org/">Pale Moon</a></th>
+            <th><a href="http://www.palemoon.org/">Pale Moon</a></th>
         </tr>
     </thead>
     <tbody>
