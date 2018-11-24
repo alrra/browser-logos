@@ -29,7 +29,7 @@ For logos of browsers that are currently active, check the
 <table>
     <tbody>
         <tr height=160>
-            <td><a href="src/README.md#readme"><img width=140 src="src/browser-logos.gif" alt="List of browser logo"></a></td>
+            <td><a href="src/README.md#readme"><img width=150 src="src/browser-logos.gif" alt="List of browser logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -43,7 +43,7 @@ check the [`src/archive/`](src/archive/README.md#readme) directory.
 <table>
     <tbody>
         <tr height=160>
-            <td><a href="src/archive/README.md#readme"><img width=140 src="src/old-browser-logos.gif" alt="List of old browser logo"></a></td>
+            <td><a href="src/archive/README.md#readme"><img width=150 src="src/old-browser-logos.gif" alt="List of old browser logo"></a></td>
         </tr>
     </tbody>
 </table>

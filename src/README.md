@@ -7,8 +7,8 @@
         </tr>
     </thead>
     <tbody>
-        <tr height=160>
-            <td><a href="adblock"><img width=140 src="adblock/adblock_256x256.png" alt="Adblock browser logo"></a></td>
+        <tr height=170>
+            <td><a href="adblock"><img width=150 src="adblock/adblock_256x256.png" alt="Adblock browser logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -22,8 +22,8 @@
         </tr>
     </thead>
     <tbody>
-        <tr height=160>
-            <td><a href="amazon-internet"><img width=140 src="amazon-internet/amazon-internet_256x256.png" alt="Amazon Internet logo"></a></td>
+        <tr height=170>
+            <td><a href="amazon-internet"><img width=150 src="amazon-internet/amazon-internet_256x256.png" alt="Amazon Internet logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -37,8 +37,8 @@
         </tr>
     </thead>
     <tbody>
-        <tr height=160>
-            <td><a href="android-webview-beta"><img width=140 src="android-webview-beta/android-webview-beta_256x256.png" alt="Android WebView Beta logo"></a></td>
+        <tr height=170>
+            <td><a href="android-webview-beta"><img width=150 src="android-webview-beta/android-webview-beta_256x256.png" alt="Android WebView Beta logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -52,8 +52,8 @@
         </tr>
     </thead>
     <tbody>
-        <tr height=160>
-            <td><a href="avant"><img width=140 src="avant/avant_256x256.png" alt="Avant browser logo"></a></td>
+        <tr height=170>
+            <td><a href="avant"><img width=150 src="avant/avant_256x256.png" alt="Avant browser logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -67,8 +67,8 @@
         </tr>
     </thead>
     <tbody>
-        <tr height=160>
-            <td><a href="beaker"><img width=140 src="beaker/beaker_256x256.png" alt="Beaker browser logo"></a></td>
+        <tr height=170>
+            <td><a href="beaker"><img width=150 src="beaker/beaker_256x256.png" alt="Beaker browser logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -82,8 +82,8 @@
         </tr>
     </thead>
     <tbody>
-        <tr height=160>
-            <td><a href="blisk"><img width=140 src="blisk/blisk_256x256.png" alt="Blisk browser logo"></a></td>
+        <tr height=170>
+            <td><a href="blisk"><img width=150 src="blisk/blisk_256x256.png" alt="Blisk browser logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -98,9 +98,9 @@
         </tr>
     </thead>
     <tbody>
-        <tr height=160>
-            <td><a href="brave"><img width=140 src="brave/brave_256x256.png" alt="Brave browser logo"></a></td>
-            <td><a href="brave-dev"><img width=140 src="brave-dev/brave-dev_256x256.png" alt="Brave Developer Edition browser logo"></a></td>
+        <tr height=170>
+            <td><a href="brave"><img width=150 src="brave/brave_256x256.png" alt="Brave browser logo"></a></td>
+            <td><a href="brave-dev"><img width=150 src="brave-dev/brave-dev_256x256.png" alt="Brave Developer Edition browser logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -114,8 +114,8 @@
         </tr>
     </thead>
     <tbody>
-        <tr height=160>
-            <td><a href="browsh"><img width=140 src="browsh/browsh_256x256.png" alt="browsh browser logo"></a></td>
+        <tr height=170>
+            <td><a href="browsh"><img width=150 src="browsh/browsh_256x256.png" alt="browsh browser logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -129,8 +129,8 @@
         <tr>
     </thead>
     <tbody>
-        <tr height=160>
-            <td><a href="cent"><img width=140 src="cent/cent_256x256.png" alt="Cent browser Logo"></a></td>
+        <tr height=170>
+            <td><a href="cent"><img width=150 src="cent/cent_256x256.png" alt="Cent browser Logo"></a></td>
         <tr>
     </tbody>
 </table>
@@ -147,11 +147,11 @@
         </tr>
     </thead>
     <tbody>
-        <tr height=160>
-            <td><a href="chrome"><img width=140 src="chrome/chrome_256x256.png" alt="Chrome browser logo"></a></td>
-            <td><a href="chrome-beta"><img width=140 src="chrome-beta/chrome-beta_256x256.png" alt="Chrome Beta browser logo"></a></td>
-            <td><a href="chrome-dev"><img width=140 src="chrome-dev/chrome-dev_256x256.png" alt="Chrome Dev browser logo"></a></td>
-            <td><a href="chrome-canary"><img width=140 src="chrome-canary/chrome-canary_256x256.png" alt="Chrome Canary browser logo"></a></td>
+        <tr height=170>
+            <td><a href="chrome"><img width=150 src="chrome/chrome_256x256.png" alt="Chrome browser logo"></a></td>
+            <td><a href="chrome-beta"><img width=150 src="chrome-beta/chrome-beta_256x256.png" alt="Chrome Beta browser logo"></a></td>
+            <td><a href="chrome-dev"><img width=150 src="chrome-dev/chrome-dev_256x256.png" alt="Chrome Dev browser logo"></a></td>
+            <td><a href="chrome-canary"><img width=150 src="chrome-canary/chrome-canary_256x256.png" alt="Chrome Canary browser logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -165,8 +165,8 @@
         <tr>
     </thead>
     <tbody>
-        <tr height=160>
-            <td><a href="chrome-devtools"><img width=140 src="chrome-devtools/chrome-devtools_256x256.png" alt="Chrome DevTools Logo"></a></td>
+        <tr height=170>
+            <td><a href="chrome-devtools"><img width=150 src="chrome-devtools/chrome-devtools_256x256.png" alt="Chrome DevTools Logo"></a></td>
         <tr>
     </tbody>
 </table>
@@ -180,8 +180,8 @@
         </tr>
     </thead>
     <tbody>
-        <tr height=160>
-            <td><a href="chromium"><img width=140 src="chromium/chromium_256x256.png" alt="Chromium browser logo"></a></td>
+        <tr height=170>
+            <td><a href="chromium"><img width=150 src="chromium/chromium_256x256.png" alt="Chromium browser logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -195,8 +195,8 @@
         </tr>
     </thead>
     <tbody>
-        <tr height=160>
-            <td><a href="cm"><img width=140 src="cm/cm_256x256.png" alt="CM browser logo"></a></td>
+        <tr height=170>
+            <td><a href="cm"><img width=150 src="cm/cm_256x256.png" alt="CM browser logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -210,8 +210,8 @@
         </tr>
     </thead>
     <tbody>
-        <tr height=160>
-            <td><a href="c%E1%BB%91c-c%E1%BB%91c"><img width=140 src="c%E1%BB%91c-c%E1%BB%91c/c%E1%BB%91c-c%E1%BB%91c_256x256.png" alt="Cốc Cốc browser logo"></a></td>
+        <tr height=170>
+            <td><a href="c%E1%BB%91c-c%E1%BB%91c"><img width=150 src="c%E1%BB%91c-c%E1%BB%91c/c%E1%BB%91c-c%E1%BB%91c_256x256.png" alt="Cốc Cốc browser logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -225,8 +225,8 @@
         </tr>
     </thead>
     <tbody>
-        <tr height=160>
-            <td><a href="crusta"><img width=140 src="crusta/crusta_256x256.png" alt="Crusta browser logo"></a></td>
+        <tr height=170>
+            <td><a href="crusta"><img width=150 src="crusta/crusta_256x256.png" alt="Crusta browser logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -240,8 +240,8 @@
         </tr>
     </thead>
     <tbody>
-        <tr height=160>
-            <td><a href="dolphin"><img width=140 src="dolphin/dolphin_256x256.png" alt="Dolphin browser logo"></a></td>
+        <tr height=170>
+            <td><a href="dolphin"><img width=150 src="dolphin/dolphin_256x256.png" alt="Dolphin browser logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -255,8 +255,8 @@
         </tr>
     </thead>
     <tbody>
-        <tr height=160>
-            <td><a href="dooble"><img width=140 src="dooble/dooble_256x256.png" alt="Dooble browser logo"></a></td>
+        <tr height=170>
+            <td><a href="dooble"><img width=150 src="dooble/dooble_256x256.png" alt="Dooble browser logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -273,11 +273,11 @@
         </tr>
     </thead>
     <tbody>
-        <tr height=160>
-            <td><a href="edge"><img width=140 src="edge/edge_256x256.png" alt="Microsoft Edge browser logo"></a></td>
-            <td><a href="edge-beta"><img width=140 src="edge-beta/edge-beta-1_256x256.png" alt="Microsoft Edge Beta browser logo"></a></td>
-            <td><a href="edge-beta"><img width=140 src="edge-beta/edge-beta-2_256x256.png" alt="Microsoft Edge Beta browser logo"></a></td>
-            <td><a href="edge-tile"><img width=140 src="edge-tile/edge-tile_256x256.png" alt="Microsoft Edge tile browser logo"></a></td>
+        <tr height=170>
+            <td><a href="edge"><img width=150 src="edge/edge_256x256.png" alt="Microsoft Edge browser logo"></a></td>
+            <td><a href="edge-beta"><img width=150 src="edge-beta/edge-beta-1_256x256.png" alt="Microsoft Edge Beta browser logo"></a></td>
+            <td><a href="edge-beta"><img width=150 src="edge-beta/edge-beta-2_256x256.png" alt="Microsoft Edge Beta browser logo"></a></td>
+            <td><a href="edge-tile"><img width=150 src="edge-tile/edge-tile_256x256.png" alt="Microsoft Edge tile browser logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -291,8 +291,8 @@
         </tr>
     </thead>
     <tbody>
-        <tr height=160>
-            <td><a href="electron"><img width=140 src="electron/electron.png" alt="Electron logo"></a></td>
+        <tr height=170>
+            <td><a href="electron"><img width=150 src="electron/electron.png" alt="Electron logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -306,8 +306,8 @@
         </tr>
     </thead>
     <tbody>
-        <tr height=160>
-            <td><a href="epic"><img width=140 src="epic/epic.png" alt="Epic browser logo"></a></td>
+        <tr height=170>
+            <td><a href="epic"><img width=150 src="epic/epic.png" alt="Epic browser logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -321,8 +321,8 @@
         </tr>
     </thead>
     <tbody>
-        <tr height=160>
-            <td><a href="falkon"><img width=140 src="falkon/falkon.png" alt="Falkon browser logo"></a></td>
+        <tr height=170>
+            <td><a href="falkon"><img width=150 src="falkon/falkon.png" alt="Falkon browser logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -339,11 +339,11 @@
         </tr>
     </thead>
     <tbody>
-        <tr height=160>
-            <td><a href="firefox"><img width=140 src="firefox/firefox_256x256.png" alt="Firefox browser logo"></a></td>
-            <td><a href="firefox-beta"><img width=140 src="firefox-beta/firefox-beta_256x256.png" alt="Firefox Beta browser logo"></a></td>
-            <td><a href="firefox-developer-edition"><img width=140 src="firefox-developer-edition/firefox-developer-edition_256x256.png" alt="Firefox Developer Edition browser logo"></a></td>
-            <td><a href="firefox-nightly"><img width=140 src="firefox-nightly/firefox-nightly_256x256.png" alt="Firefox Nightly browser logo"></a></td>
+        <tr height=170>
+            <td><a href="firefox"><img width=150 src="firefox/firefox_256x256.png" alt="Firefox browser logo"></a></td>
+            <td><a href="firefox-beta"><img width=150 src="firefox-beta/firefox-beta_256x256.png" alt="Firefox Beta browser logo"></a></td>
+            <td><a href="firefox-developer-edition"><img width=150 src="firefox-developer-edition/firefox-developer-edition_256x256.png" alt="Firefox Developer Edition browser logo"></a></td>
+            <td><a href="firefox-nightly"><img width=150 src="firefox-nightly/firefox-nightly_256x256.png" alt="Firefox Nightly browser logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -357,8 +357,8 @@
         </tr>
     </thead>
     <tbody>
-        <tr height=160>
-            <td><a href="focus"><img width=140 src="focus/focus.png" alt="Focus browser logo"></a></td>
+        <tr height=170>
+            <td><a href="focus"><img width=150 src="focus/focus.png" alt="Focus browser logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -372,8 +372,8 @@
         </tr>
     </thead>
     <tbody>
-        <tr height=160>
-            <td><a href="icab-mobile"><img width=140 src="icab-mobile/icab-mobile_256x256.png" alt="iCab Mobile browser logo"></a></td>
+        <tr height=170>
+            <td><a href="icab-mobile"><img width=150 src="icab-mobile/icab-mobile_256x256.png" alt="iCab Mobile browser logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -387,8 +387,8 @@
         </tr>
     </thead>
     <tbody>
-        <tr height=160>
-            <td><a href="icecat"><img width=140 src="icecat/icecat_256x256.png" alt="IceCat browser logo"></a></td>
+        <tr height=170>
+            <td><a href="icecat"><img width=150 src="icecat/icecat_256x256.png" alt="IceCat browser logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -402,8 +402,8 @@
         </tr>
     </thead>
     <tbody>
-        <tr height=160>
-            <td><a href="jsdom"><img width=140 src="jsdom/jsdom_256x256.png" alt="jsdom browser logo"></a></td>
+        <tr height=170>
+            <td><a href="jsdom"><img width=150 src="jsdom/jsdom_256x256.png" alt="jsdom browser logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -417,8 +417,8 @@
         </tr>
     </thead>
     <tbody>
-        <tr height=160>
-            <td><a href="lightning"><img width=140 src="lightning/lightning_256x256.png" alt="Lightning browser logo"></a></td>
+        <tr height=170>
+            <td><a href="lightning"><img width=150 src="lightning/lightning_256x256.png" alt="Lightning browser logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -432,8 +432,8 @@
         </tr>
     </thead>
     <tbody>
-        <tr height=160>
-            <td><a href="maxthon"><img width=140 src="maxthon/maxthon_256x256.png" alt="Maxthon browser logo"></a></td>
+        <tr height=170>
+            <td><a href="maxthon"><img width=150 src="maxthon/maxthon_256x256.png" alt="Maxthon browser logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -447,8 +447,8 @@
         </tr>
     </thead>
     <tbody>
-        <tr height=160>
-            <td><a href="midori"><img width=140 src="midori/midori_256x256.png" alt="Midori browser logo"></a></td>
+        <tr height=170>
+            <td><a href="midori"><img width=150 src="midori/midori_256x256.png" alt="Midori browser logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -462,8 +462,8 @@
         </tr>
     </thead>
     <tbody>
-        <tr height=160>
-            <td><a href="mihtool"><img width=140 src="mihtool/mihtool_256x256.png" alt="MIHTool browser logo"></a></td>
+        <tr height=170>
+            <td><a href="mihtool"><img width=150 src="mihtool/mihtool_256x256.png" alt="MIHTool browser logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -477,8 +477,8 @@
         </tr>
     </thead>
     <tbody>
-        <tr height=160>
-            <td><a href="min"><img width=140 src="min/min_256x256.png" alt="Min browser logo"></a></td>
+        <tr height=170>
+            <td><a href="min"><img width=150 src="min/min_256x256.png" alt="Min browser logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -492,8 +492,8 @@
         </tr>
     </thead>
     <tbody>
-        <tr height=160>
-            <td><a href="netsurf"><img width=140 src="netsurf/netsurf_256x256.png" alt="NetSurf browser logo"></a></td>
+        <tr height=170>
+            <td><a href="netsurf"><img width=150 src="netsurf/netsurf_256x256.png" alt="NetSurf browser logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -507,8 +507,8 @@
         </tr>
     </thead>
     <tbody>
-        <tr height=160>
-            <td><a href="nw.js"><img width=140 src="nw.js/nw.js_256x256.png" alt="NW.js browser logo"></a></td>
+        <tr height=170>
+            <td><a href="nw.js"><img width=150 src="nw.js/nw.js_256x256.png" alt="NW.js browser logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -522,8 +522,8 @@
         </tr>
     </thead>
     <tbody>
-        <tr height=160>
-            <td><a href="onion"><img width=140 src="onion/onion_256x256.png" alt="Onion browser logo"></a></td>
+        <tr height=170>
+            <td><a href="onion"><img width=150 src="onion/onion_256x256.png" alt="Onion browser logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -539,10 +539,10 @@
         </tr>
     </thead>
     <tbody>
-        <tr height=160>
-            <td><a href="opera"><img width=140 src="opera/opera_256x256.png" alt="Opera browser logo"></a></td>
-            <td><a href="opera-beta"><img width=140 src="opera-beta/opera-beta_256x256.png" alt="Opera Beta browser logo"></a></td>
-            <td><a href="opera-developer"><img width=140 src="opera-developer/opera-developer_256x256.png" alt="Opera Developer browser logo"></a></td>
+        <tr height=170>
+            <td><a href="opera"><img width=150 src="opera/opera_256x256.png" alt="Opera browser logo"></a></td>
+            <td><a href="opera-beta"><img width=150 src="opera-beta/opera-beta_256x256.png" alt="Opera Beta browser logo"></a></td>
+            <td><a href="opera-developer"><img width=150 src="opera-developer/opera-developer_256x256.png" alt="Opera Developer browser logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -557,9 +557,9 @@
         </tr>
     </thead>
     <tbody>
-        <tr height=160>
-            <td><a href="opera-mini"><img width=140 src="opera-mini/opera-mini_256x256.png" alt="Opera Mini browser logo"></a></td>
-            <td><a href="opera-mini-beta"><img width=140 src="opera-mini-beta/opera-mini-beta_256x256.png" alt="Opera Mini Beta browser logo"></a></td>
+        <tr height=170>
+            <td><a href="opera-mini"><img width=150 src="opera-mini/opera-mini_256x256.png" alt="Opera Mini browser logo"></a></td>
+            <td><a href="opera-mini-beta"><img width=150 src="opera-mini-beta/opera-mini-beta_256x256.png" alt="Opera Mini Beta browser logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -573,8 +573,8 @@
         </tr>
     </thead>
     <tbody>
-        <tr height=160>
-            <td><a href="opera-neon"><img width=140 src="opera-neon/opera-neon_256x256.png" alt="Opera Neon browser logo"></a></td>
+        <tr height=170>
+            <td><a href="opera-neon"><img width=150 src="opera-neon/opera-neon_256x256.png" alt="Opera Neon browser logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -588,8 +588,8 @@
         </tr>
     </thead>
     <tbody>
-        <tr height=160>
-            <td><a href="opera-touch"><img width=140 src="opera-touch/opera-touch_256x256.png" alt="Opera Touch browser logo"></a></td>
+        <tr height=170>
+            <td><a href="opera-touch"><img width=150 src="opera-touch/opera-touch_256x256.png" alt="Opera Touch browser logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -603,8 +603,8 @@
         </tr>
     </thead>
     <tbody>
-        <tr height=160>
-            <td><a href="orbitum"><img width=140 src="orbitum/orbitum_256x256.png" alt="Orbitum browser logo"></a></td>
+        <tr height=170>
+            <td><a href="orbitum"><img width=150 src="orbitum/orbitum_256x256.png" alt="Orbitum browser logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -618,8 +618,8 @@
         </tr>
     </thead>
     <tbody>
-        <tr height=160>
-            <td><a href="otter"><img width=140 src="otter/otter_256x256.png" alt="Otter browser logo"></a></td>
+        <tr height=170>
+            <td><a href="otter"><img width=150 src="otter/otter_256x256.png" alt="Otter browser logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -633,8 +633,8 @@
         </tr>
     </thead>
     <tbody>
-        <tr height=160>
-            <td><a href="pale-moon"><img width=140 src="pale-moon/pale-moon_256x256.png" alt="Pale Moon browser logo"></a></td>
+        <tr height=170>
+            <td><a href="pale-moon"><img width=150 src="pale-moon/pale-moon_256x256.png" alt="Pale Moon browser logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -648,8 +648,8 @@
         </tr>
     </thead>
     <tbody>
-        <tr height=160>
-            <td><a href="polarity"><img width=140 src="polarity/polarity_256x256.png" alt="Polarity browser logo"></a></td>
+        <tr height=170>
+            <td><a href="polarity"><img width=150 src="polarity/polarity_256x256.png" alt="Polarity browser logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -663,8 +663,8 @@
         </tr>
     </thead>
     <tbody>
-        <tr height=160>
-            <td><a href="puffin"><img width=140 src="puffin/puffin_256x256.png" alt="Puffin browser logo"></a></td>
+        <tr height=170>
+            <td><a href="puffin"><img width=150 src="puffin/puffin_256x256.png" alt="Puffin browser logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -678,8 +678,8 @@
         </tr>
     </thead>
     <tbody>
-        <tr height=160>
-            <td><a href="qutebrowser"><img width=140 src="qutebrowser/qutebrowser_256x256.png" alt="qutebrowser browser logo"></a></td>
+        <tr height=170>
+            <td><a href="qutebrowser"><img width=150 src="qutebrowser/qutebrowser_256x256.png" alt="qutebrowser browser logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -694,9 +694,9 @@
         </tr>
     </thead>
     <tbody>
-        <tr height=160>
-            <td><a href="safari"><img width=140 src="safari/safari_256x256.png" alt="Safari browser logo"></a></td>
-            <td><a href="safari-technology-preview"><img width=140 src="safari-technology-preview/safari-technology-preview_256x256.png" alt="Safari Technology Preview browser logo"></a></td>
+        <tr height=170>
+            <td><a href="safari"><img width=150 src="safari/safari_256x256.png" alt="Safari browser logo"></a></td>
+            <td><a href="safari-technology-preview"><img width=150 src="safari-technology-preview/safari-technology-preview_256x256.png" alt="Safari Technology Preview browser logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -710,8 +710,8 @@
         </tr>
     </thead>
     <tbody>
-        <tr height=160>
-            <td><a href="safari-ios"><img width=140 src="safari-ios/safari-ios_256x256.png" alt="Safari for iOS browser logo"></a></td>
+        <tr height=170>
+            <td><a href="safari-ios"><img width=150 src="safari-ios/safari-ios_256x256.png" alt="Safari for iOS browser logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -726,9 +726,9 @@
         </tr>
     </thead>
     <tbody>
-        <tr height=160>
-            <td><a href="samsung-internet"><img width=140 src="samsung-internet/samsung-internet_256x256.png" alt="Samsung Internet browser logo"></a></td>
-            <td><a href="samsung-internet-beta"><img width=140 src="samsung-internet-beta/samsung-internet-beta_256x256.png" alt="Samsung Internet Beta browser logo"></a></td>
+        <tr height=170>
+            <td><a href="samsung-internet"><img width=150 src="samsung-internet/samsung-internet_256x256.png" alt="Samsung Internet browser logo"></a></td>
+            <td><a href="samsung-internet-beta"><img width=150 src="samsung-internet-beta/samsung-internet-beta_256x256.png" alt="Samsung Internet Beta browser logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -742,8 +742,8 @@
         </tr>
     </thead>
     <tbody>
-        <tr height=160>
-            <td><a href="seamonkey"><img width=140 src="seamonkey/seamonkey_256x256.png" alt="SeaMonkey browser logo"></a></td>
+        <tr height=170>
+            <td><a href="seamonkey"><img width=150 src="seamonkey/seamonkey_256x256.png" alt="SeaMonkey browser logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -757,8 +757,8 @@
         </tr>
     </thead>
     <tbody>
-        <tr height=160>
-            <td><a href="servo"><img width=140 src="servo/servo_256x256.png" alt="Servo browser logo"></a></td>
+        <tr height=170>
+            <td><a href="servo"><img width=150 src="servo/servo_256x256.png" alt="Servo browser logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -772,8 +772,8 @@
         </tr>
     </thead>
     <tbody>
-        <tr height=160>
-            <td><a href="silk"><img width=140 src="silk/silk_256x256.png" alt="Silk browser logo"></a></td>
+        <tr height=170>
+            <td><a href="silk"><img width=150 src="silk/silk_256x256.png" alt="Silk browser logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -787,8 +787,8 @@
         </tr>
     </thead>
     <tbody>
-        <tr height=160>
-            <td><a href="sogou-mobile"><img width=140 src="sogou-mobile/sogou-mobile_256x256.png" alt="Sogou Mobile browser logo"></a></td>
+        <tr height=170>
+            <td><a href="sogou-mobile"><img width=150 src="sogou-mobile/sogou-mobile_256x256.png" alt="Sogou Mobile browser logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -802,8 +802,8 @@
         </tr>
     </thead>
     <tbody>
-        <tr height=160>
-            <td><a href="tor"><img width=140 src="tor/tor_256x256.png" alt="Tor browser logo"></a></td>
+        <tr height=170>
+            <td><a href="tor"><img width=150 src="tor/tor_256x256.png" alt="Tor browser logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -817,8 +817,8 @@
         </tr>
     </thead>
     <tbody>
-        <tr height=160>
-            <td><a href="uc"><img width=140 src="uc/uc_256x256.png" alt="UC browser logo"></a></td>
+        <tr height=170>
+            <td><a href="uc"><img width=150 src="uc/uc_256x256.png" alt="UC browser logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -832,8 +832,8 @@
         </tr>
     </thead>
     <tbody>
-        <tr height=160>
-            <td><a href="uc-mini"><img width=140 src="uc-mini/uc-mini_256x256.png" alt="UC Mini browser logo"></a></td>
+        <tr height=170>
+            <td><a href="uc-mini"><img width=150 src="uc-mini/uc-mini_256x256.png" alt="UC Mini browser logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -848,9 +848,9 @@
         </tr>
     </thead>
     <tbody>
-        <tr height=160>
-            <td><a href="v8"><img width=140 src="v8/v8_256x256.png" alt="V8 JavaScript engine logo"></a></td>
-           <td><a href="v8"><img width=140 src="v8/v8-outline_256x256.png" alt="V8 JavaScript engine logo with outline"></a></td>
+        <tr height=170>
+            <td><a href="v8"><img width=150 src="v8/v8_256x256.png" alt="V8 JavaScript engine logo"></a></td>
+           <td><a href="v8"><img width=150 src="v8/v8-outline_256x256.png" alt="V8 JavaScript engine logo with outline"></a></td>
         </tr>
     </tbody>
 </table>
@@ -865,9 +865,9 @@
         </tr>
     </thead>
     <tbody>
-        <tr height=160>
-            <td><a href="v8-ignition"><img width=140 src="v8-ignition/v8-ignition_256x256.png" alt="V8's Ignition interpreter logo"></a></td>
-            <td><a href="v8-ignition"><img width=140 src="v8-ignition/v8-ignition-outline_256x256.png" alt="V8's Ignition interpreter logo with outline"></a></td>
+        <tr height=170>
+            <td><a href="v8-ignition"><img width=150 src="v8-ignition/v8-ignition_256x256.png" alt="V8's Ignition interpreter logo"></a></td>
+            <td><a href="v8-ignition"><img width=150 src="v8-ignition/v8-ignition-outline_256x256.png" alt="V8's Ignition interpreter logo with outline"></a></td>
         </tr>
     </tbody>
 </table>
@@ -882,9 +882,9 @@
         </tr>
     </thead>
     <tbody>
-        <tr height=160>
-            <td><a href="v8-liftoff"><img width=140 src="v8-liftoff/v8-liftoff_256x256.png" alt="V8's Liftoff baseline compiler for WebAssembly logo"></a></td>
-            <td><a href="v8-Liftoff"><img width=140 src="v8-liftoff/v8-liftoff-outline_256x256.png" alt="V8's Liftoff baseline compiler for WebAssembly with outline logo"></a></td>
+        <tr height=170>
+            <td><a href="v8-liftoff"><img width=150 src="v8-liftoff/v8-liftoff_256x256.png" alt="V8's Liftoff baseline compiler for WebAssembly logo"></a></td>
+            <td><a href="v8-Liftoff"><img width=150 src="v8-liftoff/v8-liftoff-outline_256x256.png" alt="V8's Liftoff baseline compiler for WebAssembly with outline logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -899,9 +899,9 @@
         </tr>
     </thead>
     <tbody>
-        <tr height=160>
-            <td><a href="v8-orinoco"><img width=140 src="v8-orinoco/v8-orinoco_256x256.png" alt="V8's Orinoco garbage collector logo"></a></td>
-            <td><a href="v8-orinoco"><img width=140 src="v8-orinoco/v8-orinoco-outline_256x256.png" alt="V8's Orinoco garbage collector logo with outline"></a></td>
+        <tr height=170>
+            <td><a href="v8-orinoco"><img width=150 src="v8-orinoco/v8-orinoco_256x256.png" alt="V8's Orinoco garbage collector logo"></a></td>
+            <td><a href="v8-orinoco"><img width=150 src="v8-orinoco/v8-orinoco-outline_256x256.png" alt="V8's Orinoco garbage collector logo with outline"></a></td>
         </tr>
     </tbody>
 </table>
@@ -916,9 +916,9 @@
         </tr>
     </thead>
     <tbody>
-        <tr height=160>
-            <td><a href="v8-turbofan"><img width=140 src="v8-turbofan/v8-turbofan_256x256.png" alt="V8's TurboFan optimizing compiler logo"></a></td>
-            <td><a href="v8-turbofan"><img width=140 src="v8-turbofan/v8-turbofan-outline_256x256.png" alt="V8's TurboFan optimizing compiler logo with outline"></a></td>
+        <tr height=170>
+            <td><a href="v8-turbofan"><img width=150 src="v8-turbofan/v8-turbofan_256x256.png" alt="V8's TurboFan optimizing compiler logo"></a></td>
+            <td><a href="v8-turbofan"><img width=150 src="v8-turbofan/v8-turbofan-outline_256x256.png" alt="V8's TurboFan optimizing compiler logo with outline"></a></td>
         </tr>
     </tbody>
 </table>
@@ -933,9 +933,9 @@
         </tr>
     </thead>
     <tbody>
-        <tr height=160>
-            <td><a href="vivaldi"><img width=140 src="vivaldi/vivaldi.png" alt="Vivaldi browser logo"></a></td>
-            <td><a href="vivaldi-snapshot"><img width=140 src="vivaldi-snapshot/vivaldi-snapshot.png" alt="Vivaldi Snapshot browser logo"></a></td>
+        <tr height=170>
+            <td><a href="vivaldi"><img width=150 src="vivaldi/vivaldi.png" alt="Vivaldi browser logo"></a></td>
+            <td><a href="vivaldi-snapshot"><img width=150 src="vivaldi-snapshot/vivaldi-snapshot.png" alt="Vivaldi Snapshot browser logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -949,8 +949,8 @@
         </tr>
     </thead>
     <tbody>
-        <tr height=160>
-            <td><a href="waterfox"><img width=140 src="waterfox/waterfox.png" alt="WaterFox browser logo"></a></td>
+        <tr height=170>
+            <td><a href="waterfox"><img width=150 src="waterfox/waterfox.png" alt="WaterFox browser logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -964,8 +964,8 @@
         </tr>
     </thead>
     <tbody>
-        <tr height=160>
-            <td><a href="web"><img width=140 src="web/web.png" alt="Web (f.k.a. Epiphany) browser logo"></a></td>
+        <tr height=170>
+            <td><a href="web"><img width=150 src="web/web.png" alt="Web (f.k.a. Epiphany) browser logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -982,11 +982,11 @@
         </tr>
     </thead>
     <tbody>
-        <tr height=160>
-            <td><a href="yandex"><img width=140 src="yandex/yandex_256x256.png" alt="Yandex browser logo"></a></td>
-            <td><a href="yandex-beta"><img width=140 src="yandex-beta/yandex-beta_256x256.png" alt="Yandex Beta browser logo"></a></td>
-            <td><a href="yandex-alpha"><img width=140 src="yandex-alpha/yandex-alpha_256x256.png" alt="Yandex Alpha browser logo"></a></td>
-            <td><a href="yandex-lite"><img width=140 src="yandex-lite/yandex-lite_256x256.png" alt="Yandex Lite browser logo"></a></td>
+        <tr height=170>
+            <td><a href="yandex"><img width=150 src="yandex/yandex_256x256.png" alt="Yandex browser logo"></a></td>
+            <td><a href="yandex-beta"><img width=150 src="yandex-beta/yandex-beta_256x256.png" alt="Yandex Beta browser logo"></a></td>
+            <td><a href="yandex-alpha"><img width=150 src="yandex-alpha/yandex-alpha_256x256.png" alt="Yandex Alpha browser logo"></a></td>
+            <td><a href="yandex-lite"><img width=150 src="yandex-lite/yandex-lite_256x256.png" alt="Yandex Lite browser logo"></a></td>
         </tr>
     </tbody>
 </table>
