@@ -336,6 +336,7 @@
             <th><a href="https://www.mozilla.org/en-US/firefox/channel/#beta">Firefox<br>Beta</a></th>
             <th><a href="https://www.mozilla.org/en-US/firefox/channel/#developer">Firefox<br>Developer Edition</a></th>
             <th><a href="https://nightly.mozilla.org/">Firefox<br>Nightly</a></th>
+            <th><a href="https://mixedreality.mozilla.org/firefox-reality/">Firefox<br>Reality</a></th>
         </tr>
     </thead>
     <tbody>
@@ -344,6 +345,7 @@
             <td><a href="firefox-beta"><img width=150 src="firefox-beta/firefox-beta_256x256.png" alt="Firefox Beta browser logo"></a></td>
             <td><a href="firefox-developer-edition"><img width=150 src="firefox-developer-edition/firefox-developer-edition_256x256.png" alt="Firefox Developer Edition browser logo"></a></td>
             <td><a href="firefox-nightly"><img width=150 src="firefox-nightly/firefox-nightly_256x256.png" alt="Firefox Nightly browser logo"></a></td>
+            <td><a href="firefox-reality"><img width=150 src="firefox-reality/firefox-reality_256x256.png" alt="Firefox Reality browser logo"></a></td>
         </tr>
     </tbody>
 </table>
