@@ -186,21 +186,6 @@
     </tbody>
 </table>
 
-### CM
-
-<table>
-    <thead>
-        <tr>
-            <th><a href="https://www.cmcm.com/en-us/cm-browser/">CM</a></th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td><a href="cm"><img width=150 src="cm/cm_256x256.png" alt="CM browser logo"></a></td>
-        </tr>
-    </tbody>
-</table>
-
 ### Cốc Cốc
 
 <table>
