@@ -705,6 +705,21 @@
     </tbody>
 </table>
 
+### Firefox Focus
+
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://en.wikipedia.org/wiki/Firefox_Focus">Firefox Focus</a> <a href="#note"><code>*</code></a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=170>
+            <td><a href="focus-focus"><img width=150 src="firefox-focus/firefox-focus.png" alt="Firefox Focus browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
+
 ### Firefox Nightly
 
 <table>
@@ -733,21 +748,6 @@
     <tbody>
         <tr height=170>
             <td><a href="flock"><img width=150 src="flock/flock_256x256.png" alt="Flock browser logo"></a></td>
-        </tr>
-    </tbody>
-</table>
-
-### Focus
-
-<table>
-    <thead>
-        <tr>
-            <th><a href="https://en.wikipedia.org/wiki/Firefox_Focus">Focus</a>  <a href="#note"><code>*</code></a></th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td><a href="focus"><img width=150 src="focus/focus.png" alt="Firefox Focus browser logo"></a></td>
         </tr>
     </tbody>
 </table>
