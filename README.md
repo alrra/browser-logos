@@ -23,8 +23,8 @@ logos are high resolution with transparent backgrounds.
 
 ## Current browser logos
 
-For logos of browsers that are currently active, check the
-[`src/`](src/README.md#readme) directory.
+For logos of browsers that are currently active, check the [`src/`][src
+readme] directory.
 
 <table>
     <tbody>
@@ -34,11 +34,10 @@ For logos of browsers that are currently active, check the
     </tbody>
 </table>
 
-
 ## Old browser logos
 
-For older logos, or logos of browsers that are no longer active,
-check the [`src/archive/`](src/archive/README.md#readme) directory.
+For older logos, or logos of browsers that are no longer active, check
+the [`src/archive/`][archive readme] directory.
 
 <table>
     <tbody>
@@ -48,16 +47,12 @@ check the [`src/archive/`](src/archive/README.md#readme) directory.
     </tbody>
 </table>
 
-
 ---
-
 
 ## Acknowledgements
 
-[Browser Logos](https://github.com/alrra/browser-logos/)
-is only possible thanks to all the awesome
-[contributors](https://github.com/alrra/browser-logos/graphs/contributors)!
-
+[Browser Logos][repo] is only possible thanks to all the awesome
+[contributors][contributors]!
 
 ## Contributing
 
@@ -68,38 +63,47 @@ take a moment to review the [guidelines](.github/CONTRIBUTING.md).
 * [Feature requests](.github/CONTRIBUTING.md#features)
 * [Pull requests](.github/CONTRIBUTING.md#pull-requests)
 
-
 ## Getting the browser logos
 
 There are a few options for getting the browser logos:
 
 #### 1) Get individual logos:
 
-   * Install via:
-     * [`npm`](https://www.npmjs.com/): `npm install --save-dev @browser-logos/`[`<logo>`](https://www.npmjs.com/search?q=@browser-logos)
-   * Use [`cdnjs`](https://cdnjs.com/libraries/browser-logos).
+   * Install via [`npm`][npm]: `npm install --save-dev @browser-logos/`[`<logo>`][npm org].
+   * Use [`cdnjs`][cdnjs].
 
 #### 2) Get all logos:
 
-   * Use [`cdnjs`](https://cdnjs.com/libraries/browser-logos).
-   * Download the [`zip` archive](https://github.com/alrra/browser-logos/archive/46.1.0.zip).
-   * Install via:
-      * [`npm`](https://www.npmjs.com/): `npm install alrra/browser-logos#46.1.0`
-
+   * Use [`cdnjs`][cdnjs].
+   * Download the [`zip` archive][archive].
+   * Install via [`npm`][npm]: `npm install alrra/browser-logos#46.1.0`
 
 ## Legal
 
 #### __All logos and trademarks are the property of their respective owners!__
 
-If you represent the entity that has the rights over a logo and you
-want, for whatever reason, that logo removed from this project,
-[open an issue](https://github.com/alrra/browser-logos/issues/new)
-requesting its takedown and we will remove it as soon as possible.
+If you represent the entity that has the rights over a logo and
+you want, for whatever reason, that logo removed from this project,
+[open an issue][issues] requesting its takedown and we will remove
+it as soon as possible.
 
 Everything else is available under the MIT license.
 
 ## Project origin and history
 
-Read [Paul Irish](https://github.com/paulirish/)'s [*"High-res Browser
-Logos"*](https://www.paulirish.com/2010/high-res-browser-icons/) blog
-post.
+Read [Paul Irish][github paul]'s [*"High-res Browser Logos"*][article
+paul] blog post.
+
+<!-- Link labels: -->
+
+[archive readme]: src/archive/README.md#readme
+[archive]: https://github.com/alrra/browser-logos/archive/46.1.0.zip
+[article paul]: https://www.paulirish.com/2010/high-res-browser-icons/
+[cdnjs]: https://cdnjs.com/libraries/browser-logos
+[contributors]: https://github.com/alrra/browser-logos/graphs/contributors
+[github paul]: https://github.com/paulirish/
+[issues]: https://github.com/alrra/browser-logos/issues/new
+[npm org]: https://www.npmjs.com/org/browser-logos
+[npm]: https://www.npmjs.com/
+[repo]: https://github.com/alrra/browser-logos/
+[src readme]: src/README.md#readme
