@@ -161,7 +161,7 @@
 <table>
     <thead>
         <tr>
-            <th><a href="https://developers.google.com/web/tools/chrome-devtools/">Chrome DevTools</a></th>
+            <th><a href="https://developers.google.com/web/tools/chrome-devtools/">Chrome<br>DevTools</a></th>
         <tr>
     </thead>
     <tbody>
@@ -267,17 +267,17 @@
     <thead>
         <tr>
             <th><a href="https://www.microsoft.com/en-us/windows/microsoft-edge">Edge</a></th>
-            <th><a href="https://www.microsoft.com/en-us/windows/microsoft-edge">Edge Beta</a></th>
-            <th><a href="https://www.microsoft.com/en-us/windows/microsoft-edge">Edge Beta</a></th>
-            <th><a href="https://www.microsoft.com/en-us/windows/microsoft-edge">Edge tile</a></th>
+            <th><a href="https://www.microsoft.com/en-us/windows/microsoft-edge">Edge<br>Tile</a></th>
+            <th><a href="https://www.microsoft.com/en-us/windows/microsoft-edge">Edge<br>Beta</a></th>
+            <th><a href="https://www.microsoft.com/en-us/windows/microsoft-edge">Edge<br>Beta</a></th>
         </tr>
     </thead>
     <tbody>
         <tr height=170>
             <td><a href="edge"><img width=150 src="edge/edge_256x256.png" alt="Microsoft Edge browser logo"></a></td>
+            <td><a href="edge-tile"><img width=150 src="edge-tile/edge-tile_256x256.png" alt="Microsoft Edge tile browser logo"></a></td>
             <td><a href="edge-beta"><img width=150 src="edge-beta/edge-beta-1_256x256.png" alt="Microsoft Edge Beta browser logo"></a></td>
             <td><a href="edge-beta"><img width=150 src="edge-beta/edge-beta-2_256x256.png" alt="Microsoft Edge Beta browser logo"></a></td>
-            <td><a href="edge-tile"><img width=150 src="edge-tile/edge-tile_256x256.png" alt="Microsoft Edge tile browser logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -337,7 +337,6 @@
             <th><a href="https://www.mozilla.org/en-US/firefox/channel/#developer">Firefox<br>Developer Edition</a></th>
             <th><a href="https://nightly.mozilla.org/">Firefox<br>Nightly</a></th>
             <th><a href="https://mixedreality.mozilla.org/firefox-reality/">Firefox<br>Reality</a></th>
-            <th><a href="https://www.mozilla.org/en-US/firefox/focus/">Firefox<br>Focus</a></th>
         </tr>
     </thead>
     <tbody>
@@ -347,6 +346,20 @@
             <td><a href="firefox-developer-edition"><img width=150 src="firefox-developer-edition/firefox-developer-edition_256x256.png" alt="Firefox Developer Edition browser logo"></a></td>
             <td><a href="firefox-nightly"><img width=150 src="firefox-nightly/firefox-nightly_256x256.png" alt="Firefox Nightly browser logo"></a></td>
             <td><a href="firefox-reality"><img width=150 src="firefox-reality/firefox-reality_256x256.png" alt="Firefox Reality browser logo"></a></td>
+        </tr>
+    </tbody>
+</table>
+
+### Firefox Focus
+
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://www.mozilla.org/en-US/firefox/focus/">Firefox<br>Focus</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=170>
             <td><a href="firefox-focus"><img width=150 src="firefox-focus/firefox-focus_256x256.png" alt="Firefox Focus browser logo"></a></td>
         </tr>
     </tbody>
@@ -710,8 +723,8 @@
 <table>
     <thead>
         <tr>
-            <th><a href="https://developer.samsung.com/internet">Samsung Internet</a></th>
-            <th><a href="https://samsunginter.net/">Samsung Internet<br>Beta</a></th>
+            <th><a href="https://developer.samsung.com/internet">Samsung<br>Internet</a></th>
+            <th><a href="https://samsunginter.net/">Samsung<br>Internet<br>Beta</a></th>
         </tr>
     </thead>
     <tbody>
