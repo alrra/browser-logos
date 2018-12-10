@@ -161,7 +161,7 @@
             <th>
                 <a href="http://www.centbrowser.com">Cent</a>
             </th>
-        <tr>
+        </tr>
     </thead>
     <tbody>
         <tr height=170>
@@ -170,7 +170,7 @@
                     <img width=150 src="cent/cent.svg" alt="Cent browser Logo">
                 </a>
             </td>
-        <tr>
+        </tr>
     </tbody>
 </table>
 
@@ -227,7 +227,7 @@
             <th>
                 <a href="https://developers.google.com/web/tools/chrome-devtools/">Chrome<br>DevTools</a>
             </th>
-        <tr>
+        </tr>
     </thead>
     <tbody>
         <tr height=170>
@@ -236,7 +236,7 @@
                     <img width=150 src="chrome-devtools/chrome-devtools.svg" alt="Chrome DevTools Logo">
                 </a>
             </td>
-        <tr>
+        </tr>
     </tbody>
 </table>
 
