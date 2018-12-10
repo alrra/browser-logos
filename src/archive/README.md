@@ -2773,7 +2773,7 @@
                 <a href="https://github.com/JRock007/Tob">Tob</a>
                 <a href="#note"><code>*</code></a>
             </th>
-        <tr>
+        </tr>
     </thead>
     <tbody>
         <tr height=170>
@@ -2782,7 +2782,7 @@
                     <img width=150 src="tob/tob_256x256.png" alt="Tob browser Logo">
                 </a>
             </td>
-        <tr>
+        </tr>
     </tbody>
 </table>
 
