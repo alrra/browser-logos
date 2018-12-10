@@ -2416,6 +2416,9 @@
             <th>
                 <a href="https://web.archive.org/web/20170215040801/http://developer.samsung.com/internet">Samsung<br>Internet<br>3-4.2</a>
             </th>
+            <th>
+                <a href="https://web.archive.org/web/20170215040801/http://developer.samsung.com/internet">Samsung<br>Internet<br>5</a>
+            </th>
         </tr>
     </thead>
     <tbody>
@@ -2423,6 +2426,11 @@
             <td>
                 <a href="samsung-internet_3-4.2">
                     <img width=150 src="samsung-internet_3-4.2/samsung-internet_3-4.2_256x256.png" alt="Samsung Internet 3-4.2 browser logo">
+                </a>
+            </td>
+            <td>
+                <a href="samsung-internet_5">
+                    <img width=150 src="samsung-internet_5/samsung-internet_5_256x256.png" alt="Samsung Internet 5 browser logo">
                 </a>
             </td>
         </tr>
