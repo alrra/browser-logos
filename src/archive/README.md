@@ -487,6 +487,27 @@
     </tbody>
 </table>
 
+### Chrome (Android)
+
+<table>
+    <thead>
+        <tr>
+            <th>
+                <a href="https://en.wikipedia.org/wiki/Google_Chrome_for_Android">Chrome<br>(Android)<br> 25-36</a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=170>
+            <td>
+                <a href="chrome-android_18-36">
+                    <img width=150 src="chrome-android_18-36/chrome-android_18-36_256x256.png" alt="Chrome for Android 18-36 browser logo">
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 ### Chrome Beta
 
 <table>
@@ -516,27 +537,6 @@
     </tbody>
 </table>
 
-### Chrome Dev
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://en.wikipedia.org/wiki/Google_Chrome">Chrome Dev<br>37-59<br></a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="chrome-dev_37-59">
-                    <img width=150 src="chrome-dev_37-59/chrome-dev_37-59_256x256.png" alt="Chrome Dev 37-59 browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
 ### Chrome Canary
 
 <table>
@@ -558,21 +558,21 @@
     </tbody>
 </table>
 
-### Chrome (Android)
+### Chrome Dev
 
 <table>
     <thead>
         <tr>
             <th>
-                <a href="https://en.wikipedia.org/wiki/Google_Chrome_for_Android">Chrome<br>(Android)<br> 25-36</a>
+                <a href="https://en.wikipedia.org/wiki/Google_Chrome">Chrome Dev<br>37-59<br></a>
             </th>
         </tr>
     </thead>
     <tbody>
         <tr height=170>
             <td>
-                <a href="chrome-android_18-36">
-                    <img width=150 src="chrome-android_18-36/chrome-android_18-36_256x256.png" alt="Chrome for Android 18-36 browser logo">
+                <a href="chrome-dev_37-59">
+                    <img width=150 src="chrome-dev_37-59/chrome-dev_37-59_256x256.png" alt="Chrome Dev 37-59 browser logo">
                 </a>
             </td>
         </tr>

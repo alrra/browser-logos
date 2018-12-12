@@ -541,7 +541,7 @@
         <tr height=170>
             <td>
                 <a href="firefox-focus">
-                    <img width=150 src="firefox-focus/firefox-focus.svg" alt="Firefox Focus browser logo">
+                    <img width=150 src="firefox-focus/firefox-focus_256x256.png" alt="Firefox Focus browser logo">
                 </a>
             </td>
         </tr>
