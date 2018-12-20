@@ -112,7 +112,10 @@
                 <a href="https://www.brave.com/">Brave</a>
             </th>
             <th>
-                <a href="https://brave.com/download-dev/">Brave Dev</a>
+                <a href="https://brave.com/download-beta/">Brave<br>Beta</a>
+            </th>
+            <th>
+                <a href="https://brave.com/download-dev/">Brave<br>Dev</a>
             </th>
         </tr>
     </thead>
@@ -121,6 +124,11 @@
             <td>
                 <a href="brave">
                     <img width=150 src="brave/brave.svg" alt="Brave browser logo">
+                </a>
+            </td>
+            <td>
+                <a href="brave-beta">
+                    <img width=150 src="brave-beta/brave-beta.svg" alt="Brave Beta Edition browser logo">
                 </a>
             </td>
             <td>
