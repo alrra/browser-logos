@@ -283,7 +283,7 @@
         <tr height=170>
             <td>
                 <a href="cliqz">
-                    <img width=150 src="cliqz/cliqz_256x256.png" alt="Cliqz browser logo">
+                    <img width=150 src="cliqz/cliqz.svg" alt="Cliqz browser logo">
                 </a>
             </td>
         </tr>
