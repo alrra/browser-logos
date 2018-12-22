@@ -608,6 +608,28 @@
     </tbody>
 </table>
 
+### Cliqz
+
+<table>
+    <thead>
+        <tr>
+            <th>
+                <a href="https://en.wikipedia.org/wiki/Cliqz">Cliqz</a>
+                <a href="#note"><code>*</code></a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=170>
+            <td>
+                <a href="cliqz">
+                    <img width=150 src="cliqz/cliqz_256x256.png" alt="Cliqz browser logo">
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 ### CM
 
 <table>
