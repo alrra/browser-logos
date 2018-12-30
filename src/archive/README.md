@@ -2300,7 +2300,7 @@
     <thead>
         <tr>
             <th>
-                <a href="https://www.qupzilla.com/">QupZilla</a>
+                <a href="https://en.wikipedia.org/wiki/Falkon">QupZilla</a>
                 <a href="#note"><code>*</code></a>
             </th>
         </tr>
