@@ -772,7 +772,7 @@
     <thead>
         <tr>
             <th>
-                <a href="https://mike.tig.as/onionbrowser/">Onion</a>
+                <a href="https://onionbrowser.com/">Onion</a>
             </th>
         </tr>
     </thead>
