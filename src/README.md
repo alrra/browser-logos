@@ -19,6 +19,27 @@
     </tbody>
 </table>
 
+### Aloha
+
+<table>
+    <thead>
+        <tr>
+            <th>
+                <a href="https://alohabrowser.com/">Aloha</a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=170>
+            <td>
+                <a href="aloha">
+                    <img width=150 src="aloha/aloha_512x512.png" alt="Aloha browser logo">
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 ### Amazon Internet
 
 <table>
