@@ -1096,7 +1096,7 @@
             </td>
             <td>
                 <a href="samsung-internet-beta">
-                    <img width=150 src="samsung-internet-beta/samsung-internet-beta.svg" alt="Samsung Internet Beta browser logo">
+                    <img width=150 src="samsung-internet-beta/samsung-internet-beta_256x256.png" alt="Samsung Internet Beta browser logo">
                 </a>
             </td>
             <td>
