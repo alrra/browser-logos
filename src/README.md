@@ -619,6 +619,27 @@
     </tbody>
 </table>
 
+### Iridium
+
+<table>
+    <thead>
+        <tr>
+            <th>
+                <a href="https://iridiumbrowser.de/">Iridium</a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=170>
+            <td>
+                <a href="iridium">
+                    <img width=150 src="iridium/iridium.svg" alt="Iridium browser logo">
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 ### jsdom
 
 <table>

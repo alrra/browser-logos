@@ -1427,7 +1427,8 @@
     <thead>
         <tr>
             <th>
-                <a href="https://github.com/iridium-browser">Iridium</a>
+                <a href="https://iridiumbrowser.de/">Iridium</a>
+                <a href="#note"><code>*</code></a>
             </th>
         </tr>
     </thead>
