@@ -619,6 +619,27 @@
     </tbody>
 </table>
 
+### Kiwi
+
+<table>
+    <thead>
+        <tr>
+            <th>
+                <a href="https://play.google.com/store/apps/details?id=com.kiwibrowser.browser">Kiwi</a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=170>
+            <td>
+                <a href="kiwi">
+                    <img width=150 src="kiwi/kiwi_256x256.png" alt="Kiwi browser logo">
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 ### Lightning
 
 <table>
