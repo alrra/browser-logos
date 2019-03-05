@@ -2785,6 +2785,27 @@
     </tbody>
 </table>
 
+### Sushi
+
+<table>
+    <thead>
+        <tr>
+            <th>
+                <a href="https://sushib.me/">Sushi</a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=170>
+            <td>
+                <a href="sushi">
+                    <img width=150 src="sushi/sushi_256x256.png" alt="Sushi browser logo">
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 ### Swiftfox
 
 <table>
