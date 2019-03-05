@@ -2197,6 +2197,27 @@
     </tbody>
 </table>
 
+### Ōryōki
+
+<table>
+    <thead>
+        <tr>
+            <th>
+                <a href="http://oryoki.io/">Ōryōki</a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=170>
+            <td>
+                <a href="o%CC%84ryo%CC%84ki">
+                    <img width=150 src="o%CC%84ryo%CC%84ki/o%CC%84ryo%CC%84ki.svg" alt="Ōryōki browser logo">
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 ### PhantomJS
 
 <table>
