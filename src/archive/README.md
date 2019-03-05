@@ -86,6 +86,27 @@
     </tbody>
 </table>
 
+### Alloy
+
+<table>
+    <thead>
+        <tr>
+            <th>
+                <a href="http://alloy.simoncaminada.ch/">Alloy</a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=170>
+            <td>
+                <a href="alloy">
+                    <img width=150 src="alloy/alloy_256x256.png" alt="Alloy browser logo">
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 ### Amigo
 
 <table>
