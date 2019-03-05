@@ -1260,6 +1260,27 @@
     </tbody>
 </table>
 
+### Habit
+
+<table>
+    <thead>
+        <tr>
+            <th>
+                <a href="https://play.google.com/store/apps/details?id=jp.ddo.pigsty.HabitBrowser&hl=en">Habit</a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=170>
+            <td>
+                <a href="habit">
+                    <img width=150 src="habit/habit_256x256.png" alt="Habit browser logo">
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 ### iCab (Mobile)
 
 <table>
