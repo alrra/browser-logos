@@ -512,6 +512,12 @@
                 <a href="https://www.mozilla.org/en-US/firefox/new/">Firefox</a>
             </th>
             <th>
+                <a href="https://play.google.com/store/apps/details?id=org.mozilla.rocket">Firefox<br>Lite</a>
+            </th>
+            <th>
+                <a href="https://mixedreality.mozilla.org/firefox-reality/">Firefox<br>Reality</a>
+            </th>
+            <th>
                 <a href="https://www.mozilla.org/en-US/firefox/channel/#beta">Firefox<br>Beta</a>
             </th>
             <th>
@@ -520,9 +526,6 @@
             <th>
                 <a href="https://nightly.mozilla.org/">Firefox<br>Nightly</a>
             </th>
-            <th>
-                <a href="https://mixedreality.mozilla.org/firefox-reality/">Firefox<br>Reality</a>
-            </th>
         </tr>
     </thead>
     <tbody>
@@ -530,6 +533,16 @@
             <td>
                 <a href="firefox">
                     <img width=150 src="firefox/firefox.svg" alt="Firefox browser logo">
+                </a>
+            </td>
+            <td>
+                <a href="firefox-lite">
+                   <img width=150 src="firefox-lite/firefox-lite_256x256.png" alt="Firefox Lite browser logo">
+                </a>
+            </td>
+            <td>
+                <a href="firefox-reality">
+                    <img width=150 src="firefox-reality/firefox-reality.svg" alt="Firefox Reality browser logo">
                 </a>
             </td>
             <td>
@@ -545,11 +558,6 @@
             <td>
                 <a href="firefox-nightly">
                     <img width=150 src="firefox-nightly/firefox-nightly.svg" alt="Firefox Nightly browser logo">
-                </a>
-            </td>
-            <td>
-                <a href="firefox-reality">
-                    <img width=150 src="firefox-reality/firefox-reality.svg" alt="Firefox Reality browser logo">
                 </a>
             </td>
         </tr>
