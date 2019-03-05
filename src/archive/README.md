@@ -2176,6 +2176,27 @@
     </tbody>
 </table>
 
+### Orfox
+
+<table>
+    <thead>
+        <tr>
+            <th>
+                <a href="https://guardianproject.info/apps/orfox/">Orfox</a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=170>
+            <td>
+                <a href="orfox">
+                    <img width=150 src="orfox/orfox.svg" alt="Orfox browser logo">
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 ### Orweb
 
 <table>
