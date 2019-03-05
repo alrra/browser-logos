@@ -188,7 +188,7 @@
     <thead>
         <tr>
             <th>
-                <a href="http://www.centbrowser.com">Cent</a>
+                <a href="https://www.centbrowser.com">Cent</a>
             </th>
         </tr>
     </thead>
