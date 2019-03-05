@@ -1579,6 +1579,27 @@
     </tbody>
 </table>
 
+### Light Firefox
+
+<table>
+    <thead>
+        <tr>
+            <th>
+                <a href="https://sourceforge.net/projects/lightfirefox/">Light<br>Firefox</a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=170>
+            <td>
+                <a href="light-firefox">
+                    <img width=150 src="light-firefox/light-firefox_256x256.png" alt="Light Firefox browser logo">
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 ### Link Bubble
 
 <table>
