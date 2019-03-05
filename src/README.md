@@ -374,6 +374,27 @@
     </tbody>
 </table>
 
+### DuckDuckGo Privacy
+
+<table>
+    <thead>
+        <tr>
+            <th>
+                <a href="https://duckduckgo.com/app">DuckDuckGo<br>Privacy</a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=170>
+            <td>
+                <a href="duckduckgo-privacy">
+                    <img width=150 src="duckduckgo-privacy/duckduckgo-privacy.svg" alt="DuckDuckGo Privacy browser logo">
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 ### Edge
 
 <table>
