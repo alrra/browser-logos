@@ -161,6 +161,27 @@
     </tbody>
 </table>
 
+### Cake
+
+<table>
+    <thead>
+        <tr>
+            <th>
+                <a href="http://cakebrowser.com/">Cake</a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=170>
+            <td>
+                <a href="cake">
+                    <img width=150 src="cake/cake_256x256.png" alt="Cake browser logo">
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 #### Cent
 
 <table>
