@@ -1029,6 +1029,27 @@
     </tbody>
 </table>
 
+### Phoenix
+
+<table>
+    <thead>
+        <tr>
+            <th>
+                <a href="https://play.google.com/store/apps/details?id=com.transsion.phoenix">Phoenix</a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=170>
+            <td>
+                <a href="phoenix">
+                    <img width=150 src="phoenix/phoenix_256x256.png" alt="Phoenix browser logo">
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 ### Polarity
 
 <table>
