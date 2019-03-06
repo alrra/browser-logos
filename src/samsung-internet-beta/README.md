@@ -6,7 +6,7 @@
     <tr height=300>
         <td>
             <a href="https://github.com/alrra/browser-logos/tree/00e491a392f258c72721f5ba35dbe43916b30832/src/samsung-internet-beta">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/00e491a392f258c72721f5ba35dbe43916b30832/src/samsung-internet-beta/samsung-internet-beta.svg?sanitize=true" alt="Samsung Internet Beta browser logo">
+                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/00e491a392f258c72721f5ba35dbe43916b30832/src/samsung-internet-beta/samsung-internet-beta_512x512.png?sanitize=true" alt="Samsung Internet Beta browser logo">
             </a>
         </td>
     </tr>
