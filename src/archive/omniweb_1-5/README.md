@@ -5,8 +5,8 @@
 <table>
     <tr height=300>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/00e491a392f258c72721f5ba35dbe43916b30832/src/archive/omniweb_1-5">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/00e491a392f258c72721f5ba35dbe43916b30832/src/archive/omniweb_1-5/omniweb_1-5_512x512.png" alt="OmniWeb v1-5 browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/375b9086ce2a9cb6d3e29f12f7c0562c9a924c05/src/archive/omniweb_1-5">
+                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/375b9086ce2a9cb6d3e29f12f7c0562c9a924c05/src/archive/omniweb_1-5/omniweb_1-5_512x512.png" alt="OmniWeb v1-5 browser logo">
             </a>
         </td>
     </tr>
