@@ -6,7 +6,7 @@
     <tr height=300>
         <td>
             <a href="https://github.com/alrra/browser-logos/tree/6ef009c6cd5f25e8610c712f9a417d5e326541c6/src/firefox-focus">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/6ef009c6cd5f25e8610c712f9a417d5e326541c6/src/firefox-focus/firefox-focus.svg?sanitize=true" alt="Firefox Focus browser logo">
+                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/6ef009c6cd5f25e8610c712f9a417d5e326541c6/src/firefox-focus/firefox-focus_512x512.png" alt="Firefox Focus browser logo">
             </a>
         </td>
     </tr>
