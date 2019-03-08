@@ -1,3 +1,12 @@
+# 1.0.5 (March 8, 2019)
+
+## Bug fixes / Improvements
+
+* [[`3bb40f69b0`](https://github.com/alrra/browser-logos/commit/3bb40f69b0cce0795655e43d42f802b8f9393cc0)] - 📚 Improve READMEs (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`e974274ce3`](https://github.com/alrra/browser-logos/commit/e974274ce3f5d14434b8ecede36edb0aef6880a1)] - 🗜️ Further losslessly optimize `phoenix-firebird.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`a2d26fa1cf`](https://github.com/alrra/browser-logos/commit/a2d26fa1cfe4cf57acd4a814f3e70fa46bf4e2e9)] - 🗜️ Further losslessly optimize `phoenix-firebird.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 1.0.4 (December 30, 2017)
 
 #### Bug fixes / Improvements
