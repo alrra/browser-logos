@@ -1,3 +1,13 @@
+# 1.0.5 (March 8, 2019)
+
+## Bug fixes / Improvements
+
+* [[`39e52af047`](https://github.com/alrra/browser-logos/commit/39e52af0478adba9413c3bc0bfdfdaf9a260481d)] - 🗜️ Further optimize `webpositive.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`3bb40f69b0`](https://github.com/alrra/browser-logos/commit/3bb40f69b0cce0795655e43d42f802b8f9393cc0)] - 📚 Improve READMEs (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`dfa68bc3c5`](https://github.com/alrra/browser-logos/commit/dfa68bc3c5dbfd8ea2e0652b0951b37b8c54c6ff)] - 🗜️ Further optimize `webpositive.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`9beda87ae2`](https://github.com/alrra/browser-logos/commit/9beda87ae2c233da487d8e149035a1a64363ad5a)] - 🗜️ Further losslessly optimize `webpositive.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 1.0.4 (December 30, 2017)
 
 #### Bug fixes / Improvements
