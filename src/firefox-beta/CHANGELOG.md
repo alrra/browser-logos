@@ -1,3 +1,13 @@
+# 2.1.2 (March 8, 2019)
+
+## Bug fixes / Improvements
+
+* [[`1f386ac071`](https://github.com/alrra/browser-logos/commit/1f386ac071c49aea9c3db236be240bb3a98785a6)] - 🗜️ Further losslessly optimize `firefox-beta.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`3954f811b6`](https://github.com/alrra/browser-logos/commit/3954f811b6719d51e5de5c06179cb5d3216b6a8c)] - 🗜️ Further optimize `firefox-beta.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`3bb40f69b0`](https://github.com/alrra/browser-logos/commit/3bb40f69b0cce0795655e43d42f802b8f9393cc0)] - 📚 Improve READMEs (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`e60739b85f`](https://github.com/alrra/browser-logos/commit/e60739b85fe25f7581df30197c12eea0b78f29ec)] - 🗜️ Further optimize `firefox-beta.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 2.1.1 (December 30, 2017)
 
 #### Bug fixes / Improvements
