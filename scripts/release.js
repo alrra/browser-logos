@@ -15,6 +15,7 @@ const REPOSITORY_NAME = 'browser-logos';
 const REPOSITORY_OWNER = 'alrra';
 const REPOSITORY_URL = `https://github.com/${REPOSITORY_OWNER}/${REPOSITORY_NAME}`;
 
+let authorizationID;
 let octokit;
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -208,7 +209,7 @@ const getChangelogContent = (ctx) => {
 const getChangelogData = async (commits = []) => {
 
     const breakingChanges = await generateChangelogSection('Breaking Changes', ['💥'], commits);
-    const bugFixesAndImprovements = await generateChangelogSection('Bug fixes / Improvements', ['🗜️', '📚', '🔧'], commits);
+    const bugFixesAndImprovements = await generateChangelogSection('Bug fixes / Improvements', ['🐛', '📚', '🔧', '🗜️'], commits);
     const newFeatures = await generateChangelogSection('New features', ['✨'], commits);
 
     if (!breakingChanges &&
@@ -303,7 +304,7 @@ const gitGetFirstCommitSHASinceLastRelease = async (ctx) => {
 
 const getCommitSHAsSinceLastRelease = async (ctx) => {
     const firstCommitSinceLastRelease = await gitGetFirstCommitSHASinceLastRelease(ctx);
-    const commitSHAsSinceLastRelease = (await exec(`git rev-list master...${firstCommitSinceLastRelease} ${ctx.packagePath}`)).stdout;
+    const commitSHAsSinceLastRelease = (await exec(`git rev-list master...${firstCommitSinceLastRelease} ${ctx.packagePath !== '.' ? ctx.packagePath : 'src'}`)).stdout;
 
     if (!commitSHAsSinceLastRelease) {
         ctx.skipRemainingTasks = true;
@@ -351,7 +352,7 @@ const newTask = (title, task) => {
     };
 };
 
-const initGitHubAPI = async () => {
+const createGitHubToken = async () => {
 
     const questions = [{
         message: 'GitHub username:',
@@ -369,7 +370,7 @@ const initGitHubAPI = async () => {
 
     const answers = await inquirer.prompt(questions);
 
-    octokit = new Octokit({
+    const github = new Octokit({
         auth: {
             on2fa () {
                 return answers.otp;
@@ -381,18 +382,32 @@ const initGitHubAPI = async () => {
 
     // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-    // It doesn't seem there is a way to validate if the credentials
-    // are correct, so the following is a workaround to do that.
-
     try {
-        await octokit.emojis.get({})
+        const oauthAuthorization = await github.oauthAuthorizations.createAuthorization({
+            note: `browser-logos release script (${new Date()})`,
+            scopes: ['repo']
+        });
+
+        authorizationID = oauthAuthorization.data.id;
+
+        octokit = new Octokit({
+            auth: `token ${oauthAuthorization.data.token}`
+        });
+
     } catch (e) {
         if (e.status === 401) {
-            await initGitHubAPI();
+            await createGitHubToken();
         } else {
             throw new Error(e);
         }
     }
+
+};
+
+const deleteGitHubToken = async () => {
+    await octokit.oauthAuthorizations.deleteAuthorization({
+        authorization_id: authorizationID
+    });
 };
 
 const npmPublish = (ctx) => {
@@ -515,7 +530,7 @@ const getTasks = (packagePath) => {
 
 const main = async () => {
 
-    await initGitHubAPI();
+    await createGitHubToken();
 
     const packages = [
         ...shell.ls('-d', 'src/**/package.json'),
@@ -557,6 +572,8 @@ const main = async () => {
             break;
         }
     }
+
+    await deleteGitHubToken();
 };
 
 main();
