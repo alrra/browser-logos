@@ -1,3 +1,12 @@
+# 1.0.5 (March 8, 2019)
+
+## Bug fixes / Improvements
+
+* [[`d211b219a3`](https://github.com/alrra/browser-logos/commit/d211b219a3952704773ba38108ef5b6212f21aab)] - 🗜️ Further optimize images (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`3bb40f69b0`](https://github.com/alrra/browser-logos/commit/3bb40f69b0cce0795655e43d42f802b8f9393cc0)] - 📚 Improve READMEs (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`93d74457ac`](https://github.com/alrra/browser-logos/commit/93d74457ac3dc1b48ffe6fe08dfe01ccc24875f2)] - 🗜️ Further optimize `chrome.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 1.0.4 (December 30, 2017)
 
 #### Bug fixes / Improvements
