@@ -2,29 +2,25 @@
 
 #### Bug fixes / Improvements
 
-* [[`b75bba3ea9`](https://github.com/alrra/browser-logos/commit/b75bba3ea9b96081d913e06e25fb0c822596e223)] -
-  Further losslessly optimize `vivaldi.svg`
+* [[`b75bba3ea9`](https://github.com/alrra/browser-logos/commit/b75bba3ea9b96081d913e06e25fb0c822596e223)] - 🗜 Further losslessly optimize `vivaldi.svg`
 
 #### New features
 
-* [[`a49e24b110`](https://github.com/alrra/browser-logos/commit/a49e24b1103e2eabddbd56e9d24305725e0b450)] -
-  Add `vivaldi.svg`
+* [[`a49e24b110`](https://github.com/alrra/browser-logos/commit/a49e24b1103e2eabddbd56e9d24305725e0b450)] - ✨ Add `vivaldi.svg`
 
 
 ## 2.0.0 (October 1, 2017)
 
 #### Breaking changes
 
-* [[`3886c5f2a6`](https://github.com/alrra/browser-logos/commit/3886c5f2a68fe7693e6407c7c77faf05491e6ef4)] -
-  Update logo.
+* [[`3886c5f2a6`](https://github.com/alrra/browser-logos/commit/3886c5f2a68fe7693e6407c7c77faf05491e6ef4)] - 💥 Update logo.
 
 
 ## 1.0.1 (June 3, 2017)
 
 #### Bug fixes / Improvements
 
-* [[`4406d8a2ef`](https://github.com/alrra/browser-logos/commit/4406d8a2ef0f9cf1fd91cf1c9b438b2096a51bba)] -
-  Make minor changes in `README.md`.
+* [[`4406d8a2ef`](https://github.com/alrra/browser-logos/commit/4406d8a2ef0f9cf1fd91cf1c9b438b2096a51bba)] - 📚 Make minor changes in `README.md`.
 
 
 ## 1.0.0 (December 18, 2016)
