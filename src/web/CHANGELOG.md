@@ -1,3 +1,12 @@
+# 1.1.4 (March 8, 2019)
+
+## Bug fixes / Improvements
+
+* [[`3bb40f69b0`](https://github.com/alrra/browser-logos/commit/3bb40f69b0cce0795655e43d42f802b8f9393cc0)] - 📚 Improve READMEs (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`f125c3d21f`](https://github.com/alrra/browser-logos/commit/f125c3d21fca981942600bbd6fb9a5320888a5ae)] - 🗜️ Further optimize `web.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`2839fbe864`](https://github.com/alrra/browser-logos/commit/2839fbe86472b6140ae2e835b10271aeb0c914e6)] - 🗜️ Further optimize `web.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 1.1.3 (June 3, 2017)
 
 #### Bug fixes / Improvements
