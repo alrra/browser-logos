@@ -5,8 +5,8 @@
 <table>
     <tr height=300>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/00e491a392f258c72721f5ba35dbe43916b30832/src/archive/internet-explorer_6">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/00e491a392f258c72721f5ba35dbe43916b30832/src/archive/internet-explorer_6/internet-explorer_6_512x512.png" alt="Internet Explorer v6 browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/375b9086ce2a9cb6d3e29f12f7c0562c9a924c05/src/archive/internet-explorer_6">
+                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/375b9086ce2a9cb6d3e29f12f7c0562c9a924c05/src/archive/internet-explorer_6/internet-explorer_6_512x512.png" alt="Internet Explorer v6 browser logo">
             </a>
         </td>
     </tr>
