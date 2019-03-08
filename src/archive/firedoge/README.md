@@ -5,8 +5,8 @@
 <table>
     <tr height=300>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/00e491a392f258c72721f5ba35dbe43916b30832/src/archive/firedoge">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/00e491a392f258c72721f5ba35dbe43916b30832/src/archive/firedoge/firedoge_512x512.png" alt="Firedoge browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/9012c275ccf2a11ac12801f3d2b6fa8398492122/src/archive/firedoge">
+                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/9012c275ccf2a11ac12801f3d2b6fa8398492122/src/archive/firedoge/firedoge_512x512.png" alt="Firedoge browser logo">
             </a>
         </td>
     </tr>
