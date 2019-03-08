@@ -5,8 +5,8 @@
 <table>
     <tr height=300>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/00e491a392f258c72721f5ba35dbe43916b30832/src/archive/chrome-android_18-36">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/00e491a392f258c72721f5ba35dbe43916b30832/src/archive/chrome-android_18-36/chrome-android_18-36_512x512.png" alt="Chrome v18-36 for Android browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/375b9086ce2a9cb6d3e29f12f7c0562c9a924c05/src/archive/chrome-android_18-36">
+                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/375b9086ce2a9cb6d3e29f12f7c0562c9a924c05/src/archive/chrome-android_18-36/chrome-android_18-36_512x512.png" alt="Chrome v18-36 for Android browser logo">
             </a>
         </td>
     </tr>
