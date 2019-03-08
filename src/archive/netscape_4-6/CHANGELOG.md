@@ -1,3 +1,14 @@
+# 1.0.4 (March 7, 2019)
+
+## Bug fixes / Improvements
+
+* [[`d57e7f31ff`](https://github.com/alrra/browser-logos/commit/d57e7f31fff7cffe7f0ee45302da424258e7359d)] - 🗜️ Further optimize `netscape_4-6.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`582a8384b8`](https://github.com/alrra/browser-logos/commit/582a8384b806796d218a3f1deed8778d568d1eb6)] - 🗜️ Further losslessly optimize `netscape_4-6.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`3bb40f69b0`](https://github.com/alrra/browser-logos/commit/3bb40f69b0cce0795655e43d42f802b8f9393cc0)] - 📚 Improve READMEs (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`0fbf8024c7`](https://github.com/alrra/browser-logos/commit/0fbf8024c729e79c6f74527d17c43c578ee744e3)] - 🗜️ Further optimize `netscape_4-6.svg (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`c64a130995`](https://github.com/alrra/browser-logos/commit/c64a130995ef611732a78dc6d2eb9b4b156fdc2e)] - 🗜️ Further optimize `netscape_4-6.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 1.0.3 (December 30, 2017)
 
 #### Bug fixes / Improvements
