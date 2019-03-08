@@ -282,13 +282,7 @@ const gitCommitChanges = async (commitMessage, skipCI = false) => {
 };
 
 const gitCreateRelease = async (ctx) => {
-    const changelogFilePath = `${ctx.packagePath}/CHANGELOG.md`;
-
-    if (!ctx.isUnpublishedPackage) {
-        await createGitHubRelease(ctx.packageNewTag, getReleaseNotes(changelogFilePath));
-    } else {
-        await createGitHubRelease(ctx.packageNewTag, `${shell.cat(changelogFilePath)}`);
-    }
+    await createGitHubRelease(ctx.packageNewTag, getReleaseNotes(`${ctx.packagePath}/CHANGELOG.md`));
 };
 
 const gitDeleteTag = async (tag) => {
@@ -304,7 +298,7 @@ const gitGetFirstCommitSHASinceLastRelease = async (ctx) => {
 
 const getCommitSHAsSinceLastRelease = async (ctx) => {
     const firstCommitSinceLastRelease = await gitGetFirstCommitSHASinceLastRelease(ctx);
-    const commitSHAsSinceLastRelease = (await exec(`git rev-list master...${firstCommitSinceLastRelease} ${ctx.packagePath !== '.' ? ctx.packagePath : 'src'}`)).stdout;
+    const commitSHAsSinceLastRelease = (await exec(`git rev-list master...${firstCommitSinceLastRelease} ${ctx.isPackage ? ctx.packagePath : 'src'}`)).stdout;
 
     if (!commitSHAsSinceLastRelease) {
         ctx.skipRemainingTasks = true;
@@ -328,9 +322,7 @@ const gitPush = async (ctx) => {
 };
 
 const gitTagNewVersion = async (ctx) => {
-    ctx.packageNewTag = `${ctx.packageName !== '.' ? `${ctx.packageName}-` : ''}v${ctx.newPackageVersion}`;
-
-    await gitDeleteTag(ctx.packageNewTag);
+    ctx.packageNewTag = `v${ctx.newPackageVersion}`;
     await exec(`git tag -a "${ctx.packageNewTag}" -m "${ctx.packageNewTag}"`);
 };
 
@@ -339,7 +331,7 @@ const gitReset = async () => {
 };
 
 const gitCommitBuildChanges = async (ctx) => {
-    await gitCommitChanges(`🚀 ${ctx.packageName !== '.' ? `${ctx.packageName} - ` : ''}v${ctx.newPackageVersion}`, true);
+    await gitCommitChanges(`🚀 ${ctx.isPackage ? `${ctx.packageName} - ` : ''}v${ctx.newPackageVersion}`, true);
 };
 
 const newTask = (title, task) => {
@@ -470,6 +462,7 @@ const getTasks = (packagePath) => {
 
     const packageJSONFileContent = require(`../${packagePath}/package.json`);
     const isUnpublishedPackage = packageJSONFileContent.private === true && packagePath !== '.';
+    const isPackage = packagePath !== '.';
 
     const tasks = [];
 
@@ -488,6 +481,8 @@ const getTasks = (packagePath) => {
             if (isUnpublishedPackage) {
                 ctx.newPackageVersion = packageJSONFileContent.version;
             }
+
+            ctx.isPackage = isPackage;
         },
         title: `Get package information.`
     });
@@ -515,13 +510,20 @@ const getTasks = (packagePath) => {
 
     // Common tasks for both published and unpublished packages.
 
+    tasks.push(newTask('Commit changes.', gitCommitBuildChanges));
+
+    if (!isPackage) {
+        tasks.push(newTask('Tag new version.', gitTagNewVersion));
+    }
+
     tasks.push(
-        newTask('Commit changes.', gitCommitBuildChanges),
-        newTask('Tag new version.', gitTagNewVersion),
         newTask(`Publish on npm.`, npmPublish),
-        newTask(`Push changes upstream.`, gitPush),
-        newTask(`Create release.`, gitCreateRelease),
+        newTask(`Push changes upstream.`, gitPush)
     );
+
+    if (!isPackage) {
+        tasks.push(newTask(`Create release.`, gitCreateRelease));
+    }
 
     return new Listr(tasks);
 };
