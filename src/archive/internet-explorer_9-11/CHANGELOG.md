@@ -1,3 +1,17 @@
+# 1.1.4 (March 7, 2019)
+
+## Bug fixes / Improvements
+
+* [[`b949d37ec6`](https://github.com/alrra/browser-logos/commit/b949d37ec6bbe0fe0e61d594f8bcd42cffe9d611)] - 🗜️ Further optimize images (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`d211b219a3`](https://github.com/alrra/browser-logos/commit/d211b219a3952704773ba38108ef5b6212f21aab)] - 🗜️ Further optimize images (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`aacb775d04`](https://github.com/alrra/browser-logos/commit/aacb775d04ecc2119c2c14a4dc54aea1903ccd4b)] - 🗜️ Further losslessly optimize `internet-explorer_9-11.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`401a5d55da`](https://github.com/alrra/browser-logos/commit/401a5d55da371eac7b8f240ec2a0f9882bf99ac6)] - 🗜️ Further losslessly optimize `internet-explorer_9-11.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`28c9e79b68`](https://github.com/alrra/browser-logos/commit/28c9e79b68dbb12f394e9ae51375aa6611d00d30)] - 🗜️ Further optimize `internet-explorer_9-11.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`cb49450ec6`](https://github.com/alrra/browser-logos/commit/cb49450ec6502c929197781cdc49ea2902100080)] - 🗜️ Further losslessly optimize `internet-explorer_9-11.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`3bb40f69b0`](https://github.com/alrra/browser-logos/commit/3bb40f69b0cce0795655e43d42f802b8f9393cc0)] - 📚 Improve READMEs (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`3a7d58715f`](https://github.com/alrra/browser-logos/commit/3a7d58715f31773563fb7e357c4960d205e605f3)] - 🗜️ Further optimize images (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 1.1.3 (December 30, 2017)
 
 #### Bug fixes / Improvements
