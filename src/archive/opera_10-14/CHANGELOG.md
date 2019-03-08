@@ -1,3 +1,13 @@
+# 1.0.6 (March 7, 2019)
+
+## Bug fixes / Improvements
+
+* [[`335ec25bff`](https://github.com/alrra/browser-logos/commit/335ec25bff01bd5ff09e6385be86a468119eee04)] - 🗜️ Further losslessly optimize `opera_10-14.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`3bb40f69b0`](https://github.com/alrra/browser-logos/commit/3bb40f69b0cce0795655e43d42f802b8f9393cc0)] - 📚 Improve READMEs (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`d94ff8c101`](https://github.com/alrra/browser-logos/commit/d94ff8c101796993fd862e0eb0a7499d07646117)] - 🗜️ Further losslessly optimize `opera_10-14.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`4c985e407a`](https://github.com/alrra/browser-logos/commit/4c985e407a7af20ca947184f94739c8a7feac845)] - 🗜️ Further optimize `opera_10-14.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 1.0.5 (December 30, 2017)
 
 #### Bug fixes / Improvements
