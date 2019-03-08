@@ -1,3 +1,13 @@
+# 1.0.5 (March 7, 2019)
+
+## Bug fixes / Improvements
+
+* [[`f7bf85332f`](https://github.com/alrra/browser-logos/commit/f7bf85332f3edf577ae22f467d68bc0d026aa245)] - 🗜️ Further losslessly optimize `iceape.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`3bb40f69b0`](https://github.com/alrra/browser-logos/commit/3bb40f69b0cce0795655e43d42f802b8f9393cc0)] - 📚 Improve READMEs (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`f5a5e74624`](https://github.com/alrra/browser-logos/commit/f5a5e74624ffa39dfc2b5cd5cc76abdce50a0d72)] - 🗜️ Further losslessly optimize `iceape.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`e1a774d63d`](https://github.com/alrra/browser-logos/commit/e1a774d63dd1f2905e5bed0567d71ff05d6f3ef4)] - 🗜️ Further losslessly optimize `iceape.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 1.0.4 (December 30, 2017)
 
 #### Bug fixes / Improvements
