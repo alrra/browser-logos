@@ -5,8 +5,8 @@
 <table>
     <tr height=300>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/00e491a392f258c72721f5ba35dbe43916b30832/src/archive/android">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/00e491a392f258c72721f5ba35dbe43916b30832/src/archive/android/android_512x512.png" alt="Android browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/250d8e51a236f11c6a16a33285ff214f704742bf/src/archive/android">
+                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/250d8e51a236f11c6a16a33285ff214f704742bf/src/archive/android/android_512x512.png" alt="Android browser logo">
             </a>
         </td>
     </tr>
