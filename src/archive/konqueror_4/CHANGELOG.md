@@ -1,3 +1,15 @@
+# 1.0.5 (March 7, 2019)
+
+## Bug fixes / Improvements
+
+* [[`b9a622632e`](https://github.com/alrra/browser-logos/commit/b9a622632e6f041c8f0b4381c7c32776fb9ee506)] - 🗜️ Further optimize images (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`f1818dcbc0`](https://github.com/alrra/browser-logos/commit/f1818dcbc0fe9f2482d697a77a5c7e4a7334b3d2)] - 🗜️ Further optimize images (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`d211b219a3`](https://github.com/alrra/browser-logos/commit/d211b219a3952704773ba38108ef5b6212f21aab)] - 🗜️ Further optimize images (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`3bb40f69b0`](https://github.com/alrra/browser-logos/commit/3bb40f69b0cce0795655e43d42f802b8f9393cc0)] - 📚 Improve READMEs (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`226e997c95`](https://github.com/alrra/browser-logos/commit/226e997c950cb1070daa7ca19454db84e517118e)] - 🗜️ Further optimize `konqueror_4.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`fbcc9a6c0c`](https://github.com/alrra/browser-logos/commit/fbcc9a6c0c734248568864a0d15c3b7f6954cd84)] - 🗜️ Further losslessly optimize `konqueror_4.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 1.0.4 (December 30, 2017)
 
 #### Bug fixes / Improvements
