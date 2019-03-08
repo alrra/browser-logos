@@ -1,3 +1,10 @@
+# 1.0.2 (March 7, 2019)
+
+## Bug fixes / Improvements
+
+* [[`2483a461da`](https://github.com/alrra/browser-logos/commit/2483a461da648e1e2c8386690a4dbcd63bcfb9c8)] - 📚 Improve READMEs (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 1.0.1 (June 2, 2017)
 
 #### Bug fixes / Improvements
