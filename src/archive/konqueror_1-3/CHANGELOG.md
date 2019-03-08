@@ -1,3 +1,13 @@
+# 1.0.4 (March 7, 2019)
+
+## Bug fixes / Improvements
+
+* [[`1747963b55`](https://github.com/alrra/browser-logos/commit/1747963b551e447b1ed944bee6a9b237df984f11)] - 🗜️ Further losslessly optimize `konqueror_1-3.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`3bb40f69b0`](https://github.com/alrra/browser-logos/commit/3bb40f69b0cce0795655e43d42f802b8f9393cc0)] - 📚 Improve READMEs (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`9d7c9560c1`](https://github.com/alrra/browser-logos/commit/9d7c9560c16611dee6e5d4fdede695a02bbbba16)] - 🗜️ Further losslessly optimize `konqueror_1-3.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`d04762c0f4`](https://github.com/alrra/browser-logos/commit/d04762c0f493f66feebb20e895f31012fa58940e)] - 🗜️ Further losslessly optimize `konqueror_1-3.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 1.0.3 (June 3, 2017)
 
 #### Bug fixes / Improvements
