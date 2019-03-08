@@ -1,3 +1,13 @@
+# 1.0.4 (March 8, 2019)
+
+## Bug fixes / Improvements
+
+* [[`553c8320bd`](https://github.com/alrra/browser-logos/commit/553c8320bdb89d7bb420716b213b428aafe363b6)] - 🗜️ Further losslessly optimize `safari-ios.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`a6bd2a1a74`](https://github.com/alrra/browser-logos/commit/a6bd2a1a74a39b7cdcc95e4f979fcef4e2b2cafe)] - 🗜️ Further losslessly optimize `safari-ios.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`3bb40f69b0`](https://github.com/alrra/browser-logos/commit/3bb40f69b0cce0795655e43d42f802b8f9393cc0)] - 📚 Improve READMEs (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`6465f986cc`](https://github.com/alrra/browser-logos/commit/6465f986cce39b0735f6a674bb5fe6cce0d5110d)] - 🗜️ Further losslessly optimize `safari-ios.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 1.0.3 (December 30, 2017)
 
 #### Bug fixes / Improvements
