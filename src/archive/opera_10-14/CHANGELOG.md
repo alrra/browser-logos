@@ -2,40 +2,35 @@
 
 #### Bug fixes / Improvements
 
-* [[`26ea05bb01`](https://github.com/alrra/browser-logos/commit/26ea05bb012377c3306c511294be0fcb655aaa6b)] -
-  Further optimize images.
+* [[`26ea05bb01`](https://github.com/alrra/browser-logos/commit/26ea05bb012377c3306c511294be0fcb655aaa6b)] - 🗜 Further optimize images.
 
 
 ## 1.0.4 (June 3, 2017)
 
 #### Bug fixes / Improvements
 
-* [[`4406d8a2ef`](https://github.com/alrra/browser-logos/commit/4406d8a2ef0f9cf1fd91cf1c9b438b2096a51bba)] -
-  Make minor changes in `README.md`.
+* [[`4406d8a2ef`](https://github.com/alrra/browser-logos/commit/4406d8a2ef0f9cf1fd91cf1c9b438b2096a51bba)] - 📚 Make minor changes in `README.md`.
 
 
 ## 1.0.3 (May 27, 2017)
 
 #### Bug fixes / Improvements
 
-* [[`e8d37969cb`](https://github.com/alrra/browser-logos/commit/e8d37969cb7f8a30f59f85805efaf89a0141cc28)] -
-  Further optimize `opera_10-14.svg`.
+* [[`e8d37969cb`](https://github.com/alrra/browser-logos/commit/e8d37969cb7f8a30f59f85805efaf89a0141cc28)] - 🗜 Further optimize `opera_10-14.svg`.
 
 
 ## 1.0.2 (March 20, 2016)
 
 #### Bug fixes / Improvements
 
-* [[`019708df09`](https://github.com/alrra/browser-logos/commit/019708df092f51d495925ceab564e3203bf2a29d)] -
-  Further optimize `opera_10-14.svg`.
+* [[`019708df09`](https://github.com/alrra/browser-logos/commit/019708df092f51d495925ceab564e3203bf2a29d)] - 🗜 Further optimize `opera_10-14.svg`.
 
 
 ## 1.0.1 (January 28, 2017)
 
 #### Bug fixes / Improvements
 
-* [[`720852f5eb`](https://github.com/alrra/browser-logos/commit/720852f5ebbec30156474e7f7b8b58df32207440)] -
-  Further optimize `opera_10-14.svg`.
+* [[`720852f5eb`](https://github.com/alrra/browser-logos/commit/720852f5ebbec30156474e7f7b8b58df32207440)] - 🗜 Further optimize `opera_10-14.svg`.
 
 
 ## 1.0.0 (December 18, 2016)
