@@ -1,3 +1,15 @@
+# 1.1.1 (March 8, 2019)
+
+## Bug fixes / Improvements
+
+* [[`b9a622632e`](https://github.com/alrra/browser-logos/commit/b9a622632e6f041c8f0b4381c7c32776fb9ee506)] - 🗜️ Further optimize images (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`d211b219a3`](https://github.com/alrra/browser-logos/commit/d211b219a3952704773ba38108ef5b6212f21aab)] - 🗜️ Further optimize images (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`aae98abe98`](https://github.com/alrra/browser-logos/commit/aae98abe989f6ea8f192d84abbbc996968cf1b13)] - 🗜️ Further losslessly optimize `v8.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`e678d13889`](https://github.com/alrra/browser-logos/commit/e678d13889c02936e7a9cf257d0d37126d3d98b0)] - 🗜️ Further optimize `v8.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`7fdd4869de`](https://github.com/alrra/browser-logos/commit/7fdd4869de028dcd8c3a4481f96d92f84a85fa77)] - 🗜️ Further losslessly optimize `v8.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`3bb40f69b0`](https://github.com/alrra/browser-logos/commit/3bb40f69b0cce0795655e43d42f802b8f9393cc0)] - 📚 Improve READMEs (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 1.1.0 (October 12, 2018)
 
 #### New features
