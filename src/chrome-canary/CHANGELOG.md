@@ -1,3 +1,17 @@
+# 1.1.0 (March 8, 2019)
+
+## Bug fixes / Improvements
+
+* [[`0e32384e87`](https://github.com/alrra/browser-logos/commit/0e32384e87a61a50011c19e50c19cfdcd67bf60d)] - 🗜️ Further optimize `chrome-canary.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`f1818dcbc0`](https://github.com/alrra/browser-logos/commit/f1818dcbc0fe9f2482d697a77a5c7e4a7334b3d2)] - 🗜️ Further optimize images (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`d211b219a3`](https://github.com/alrra/browser-logos/commit/d211b219a3952704773ba38108ef5b6212f21aab)] - 🗜️ Further optimize images (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`3bb40f69b0`](https://github.com/alrra/browser-logos/commit/3bb40f69b0cce0795655e43d42f802b8f9393cc0)] - 📚 Improve READMEs (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+## New features
+
+* [[`42302725b0`](https://github.com/alrra/browser-logos/commit/42302725b093568afb12739c975b25b3cbbdaf4b)] - ✨ Add `chrome-canary.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 1.0.2 (December 30, 2017)
 
 #### Bug fixes / Improvements
