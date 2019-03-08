@@ -516,10 +516,11 @@ const getTasks = (packagePath) => {
         tasks.push(newTask('Tag new version.', gitTagNewVersion));
     }
 
-    tasks.push(
-        newTask(`Publish on npm.`, npmPublish),
-        newTask(`Push changes upstream.`, gitPush)
-    );
+    if (isPackage) {
+        tasks.push(newTask(`Publish on npm.`, npmPublish));
+    }
+
+    tasks.push(newTask(`Push changes upstream.`, gitPush));
 
     if (!isPackage) {
         tasks.push(newTask(`Create release.`, gitCreateRelease));
