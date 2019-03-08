@@ -1,3 +1,12 @@
+# 1.0.3 (March 7, 2019)
+
+## Bug fixes / Improvements
+
+* [[`3bb40f69b0`](https://github.com/alrra/browser-logos/commit/3bb40f69b0cce0795655e43d42f802b8f9393cc0)] - 📚 Improve READMEs (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`2715231215`](https://github.com/alrra/browser-logos/commit/27152312156179b4175140d4ba3f6596a8fdf850)] - 🗜️ Further losslessly optimize `epiphany.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`33fdab224a`](https://github.com/alrra/browser-logos/commit/33fdab224a4bfaa19693706caade78b5af515680)] - 🗜️ Further losslessly optimize `epiphany.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 1.0.2 (June 3, 2017)
 
 #### Bug fixes / Improvements
