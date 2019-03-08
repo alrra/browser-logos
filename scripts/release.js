@@ -43,7 +43,7 @@ const exec = (cmd) => {
 };
 
 const createGitHubRelease = async (tagName, releaseNotes) => {
-    await octokit.repos.createGitHubRelease({
+    await octokit.repos.createRelease({
         body: releaseNotes,
         name: tagName,
         owner: REPOSITORY_OWNER,
