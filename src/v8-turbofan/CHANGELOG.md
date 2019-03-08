@@ -1,3 +1,13 @@
+# 1.1.2 (March 8, 2019)
+
+## Bug fixes / Improvements
+
+* [[`4058e5f0dc`](https://github.com/alrra/browser-logos/commit/4058e5f0dc9a23996f42b61576981fca0b276fb0)] - 🗜️ Further losslessly optimize `v8-turbofan-outline.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`3c09d24035`](https://github.com/alrra/browser-logos/commit/3c09d24035c05d0b8021761d3dde345696239d44)] - 🗜️ Further losslessly optimize `v8-turbofan.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`3bb40f69b0`](https://github.com/alrra/browser-logos/commit/3bb40f69b0cce0795655e43d42f802b8f9393cc0)] - 📚 Improve READMEs (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`bb3d7f956e`](https://github.com/alrra/browser-logos/commit/bb3d7f956e30bab9371422098c21a354e3d879f7)] - 🗜️ Further losslessly optimize `v8-turbofan.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 1.1.1 (November 4, 2018)
 
 #### Bug fixes / Improvements
