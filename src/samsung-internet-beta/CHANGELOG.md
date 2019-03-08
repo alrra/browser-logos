@@ -1,3 +1,18 @@
+# 2.0.0 (March 8, 2019)
+
+## Breaking Changes
+
+* [[`e395a2fc61`](https://github.com/alrra/browser-logos/commit/e395a2fc61e02dbfb5bbe3496200a140186dff7c)] - 💥 Update `Samsung Internet Beta` logo (by [`Cătălin Mariș`](https://github.com/alrra) / see also: [`#154`](https://github.com/alrra/browser-logos/issues/154)).
+
+## Bug fixes / Improvements
+
+* [[`988b7a90ea`](https://github.com/alrra/browser-logos/commit/988b7a90ead034a2beeca2fdc163f99e8ea4ccc7)] - 📚 Fix image link in `README.md` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`195a4e40dd`](https://github.com/alrra/browser-logos/commit/195a4e40ddbe9be4d6794551d85fd8fc23fe3506)] - 🗜️ Further losslessly optimize `samsung-internet-beta.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`a7a7645b8c`](https://github.com/alrra/browser-logos/commit/a7a7645b8c2d9ba05d03978037057a710e4a2bb8)] - 🗜️ Further losslessly optimize `samsung-internet-beta.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`3bb40f69b0`](https://github.com/alrra/browser-logos/commit/3bb40f69b0cce0795655e43d42f802b8f9393cc0)] - 📚 Improve READMEs (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`6a6b9bc0f1`](https://github.com/alrra/browser-logos/commit/6a6b9bc0f176518b21b93d71e9e33d1c197426eb)] - 🗜️ Further optimize `samsung-internet-beta.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 1.1.3 (June 3, 2017)
 
 #### Bug fixes / Improvements
