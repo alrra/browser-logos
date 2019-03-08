@@ -1,3 +1,11 @@
+# 1.0.5 (March 7, 2019)
+
+## Bug fixes / Improvements
+
+* [[`3bb40f69b0`](https://github.com/alrra/browser-logos/commit/3bb40f69b0cce0795655e43d42f802b8f9393cc0)] - 📚 Improve READMEs (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`63d04dcdfc`](https://github.com/alrra/browser-logos/commit/63d04dcdfc8207b1ed76a2c3ea5bec298ead966d)] - 🗜️ Further optimize `internet-explorer-tile_10-11.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 1.0.4 (December 30, 2017)
 
 #### Bug fixes / Improvements
