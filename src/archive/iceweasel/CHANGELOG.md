@@ -1,3 +1,13 @@
+# 1.0.5 (March 7, 2019)
+
+## Bug fixes / Improvements
+
+* [[`9192dccf6c`](https://github.com/alrra/browser-logos/commit/9192dccf6c3c07f5207f98418c1c8aaabe74c35e)] - 🗜️ Further losslessly optimize `iceweasel.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`3bb40f69b0`](https://github.com/alrra/browser-logos/commit/3bb40f69b0cce0795655e43d42f802b8f9393cc0)] - 📚 Improve READMEs (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`e072b51d60`](https://github.com/alrra/browser-logos/commit/e072b51d607d6bc98adf37c48c40e7254d3a324f)] - 🗜️ Further optimize `iceweasel.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`754d205348`](https://github.com/alrra/browser-logos/commit/754d205348f7a78d2d628616a865c87ad661727a)] - 🗜️ Further losslessly optimize `iceweasel.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 1.0.4 (December 30, 2017)
 
 #### Bug fixes / Improvements
