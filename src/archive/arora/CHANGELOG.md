@@ -1,3 +1,14 @@
+# 1.1.3 (March 7, 2019)
+
+## Bug fixes / Improvements
+
+* [[`c677d97433`](https://github.com/alrra/browser-logos/commit/c677d974332615d85560619bb38364e29d0afb93)] - 🗜️ Further losslessly optimize `arora.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`c8370ca61a`](https://github.com/alrra/browser-logos/commit/c8370ca61afb93e82dfca960bc1e61acee92bdad)] - 🗜️ Further losslessly optimize `arora.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`3bb40f69b0`](https://github.com/alrra/browser-logos/commit/3bb40f69b0cce0795655e43d42f802b8f9393cc0)] - 📚 Improve READMEs (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`281bfd844e`](https://github.com/alrra/browser-logos/commit/281bfd844e38036d1e57c9ac69dec4dc2e49e542)] - 🗜️ Further losslessly optimize `arora.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`8c3fdb7433`](https://github.com/alrra/browser-logos/commit/8c3fdb74336a810921fb689dd90b77c797eb1d54)] - 🗜️ Further losslessly optimize `arora.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 1.1.2 (December 30, 2017)
 
 #### Bug fixes / Improvements
