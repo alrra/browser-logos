@@ -5,8 +5,8 @@
 <table>
     <tr height=300>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/00e491a392f258c72721f5ba35dbe43916b30832/src/archive/samsung-internet_3-4.2">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/00e491a392f258c72721f5ba35dbe43916b30832/src/archive/samsung-internet_3-4.2/samsung-internet_3-4.2_512x512.png" alt="Samsung Internet v3-4.2 browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/375b9086ce2a9cb6d3e29f12f7c0562c9a924c05/src/archive/samsung-internet_3-4.2">
+                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/375b9086ce2a9cb6d3e29f12f7c0562c9a924c05/src/archive/samsung-internet_3-4.2/samsung-internet_3-4.2_512x512.png" alt="Samsung Internet v3-4.2 browser logo">
             </a>
         </td>
     </tr>
