@@ -1,3 +1,15 @@
+# 1.0.4 (March 8, 2019)
+
+## Bug fixes / Improvements
+
+* [[`f1818dcbc0`](https://github.com/alrra/browser-logos/commit/f1818dcbc0fe9f2482d697a77a5c7e4a7334b3d2)] - 🗜️ Further optimize images (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`c3db5676cf`](https://github.com/alrra/browser-logos/commit/c3db5676cf1da4aab8caf083ca365ac19c287ca0)] - 🗜️ Further losslessly optimize `midori.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`6b202f5492`](https://github.com/alrra/browser-logos/commit/6b202f5492ac35e4fb9455f56c4a6335e8d05cc2)] - 🗜️ Further optimize `midori.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`47df146ba2`](https://github.com/alrra/browser-logos/commit/47df146ba290737dbd9b08450cdf6934d38eecaa)] - 🗜️ Further losslessly optimize `midori.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`3bb40f69b0`](https://github.com/alrra/browser-logos/commit/3bb40f69b0cce0795655e43d42f802b8f9393cc0)] - 📚 Improve READMEs (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`7b1e5a6f39`](https://github.com/alrra/browser-logos/commit/7b1e5a6f39ff4f2813e314d62943956b28f72f59)] - 🗜️ Further losslessly optimize `midori.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 1.0.3 (December 30, 2017)
 
 #### Bug fixes / Improvements
