@@ -1,3 +1,15 @@
+# 2.1.2 (March 8, 2019)
+
+## Bug fixes / Improvements
+
+* [[`d211b219a3`](https://github.com/alrra/browser-logos/commit/d211b219a3952704773ba38108ef5b6212f21aab)] - 🗜️ Further optimize images (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`3c93fefd0e`](https://github.com/alrra/browser-logos/commit/3c93fefd0e518b3c796eb8d2e19e6a01f8bf3d55)] - 🗜️ Further optimize `firefox-developer-edition.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`3bb40f69b0`](https://github.com/alrra/browser-logos/commit/3bb40f69b0cce0795655e43d42f802b8f9393cc0)] - 📚 Improve READMEs (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`10b1f2427b`](https://github.com/alrra/browser-logos/commit/10b1f2427b77db417c20a96cfdf23b3ab95b2c8b)] - 🗜️ Further optimize `firefox-developer-edition.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`5d9d51e39d`](https://github.com/alrra/browser-logos/commit/5d9d51e39db0f110a9aa0e71fddb0b287f8a16db)] - 🗜️ Further optimize `firefox-developer-edition.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`06e08e5342`](https://github.com/alrra/browser-logos/commit/06e08e5342b9fe72c1155ad3e76737528c4f5d0f)] - 🗜️ Further losslessly optimize `firefox-developer-edition.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 2.1.1 (December 30, 2017)
 
 #### Bug fixes / Improvements
