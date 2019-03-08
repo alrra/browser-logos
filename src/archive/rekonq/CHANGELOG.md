@@ -1,3 +1,13 @@
+# 1.0.5 (March 8, 2019)
+
+## Bug fixes / Improvements
+
+* [[`74ac21e77e`](https://github.com/alrra/browser-logos/commit/74ac21e77ea65d3dfe9f5c29d64ab4185bd8412b)] - 🗜️ Further losslessly optimize `rekonq.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`3bb40f69b0`](https://github.com/alrra/browser-logos/commit/3bb40f69b0cce0795655e43d42f802b8f9393cc0)] - 📚 Improve READMEs (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`9393b7955f`](https://github.com/alrra/browser-logos/commit/9393b7955fe10510b2cc42ee0447f4ef67728cb0)] - 🗜️ Further optimize `rekonq.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`fdfa3e94b0`](https://github.com/alrra/browser-logos/commit/fdfa3e94b03b1a173909eb693dd38fa4ecd1a085)] - 🗜️ Further losslessly optimize `rekonq.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 1.0.4 (December 30, 2017)
 
 #### Bug fixes / Improvements
