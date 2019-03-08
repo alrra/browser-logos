@@ -11,5 +11,5 @@
   "scripts": {
     "release": "./scripts/release.js"
   },
-  "version": "46.1.0"
+  "version": "47.0.0"
 }

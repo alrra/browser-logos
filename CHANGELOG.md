@@ -1,3 +1,253 @@
+# 47.0.0 (March 8, 2019)
+
+## Breaking Changes
+
+* [[`88b27fdbe1`](https://github.com/alrra/browser-logos/commit/88b27fdbe1bb6c9440385e5027ad5aa7de23a171)] - 💥 Update `Iridium` logo (by [`scribblemaniac`](https://github.com/scribblemaniac) / see also: [`#167`](https://github.com/alrra/browser-logos/issues/167)).
+* [[`e395a2fc61`](https://github.com/alrra/browser-logos/commit/e395a2fc61e02dbfb5bbe3496200a140186dff7c)] - 💥 Update `Samsung Internet Beta` logo (by [`Cătălin Mariș`](https://github.com/alrra) / see also: [`#154`](https://github.com/alrra/browser-logos/issues/154)).
+* [[`ef3ef9fd47`](https://github.com/alrra/browser-logos/commit/ef3ef9fd47d994b4a83127271637c98c931d7a27)] - 💥 Update `Cliqz` logo (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`9989b8f644`](https://github.com/alrra/browser-logos/commit/9989b8f6445e775b4b72dc5089fb3174892db020)] - 💥 Move `Beaker` logo into the `archive` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`f33d30df96`](https://github.com/alrra/browser-logos/commit/f33d30df96b6187a5d1295d7b03d588c19e137fa)] - 💥 Move `CM` in the `archive` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`4e8bd8c10d`](https://github.com/alrra/browser-logos/commit/4e8bd8c10db70d8eea12774ca0c0a749f9578e23)] - 💥 Rename `Focus` to `Firefox Focus` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`4a2d342212`](https://github.com/alrra/browser-logos/commit/4a2d342212ef0c67ba99df74c55e70f502dd229f)] - 💥 Rename `Focus` to `Firefox Focus` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`276993601e`](https://github.com/alrra/browser-logos/commit/276993601e041495f8c725794befc5050d994297)] - 💥 Move `Midori` out of `archive` (by [`Cătălin Mariș`](https://github.com/alrra) / see also: [`#112`](https://github.com/alrra/browser-logos/issues/112)).
+
+## Bug fixes / Improvements
+
+* [[`988b7a90ea`](https://github.com/alrra/browser-logos/commit/988b7a90ead034a2beeca2fdc163f99e8ea4ccc7)] - 📚 Fix image link in `README.md` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`7f823c815a`](https://github.com/alrra/browser-logos/commit/7f823c815a0a4f84672464366f448f3232b832eb)] - 🗜️ Further optimize images (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`4fd0025cb0`](https://github.com/alrra/browser-logos/commit/4fd0025cb067af38de1a6fd0d4fb264421616b94)] - 🗜️ Further optimize `chrome-beta.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`0e32384e87`](https://github.com/alrra/browser-logos/commit/0e32384e87a61a50011c19e50c19cfdcd67bf60d)] - 🗜️ Further optimize `chrome-canary.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`9192dccf6c`](https://github.com/alrra/browser-logos/commit/9192dccf6c3c07f5207f98418c1c8aaabe74c35e)] - 🗜️ Further losslessly optimize `iceweasel.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`4d1f65c30d`](https://github.com/alrra/browser-logos/commit/4d1f65c30d520c78ab9af9a6828456ca37505c69)] - 🗜️ Further losslessly optimize `otter.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`f7bf85332f`](https://github.com/alrra/browser-logos/commit/f7bf85332f3edf577ae22f467d68bc0d026aa245)] - 🗜️ Further losslessly optimize `iceape.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`aa94e6563f`](https://github.com/alrra/browser-logos/commit/aa94e6563f143e117116078c4f32361b3dd362ec)] - 🗜️ Further optimize `chromium_1-11.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`74ac21e77e`](https://github.com/alrra/browser-logos/commit/74ac21e77ea65d3dfe9f5c29d64ab4185bd8412b)] - 🗜️ Further losslessly optimize `rekonq.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`39e52af047`](https://github.com/alrra/browser-logos/commit/39e52af0478adba9413c3bc0bfdfdaf9a260481d)] - 🗜️ Further optimize `webpositive.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`1f386ac071`](https://github.com/alrra/browser-logos/commit/1f386ac071c49aea9c3db236be240bb3a98785a6)] - 🗜️ Further losslessly optimize `firefox-beta.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`335ec25bff`](https://github.com/alrra/browser-logos/commit/335ec25bff01bd5ff09e6385be86a468119eee04)] - 🗜️ Further losslessly optimize `opera_10-14.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`0f6cb44b0e`](https://github.com/alrra/browser-logos/commit/0f6cb44b0e32b2ffc3dcb5d32d9c54bb0689780f)] - 🗜️ Further losslessly optimize `chrome_1-11.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`de4bbc9b3a`](https://github.com/alrra/browser-logos/commit/de4bbc9b3a4c2a271aa5fce87e4ee8068bddb041)] - 🗜️ Further optimize `qutebrowser.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`7eb82ffdde`](https://github.com/alrra/browser-logos/commit/7eb82ffddec7f73ccb3e7a5515c8515ddd248a64)] - 🗜️ Further optimize `brave_2.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`486739d252`](https://github.com/alrra/browser-logos/commit/486739d252a536d86b137a7e5bb4fe81bb9b95df)] - 🗜️ Further optimize `kylo.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`61152f7a34`](https://github.com/alrra/browser-logos/commit/61152f7a34270985420dbbbd62786641d566e127)] - 🗜️ Further optimize `falkon.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`65c94f8e2d`](https://github.com/alrra/browser-logos/commit/65c94f8e2d060bda1619d262f43a0ae919827138)] - 🗜️ Further losslessly optimize `browsh.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`4697943bc7`](https://github.com/alrra/browser-logos/commit/4697943bc7e24d820d370341f55b29db92910808)] - 🗜️ Further optimize `chrome-devtools.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`2d93b1f886`](https://github.com/alrra/browser-logos/commit/2d93b1f8866b9f844cde529c3fe0e0db7f91c1ec)] - 🗜️ Further losslessly optimize `chrome-dev.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`c677d97433`](https://github.com/alrra/browser-logos/commit/c677d974332615d85560619bb38364e29d0afb93)] - 🗜️ Further losslessly optimize `arora.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`82e17591d5`](https://github.com/alrra/browser-logos/commit/82e17591d5fef5ee560fe89e857fcf8b1ab1674d)] - 🗜️ Further losslessly optimize `aol-explorer.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`ea1517cd56`](https://github.com/alrra/browser-logos/commit/ea1517cd56869f27915551027e2394aa498b6757)] - 🗜️ Further optimize `chrome-beta.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`0dd87d453e`](https://github.com/alrra/browser-logos/commit/0dd87d453e5936467d19894278d817e72c34b3ce)] - 🗜️ Further optimize `chrome-beta.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`ff7384eccd`](https://github.com/alrra/browser-logos/commit/ff7384eccdbc81bdb1a1336ba9d1438c104b7e73)] - 🗜️ Further optimize `chrome-dev.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`9012c275cc`](https://github.com/alrra/browser-logos/commit/9012c275ccf2a11ac12801f3d2b6fa8398492122)] - 🗜️ Further optimize images (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`b9a622632e`](https://github.com/alrra/browser-logos/commit/b9a622632e6f041c8f0b4381c7c32776fb9ee506)] - 🗜️ Further optimize images (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`ee185c0400`](https://github.com/alrra/browser-logos/commit/ee185c04003ecdf5ed376bf4be6058bfed2d7625)] - 🗜️ Further losslessly optimize `chrome-dev.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`18479cd2f8`](https://github.com/alrra/browser-logos/commit/18479cd2f895e22fa330710d113c4ab1daf61ec6)] - 🗜️ Further losslessly optimize `chrome-beta.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`f1818dcbc0`](https://github.com/alrra/browser-logos/commit/f1818dcbc0fe9f2482d697a77a5c7e4a7334b3d2)] - 🗜️ Further optimize images (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`6831ac78c7`](https://github.com/alrra/browser-logos/commit/6831ac78c707ce3bb8c24c6bdb60c28d9e9b6e78)] - 🗜️ Further optimize images (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`b949d37ec6`](https://github.com/alrra/browser-logos/commit/b949d37ec6bbe0fe0e61d594f8bcd42cffe9d611)] - 🗜️ Further optimize images (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`d211b219a3`](https://github.com/alrra/browser-logos/commit/d211b219a3952704773ba38108ef5b6212f21aab)] - 🗜️ Further optimize images (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`dbbe677446`](https://github.com/alrra/browser-logos/commit/dbbe677446416b1948ee6a7497e753991b6ae986)] - 🗜️ Further losslessly optimize `v8-liftoff.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`ae02003734`](https://github.com/alrra/browser-logos/commit/ae020037343d2d705252bde1735d6c13bef022e1)] - 🗜️ Further losslessly optimize `netscape_9.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`4179e9b2e6`](https://github.com/alrra/browser-logos/commit/4179e9b2e6841e13ecde9f3b076228a90e69cdf9)] - 🗜️ Further losslessly optimize `brave.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`9d28b5b6b9`](https://github.com/alrra/browser-logos/commit/9d28b5b6b955b4242bba2b4e8dd2066dfff7cc00)] - 🗜️ Further losslessly optimize `brave-dev.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`72e76e0293`](https://github.com/alrra/browser-logos/commit/72e76e029312cf4f1dd4da50440cf21d4275c66d)] - 🗜️ Further losslessly optimize `brave-beta.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`a487f5bfc6`](https://github.com/alrra/browser-logos/commit/a487f5bfc6471113e10afe25acaea6a3dd53ac01)] - 🗜️ Further losslessly optimize `v8-liftoff.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`4684a63eff`](https://github.com/alrra/browser-logos/commit/4684a63eff0994efe6ec4f5e2a63eea1e970dc0e)] - 🗜️ Further losslessly optimize `v8-liftoff-outline.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`aae98abe98`](https://github.com/alrra/browser-logos/commit/aae98abe989f6ea8f192d84abbbc996968cf1b13)] - 🗜️ Further losslessly optimize `v8.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`9864a29b84`](https://github.com/alrra/browser-logos/commit/9864a29b8416954d93123158ef228e9968ca2fba)] - 🗜️ Further losslessly optimize `opera.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`c8370ca61a`](https://github.com/alrra/browser-logos/commit/c8370ca61afb93e82dfca960bc1e61acee92bdad)] - 🗜️ Further losslessly optimize `arora.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`8be73c15c6`](https://github.com/alrra/browser-logos/commit/8be73c15c6e6124d35983779c1414f19a1398db9)] - 🗜️ Further losslessly optimize `netscape_9.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`0b42356821`](https://github.com/alrra/browser-logos/commit/0b423568211d7f83409749dd458cf5b0e9889ab9)] - 🗜️ Further losslessly optimize `browsh.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`5fd8f4b432`](https://github.com/alrra/browser-logos/commit/5fd8f4b4329c6ada422dca6f056030d93c9f02ce)] - 🗜️ Further losslessly optimize `samsung-internet_5.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`195a4e40dd`](https://github.com/alrra/browser-logos/commit/195a4e40ddbe9be4d6794551d85fd8fc23fe3506)] - 🗜️ Further losslessly optimize `samsung-internet-beta.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`c3db5676cf`](https://github.com/alrra/browser-logos/commit/c3db5676cf1da4aab8caf083ca365ac19c287ca0)] - 🗜️ Further losslessly optimize `midori.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`c94b773df8`](https://github.com/alrra/browser-logos/commit/c94b773df8246f0a5d9f9c6800c71a587dbbfa71)] - 🗜️ Further losslessly optimize `cliqz.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`0a0530d60a`](https://github.com/alrra/browser-logos/commit/0a0530d60a2a5fc636eca4f8f5e262a9144f985a)] - 🗜️ Further losslessly optimize `brave-beta.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`ce71e24856`](https://github.com/alrra/browser-logos/commit/ce71e248569b4406b08422ade73004ee7efe7b12)] - 🗜️ Further losslessly optimize `blisk.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`aea2321cb3`](https://github.com/alrra/browser-logos/commit/aea2321cb3dde6aa6a26af5917c2d2c906fcb7b7)] - 🗜️ Further optimize `v8-liftoff-outline.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`09af1897cb`](https://github.com/alrra/browser-logos/commit/09af1897cb35d1395d4a48b42e54169398024451)] - 🗜️ Further optimize `v8-ignition-outline.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`0aa76b94b4`](https://github.com/alrra/browser-logos/commit/0aa76b94b4614fdd37778999a90be59af3940079)] - 🗜️ Further optimize `v8-orinoco-outline.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`e678d13889`](https://github.com/alrra/browser-logos/commit/e678d13889c02936e7a9cf257d0d37126d3d98b0)] - 🗜️ Further optimize `v8.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`b37a49f69e`](https://github.com/alrra/browser-logos/commit/b37a49f69e1772fc547131df7aa10b32c4d4bcbe)] - 🗜️ Further losslessly optimize `brave_2.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`d57e7f31ff`](https://github.com/alrra/browser-logos/commit/d57e7f31fff7cffe7f0ee45302da424258e7359d)] - 🗜️ Further optimize `netscape_4-6.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`8666000373`](https://github.com/alrra/browser-logos/commit/8666000373db14d0023b0b5e0c48f27917fb0097)] - 🗜️ Further optimize `samsung-internet_5.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`b94463e270`](https://github.com/alrra/browser-logos/commit/b94463e2703d884e4a87966be8863b72c410e360)] - 🗜️ Further losslessly optimize `uzbl.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`8e150ae417`](https://github.com/alrra/browser-logos/commit/8e150ae4179d2023be1752f37571c6b3ac23f25c)] - 🗜️ Further losslessly optimize `electron.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`553c8320bd`](https://github.com/alrra/browser-logos/commit/553c8320bdb89d7bb420716b213b428aafe363b6)] - 🗜️ Further losslessly optimize `safari-ios.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`a7a7645b8c`](https://github.com/alrra/browser-logos/commit/a7a7645b8c2d9ba05d03978037057a710e4a2bb8)] - 🗜️ Further losslessly optimize `samsung-internet-beta.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`342978a39f`](https://github.com/alrra/browser-logos/commit/342978a39fda53d562973c4d6807a44dc5ea6932)] - 🗜️ Further losslessly optimize `browsh.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`933f98958a`](https://github.com/alrra/browser-logos/commit/933f98958aafb7d44b7df505923b0722b27da442)] - 🗜️ Further losslessly optimize `kylo.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`1d3ec7150a`](https://github.com/alrra/browser-logos/commit/1d3ec7150a0f069fbaebeee871a78aa507776c35)] - 🗜️ Further optimize `opera.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`a6bd2a1a74`](https://github.com/alrra/browser-logos/commit/a6bd2a1a74a39b7cdcc95e4f979fcef4e2b2cafe)] - 🗜️ Further losslessly optimize `safari-ios.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`2784717ac7`](https://github.com/alrra/browser-logos/commit/2784717ac765420042b14ca32f42ebbcd22b48c1)] - 🗜️ Further losslessly optimize `v8-orinoco.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`4058e5f0dc`](https://github.com/alrra/browser-logos/commit/4058e5f0dc9a23996f42b61576981fca0b276fb0)] - 🗜️ Further losslessly optimize `v8-turbofan-outline.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`3c09d24035`](https://github.com/alrra/browser-logos/commit/3c09d24035c05d0b8021761d3dde345696239d44)] - 🗜️ Further losslessly optimize `v8-turbofan.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`3b0bdc2aaa`](https://github.com/alrra/browser-logos/commit/3b0bdc2aaacc4c5d38722c74cb34e15d48e4d112)] - 🗜️ Further losslessly optimize `v8-liftoff.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`3231b9e3fd`](https://github.com/alrra/browser-logos/commit/3231b9e3fd525ce9e42e11b83d013009e04c323f)] - 🗜️ Further losslessly optimize `v8-ignition-outline.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`7e908716e8`](https://github.com/alrra/browser-logos/commit/7e908716e8186e868d47576c69b8beba901276f7)] - 🗜️ Further losslessly optimize `v8-ignition.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`7fdd4869de`](https://github.com/alrra/browser-logos/commit/7fdd4869de028dcd8c3a4481f96d92f84a85fa77)] - 🗜️ Further losslessly optimize `v8.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`d535983155`](https://github.com/alrra/browser-logos/commit/d53598315543eed6c670417494e0ddb4f7e4d2a2)] - 🗜️ Further losslessly optimize `aol-explorer.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`ea258c94d7`](https://github.com/alrra/browser-logos/commit/ea258c94d7e40d6a65c9f4a53bb762dee35c9340)] - 🗜️ Further losslessly optimize `brave.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`5a04c489dd`](https://github.com/alrra/browser-logos/commit/5a04c489ddf439fa210fec2cd68c2fc2c6158377)] - 🗜️ Further losslessly optimize `brave-dev.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`71dd9c7eef`](https://github.com/alrra/browser-logos/commit/71dd9c7eef249529b0e7730568348239af9554b9)] - 🗜️ Further losslessly optimize `brave-beta.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`c94c6f98e7`](https://github.com/alrra/browser-logos/commit/c94c6f98e7a0af6f6229847bfbb9aff5c87a6b86)] - 🗜️ Further losslessly optimize `k-meleon.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`f7b9d146a2`](https://github.com/alrra/browser-logos/commit/f7b9d146a2773e57a169eb5ff576144eef1ffb03)] - 🗜️ Further optimize `firefox.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`6ef009c6cd`](https://github.com/alrra/browser-logos/commit/6ef009c6cd5f25e8610c712f9a417d5e326541c6)] - 🗜️ Further optimize `firefox-focus.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`6c2ed2e16d`](https://github.com/alrra/browser-logos/commit/6c2ed2e16df61a4ec22a39a713813a3cf45f6ecb)] - 🗜️ Further optimize `firefox-nightly.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`3954f811b6`](https://github.com/alrra/browser-logos/commit/3954f811b6719d51e5de5c06179cb5d3216b6a8c)] - 🗜️ Further optimize `firefox-beta.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`6b202f5492`](https://github.com/alrra/browser-logos/commit/6b202f5492ac35e4fb9455f56c4a6335e8d05cc2)] - 🗜️ Further optimize `midori.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`cedf47c6db`](https://github.com/alrra/browser-logos/commit/cedf47c6db54ffe6004671597f6ceb9dc4145641)] - 🗜️ Further optimize `phantomjs.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`cfc783d13f`](https://github.com/alrra/browser-logos/commit/cfc783d13f7d71970e7a9dec7c4bed21e6a3fe3b)] - 🗜️ Further losslessly optimize `kylo.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`866088de79`](https://github.com/alrra/browser-logos/commit/866088de79545307f797e1f67cc153bfd10defb5)] - 🗜️ Further losslessly optimize `opera-next_15-24.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`563c5d2572`](https://github.com/alrra/browser-logos/commit/563c5d2572a71295f6e848d2b16d7779d4f53232)] - 🗜️ Further losslessly optimize `falkon.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`71b149393e`](https://github.com/alrra/browser-logos/commit/71b149393edfabde7ec40b9acb30e03897daf6f1)] - 🗜️ Further losslessly optimize `netsurf.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`666d79d2f6`](https://github.com/alrra/browser-logos/commit/666d79d2f6de55f26124cc7d23a54f2c88d29c54)] - 🗜️ Further losslessly optimize `jsdom.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`aacb775d04`](https://github.com/alrra/browser-logos/commit/aacb775d04ecc2119c2c14a4dc54aea1903ccd4b)] - 🗜️ Further losslessly optimize `internet-explorer_9-11.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`4047b60300`](https://github.com/alrra/browser-logos/commit/4047b60300cb7b3ba84a49e9d690c7dcb05b5043)] - 🗜️ Further optimize `internet-explorer-developer-channel.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`3c93fefd0e`](https://github.com/alrra/browser-logos/commit/3c93fefd0e518b3c796eb8d2e19e6a01f8bf3d55)] - 🗜️ Further optimize `firefox-developer-edition.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`3b68de369e`](https://github.com/alrra/browser-logos/commit/3b68de369e6fe245bb4e25d298059b8fe379d4e8)] - 🗜️ Further losslessly optimize `internet-explorer-developer-channel.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`401a5d55da`](https://github.com/alrra/browser-logos/commit/401a5d55da371eac7b8f240ec2a0f9882bf99ac6)] - 🗜️ Further losslessly optimize `internet-explorer_9-11.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`1747963b55`](https://github.com/alrra/browser-logos/commit/1747963b551e447b1ed944bee6a9b237df984f11)] - 🗜️ Further losslessly optimize `konqueror_1-3.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`582a8384b8`](https://github.com/alrra/browser-logos/commit/582a8384b806796d218a3f1deed8778d568d1eb6)] - 🗜️ Further losslessly optimize `netscape_4-6.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`47df146ba2`](https://github.com/alrra/browser-logos/commit/47df146ba290737dbd9b08450cdf6934d38eecaa)] - 🗜️ Further losslessly optimize `midori.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`4ee551e537`](https://github.com/alrra/browser-logos/commit/4ee551e537a020f4f327214bae06eaebf4015e17)] - 🗜️ Further losslessly optimize `v8-liftoff.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`e6920aa162`](https://github.com/alrra/browser-logos/commit/e6920aa162a57e47f131f4dc6728f7a3a7b90e0a)] - 🗜️ Further losslessly optimize `netsurf.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`a30f7e60f4`](https://github.com/alrra/browser-logos/commit/a30f7e60f499ddc902f13f0680de4513cf3a9c69)] - 🗜️ Further optimize images (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`72e6b5af2f`](https://github.com/alrra/browser-logos/commit/72e6b5af2f1b31b30be6663c8a4ff14f7f9a94a6)] - 🗜️ Further optimize images (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`34dfaf4f7f`](https://github.com/alrra/browser-logos/commit/34dfaf4f7fddfc9d7fe9a96fa81e6716bcd18303)] - 🗜️ Further optimize `brave-beta.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`17718ea8f2`](https://github.com/alrra/browser-logos/commit/17718ea8f244dc6a50faec3bb234c93cf8d5f03b)] - 🗜️ Further optimize `brave.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`12b938c1c4`](https://github.com/alrra/browser-logos/commit/12b938c1c406724c87f2a85ea1ec7336e961bc4f)] - 🔧 Tweak `brave.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`0cb96aed06`](https://github.com/alrra/browser-logos/commit/0cb96aed06e3a5b4f69f97f1556c8282e69cc8a0)] - 📚 Improve READMEs (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`fca44c58a4`](https://github.com/alrra/browser-logos/commit/fca44c58a4a144ffe7fbdf7935455941ef5b8f1d)] - 🐛 Add missing `/` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`f34b658b7e`](https://github.com/alrra/browser-logos/commit/f34b658b7e8f62800b5df51c7d8573e477a754a7)] - 🗜️ Further losslessly optimize `internet-explorer-developer-channel.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`28c9e79b68`](https://github.com/alrra/browser-logos/commit/28c9e79b68dbb12f394e9ae51375aa6611d00d30)] - 🗜️ Further optimize `internet-explorer_9-11.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`1ee7af1c7a`](https://github.com/alrra/browser-logos/commit/1ee7af1c7addbe3b0f628092f964d6ab7544f052)] - 🗜️ Further losslessly optimize `internet-explorer-developer-channel.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`cb49450ec6`](https://github.com/alrra/browser-logos/commit/cb49450ec6502c929197781cdc49ea2902100080)] - 🗜️ Further losslessly optimize `internet-explorer_9-11.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`3bb40f69b0`](https://github.com/alrra/browser-logos/commit/3bb40f69b0cce0795655e43d42f802b8f9393cc0)] - 📚 Improve READMEs (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`e072b51d60`](https://github.com/alrra/browser-logos/commit/e072b51d607d6bc98adf37c48c40e7254d3a324f)] - 🗜️ Further optimize `iceweasel.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`10b1f2427b`](https://github.com/alrra/browser-logos/commit/10b1f2427b77db417c20a96cfdf23b3ab95b2c8b)] - 🗜️ Further optimize `firefox-developer-edition.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`2341cd57f2`](https://github.com/alrra/browser-logos/commit/2341cd57f2039a21fd705becb6739527967952c1)] - 🗜️ Further optimize `web.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`c729a1f496`](https://github.com/alrra/browser-logos/commit/c729a1f4966ac6c349dc819a72db99b717634320)] - 🗜️ Further losslessly optimize `chromium_1-11.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`98698136a4`](https://github.com/alrra/browser-logos/commit/98698136a46c95f12c19f53e8b143e6bb1d9df66)] - 🗜️ Further losslessly optimize `chrome-devtools.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`5d9d51e39d`](https://github.com/alrra/browser-logos/commit/5d9d51e39db0f110a9aa0e71fddb0b287f8a16db)] - 🗜️ Further optimize `firefox-developer-edition.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`ed1abab56a`](https://github.com/alrra/browser-logos/commit/ed1abab56a0c8a7885cc813dad8bc4aafd12ae1a)] - 🗜️ Further optimize `web.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`da3175ff52`](https://github.com/alrra/browser-logos/commit/da3175ff52f26576b7b048383bbd89ae233b7a44)] - 🗜️ Further optimize `web.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`522782fc1d`](https://github.com/alrra/browser-logos/commit/522782fc1d2689d59fa249f166a25eee80de0a4d)] - 📚 Update READMEs (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`3a7d58715f`](https://github.com/alrra/browser-logos/commit/3a7d58715f31773563fb7e357c4960d205e605f3)] - 🗜️ Further optimize images (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`9bab8a0d44`](https://github.com/alrra/browser-logos/commit/9bab8a0d445c47485d4611e94a22aade6fb13c56)] - 🗜️ Further optimize images (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`2d78fff661`](https://github.com/alrra/browser-logos/commit/2d78fff66115d224f9217360da4ad853abb4aa7a)] - 🗜️ Further losslessly optimize `firefox_23-56.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`e3d5b8eba6`](https://github.com/alrra/browser-logos/commit/e3d5b8eba6e4f14853a30aa8f5955d0d62d003ee)] - 🗜️ Further losslessly optimize `firefox_1.5-3.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`dc9273c141`](https://github.com/alrra/browser-logos/commit/dc9273c1415fcf8aa4841982f3366485b92e9ac3)] - 🗜️ Further optimize `chromium_1-11.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`1b066c57f5`](https://github.com/alrra/browser-logos/commit/1b066c57f591a15bc8fa586c357cb24a8e3b73d6)] - 🗜️ Further losslessly optimize `chrome-devtools.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`407c77786c`](https://github.com/alrra/browser-logos/commit/407c77786c11cfb83f1bb717adcf10eb4bace193)] - 🗜️ Further optimize `opera-next_15-24.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`9393b7955f`](https://github.com/alrra/browser-logos/commit/9393b7955fe10510b2cc42ee0447f4ef67728cb0)] - 🗜️ Further optimize `rekonq.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`226e997c95`](https://github.com/alrra/browser-logos/commit/226e997c950cb1070daa7ca19454db84e517118e)] - 🗜️ Further optimize `konqueror_4.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`06e08e5342`](https://github.com/alrra/browser-logos/commit/06e08e5342b9fe72c1155ad3e76737528c4f5d0f)] - 🗜️ Further losslessly optimize `firefox-developer-edition.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`e60739b85f`](https://github.com/alrra/browser-logos/commit/e60739b85fe25f7581df30197c12eea0b78f29ec)] - 🗜️ Further optimize `firefox-beta.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`f125c3d21f`](https://github.com/alrra/browser-logos/commit/f125c3d21fca981942600bbd6fb9a5320888a5ae)] - 🗜️ Further optimize `web.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`e974274ce3`](https://github.com/alrra/browser-logos/commit/e974274ce3f5d14434b8ecede36edb0aef6880a1)] - 🗜️ Further losslessly optimize `phoenix-firebird.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`9d7c9560c1`](https://github.com/alrra/browser-logos/commit/9d7c9560c16611dee6e5d4fdede695a02bbbba16)] - 🗜️ Further losslessly optimize `konqueror_1-3.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`956b661aff`](https://github.com/alrra/browser-logos/commit/956b661aff4dee632ca09a64ff28bce16cb11791)] - 🗜️ Further optimize `chromium_1-11.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`d94ff8c101`](https://github.com/alrra/browser-logos/commit/d94ff8c101796993fd862e0eb0a7499d07646117)] - 🗜️ Further losslessly optimize `opera_10-14.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`48c7e94303`](https://github.com/alrra/browser-logos/commit/48c7e943033aa402bd396aa14ba474eda1cae59b)] - 🗜️ Further losslessly optimize `chrome-devtools.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`dfa68bc3c5`](https://github.com/alrra/browser-logos/commit/dfa68bc3c5dbfd8ea2e0652b0951b37b8c54c6ff)] - 🗜️ Further optimize `webpositive.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`bb3d7f956e`](https://github.com/alrra/browser-logos/commit/bb3d7f956e30bab9371422098c21a354e3d879f7)] - 🗜️ Further losslessly optimize `v8-turbofan.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`bc155af64a`](https://github.com/alrra/browser-logos/commit/bc155af64a86fb7872d5b6589a53ebdf3a5d4b40)] - 🗜️ Further losslessly optimize `v8-ignition.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`2be5c007a8`](https://github.com/alrra/browser-logos/commit/2be5c007a8542109748f888c3cf594dccfeca04d)] - 🗜️ Further losslessly optimize `v8-ignition-outline.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`0d279b2785`](https://github.com/alrra/browser-logos/commit/0d279b2785cc19ef5a2e4297140a11dbc22a56a0)] - 🗜️ Further losslessly optimize `samsung-internet_5.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`0ff4cf631e`](https://github.com/alrra/browser-logos/commit/0ff4cf631eba1c62664929772263c90f64b90734)] - 🗜️ Further losslessly optimize `qutebrowser.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`fc8e53a7e1`](https://github.com/alrra/browser-logos/commit/fc8e53a7e14fca2a9a6659cfdc7cc2384adfd10e)] - 🗜️ Further losslessly optimize `phantomjs.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`6186107b44`](https://github.com/alrra/browser-logos/commit/6186107b447e03263f0c8664d77caa7cb20bc5a3)] - 🗜️ Further optimize `opera.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`7b1e5a6f39`](https://github.com/alrra/browser-logos/commit/7b1e5a6f39ff4f2813e314d62943956b28f72f59)] - 🗜️ Further losslessly optimize `midori.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`c464c308e1`](https://github.com/alrra/browser-logos/commit/c464c308e10bb0a4dc83f92084a15fc702e634f3)] - 🗜️ Further optimize `k-meleon.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`f5a5e74624`](https://github.com/alrra/browser-logos/commit/f5a5e74624ffa39dfc2b5cd5cc76abdce50a0d72)] - 🗜️ Further losslessly optimize `iceape.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`b455ba305b`](https://github.com/alrra/browser-logos/commit/b455ba305b8c0964bcb24db14d3ac951a4627e46)] - 🗜️ Further losslessly optimize `firefox.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`3f723497fb`](https://github.com/alrra/browser-logos/commit/3f723497fb1a25849847c7894f974ec5ed6f07fe)] - 🗜️ Further losslessly optimize `falkon.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`2715231215`](https://github.com/alrra/browser-logos/commit/27152312156179b4175140d4ba3f6596a8fdf850)] - 🗜️ Further losslessly optimize `epiphany.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`989eb54f2c`](https://github.com/alrra/browser-logos/commit/989eb54f2c32e3a4edbec7bc027bc9553c238dfa)] - 🗜️ Further optimize `kylo.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`010a1b14c4`](https://github.com/alrra/browser-logos/commit/010a1b14c4208afe884c8cebca79afa7ff8cdc9f)] - 🗜️ Further optimize `brave-dev.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`f23f3899d4`](https://github.com/alrra/browser-logos/commit/f23f3899d422261dd8adea572c084610c290963e)] - 🗜️ Further optimize `bezillabrowser.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`71e4cc3430`](https://github.com/alrra/browser-logos/commit/71e4cc3430daeee4b1d366ac0bf98ad37346b77d)] - 🗜️ Further optimize `aol-explorer.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`4ff7c5e9ee`](https://github.com/alrra/browser-logos/commit/4ff7c5e9ee19ab70fb70d7e610eb9acc8cff08b4)] - 🗜️ Further losslessly optimize `chrome_1-11.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`93d74457ac`](https://github.com/alrra/browser-logos/commit/93d74457ac3dc1b48ffe6fe08dfe01ccc24875f2)] - 🗜️ Further optimize `chrome.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`cc6b54eed9`](https://github.com/alrra/browser-logos/commit/cc6b54eed9a7157ad5f35cf32e96d05a4a5011b1)] - 🗜️ Further losslessly optimize `brave_2.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`281bfd844e`](https://github.com/alrra/browser-logos/commit/281bfd844e38036d1e57c9ac69dec4dc2e49e542)] - 🗜️ Further losslessly optimize `arora.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`c3eba681d2`](https://github.com/alrra/browser-logos/commit/c3eba681d2e19b6838c775271ddc7c4bccfb4aca)] - 🗜️ Further optimize `netscape_9.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`2da87a7019`](https://github.com/alrra/browser-logos/commit/2da87a7019695818b1c8e11cdf910ae1ce2fe4e2)] - 🗜️ Further optimize `netsurf.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`7d7353595f`](https://github.com/alrra/browser-logos/commit/7d7353595fd47146d40ced9f07d554b1cf5d553a)] - 🗜️ Further losslessly optimize `uzbl.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`6a6b9bc0f1`](https://github.com/alrra/browser-logos/commit/6a6b9bc0f176518b21b93d71e9e33d1c197426eb)] - 🗜️ Further optimize `samsung-internet-beta.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`6465f986cc`](https://github.com/alrra/browser-logos/commit/6465f986cce39b0735f6a674bb5fe6cce0d5110d)] - 🗜️ Further losslessly optimize `safari-ios.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`0fbf8024c7`](https://github.com/alrra/browser-logos/commit/0fbf8024c729e79c6f74527d17c43c578ee744e3)] - 🗜️ Further optimize `netscape_4-6.svg (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`63d04dcdfc`](https://github.com/alrra/browser-logos/commit/63d04dcdfc8207b1ed76a2c3ea5bec298ead966d)] - 🗜️ Further optimize `internet-explorer-tile_10-11.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`5d31e57e3d`](https://github.com/alrra/browser-logos/commit/5d31e57e3d6cc73939fc73e15511bbfef363087a)] - 🗜️ Further optimize `samsung-internet.svg (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`434b5a791c`](https://github.com/alrra/browser-logos/commit/434b5a791ca09d45c997cee9eabfd07bebd8a135)] - 🗜️ Further losslessly optimize `browsh.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`3c56554e48`](https://github.com/alrra/browser-logos/commit/3c56554e48722d6312cc09fbc40877e7add05c31)] - 🗜️ Further losslessly optimize `jsdom.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`c773ed0e63`](https://github.com/alrra/browser-logos/commit/c773ed0e63d41a6c166095c166fefaee45447862)] - 🗜️ Further losslessly optimize `crusta.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`6c4ad98b31`](https://github.com/alrra/browser-logos/commit/6c4ad98b3191e726dd5a6f4e67deb66f8f61d146)] - 🗜️ Further losslessly optimize `streamy.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`7928dd9df2`](https://github.com/alrra/browser-logos/commit/7928dd9df23e418ccebb2de5e7c053619b7bf7f2)] - 🗜️ Further optimize `maxthon-beta_1.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`beb41c9680`](https://github.com/alrra/browser-logos/commit/beb41c9680d6a3f2306e105e3e8e7c15ef931d51)] - 🗜️ Further optimize `maxthon_1.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`fc47ab25b0`](https://github.com/alrra/browser-logos/commit/fc47ab25b0c0a535310b701b9074c1bbe4275bdf)] - 🗜️ Further optimize images (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`ac0c2e39ac`](https://github.com/alrra/browser-logos/commit/ac0c2e39aca262984a5634dd839d13ad2d459949)] - 🗜️ Broken link in `src/README.md` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`30fcd8c08f`](https://github.com/alrra/browser-logos/commit/30fcd8c08fbc69ecd11153e4fcb97c2a1b3583fc)] - 🗜️ Further optimize `cent.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`f3f027c680`](https://github.com/alrra/browser-logos/commit/f3f027c680be9b2deee470b833731039b98bebc7)] - 🗜️ Further optimize `firefox_23-56.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`751d392dc9`](https://github.com/alrra/browser-logos/commit/751d392dc933856c80b6a4f6af71745c0986ed45)] - 🗜️ Further losslessly optimize images (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`64d8193c4f`](https://github.com/alrra/browser-logos/commit/64d8193c4f74fcf4b601a0fb905a18554241aa1e)] - 🗜️ Further optimize `netscape_9.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`c64a130995`](https://github.com/alrra/browser-logos/commit/c64a130995ef611732a78dc6d2eb9b4b156fdc2e)] - 🗜️ Further optimize `netscape_4-6.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`fbcc9a6c0c`](https://github.com/alrra/browser-logos/commit/fbcc9a6c0c734248568864a0d15c3b7f6954cd84)] - 🗜️ Further losslessly optimize `konqueror_4.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`d04762c0f4`](https://github.com/alrra/browser-logos/commit/d04762c0f493f66feebb20e895f31012fa58940e)] - 🗜️ Further losslessly optimize `konqueror_1-3.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`4c985e407a`](https://github.com/alrra/browser-logos/commit/4c985e407a7af20ca947184f94739c8a7feac845)] - 🗜️ Further optimize `opera_10-14.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`3b791d50bd`](https://github.com/alrra/browser-logos/commit/3b791d50bd570d9214daaf6574e4a850c38d2bb6)] - 🗜️ Further losslessly optimize `firefox_1.5-3.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`6d2899db46`](https://github.com/alrra/browser-logos/commit/6d2899db464d0c4b5a67ddb14ead798d4c0a4746)] - 🗜️ Further losslessly optimize `falkon.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`603892d0ce`](https://github.com/alrra/browser-logos/commit/603892d0ce5b7515977c82f11b29a7e5d54b594b)] - 🗜️ Further losslessly optimize `crusta.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`66e943cd31`](https://github.com/alrra/browser-logos/commit/66e943cd3130fb0a76aea3ee5f255d7055703672)] - 🗜️ Further losslessly optimize `chromium_1-11.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`937ebc2d19`](https://github.com/alrra/browser-logos/commit/937ebc2d19654b125207937858937a21c519ea2d)] - 🗜️ Further losslessly optimize `chrome_1-11.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`a2d26fa1cf`](https://github.com/alrra/browser-logos/commit/a2d26fa1cfe4cf57acd4a814f3e70fa46bf4e2e9)] - 🗜️ Further losslessly optimize `phoenix-firebird.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`2839fbe864`](https://github.com/alrra/browser-logos/commit/2839fbe86472b6140ae2e835b10271aeb0c914e6)] - 🗜️ Further optimize `web.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`9a9b701618`](https://github.com/alrra/browser-logos/commit/9a9b7016183d699dae8d83da246f1a82937b6a2a)] - 🗜️ Further losslessly optimize `uzbl.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`754d205348`](https://github.com/alrra/browser-logos/commit/754d205348f7a78d2d628616a865c87ad661727a)] - 🗜️ Further losslessly optimize `iceweasel.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`e1a774d63d`](https://github.com/alrra/browser-logos/commit/e1a774d63dd1f2905e5bed0567d71ff05d6f3ef4)] - 🗜️ Further losslessly optimize `iceape.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`33fdab224a`](https://github.com/alrra/browser-logos/commit/33fdab224a4bfaa19693706caade78b5af515680)] - 🗜️ Further losslessly optimize `epiphany.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`c7e6de2519`](https://github.com/alrra/browser-logos/commit/c7e6de251909efe866f92e1d3e4031e75990693d)] - 🗜️ Further losslessly optimize `streamy.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`99c8180796`](https://github.com/alrra/browser-logos/commit/99c818079643af88228a8d1e195d3913c37f6e90)] - 🗜️ Further losslessly optimize `qutebrowser.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`e52d26b900`](https://github.com/alrra/browser-logos/commit/e52d26b9003353df3a74314b873f0d95e9df7602)] - 🗜️ Further losslessly optimize `phantomjs.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`615d5b7192`](https://github.com/alrra/browser-logos/commit/615d5b7192727236c590f29a4173575ed26c1d00)] - 🗜️ Further losslessly optimize `jsdom.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`58f835c4af`](https://github.com/alrra/browser-logos/commit/58f835c4afaedb42c2051417a02b2c2782142e7d)] - 🗜️ Further losslessly optimize `samsung-internet_5.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`3633e72092`](https://github.com/alrra/browser-logos/commit/3633e72092746165ab5d187b733b691b7bae5529)] - 🗜️ Further losslessly optimize `kylo.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`fdfa3e94b0`](https://github.com/alrra/browser-logos/commit/fdfa3e94b03b1a173909eb693dd38fa4ecd1a085)] - 🗜️ Further losslessly optimize `rekonq.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`fd59bb6ead`](https://github.com/alrra/browser-logos/commit/fd59bb6eadd28e067c94fd3c325034c2a73ee58e)] - 🗜️ Further losslessly optimize `midori.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`efc8ae5524`](https://github.com/alrra/browser-logos/commit/efc8ae552458b60f328c761d202d9ce0817c4215)] - 🗜️ Further losslessly optimize `brave-dev.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`caac997368`](https://github.com/alrra/browser-logos/commit/caac997368d6ce8cedff18b8a33ed11508fff133)] - 🗜️ Further losslessly optimize `brave_2.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`a7d812e729`](https://github.com/alrra/browser-logos/commit/a7d812e729471ad31e50c8c41718af2ee43dcc9a)] - 🗜️ Further losslessly optimize `bezillabrowser.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`8c3fdb7433`](https://github.com/alrra/browser-logos/commit/8c3fdb74336a810921fb689dd90b77c797eb1d54)] - 🗜️ Further losslessly optimize `arora.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`d918e538c0`](https://github.com/alrra/browser-logos/commit/d918e538c058a38400b921ed23c53ead955cdfcd)] - 🗜️ Further losslessly optimize `aol-explorer.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`6793e85389`](https://github.com/alrra/browser-logos/commit/6793e8538905714e1e145babac2ae47d071081e5)] - 🗜️ Further losslessly optimize `web.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`9beda87ae2`](https://github.com/alrra/browser-logos/commit/9beda87ae2c233da487d8e149035a1a64363ad5a)] - 🗜️ Further losslessly optimize `webpositive.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`254b56afdf`](https://github.com/alrra/browser-logos/commit/254b56afdfa9d74cb0be18aaa89b151ecac2e741)] - 📚 Fix broken link (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`6c585fc2d1`](https://github.com/alrra/browser-logos/commit/6c585fc2d193591ddd0dcb8f0ea96693a35cd450)] - 📚 Update V8 links (by [`Mathias Bynens`](https://github.com/mathiasbynens) / see also: [`#153`](https://github.com/alrra/browser-logos/issues/153)).
+* [[`d4d7504c3e`](https://github.com/alrra/browser-logos/commit/d4d7504c3e556c2832b6f7693c341a08766b1c1d)] - 📚 Update `src/README.md` with the new logos (by [`Cătălin Mariș`](https://github.com/alrra) / see also: [`#152`](https://github.com/alrra/browser-logos/issues/152)).
+* [[`9f56b08335`](https://github.com/alrra/browser-logos/commit/9f56b083352f8210b13106b54f21791a9f6921ab)] - 🔧 Tweak `chrome-devtools.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`c5bb3210ad`](https://github.com/alrra/browser-logos/commit/c5bb3210ad44a512ecda78a5a01ca1d5df912286)] - 🗜️ Further losslessly optimize `chromium_1-11.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`c74cb71150`](https://github.com/alrra/browser-logos/commit/c74cb71150196846af8b11e420e4cbbc3269bde3)] - 🗜️ Further losslessly optimize `aol-explorer.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+## New features
+
+* [[`f66af1a979`](https://github.com/alrra/browser-logos/commit/f66af1a97925794b64c6fe13bed3e4c6c2fa9291)] - ✨ Add `Orfox` logo (by [`scribblemaniac`](https://github.com/scribblemaniac) / see also: [`#163`](https://github.com/alrra/browser-logos/issues/163)).
+* [[`da2fbec296`](https://github.com/alrra/browser-logos/commit/da2fbec296c6cc35955d288de842695158cbf902)] - ✨ Add `Basilisk` logo (by [`scribblemaniac`](https://github.com/scribblemaniac) / see also: [`#159`](https://github.com/alrra/browser-logos/issues/159)).
+* [[`fb1c41f2ba`](https://github.com/alrra/browser-logos/commit/fb1c41f2ba574ba2476590869cf3b0d2ceaf4048)] - ✨ Add `Samsung Internet` for Gear VR logo (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`42302725b0`](https://github.com/alrra/browser-logos/commit/42302725b093568afb12739c975b25b3cbbdaf4b)] - ✨ Add `chrome-canary.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`434c8a2d71`](https://github.com/alrra/browser-logos/commit/434c8a2d71da71690797d7e735c2f7e1267105f1)] - ✨ Add `chrome-beta.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`485a78c930`](https://github.com/alrra/browser-logos/commit/485a78c930684e57e318101157fe3309ed9f932b)] - ✨ Add `chrome-dev.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`4103a0fab2`](https://github.com/alrra/browser-logos/commit/4103a0fab25154fd277fec1500a168fbf1311af9)] - ✨ Add `Brave Beta` logo (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`30db7702a7`](https://github.com/alrra/browser-logos/commit/30db7702a7fb86657bed53a1acc71636507a1b24)] - ✨ Add `Firefox Reality` logo (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`a8f677cd88`](https://github.com/alrra/browser-logos/commit/a8f677cd883e5c7e92469093c2236c6469d24e91)] - ✨ Add `V8 Ignition` logo with outline (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`f356ecaaac`](https://github.com/alrra/browser-logos/commit/f356ecaaacf72b8bd0cf10e9c362fdd20488e621)] - ✨ Add `V8 Ignition` logo with outline (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`a90ce3e31f`](https://github.com/alrra/browser-logos/commit/a90ce3e31fbf60a6a7df4b29b07bfb9866fd6994)] - ✨ Add `V8 Turbofan` logo with outline (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`6155ddd943`](https://github.com/alrra/browser-logos/commit/6155ddd943d1ae76157a76f1821401a7fce87ffe)] - ✨ Add `V8` logo with outline (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`58d50fd695`](https://github.com/alrra/browser-logos/commit/58d50fd69533fbdfaf32f4d9f8752107d507dfe8)] - ✨ Add `V8 Orinoco` logo with outline (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`831df6ce90`](https://github.com/alrra/browser-logos/commit/831df6ce9022e73861494eb87506c36e0a7b3bc5)] - ✨ Add `Chrome DevTools` logo (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`2c61bea4d7`](https://github.com/alrra/browser-logos/commit/2c61bea4d7f41b559d518e8e394c238570f6e461)] - ✨ Add `brave-dev.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 46.1.0 (September 9, 2018)
 
 #### New features
