@@ -5,8 +5,8 @@
 <table>
     <tr height=300>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/00e491a392f258c72721f5ba35dbe43916b30832/src/android-webview-beta">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/00e491a392f258c72721f5ba35dbe43916b30832/src/android-webview-beta/android-webview-beta_512x512.png" alt="Android WebView Beta browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/2483a461da648e1e2c8386690a4dbcd63bcfb9c8/src/android-webview-beta">
+                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/2483a461da648e1e2c8386690a4dbcd63bcfb9c8/src/android-webview-beta/android-webview-beta_512x512.png" alt="Android WebView Beta browser logo">
             </a>
         </td>
     </tr>
