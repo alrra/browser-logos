@@ -1,3 +1,15 @@
+# 3.0.1 (March 8, 2019)
+
+## Bug fixes / Improvements
+
+* [[`4179e9b2e6`](https://github.com/alrra/browser-logos/commit/4179e9b2e6841e13ecde9f3b076228a90e69cdf9)] - 🗜️ Further losslessly optimize `brave.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`ea258c94d7`](https://github.com/alrra/browser-logos/commit/ea258c94d7e40d6a65c9f4a53bb762dee35c9340)] - 🗜️ Further losslessly optimize `brave.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`a30f7e60f4`](https://github.com/alrra/browser-logos/commit/a30f7e60f499ddc902f13f0680de4513cf3a9c69)] - 🗜️ Further optimize images (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`17718ea8f2`](https://github.com/alrra/browser-logos/commit/17718ea8f244dc6a50faec3bb234c93cf8d5f03b)] - 🗜️ Further optimize `brave.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`12b938c1c4`](https://github.com/alrra/browser-logos/commit/12b938c1c406724c87f2a85ea1ec7336e961bc4f)] - 🔧 Tweak `brave.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`3bb40f69b0`](https://github.com/alrra/browser-logos/commit/3bb40f69b0cce0795655e43d42f802b8f9393cc0)] - 📚 Improve READMEs (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 3.0.0 (February 10, 2018)
 
 #### Breaking changes
