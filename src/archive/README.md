@@ -1180,7 +1180,7 @@
     <tbody>
         <tr height=170>
             <td>
-                <a href="focus-focus">
+                <a href="firefox-focus">
                     <img width=150 src="firefox-focus/firefox-focus_256x256.png" alt="Firefox Focus browser logo">
                 </a>
             </td>
