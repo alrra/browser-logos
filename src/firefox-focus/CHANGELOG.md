@@ -1,3 +1,10 @@
+# 1.0.2 (March 10, 2019)
+
+## Bug fixes / Improvements
+
+* [[`e00d3764c1`](https://github.com/alrra/browser-logos/commit/e00d3764c16d153c96c9502d0ecc2440aed9248c)] - 📚 Use a PNG for the logo in Firefox Focus's `README.md` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 1.0.1 (March 8, 2019)
 
 ## Bug fixes / Improvements
