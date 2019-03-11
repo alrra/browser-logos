@@ -1,3 +1,25 @@
+# 48.0.0 (March 10, 2019)
+
+## Breaking Changes
+
+* [[`dd9d6d0d43`](https://github.com/alrra/browser-logos/commit/dd9d6d0d43c523392d267397509cbf08a18a9d19)] - 💥 Remove `Edge` from `main-mobile-browser-logos.png` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+## Bug fixes / Improvements
+
+* [[`3d2ec576c2`](https://github.com/alrra/browser-logos/commit/3d2ec576c25e58dc9761c6ff3f6060d81726871f)] - 🔧 Tweak `Aloha` logo (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`ac21245637`](https://github.com/alrra/browser-logos/commit/ac212456374f521608bd2b14a99b2a520aa0c602)] - 🔧 Tweak `Firefox Lite` logo (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`abbd78f6ae`](https://github.com/alrra/browser-logos/commit/abbd78f6aeeac903725483778639857876ec3b45)] - 🔧 Tweak and further optimize `orfox.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`8ad7813ba3`](https://github.com/alrra/browser-logos/commit/8ad7813ba37934f854354ad52c149f8f6a5439e5)] - 🔧 Tweak and further optimize `iridium.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`e3af48f360`](https://github.com/alrra/browser-logos/commit/e3af48f360e382165abd6008f3e5249ea0e7dbaa)] - 🔧 Tweak and further optimize `basilisk.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`e00d3764c1`](https://github.com/alrra/browser-logos/commit/e00d3764c16d153c96c9502d0ecc2440aed9248c)] - 📚 Use a PNG for the logo in Firefox Focus's `README.md` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+## New features
+
+* [[`6e10bf9497`](https://github.com/alrra/browser-logos/commit/6e10bf94976f32f490f4cd2a3dc1734371883197)] - ✨ Add `Phoenix` logo (by [`scribblemaniac`](https://github.com/scribblemaniac) / see also: [`#165`](https://github.com/alrra/browser-logos/issues/165)).
+* [[`c1c2920668`](https://github.com/alrra/browser-logos/commit/c1c29206687537c4be4624f1f25a4f804abdb9b0)] - ✨ Add `Aloha` logo (by [`scribblemaniac`](https://github.com/scribblemaniac) / see also: [`#160`](https://github.com/alrra/browser-logos/issues/160)).
+* [[`6bca642f2c`](https://github.com/alrra/browser-logos/commit/6bca642f2c53570068279da68ba6c11ba1839ba2)] - ✨ Add `Firefox Lite` logo (by [`scribblemaniac`](https://github.com/scribblemaniac) / see also: [`#156`](https://github.com/alrra/browser-logos/issues/156)).
+
+
 # 47.0.0 (March 8, 2019)
 
 ## Breaking Changes
