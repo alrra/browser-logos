@@ -1,3 +1,14 @@
+# 2.0.0 (March 10, 2019)
+
+## Breaking Changes
+
+* [[`88b27fdbe1`](https://github.com/alrra/browser-logos/commit/88b27fdbe1bb6c9440385e5027ad5aa7de23a171)] - 💥 Update `Iridium` logo (by [`scribblemaniac`](https://github.com/scribblemaniac) / see also: [`#167`](https://github.com/alrra/browser-logos/issues/167)).
+
+## Bug fixes / Improvements
+
+* [[`8ad7813ba3`](https://github.com/alrra/browser-logos/commit/8ad7813ba37934f854354ad52c149f8f6a5439e5)] - 🔧 Tweak and further optimize `iridium.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 1.0.2 (December 30, 2017)
 
 #### Bug fixes / Improvements

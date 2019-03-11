@@ -5,8 +5,8 @@
 <table>
     <tr height=300>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/00e491a392f258c72721f5ba35dbe43916b30832/src/archive/iridium">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/00e491a392f258c72721f5ba35dbe43916b30832/src/archive/iridium/iridium_512x512.png" alt="Iridium browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/8ad7813ba37934f854354ad52c149f8f6a5439e5/src/archive/iridium">
+                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/8ad7813ba37934f854354ad52c149f8f6a5439e5/src/archive/iridium/iridium_512x512.png" alt="Iridium browser logo">
             </a>
         </td>
     </tr>
