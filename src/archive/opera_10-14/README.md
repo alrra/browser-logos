@@ -5,8 +5,8 @@
 <table>
     <tr height=300>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/375b9086ce2a9cb6d3e29f12f7c0562c9a924c05/src/archive/opera_10-14">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/375b9086ce2a9cb6d3e29f12f7c0562c9a924c05/src/archive/opera_10-14/opera_10-14.svg?sanitize=true" alt="Opera v10-14 browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/5fb25d590c4a2abdde1e8b8912ac971c9b444fea/src/archive/opera_10-14">
+                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/5fb25d590c4a2abdde1e8b8912ac971c9b444fea/src/archive/opera_10-14/opera_10-14.svg?sanitize=true" alt="Opera v10-14 browser logo">
             </a>
         </td>
     </tr>
@@ -16,10 +16,9 @@
 
 You can either:
 
-* Install it using
+* Install it using [`npm`][npm]:
 
-  * [`npm`][npm]: `npm install --save-dev @browser-logos/opera_10-14`
-  * [`yarn`][yarn]: `yarn add --dev @browser-logos/opera_10-14`
+  `npm install --save-dev @browser-logos/opera_10-14`
 
 * Use [`cdnjs`][cdnjs].
 
@@ -27,4 +26,3 @@ You can either:
 
 [cdnjs]: https://cdnjs.com/libraries/browser-logos
 [npm]: https://www.npmjs.com/
-[yarn]: https://yarnpkg.com/

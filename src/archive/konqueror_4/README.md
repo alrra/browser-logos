@@ -5,8 +5,8 @@
 <table>
     <tr height=300>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/375b9086ce2a9cb6d3e29f12f7c0562c9a924c05/src/archive/konqueror_4">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/375b9086ce2a9cb6d3e29f12f7c0562c9a924c05/src/archive/konqueror_4/konqueror_4.svg?sanitize=true" alt="Konqueror v4 browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/83b2eba5e7efda29747ca9f9675d0329d4f7b7aa/src/archive/konqueror_4">
+                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/83b2eba5e7efda29747ca9f9675d0329d4f7b7aa/src/archive/konqueror_4/konqueror_4.svg?sanitize=true" alt="Konqueror v4 browser logo">
             </a>
         </td>
     </tr>
@@ -16,10 +16,9 @@
 
 You can either:
 
-* Install it using
+* Install it using [`npm`][npm]:
 
-  * [`npm`][npm]: `npm install --save-dev @browser-logos/konqueror_4`
-  * [`yarn`][yarn]: `yarn add --dev @browser-logos/konqueror_4`
+  `npm install --save-dev @browser-logos/konqueror_4`
 
 * Use [`cdnjs`][cdnjs].
 
@@ -27,4 +26,3 @@ You can either:
 
 [cdnjs]: https://cdnjs.com/libraries/browser-logos
 [npm]: https://www.npmjs.com/
-[yarn]: https://yarnpkg.com/

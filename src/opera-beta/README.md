@@ -5,8 +5,8 @@
 <table>
     <tr height=300>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/375b9086ce2a9cb6d3e29f12f7c0562c9a924c05/src/opera-beta">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/375b9086ce2a9cb6d3e29f12f7c0562c9a924c05/src/opera-beta/opera-beta_512x512.png" alt="Opera Beta browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/7370e6877fb7529be9cbf19009c1151c60d1f465/src/opera-beta">
+                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/7370e6877fb7529be9cbf19009c1151c60d1f465/src/opera-beta/opera-beta_512x512.png" alt="Opera Beta browser logo">
             </a>
         </td>
     </tr>
@@ -16,10 +16,9 @@
 
 You can either:
 
-* Install it using
+* Install it using [`npm`][npm]:
 
-  * [`npm`][npm]: `npm install --save-dev @browser-logos/opera-beta`
-  * [`yarn`][yarn]: `yarn add --dev @browser-logos/opera-beta`
+  `npm install --save-dev @browser-logos/opera-beta`
 
 * Use [`cdnjs`][cdnjs].
 
@@ -27,4 +26,3 @@ You can either:
 
 [cdnjs]: https://cdnjs.com/libraries/browser-logos
 [npm]: https://www.npmjs.com/
-[yarn]: https://yarnpkg.com/

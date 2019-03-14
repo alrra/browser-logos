@@ -5,8 +5,8 @@
 <table>
     <tr height=300>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/375b9086ce2a9cb6d3e29f12f7c0562c9a924c05/src/uc">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/375b9086ce2a9cb6d3e29f12f7c0562c9a924c05/src/uc/uc_512x512.png" alt="UC browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/3f4b4d648fbd5dc452ef6d979cf58f980346ce08/src/uc">
+                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/3f4b4d648fbd5dc452ef6d979cf58f980346ce08/src/uc/uc_512x512.png" alt="UC browser logo">
             </a>
         </td>
     </tr>
@@ -16,10 +16,9 @@
 
 You can either:
 
-* Install it using
+* Install it using [`npm`][npm]:
 
-  * [`npm`][npm]: `npm install --save-dev @browser-logos/uc`
-  * [`yarn`][yarn]: `yarn add --dev @browser-logos/uc`
+  `npm install --save-dev @browser-logos/uc`
 
 * Use [`cdnjs`][cdnjs].
 
@@ -27,4 +26,3 @@ You can either:
 
 [cdnjs]: https://cdnjs.com/libraries/browser-logos
 [npm]: https://www.npmjs.com/
-[yarn]: https://yarnpkg.com/

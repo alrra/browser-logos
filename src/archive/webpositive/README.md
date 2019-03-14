@@ -5,8 +5,8 @@
 <table>
     <tr height=300>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/375b9086ce2a9cb6d3e29f12f7c0562c9a924c05/src/archive/webpositive">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/375b9086ce2a9cb6d3e29f12f7c0562c9a924c05/src/archive/webpositive/webpositive.svg?sanitize=true" alt="WebPositive browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/9c3236e3e83b8c183e8e91a009c7331d3f7d78d0/src/archive/webpositive">
+                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/9c3236e3e83b8c183e8e91a009c7331d3f7d78d0/src/archive/webpositive/webpositive.svg?sanitize=true" alt="WebPositive browser logo">
             </a>
         </td>
     </tr>
@@ -16,10 +16,9 @@
 
 You can either:
 
-* Install it using
+* Install it using [`npm`][npm]:
 
-  * [`npm`][npm]: `npm install --save-dev @browser-logos/webpositive`
-  * [`yarn`][yarn]: `yarn add --dev @browser-logos/webpositive`
+  `npm install --save-dev @browser-logos/webpositive`
 
 * Use [`cdnjs`][cdnjs].
 
@@ -27,4 +26,3 @@ You can either:
 
 [cdnjs]: https://cdnjs.com/libraries/browser-logos
 [npm]: https://www.npmjs.com/
-[yarn]: https://yarnpkg.com/

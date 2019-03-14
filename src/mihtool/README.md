@@ -5,8 +5,8 @@
 <table>
     <tr height=300>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/375b9086ce2a9cb6d3e29f12f7c0562c9a924c05/src/mihtool">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/375b9086ce2a9cb6d3e29f12f7c0562c9a924c05/src/mihtool/mihtool_512x512.png" alt="MIHTool browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/c3c6956093bfc667656521a7aa1f3e9f3ec9d154/src/mihtool">
+                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/c3c6956093bfc667656521a7aa1f3e9f3ec9d154/src/mihtool/mihtool_512x512.png" alt="MIHTool browser logo">
             </a>
         </td>
     </tr>
@@ -16,10 +16,9 @@
 
 You can either:
 
-* Install it using
+* Install it using [`npm`][npm]:
 
-  * [`npm`][npm]: `npm install --save-dev @browser-logos/mihtool`
-  * [`yarn`][yarn]: `yarn add --dev @browser-logos/mihtool`
+  `npm install --save-dev @browser-logos/mihtool`
 
 * Use [`cdnjs`][cdnjs].
 
@@ -27,4 +26,3 @@ You can either:
 
 [cdnjs]: https://cdnjs.com/libraries/browser-logos
 [npm]: https://www.npmjs.com/
-[yarn]: https://yarnpkg.com/

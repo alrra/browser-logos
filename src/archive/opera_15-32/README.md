@@ -5,8 +5,8 @@
 <table>
     <tr height=300>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/375b9086ce2a9cb6d3e29f12f7c0562c9a924c05/src/archive/opera_15-32">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/375b9086ce2a9cb6d3e29f12f7c0562c9a924c05/src/archive/opera_15-32/opera_15-32_512x512.png" alt="Opera v15-32 browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/97d28b80aab5d75d83fae30535d7347cbd13688e/src/archive/opera_15-32">
+                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/97d28b80aab5d75d83fae30535d7347cbd13688e/src/archive/opera_15-32/opera_15-32_512x512.png" alt="Opera v15-32 browser logo">
             </a>
         </td>
     </tr>
@@ -16,10 +16,9 @@
 
 You can either:
 
-* Install it using
+* Install it using [`npm`][npm]:
 
-  * [`npm`][npm]: `npm install --save-dev @browser-logos/opera_15-32`
-  * [`yarn`][yarn]: `yarn add --dev @browser-logos/opera_15-32`
+  `npm install --save-dev @browser-logos/opera_15-32`
 
 * Use [`cdnjs`][cdnjs].
 
@@ -27,4 +26,3 @@ You can either:
 
 [cdnjs]: https://cdnjs.com/libraries/browser-logos
 [npm]: https://www.npmjs.com/
-[yarn]: https://yarnpkg.com/

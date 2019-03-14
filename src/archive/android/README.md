@@ -5,8 +5,8 @@
 <table>
     <tr height=300>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/250d8e51a236f11c6a16a33285ff214f704742bf/src/archive/android">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/250d8e51a236f11c6a16a33285ff214f704742bf/src/archive/android/android_512x512.png" alt="Android browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/b314662754612303457ed859d6caa4aa6ce5cee7/src/archive/android">
+                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/b314662754612303457ed859d6caa4aa6ce5cee7/src/archive/android/android_512x512.png" alt="Android browser logo">
             </a>
         </td>
     </tr>
@@ -16,10 +16,9 @@
 
 You can either:
 
-* Install it using
+* Install it using [`npm`][npm]:
 
-  * [`npm`][npm]: `npm install --save-dev @browser-logos/android`
-  * [`yarn`][yarn]: `yarn add --dev @browser-logos/android`
+  `npm install --save-dev @browser-logos/android`
 
 * Use [`cdnjs`][cdnjs].
 
@@ -27,4 +26,3 @@ You can either:
 
 [cdnjs]: https://cdnjs.com/libraries/browser-logos
 [npm]: https://www.npmjs.com/
-[yarn]: https://yarnpkg.com/

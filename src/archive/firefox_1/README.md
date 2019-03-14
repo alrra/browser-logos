@@ -5,8 +5,8 @@
 <table>
     <tr height=300>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/375b9086ce2a9cb6d3e29f12f7c0562c9a924c05/src/archive/firefox_1">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/375b9086ce2a9cb6d3e29f12f7c0562c9a924c05/src/archive/firefox_1/firefox_1_512x512.png" alt="Firefox v1 browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/3197c67a69ebdc691be0ab0eda2711f16572e16e/src/archive/firefox_1">
+                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/3197c67a69ebdc691be0ab0eda2711f16572e16e/src/archive/firefox_1/firefox_1_512x512.png" alt="Firefox v1 browser logo">
             </a>
         </td>
     </tr>
@@ -16,10 +16,9 @@
 
 You can either:
 
-* Install it using
+* Install it using [`npm`][npm]:
 
-  * [`npm`][npm]: `npm install --save-dev @browser-logos/firefox_1`
-  * [`yarn`][yarn]: `yarn add --dev @browser-logos/firefox_1`
+  `npm install --save-dev @browser-logos/firefox_1`
 
 * Use [`cdnjs`][cdnjs].
 
@@ -27,4 +26,3 @@ You can either:
 
 [cdnjs]: https://cdnjs.com/libraries/browser-logos
 [npm]: https://www.npmjs.com/
-[yarn]: https://yarnpkg.com/

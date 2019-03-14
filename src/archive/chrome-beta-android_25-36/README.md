@@ -5,8 +5,8 @@
 <table>
     <tr height=300>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/375b9086ce2a9cb6d3e29f12f7c0562c9a924c05/src/archive/chrome-beta-android_25-36">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/375b9086ce2a9cb6d3e29f12f7c0562c9a924c05/src/archive/chrome-beta-android_25-36/chrome-beta-android_25-36_512x512.png" alt="Chrome Beta v25-36 for Android browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/1fd8c89af1a55f2d9d3bdf74c9e2790c9e47eabf/src/archive/chrome-beta-android_25-36">
+                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/1fd8c89af1a55f2d9d3bdf74c9e2790c9e47eabf/src/archive/chrome-beta-android_25-36/chrome-beta-android_25-36_512x512.png" alt="Chrome Beta v25-36 for Android browser logo">
             </a>
         </td>
     </tr>
@@ -16,10 +16,9 @@
 
 You can either:
 
-* Install it using
+* Install it using [`npm`][npm]:
 
-  * [`npm`][npm]: `npm install --save-dev @browser-logos/chrome-beta-android_25-36`
-  * [`yarn`][yarn]: `yarn add --dev @browser-logos/chrome-beta-android_25-36`
+  `npm install --save-dev @browser-logos/chrome-beta-android_25-36`
 
 * Use [`cdnjs`][cdnjs].
 
@@ -27,4 +26,3 @@ You can either:
 
 [cdnjs]: https://cdnjs.com/libraries/browser-logos
 [npm]: https://www.npmjs.com/
-[yarn]: https://yarnpkg.com/

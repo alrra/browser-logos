@@ -5,8 +5,8 @@
 <table>
     <tr height=300>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/375b9086ce2a9cb6d3e29f12f7c0562c9a924c05/src/firefox-nightly">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/375b9086ce2a9cb6d3e29f12f7c0562c9a924c05/src/firefox-nightly/firefox-nightly.svg?sanitize=true" alt="Firefox Nightly browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/417baec622637c42356ad3b3e9677bdbf40c7c5c/src/firefox-nightly">
+                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/417baec622637c42356ad3b3e9677bdbf40c7c5c/src/firefox-nightly/firefox-nightly.svg?sanitize=true" alt="Firefox Nightly browser logo">
             </a>
         </td>
     </tr>
@@ -16,10 +16,9 @@
 
 You can either:
 
-* Install it using
+* Install it using [`npm`][npm]:
 
-  * [`npm`][npm]: `npm install --save-dev @browser-logos/firefox-nightly`
-  * [`yarn`][yarn]: `yarn add --dev @browser-logos/firefox-nightly`
+  `npm install --save-dev @browser-logos/firefox-nightly`
 
 * Use [`cdnjs`][cdnjs].
 
@@ -27,4 +26,3 @@ You can either:
 
 [cdnjs]: https://cdnjs.com/libraries/browser-logos
 [npm]: https://www.npmjs.com/
-[yarn]: https://yarnpkg.com/

@@ -5,8 +5,8 @@
 <table>
     <tr height=300>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/375b9086ce2a9cb6d3e29f12f7c0562c9a924c05/src/archive/webkit-nightly_1-7">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/375b9086ce2a9cb6d3e29f12f7c0562c9a924c05/src/archive/webkit-nightly_1-7/webkit-nightly_1-7_512x512.png" alt="WebKit Nightly v1-7 browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/9336ea2d655e03f4d40502cfafdbb10ad6fd3f15/src/archive/webkit-nightly_1-7">
+                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/9336ea2d655e03f4d40502cfafdbb10ad6fd3f15/src/archive/webkit-nightly_1-7/webkit-nightly_1-7_512x512.png" alt="WebKit Nightly v1-7 browser logo">
             </a>
         </td>
     </tr>
@@ -16,10 +16,9 @@
 
 You can either:
 
-* Install it using
+* Install it using [`npm`][npm]:
 
-  * [`npm`][npm]: `npm install --save-dev @browser-logos/webkit-nightly_1-7`
-  * [`yarn`][yarn]: `yarn add --dev @browser-logos/webkit-nightly_1-7`
+  `npm install --save-dev @browser-logos/webkit-nightly_1-7`
 
 * Use [`cdnjs`][cdnjs].
 
@@ -27,4 +26,3 @@ You can either:
 
 [cdnjs]: https://cdnjs.com/libraries/browser-logos
 [npm]: https://www.npmjs.com/
-[yarn]: https://yarnpkg.com/

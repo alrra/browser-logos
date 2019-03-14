@@ -5,8 +5,8 @@
 <table>
     <tr height=300>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/375b9086ce2a9cb6d3e29f12f7c0562c9a924c05/src/archive/aviator">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/375b9086ce2a9cb6d3e29f12f7c0562c9a924c05/src/archive/aviator/aviator_512x512.png" alt="Aviator browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/2c005bed0dac883f39e45a4479ce49f5acb8f024/src/archive/aviator">
+                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/2c005bed0dac883f39e45a4479ce49f5acb8f024/src/archive/aviator/aviator_512x512.png" alt="Aviator browser logo">
             </a>
         </td>
     </tr>
@@ -16,10 +16,9 @@
 
 You can either:
 
-* Install it using
+* Install it using [`npm`][npm]:
 
-  * [`npm`][npm]: `npm install --save-dev @browser-logos/aviator`
-  * [`yarn`][yarn]: `yarn add --dev @browser-logos/aviator`
+  `npm install --save-dev @browser-logos/aviator`
 
 * Use [`cdnjs`][cdnjs].
 
@@ -27,4 +26,3 @@ You can either:
 
 [cdnjs]: https://cdnjs.com/libraries/browser-logos
 [npm]: https://www.npmjs.com/
-[yarn]: https://yarnpkg.com/

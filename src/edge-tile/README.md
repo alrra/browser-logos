@@ -5,8 +5,8 @@
 <table>
     <tr height=300>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/375b9086ce2a9cb6d3e29f12f7c0562c9a924c05/src/edge-tile">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/375b9086ce2a9cb6d3e29f12f7c0562c9a924c05/src/edge-tile/edge-tile.svg?sanitize=true" alt="Microsoft Edge tile browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/9b5ba03c91bb705eb66baaf22320d2df2d5e34c5/src/edge-tile">
+                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/9b5ba03c91bb705eb66baaf22320d2df2d5e34c5/src/edge-tile/edge-tile.svg?sanitize=true" alt="Microsoft Edge tile browser logo">
             </a>
         </td>
     </tr>
@@ -16,10 +16,9 @@
 
 You can either:
 
-* Install it using
+* Install it using [`npm`][npm]:
 
-  * [`npm`][npm]: `npm install --save-dev @browser-logos/edge-tile`
-  * [`yarn`][yarn]: `yarn add --dev @browser-logos/edge-tile`
+  `npm install --save-dev @browser-logos/edge-tile`
 
 * Use [`cdnjs`][cdnjs].
 
@@ -27,4 +26,3 @@ You can either:
 
 [cdnjs]: https://cdnjs.com/libraries/browser-logos
 [npm]: https://www.npmjs.com/
-[yarn]: https://yarnpkg.com/

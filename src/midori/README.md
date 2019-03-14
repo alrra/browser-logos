@@ -5,8 +5,8 @@
 <table>
     <tr height=300>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/375b9086ce2a9cb6d3e29f12f7c0562c9a924c05/src/midori">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/375b9086ce2a9cb6d3e29f12f7c0562c9a924c05/src/midori/midori.svg?sanitize=true" alt="Midori browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/bbf01877c0524a9eea3984fe534c70b6b50c9c53/src/midori">
+                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/bbf01877c0524a9eea3984fe534c70b6b50c9c53/src/midori/midori.svg?sanitize=true" alt="Midori browser logo">
             </a>
         </td>
     </tr>
@@ -16,10 +16,9 @@
 
 You can either:
 
-* Install it using
+* Install it using [`npm`][npm]:
 
-  * [`npm`][npm]: `npm install --save-dev @browser-logos/midori`
-  * [`yarn`][yarn]: `yarn add --dev @browser-logos/midori`
+  `npm install --save-dev @browser-logos/midori`
 
 * Use [`cdnjs`][cdnjs].
 
@@ -27,4 +26,3 @@ You can either:
 
 [cdnjs]: https://cdnjs.com/libraries/browser-logos
 [npm]: https://www.npmjs.com/
-[yarn]: https://yarnpkg.com/

@@ -5,8 +5,8 @@
 <table>
     <tr height=300>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/9012c275ccf2a11ac12801f3d2b6fa8398492122/src/archive/firedoge">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/9012c275ccf2a11ac12801f3d2b6fa8398492122/src/archive/firedoge/firedoge_512x512.png" alt="Firedoge browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/46c06bac5e4ebb8c60bd072fa24c1fcdf4c9cdf9/src/archive/firedoge">
+                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/46c06bac5e4ebb8c60bd072fa24c1fcdf4c9cdf9/src/archive/firedoge/firedoge_512x512.png" alt="Firedoge browser logo">
             </a>
         </td>
     </tr>
@@ -16,10 +16,9 @@
 
 You can either:
 
-* Install it using
+* Install it using [`npm`][npm]:
 
-  * [`npm`][npm]: `npm install --save-dev @browser-logos/firedoge`
-  * [`yarn`][yarn]: `yarn add --dev @browser-logos/firedoge`
+  `npm install --save-dev @browser-logos/firedoge`
 
 * Use [`cdnjs`][cdnjs].
 
@@ -27,4 +26,3 @@ You can either:
 
 [cdnjs]: https://cdnjs.com/libraries/browser-logos
 [npm]: https://www.npmjs.com/
-[yarn]: https://yarnpkg.com/

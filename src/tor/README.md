@@ -5,8 +5,8 @@
 <table>
     <tr height=300>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/375b9086ce2a9cb6d3e29f12f7c0562c9a924c05/src/tor">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/375b9086ce2a9cb6d3e29f12f7c0562c9a924c05/src/tor/tor_512x512.png" alt="Tor browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/9c512cbc4b583a51e9ec69c19912b279193ca574/src/tor">
+                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/9c512cbc4b583a51e9ec69c19912b279193ca574/src/tor/tor_512x512.png" alt="Tor browser logo">
             </a>
         </td>
     </tr>
@@ -16,10 +16,9 @@
 
 You can either:
 
-* Install it using
+* Install it using [`npm`][npm]:
 
-  * [`npm`][npm]: `npm install --save-dev @browser-logos/tor`
-  * [`yarn`][yarn]: `yarn add --dev @browser-logos/tor`
+  `npm install --save-dev @browser-logos/tor`
 
 * Use [`cdnjs`][cdnjs].
 
@@ -27,4 +26,3 @@ You can either:
 
 [cdnjs]: https://cdnjs.com/libraries/browser-logos
 [npm]: https://www.npmjs.com/
-[yarn]: https://yarnpkg.com/

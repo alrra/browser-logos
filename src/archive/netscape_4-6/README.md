@@ -5,8 +5,8 @@
 <table>
     <tr height=300>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/375b9086ce2a9cb6d3e29f12f7c0562c9a924c05/src/archive/netscape_4-6">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/375b9086ce2a9cb6d3e29f12f7c0562c9a924c05/src/archive/netscape_4-6/netscape_4-6.svg?sanitize=true" alt="Netscape v4-6 browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/6e57b43851a0f65535061a485d063a6731069408/src/archive/netscape_4-6">
+                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/6e57b43851a0f65535061a485d063a6731069408/src/archive/netscape_4-6/netscape_4-6.svg?sanitize=true" alt="Netscape v4-6 browser logo">
             </a>
         </td>
     </tr>
@@ -16,10 +16,9 @@
 
 You can either:
 
-* Install it using
+* Install it using [`npm`][npm]:
 
-  * [`npm`][npm]: `npm install --save-dev @browser-logos/netscape_4-6`
-  * [`yarn`][yarn]: `yarn add --dev @browser-logos/netscape_4-6`
+  `npm install --save-dev @browser-logos/netscape_4-6`
 
 * Use [`cdnjs`][cdnjs].
 
@@ -27,4 +26,3 @@ You can either:
 
 [cdnjs]: https://cdnjs.com/libraries/browser-logos
 [npm]: https://www.npmjs.com/
-[yarn]: https://yarnpkg.com/

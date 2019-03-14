@@ -5,8 +5,8 @@
 <table>
     <tr height=300>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/3bb40f69b0cce0795655e43d42f802b8f9393cc0/src/archive/beaker">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/3bb40f69b0cce0795655e43d42f802b8f9393cc0/src/archive/beaker/beaker_512x512.png" alt="Beaker browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/da6fe9654cabd8675d4b2313ac88d98df2d9ef29/src/archive/beaker">
+                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/da6fe9654cabd8675d4b2313ac88d98df2d9ef29/src/archive/beaker/beaker_512x512.png" alt="Beaker browser logo">
             </a>
         </td>
     </tr>
@@ -16,10 +16,9 @@
 
 You can either:
 
-* Install it using
+* Install it using [`npm`][npm]:
 
-  * [`npm`][npm]: `npm install --save-dev @browser-logos/beaker`
-  * [`yarn`][yarn]: `yarn add --dev @browser-logos/beaker`
+  `npm install --save-dev @browser-logos/beaker`
 
 * Use [`cdnjs`][cdnjs].
 
@@ -27,4 +26,3 @@ You can either:
 
 [cdnjs]: https://cdnjs.com/libraries/browser-logos
 [npm]: https://www.npmjs.com/
-[yarn]: https://yarnpkg.com/

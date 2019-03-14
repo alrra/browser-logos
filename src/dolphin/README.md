@@ -5,8 +5,8 @@
 <table>
     <tr height=300>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/375b9086ce2a9cb6d3e29f12f7c0562c9a924c05/src/dolphin">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/375b9086ce2a9cb6d3e29f12f7c0562c9a924c05/src/dolphin/dolphin_512x512.png" alt="Dolphin browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/f34f8a5c2348881dd6fef750cb3426f66d2d301a/src/dolphin">
+                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/f34f8a5c2348881dd6fef750cb3426f66d2d301a/src/dolphin/dolphin_512x512.png" alt="Dolphin browser logo">
             </a>
         </td>
     </tr>
@@ -16,10 +16,9 @@
 
 You can either:
 
-* Install it using
+* Install it using [`npm`][npm]:
 
-  * [`npm`][npm]: `npm install --save-dev @browser-logos/dolphin`
-  * [`yarn`][yarn]: `yarn add --dev @browser-logos/dolphin`
+  `npm install --save-dev @browser-logos/dolphin`
 
 * Use [`cdnjs`][cdnjs].
 
@@ -27,4 +26,3 @@ You can either:
 
 [cdnjs]: https://cdnjs.com/libraries/browser-logos
 [npm]: https://www.npmjs.com/
-[yarn]: https://yarnpkg.com/
