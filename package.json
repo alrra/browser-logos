@@ -9,6 +9,7 @@
   "name": "browser-logos",
   "private": true,
   "scripts": {
+    "prepare-for-publishing": "./scripts/prepare-for-publishing.js",
     "release": "./scripts/release.js"
   },
   "version": "48.0.0"
