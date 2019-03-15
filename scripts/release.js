@@ -265,7 +265,7 @@ const getCommitSHAsSinceLastRelease = async (ctx) => {
 };
 
 const gitPush = async (ctx) => {
-    await exec(`git push origin master ${ctx.newPackageVersion ? ctx.newPackageVersion : ''}`);
+    await exec(`git push origin master --tags`);
 };
 
 const gitTagNewVersion = async (ctx) => {
@@ -303,6 +303,7 @@ const npmPublish = (ctx) => {
 };
 
 const npmRemovePrivateField = (ctx) => {
+    delete ctx.packageJSONFileContent.private;
     updateFile(`${ctx.packageJSONFilePath}`, `${JSON.stringify(ctx.packageJSONFileContent, null, 2)}\n`);
 };
 
