@@ -8,7 +8,6 @@
     "samsung-internet-beta",
     "samsung-internet-beta-logo"
   ],
-  "private": true,
   "name": "@browser-logos/samsung-internet-beta_5.4-9.1",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"
