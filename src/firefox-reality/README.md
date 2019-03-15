@@ -3,8 +3,8 @@
 <table>
     <tr height=230>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/d391e390c331088a72697907f4fbdbb68f791822/src/firefox-reality">
-                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/d391e390c331088a72697907f4fbdbb68f791822/src/firefox-reality/firefox-reality.svg?sanitize=true" alt="Firefox Reality browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/fe67c07fd39322ac5378f63f9f9d50422d7658b7/src/firefox-reality">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/fe67c07fd39322ac5378f63f9f9d50422d7658b7/src/firefox-reality/firefox-reality.svg?sanitize=true" alt="Firefox Reality browser logo">
             </a>
         </td>
     </tr>
