@@ -3,8 +3,8 @@
 <table>
     <tr height=230>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/87172f22fb1fdaf0a1eb6f4117f152433c3fdf34/src/seamonkey">
-                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/87172f22fb1fdaf0a1eb6f4117f152433c3fdf34/src/seamonkey/seamonkey_512x512.png" alt="SeaMonkey browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/fe67c07fd39322ac5378f63f9f9d50422d7658b7/src/seamonkey">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/fe67c07fd39322ac5378f63f9f9d50422d7658b7/src/seamonkey/seamonkey_512x512.png" alt="SeaMonkey browser logo">
             </a>
         </td>
     </tr>
