@@ -1,3 +1,10 @@
+# 1.0.8 (March 15, 2019)
+
+## Bug fixes / Improvements
+
+* [[`e8b0d231f6`](https://github.com/alrra/browser-logos/commit/e8b0d231f6085d6d05337b3c982e793a5c4f170b)] - 📚 Fix typo.
+
+
 # 1.0.7 (March 15, 2019)
 
 ## Bug fixes / Improvements
