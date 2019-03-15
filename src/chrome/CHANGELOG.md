@@ -1,3 +1,10 @@
+# 1.0.7 (March 15, 2019)
+
+## Bug fixes / Improvements
+
+* [[`877f379f3f`](https://github.com/alrra/browser-logos/commit/877f379f3f73e080e83a7a7ecc6d33590d8903ee)] - 📚 Improve `README.md`s (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 1.0.6 (March 15, 2019)
 
 ## Bug fixes / Improvements
