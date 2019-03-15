@@ -3,8 +3,8 @@
 <table>
     <tr height=230>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/83b2eba5e7efda29747ca9f9675d0329d4f7b7aa/src/archive/konqueror_4">
-                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/83b2eba5e7efda29747ca9f9675d0329d4f7b7aa/src/archive/konqueror_4/konqueror_4.svg?sanitize=true" alt="Konqueror v4 browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/fe67c07fd39322ac5378f63f9f9d50422d7658b7/src/archive/konqueror_4">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/fe67c07fd39322ac5378f63f9f9d50422d7658b7/src/archive/konqueror_4/konqueror_4.svg?sanitize=true" alt="Konqueror v4 browser logo">
             </a>
         </td>
     </tr>
