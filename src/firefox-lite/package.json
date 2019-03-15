@@ -8,7 +8,6 @@
     "firefox-lite",
     "firefox-lite-logo"
   ],
-  "private": true,
   "name": "@browser-logos/firefox-lite",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"
