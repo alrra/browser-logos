@@ -1,3 +1,11 @@
+# 2.1.3 (March 15, 2019)
+
+## Bug fixes / Improvements
+
+* [[`fe67c07fd3`](https://github.com/alrra/browser-logos/commit/fe67c07fd39322ac5378f63f9f9d50422d7658b7)] - 📚 Improve `README.md`s (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`36f6545134`](https://github.com/alrra/browser-logos/commit/36f65451346e2a5b4cb711b73665bafcd9ddacda)] - 📚 Remove `yarn` install instructions (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 2.1.2 (March 8, 2019)
 
 ## Bug fixes / Improvements
