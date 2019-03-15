@@ -1,3 +1,10 @@
+# 48.0.4 (March 15, 2019)
+
+## Bug fixes / Improvements
+
+* [[`e8b0d231f6`](https://github.com/alrra/browser-logos/commit/e8b0d231f6085d6d05337b3c982e793a5c4f170b)] - 📚 Fix typo (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 48.0.3 (March 15, 2019)
 
 ## Bug fixes / Improvements
