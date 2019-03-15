@@ -1,0 +1,15 @@
+{
+  "bugs": "https://github.com/alrra/browser-logos/issues",
+  "description": "Samsung Internet Gear VR browser logo",
+  "homepage": "https://github.com/alrra/browser-logos",
+  "keywords": [
+    "browser-logos",
+    "logo",
+    "samsung-internet-gear-vr",
+    "samsung-internet-gear-vr-logo"
+  ],
+  "private": true,
+  "name": "@browser-logos/samsung-internet-gear-vr",
+  "repository": "alrra/browser-logos",
+  "version": "1.0.0"
+}

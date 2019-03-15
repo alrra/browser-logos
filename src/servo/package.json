@@ -1,0 +1,15 @@
+{
+  "bugs": "https://github.com/alrra/browser-logos/issues",
+  "description": "Servo browser logo",
+  "homepage": "https://github.com/alrra/browser-logos",
+  "keywords": [
+    "browser-logos",
+    "logo",
+    "servo",
+    "servo-logo"
+  ],
+  "private": true,
+  "name": "@browser-logos/servo",
+  "repository": "alrra/browser-logos",
+  "version": "1.0.0"
+}

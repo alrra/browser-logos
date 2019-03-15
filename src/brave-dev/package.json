@@ -1,0 +1,15 @@
+{
+  "bugs": "https://github.com/alrra/browser-logos/issues",
+  "description": "Brave Dev browser logo",
+  "homepage": "https://github.com/alrra/browser-logos",
+  "keywords": [
+    "browser-logos",
+    "logo",
+    "brave-dev",
+    "brave-dev-logo"
+  ],
+  "private": true,
+  "name": "@browser-logos/brave-dev",
+  "repository": "alrra/browser-logos",
+  "version": "1.0.0"
+}
