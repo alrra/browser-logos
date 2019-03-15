@@ -3,8 +3,8 @@
 <table>
     <tr height=230>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/8896bbaa79bd5dba1d44d859f3042e7990791739/src/netsurf">
-                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/8896bbaa79bd5dba1d44d859f3042e7990791739/src/netsurf/netsurf.svg?sanitize=true" alt="NetSurf browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/fe67c07fd39322ac5378f63f9f9d50422d7658b7/src/netsurf">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/fe67c07fd39322ac5378f63f9f9d50422d7658b7/src/netsurf/netsurf.svg?sanitize=true" alt="NetSurf browser logo">
             </a>
         </td>
     </tr>
