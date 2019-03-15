@@ -3,8 +3,8 @@
 <table>
     <tr height=230>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/b04c346f42d35ed83ec25d2c1bf3a93bedbdd7cc/src/archive/safari_1-7">
-                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/b04c346f42d35ed83ec25d2c1bf3a93bedbdd7cc/src/archive/safari_1-7/safari_1-7_512x512.png" alt="Safari v1-7 browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/fe67c07fd39322ac5378f63f9f9d50422d7658b7/src/archive/safari_1-7">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/fe67c07fd39322ac5378f63f9f9d50422d7658b7/src/archive/safari_1-7/safari_1-7_512x512.png" alt="Safari v1-7 browser logo">
             </a>
         </td>
     </tr>
