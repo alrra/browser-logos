@@ -3,8 +3,8 @@
 <table>
     <tr height=230>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/ff2bff9f377ead887a50f1457e96bb3356f7f004/src/archive/kidzui">
-                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/ff2bff9f377ead887a50f1457e96bb3356f7f004/src/archive/kidzui/kidzui_512x512.png" alt="KidZui browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/fe67c07fd39322ac5378f63f9f9d50422d7658b7/src/archive/kidzui">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/fe67c07fd39322ac5378f63f9f9d50422d7658b7/src/archive/kidzui/kidzui_512x512.png" alt="KidZui browser logo">
             </a>
         </td>
     </tr>
