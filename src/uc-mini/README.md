@@ -3,8 +3,8 @@
 <table>
     <tr height=230>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/13ff66f9e03bcf78496c88004193b5db11619eb8/src/uc-mini">
-                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/13ff66f9e03bcf78496c88004193b5db11619eb8/src/uc-mini/uc-mini_512x512.png" alt="UC Mini browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/fe67c07fd39322ac5378f63f9f9d50422d7658b7/src/uc-mini">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/fe67c07fd39322ac5378f63f9f9d50422d7658b7/src/uc-mini/uc-mini_512x512.png" alt="UC Mini browser logo">
             </a>
         </td>
     </tr>
