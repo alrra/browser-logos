@@ -3,8 +3,8 @@
 <table>
     <tr height=230>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/725286e8bde056a85bc99b0ef9972fd150896a6d/src/archive/srware-iron">
-                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/725286e8bde056a85bc99b0ef9972fd150896a6d/src/archive/srware-iron/srware-iron_512x512.png" alt="SRWare Iron browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/fe67c07fd39322ac5378f63f9f9d50422d7658b7/src/archive/srware-iron">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/fe67c07fd39322ac5378f63f9f9d50422d7658b7/src/archive/srware-iron/srware-iron_512x512.png" alt="SRWare Iron browser logo">
             </a>
         </td>
     </tr>
