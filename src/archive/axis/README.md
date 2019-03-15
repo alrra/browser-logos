@@ -3,8 +3,8 @@
 <table>
     <tr height=230>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/fa56692d24b09c57fabf578a30f9ca58ba9c0e4f/src/archive/axis">
-                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/fa56692d24b09c57fabf578a30f9ca58ba9c0e4f/src/archive/axis/axis_512x512.png" alt="Axis browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/fe67c07fd39322ac5378f63f9f9d50422d7658b7/src/archive/axis">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/fe67c07fd39322ac5378f63f9f9d50422d7658b7/src/archive/axis/axis_512x512.png" alt="Axis browser logo">
             </a>
         </td>
     </tr>
