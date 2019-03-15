@@ -3,8 +3,8 @@
 <table>
     <tr height=230>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/a52f26c06af772730ec268d9bac0daf39913cbbc/src/v8-turbofan">
-                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/a52f26c06af772730ec268d9bac0daf39913cbbc/src/v8-turbofan/v8-turbofan.svg?sanitize=true" alt="V8 TurboFan browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/fe67c07fd39322ac5378f63f9f9d50422d7658b7/src/v8-turbofan">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/fe67c07fd39322ac5378f63f9f9d50422d7658b7/src/v8-turbofan/v8-turbofan.svg?sanitize=true" alt="V8 TurboFan browser logo">
             </a>
         </td>
     </tr>
