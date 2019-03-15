@@ -3,8 +3,8 @@
 <table>
     <tr height=230>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/c3c6956093bfc667656521a7aa1f3e9f3ec9d154/src/mihtool">
-                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/c3c6956093bfc667656521a7aa1f3e9f3ec9d154/src/mihtool/mihtool_512x512.png" alt="MIHTool browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/fe67c07fd39322ac5378f63f9f9d50422d7658b7/src/mihtool">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/fe67c07fd39322ac5378f63f9f9d50422d7658b7/src/mihtool/mihtool_512x512.png" alt="MIHTool browser logo">
             </a>
         </td>
     </tr>
