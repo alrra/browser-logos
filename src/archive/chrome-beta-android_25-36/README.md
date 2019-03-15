@@ -3,8 +3,8 @@
 <table>
     <tr height=230>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/1fd8c89af1a55f2d9d3bdf74c9e2790c9e47eabf/src/archive/chrome-beta-android_25-36">
-                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/1fd8c89af1a55f2d9d3bdf74c9e2790c9e47eabf/src/archive/chrome-beta-android_25-36/chrome-beta-android_25-36_512x512.png" alt="Chrome Beta v25-36 for Android browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/fe67c07fd39322ac5378f63f9f9d50422d7658b7/src/archive/chrome-beta-android_25-36">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/fe67c07fd39322ac5378f63f9f9d50422d7658b7/src/archive/chrome-beta-android_25-36/chrome-beta-android_25-36_512x512.png" alt="Chrome Beta v25-36 for Android browser logo">
             </a>
         </td>
     </tr>
