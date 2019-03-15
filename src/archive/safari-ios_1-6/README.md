@@ -3,8 +3,8 @@
 <table>
     <tr height=230>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/cbb208c664c9a7daa180b5779a77b162dd6593a2/src/archive/safari-ios_1-6">
-                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/cbb208c664c9a7daa180b5779a77b162dd6593a2/src/archive/safari-ios_1-6/safari-ios_1-6_512x512.png" alt="Safari v1-6 for iOS browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/fe67c07fd39322ac5378f63f9f9d50422d7658b7/src/archive/safari-ios_1-6">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/fe67c07fd39322ac5378f63f9f9d50422d7658b7/src/archive/safari-ios_1-6/safari-ios_1-6_512x512.png" alt="Safari v1-6 for iOS browser logo">
             </a>
         </td>
     </tr>
