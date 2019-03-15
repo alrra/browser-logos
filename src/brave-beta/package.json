@@ -8,7 +8,6 @@
     "brave-beta",
     "brave-beta-logo"
   ],
-  "private": true,
   "name": "@browser-logos/brave-beta",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"
