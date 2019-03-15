@@ -8,7 +8,6 @@
     "basilisk",
     "basilisk-logo"
   ],
-  "private": true,
   "name": "@browser-logos/basilisk",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"
