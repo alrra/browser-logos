@@ -8,7 +8,6 @@
     "aol-explorer",
     "aol-explorer-logo"
   ],
-  "private": true,
   "name": "@browser-logos/aol-explorer",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"
