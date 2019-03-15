@@ -3,8 +3,8 @@
 <table>
     <tr height=230>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/61ea98d38d847d120bf1ac01204dee55eb73cb89/src/archive/skyfire-android">
-                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/61ea98d38d847d120bf1ac01204dee55eb73cb89/src/archive/skyfire-android/skyfire-android_512x512.png" alt="Skyfire for Android browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/fe67c07fd39322ac5378f63f9f9d50422d7658b7/src/archive/skyfire-android">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/fe67c07fd39322ac5378f63f9f9d50422d7658b7/src/archive/skyfire-android/skyfire-android_512x512.png" alt="Skyfire for Android browser logo">
             </a>
         </td>
     </tr>
