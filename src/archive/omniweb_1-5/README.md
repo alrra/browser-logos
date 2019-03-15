@@ -3,8 +3,8 @@
 <table>
     <tr height=230>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/064010ac1cea2a65ca9f5bc04807ab7010f04a08/src/archive/omniweb_1-5">
-                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/064010ac1cea2a65ca9f5bc04807ab7010f04a08/src/archive/omniweb_1-5/omniweb_1-5_512x512.png" alt="OmniWeb v1-5 browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/fe67c07fd39322ac5378f63f9f9d50422d7658b7/src/archive/omniweb_1-5">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/fe67c07fd39322ac5378f63f9f9d50422d7658b7/src/archive/omniweb_1-5/omniweb_1-5_512x512.png" alt="OmniWeb v1-5 browser logo">
             </a>
         </td>
     </tr>
