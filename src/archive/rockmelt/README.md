@@ -3,8 +3,8 @@
 <table>
     <tr height=230>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/bf79a0ece08d0dc4022c32366d4d414eca15f788/src/archive/rockmelt">
-                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/bf79a0ece08d0dc4022c32366d4d414eca15f788/src/archive/rockmelt/rockmelt_512x512.png" alt="Rockmelt browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/fe67c07fd39322ac5378f63f9f9d50422d7658b7/src/archive/rockmelt">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/fe67c07fd39322ac5378f63f9f9d50422d7658b7/src/archive/rockmelt/rockmelt_512x512.png" alt="Rockmelt browser logo">
             </a>
         </td>
     </tr>
