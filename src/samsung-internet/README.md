@@ -1,12 +1,10 @@
 # Samsung Internet
 
-## Logo
-
 <table>
-    <tr height=300>
+    <tr height=230>
         <td>
             <a href="https://github.com/alrra/browser-logos/tree/bb3bdd42d7c2ab3dec50cfaa2d74c619800323fc/src/samsung-internet">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/bb3bdd42d7c2ab3dec50cfaa2d74c619800323fc/src/samsung-internet/samsung-internet.svg?sanitize=true" alt="Samsung Internet browser logo">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/bb3bdd42d7c2ab3dec50cfaa2d74c619800323fc/src/samsung-internet/samsung-internet.svg?sanitize=true" alt="Samsung Internet browser logo">
             </a>
         </td>
     </tr>

@@ -1,12 +1,10 @@
 # Safari Technology Preview
 
-## Logo
-
 <table>
-    <tr height=300>
+    <tr height=230>
         <td>
             <a href="https://github.com/alrra/browser-logos/tree/efc26b5a50b969b7f0fd8a3080e5a1fcbe7cacc5/src/safari-technology-preview">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/efc26b5a50b969b7f0fd8a3080e5a1fcbe7cacc5/src/safari-technology-preview/safari-technology-preview_512x512.png" alt="Safari Technology Preview browser logo">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/efc26b5a50b969b7f0fd8a3080e5a1fcbe7cacc5/src/safari-technology-preview/safari-technology-preview_512x512.png" alt="Safari Technology Preview browser logo">
             </a>
         </td>
     </tr>

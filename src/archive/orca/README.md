@@ -1,12 +1,10 @@
 # Orca
 
-## Logo
-
 <table>
-    <tr height=300>
+    <tr height=230>
         <td>
             <a href="https://github.com/alrra/browser-logos/tree/dba21edd9b59da7de0b55bb97f664ab927a523d9/src/archive/orca">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/dba21edd9b59da7de0b55bb97f664ab927a523d9/src/archive/orca/orca_512x512.png" alt="Orca browser logo">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/dba21edd9b59da7de0b55bb97f664ab927a523d9/src/archive/orca/orca_512x512.png" alt="Orca browser logo">
             </a>
         </td>
     </tr>

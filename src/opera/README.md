@@ -1,12 +1,10 @@
 # Opera
 
-## Logo
-
 <table>
-    <tr height=300>
+    <tr height=230>
         <td>
             <a href="https://github.com/alrra/browser-logos/tree/44ad442a032a41b6d41be287b41d92ecd147e776/src/opera">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/44ad442a032a41b6d41be287b41d92ecd147e776/src/opera/opera.svg?sanitize=true" alt="Opera browser logo">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/44ad442a032a41b6d41be287b41d92ecd147e776/src/opera/opera.svg?sanitize=true" alt="Opera browser logo">
             </a>
         </td>
     </tr>

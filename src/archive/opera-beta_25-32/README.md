@@ -1,12 +1,10 @@
 # Opera Beta v25-32
 
-## Logo
-
 <table>
-    <tr height=300>
+    <tr height=230>
         <td>
             <a href="https://github.com/alrra/browser-logos/tree/9f5263447d3f6e55b5352fe9ad88afa6cf060d32/src/archive/opera-beta_25-32">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/9f5263447d3f6e55b5352fe9ad88afa6cf060d32/src/archive/opera-beta_25-32/opera-beta_25-32_512x512.png" alt="Opera Beta v25-32 browser logo">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/9f5263447d3f6e55b5352fe9ad88afa6cf060d32/src/archive/opera-beta_25-32/opera-beta_25-32_512x512.png" alt="Opera Beta v25-32 browser logo">
             </a>
         </td>
     </tr>

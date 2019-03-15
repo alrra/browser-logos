@@ -1,12 +1,10 @@
 # Chrome Canary v19-48
 
-## Logo
-
 <table>
-    <tr height=300>
+    <tr height=230>
         <td>
             <a href="https://github.com/alrra/browser-logos/tree/f2136ada08278a0b3b2c76c240ea7f2486303693/src/archive/chrome-canary_19-48">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/f2136ada08278a0b3b2c76c240ea7f2486303693/src/archive/chrome-canary_19-48/chrome-canary_19-48_512x512.png" alt="Chrome Canary v19-48 browser logo">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/f2136ada08278a0b3b2c76c240ea7f2486303693/src/archive/chrome-canary_19-48/chrome-canary_19-48_512x512.png" alt="Chrome Canary v19-48 browser logo">
             </a>
         </td>
     </tr>

@@ -252,17 +252,17 @@
             </td>
             <td>
                 <a href="chrome-beta">
-                    <img width=150 src="chrome-beta/chrome-beta_256x256.png" alt="Chrome Beta browser logo">
+                    <img width=150 src="chrome-beta/chrome-beta.svg" alt="Chrome Beta browser logo">
                 </a>
             </td>
             <td>
                 <a href="chrome-dev">
-                    <img width=150 src="chrome-dev/chrome-dev_256x256.png" alt="Chrome Dev browser logo">
+                    <img width=150 src="chrome-dev/chrome-dev.svg" alt="Chrome Dev browser logo">
                 </a>
             </td>
             <td>
                 <a href="chrome-canary">
-                    <img width=150 src="chrome-canary/chrome-canary_256x256.png" alt="Chrome Canary browser logo">
+                    <img width=150 src="chrome-canary/chrome-canary.svg" alt="Chrome Canary browser logo">
                 </a>
             </td>
         </tr>
@@ -475,7 +475,7 @@
         <tr height=170>
             <td>
                 <a href="electron">
-                    <img width=150 src="electron/electron.png" alt="Electron logo">
+                    <img width=150 src="electron/electron.svg" alt="Electron logo">
                 </a>
             </td>
         </tr>

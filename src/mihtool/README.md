@@ -1,12 +1,10 @@
 # MIHTool
 
-## Logo
-
 <table>
-    <tr height=300>
+    <tr height=230>
         <td>
             <a href="https://github.com/alrra/browser-logos/tree/c3c6956093bfc667656521a7aa1f3e9f3ec9d154/src/mihtool">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/c3c6956093bfc667656521a7aa1f3e9f3ec9d154/src/mihtool/mihtool_512x512.png" alt="MIHTool browser logo">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/c3c6956093bfc667656521a7aa1f3e9f3ec9d154/src/mihtool/mihtool_512x512.png" alt="MIHTool browser logo">
             </a>
         </td>
     </tr>

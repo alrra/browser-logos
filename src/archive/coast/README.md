@@ -1,12 +1,10 @@
 # Coast
 
-## Logo
-
 <table>
-    <tr height=300>
+    <tr height=230>
         <td>
             <a href="https://github.com/alrra/browser-logos/tree/4a815ab441d00f131c883f42fcfe4e66db1224cf/src/archive/coast">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/4a815ab441d00f131c883f42fcfe4e66db1224cf/src/archive/coast/coast_512x512.png" alt="Coast browser logo">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/4a815ab441d00f131c883f42fcfe4e66db1224cf/src/archive/coast/coast_512x512.png" alt="Coast browser logo">
             </a>
         </td>
     </tr>

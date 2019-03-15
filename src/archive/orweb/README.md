@@ -1,12 +1,10 @@
 # Orweb
 
-## Logo
-
 <table>
-    <tr height=300>
+    <tr height=230>
         <td>
             <a href="https://github.com/alrra/browser-logos/tree/df3f94cd3eca28968eabaee203b18fb504fb6d62/src/archive/orweb">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/df3f94cd3eca28968eabaee203b18fb504fb6d62/src/archive/orweb/orweb_512x512.png" alt="Orweb browser logo">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/df3f94cd3eca28968eabaee203b18fb504fb6d62/src/archive/orweb/orweb_512x512.png" alt="Orweb browser logo">
             </a>
         </td>
     </tr>

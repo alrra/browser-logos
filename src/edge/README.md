@@ -1,12 +1,10 @@
 # Microsoft Edge
 
-## Logo
-
 <table>
-    <tr height=300>
+    <tr height=230>
         <td>
             <a href="https://github.com/alrra/browser-logos/tree/a451aad2ae4ce09cfc883efd16f02797c6e08141/src/edge">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/a451aad2ae4ce09cfc883efd16f02797c6e08141/src/edge/edge.svg?sanitize=true" alt="Microsoft Edge browser logo">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/a451aad2ae4ce09cfc883efd16f02797c6e08141/src/edge/edge.svg?sanitize=true" alt="Microsoft Edge browser logo">
             </a>
         </td>
     </tr>

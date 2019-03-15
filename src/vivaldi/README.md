@@ -1,12 +1,10 @@
 # Vivaldi
 
-## Logo
-
 <table>
-    <tr height=300>
+    <tr height=230>
         <td>
             <a href="https://github.com/alrra/browser-logos/tree/50a05758506013b03ecf34fa8811f483f6273fd7/src/vivaldi">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/50a05758506013b03ecf34fa8811f483f6273fd7/src/vivaldi/vivaldi.svg?sanitize=true" alt="Vivaldi browser logo">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/50a05758506013b03ecf34fa8811f483f6273fd7/src/vivaldi/vivaldi.svg?sanitize=true" alt="Vivaldi browser logo">
             </a>
         </td>
     </tr>

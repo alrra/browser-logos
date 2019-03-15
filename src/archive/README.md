@@ -2474,7 +2474,7 @@
             </td>
             <td>
                 <a href="samsung-internet_5">
-                    <img width=150 src="samsung-internet_5/samsung-internet_5_256x256.png" alt="Samsung Internet 5 browser logo">
+                    <img width=150 src="samsung-internet_5/samsung-internet_5.svg" alt="Samsung Internet 5 browser logo">
                 </a>
             </td>
         </tr>
@@ -3041,7 +3041,7 @@
         <tr height=170>
             <td>
                 <a href="web">
-                    <img width=150 src="web/web_256x256.png" alt="Web (f.k.a. Epiphany) browser logo">
+                    <img width=150 src="web/web.svg" alt="Web (f.k.a. Epiphany) browser logo">
                 </a>
             </td>
         </tr>

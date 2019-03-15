@@ -1,12 +1,10 @@
 # Epic
 
-## Logo
-
 <table>
-    <tr height=300>
+    <tr height=230>
         <td>
             <a href="https://github.com/alrra/browser-logos/tree/2dbf4638f2c21611364042c515d77e3419ce99b0/src/epic">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/2dbf4638f2c21611364042c515d77e3419ce99b0/src/epic/epic_512x512.png" alt="Epic browser logo">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/2dbf4638f2c21611364042c515d77e3419ce99b0/src/epic/epic_512x512.png" alt="Epic browser logo">
             </a>
         </td>
     </tr>

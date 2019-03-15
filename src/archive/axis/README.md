@@ -1,12 +1,10 @@
 # Axis
 
-## Logo
-
 <table>
-    <tr height=300>
+    <tr height=230>
         <td>
             <a href="https://github.com/alrra/browser-logos/tree/fa56692d24b09c57fabf578a30f9ca58ba9c0e4f/src/archive/axis">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/fa56692d24b09c57fabf578a30f9ca58ba9c0e4f/src/archive/axis/axis_512x512.png" alt="Axis browser logo">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/fa56692d24b09c57fabf578a30f9ca58ba9c0e4f/src/archive/axis/axis_512x512.png" alt="Axis browser logo">
             </a>
         </td>
     </tr>

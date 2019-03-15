@@ -1,12 +1,10 @@
 # Firefox Developer Edition
 
-## Logo
-
 <table>
-    <tr height=300>
+    <tr height=230>
         <td>
             <a href="https://github.com/alrra/browser-logos/tree/acaa871f3857ee5d034c600e97e42d187f83b6a9/src/firefox-developer-edition">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/acaa871f3857ee5d034c600e97e42d187f83b6a9/src/firefox-developer-edition/firefox-developer-edition.svg?sanitize=true" alt="Firefox Developer Edition browser logo">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/acaa871f3857ee5d034c600e97e42d187f83b6a9/src/firefox-developer-edition/firefox-developer-edition.svg?sanitize=true" alt="Firefox Developer Edition browser logo">
             </a>
         </td>
     </tr>

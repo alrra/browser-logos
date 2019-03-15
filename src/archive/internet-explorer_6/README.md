@@ -1,12 +1,10 @@
 # Internet Explorer v6
 
-## Logo
-
 <table>
-    <tr height=300>
+    <tr height=230>
         <td>
             <a href="https://github.com/alrra/browser-logos/tree/5e59135de01339a32fe6f552818a49cd716cc86b/src/archive/internet-explorer_6">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/5e59135de01339a32fe6f552818a49cd716cc86b/src/archive/internet-explorer_6/internet-explorer_6_512x512.png" alt="Internet Explorer v6 browser logo">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/5e59135de01339a32fe6f552818a49cd716cc86b/src/archive/internet-explorer_6/internet-explorer_6_512x512.png" alt="Internet Explorer v6 browser logo">
             </a>
         </td>
     </tr>

@@ -1,12 +1,10 @@
 # Rockmelt
 
-## Logo
-
 <table>
-    <tr height=300>
+    <tr height=230>
         <td>
             <a href="https://github.com/alrra/browser-logos/tree/bf79a0ece08d0dc4022c32366d4d414eca15f788/src/archive/rockmelt">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/bf79a0ece08d0dc4022c32366d4d414eca15f788/src/archive/rockmelt/rockmelt_512x512.png" alt="Rockmelt browser logo">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/bf79a0ece08d0dc4022c32366d4d414eca15f788/src/archive/rockmelt/rockmelt_512x512.png" alt="Rockmelt browser logo">
             </a>
         </td>
     </tr>

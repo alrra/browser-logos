@@ -1,12 +1,10 @@
 # Iridium
 
-## Logo
-
 <table>
-    <tr height=300>
+    <tr height=230>
         <td>
             <a href="https://github.com/alrra/browser-logos/tree/a3d360f09037cbd7d9740a97d44f656dad0c5848/src/iridium">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/a3d360f09037cbd7d9740a97d44f656dad0c5848/src/iridium/iridium_512x512.png" alt="Iridium browser logo">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/a3d360f09037cbd7d9740a97d44f656dad0c5848/src/iridium/iridium.svg?sanitize=true" alt="Iridium browser logo">
             </a>
         </td>
     </tr>

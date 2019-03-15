@@ -1,12 +1,10 @@
 # Silk
 
-## Logo
-
 <table>
-    <tr height=300>
+    <tr height=230>
         <td>
             <a href="https://github.com/alrra/browser-logos/tree/1113972bb9b184fcf91220ae8fa4aa8d11a47b01/src/silk">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/1113972bb9b184fcf91220ae8fa4aa8d11a47b01/src/silk/silk_512x512.png" alt="Silk browser logo">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/1113972bb9b184fcf91220ae8fa4aa8d11a47b01/src/silk/silk_512x512.png" alt="Silk browser logo">
             </a>
         </td>
     </tr>

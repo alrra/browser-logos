@@ -1,12 +1,10 @@
 # Microsoft Edge tile
 
-## Logo
-
 <table>
-    <tr height=300>
+    <tr height=230>
         <td>
             <a href="https://github.com/alrra/browser-logos/tree/9b5ba03c91bb705eb66baaf22320d2df2d5e34c5/src/edge-tile">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/9b5ba03c91bb705eb66baaf22320d2df2d5e34c5/src/edge-tile/edge-tile.svg?sanitize=true" alt="Microsoft Edge tile browser logo">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/9b5ba03c91bb705eb66baaf22320d2df2d5e34c5/src/edge-tile/edge-tile.svg?sanitize=true" alt="Microsoft Edge tile browser logo">
             </a>
         </td>
     </tr>

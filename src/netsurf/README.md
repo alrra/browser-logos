@@ -1,12 +1,10 @@
 # NetSurf
 
-## Logo
-
 <table>
-    <tr height=300>
+    <tr height=230>
         <td>
             <a href="https://github.com/alrra/browser-logos/tree/8896bbaa79bd5dba1d44d859f3042e7990791739/src/netsurf">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/8896bbaa79bd5dba1d44d859f3042e7990791739/src/netsurf/netsurf.svg?sanitize=true" alt="NetSurf browser logo">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/8896bbaa79bd5dba1d44d859f3042e7990791739/src/netsurf/netsurf.svg?sanitize=true" alt="NetSurf browser logo">
             </a>
         </td>
     </tr>

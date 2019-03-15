@@ -1,12 +1,10 @@
 # SeaMonkey
 
-## Logo
-
 <table>
-    <tr height=300>
+    <tr height=230>
         <td>
             <a href="https://github.com/alrra/browser-logos/tree/87172f22fb1fdaf0a1eb6f4117f152433c3fdf34/src/seamonkey">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/87172f22fb1fdaf0a1eb6f4117f152433c3fdf34/src/seamonkey/seamonkey_512x512.png" alt="SeaMonkey browser logo">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/87172f22fb1fdaf0a1eb6f4117f152433c3fdf34/src/seamonkey/seamonkey_512x512.png" alt="SeaMonkey browser logo">
             </a>
         </td>
     </tr>

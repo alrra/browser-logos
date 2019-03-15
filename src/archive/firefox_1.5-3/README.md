@@ -1,12 +1,10 @@
 # Firefox v1.5-3
 
-## Logo
-
 <table>
-    <tr height=300>
+    <tr height=230>
         <td>
             <a href="https://github.com/alrra/browser-logos/tree/bcc76f97453be7972f13ed45c9effe5013929803/src/archive/firefox_1.5-3">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/bcc76f97453be7972f13ed45c9effe5013929803/src/archive/firefox_1.5-3/firefox_1.5-3.svg?sanitize=true" alt="Firefox v1.5-3 browser logo">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/bcc76f97453be7972f13ed45c9effe5013929803/src/archive/firefox_1.5-3/firefox_1.5-3.svg?sanitize=true" alt="Firefox v1.5-3 browser logo">
             </a>
         </td>
     </tr>

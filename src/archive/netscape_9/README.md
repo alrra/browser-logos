@@ -1,12 +1,10 @@
 # Netscape v9
 
-## Logo
-
 <table>
-    <tr height=300>
+    <tr height=230>
         <td>
             <a href="https://github.com/alrra/browser-logos/tree/40733715ac460eea4bda4b35b17eebcca4f4faac/src/archive/netscape_9">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/40733715ac460eea4bda4b35b17eebcca4f4faac/src/archive/netscape_9/netscape_9.svg?sanitize=true" alt="Netscape v9 browser logo">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/40733715ac460eea4bda4b35b17eebcca4f4faac/src/archive/netscape_9/netscape_9.svg?sanitize=true" alt="Netscape v9 browser logo">
             </a>
         </td>
     </tr>

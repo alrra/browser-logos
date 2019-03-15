@@ -1,12 +1,10 @@
 # Safari
 
-## Logo
-
 <table>
-    <tr height=300>
+    <tr height=230>
         <td>
             <a href="https://github.com/alrra/browser-logos/tree/af1c11baf549458f4980affba2ea90a903fa62ed/src/safari">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/af1c11baf549458f4980affba2ea90a903fa62ed/src/safari/safari_512x512.png" alt="Safari browser logo">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/af1c11baf549458f4980affba2ea90a903fa62ed/src/safari/safari_512x512.png" alt="Safari browser logo">
             </a>
         </td>
     </tr>

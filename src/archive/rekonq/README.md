@@ -1,12 +1,10 @@
 # Rekonq
 
-## Logo
-
 <table>
-    <tr height=300>
+    <tr height=230>
         <td>
             <a href="https://github.com/alrra/browser-logos/tree/90a4f689e65d43386548cab4398a4bbcadabde33/src/archive/rekonq">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/90a4f689e65d43386548cab4398a4bbcadabde33/src/archive/rekonq/rekonq.svg?sanitize=true" alt="Rekonq browser logo">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/90a4f689e65d43386548cab4398a4bbcadabde33/src/archive/rekonq/rekonq.svg?sanitize=true" alt="Rekonq browser logo">
             </a>
         </td>
     </tr>

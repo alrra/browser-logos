@@ -1,12 +1,10 @@
 # Web (f.k.a. Epiphany)
 
-## Logo
-
 <table>
-    <tr height=300>
+    <tr height=230>
         <td>
             <a href="https://github.com/alrra/browser-logos/tree/f4740c60105f9e414f0de3ccc5ee9ad792f8fe04/src/web">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/f4740c60105f9e414f0de3ccc5ee9ad792f8fe04/src/web/web.svg?sanitize=true" alt="Web (f.k.a. Epiphany) browser logo">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/f4740c60105f9e414f0de3ccc5ee9ad792f8fe04/src/web/web.svg?sanitize=true" alt="Web (f.k.a. Epiphany) browser logo">
             </a>
         </td>
     </tr>

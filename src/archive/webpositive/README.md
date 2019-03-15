@@ -1,12 +1,10 @@
 # WebPositive
 
-## Logo
-
 <table>
-    <tr height=300>
+    <tr height=230>
         <td>
             <a href="https://github.com/alrra/browser-logos/tree/9c3236e3e83b8c183e8e91a009c7331d3f7d78d0/src/archive/webpositive">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/9c3236e3e83b8c183e8e91a009c7331d3f7d78d0/src/archive/webpositive/webpositive.svg?sanitize=true" alt="WebPositive browser logo">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/9c3236e3e83b8c183e8e91a009c7331d3f7d78d0/src/archive/webpositive/webpositive.svg?sanitize=true" alt="WebPositive browser logo">
             </a>
         </td>
     </tr>

@@ -1,12 +1,10 @@
 # Tor
 
-## Logo
-
 <table>
-    <tr height=300>
+    <tr height=230>
         <td>
             <a href="https://github.com/alrra/browser-logos/tree/9c512cbc4b583a51e9ec69c19912b279193ca574/src/tor">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/9c512cbc4b583a51e9ec69c19912b279193ca574/src/tor/tor_512x512.png" alt="Tor browser logo">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/9c512cbc4b583a51e9ec69c19912b279193ca574/src/tor/tor_512x512.png" alt="Tor browser logo">
             </a>
         </td>
     </tr>

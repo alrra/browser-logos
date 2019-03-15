@@ -1,12 +1,10 @@
 # K-Meleon
 
-## Logo
-
 <table>
-    <tr height=300>
+    <tr height=230>
         <td>
             <a href="https://github.com/alrra/browser-logos/tree/8c2a8900a80a78264f1ce976593d4d969dd8cfb5/src/archive/k-meleon">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/8c2a8900a80a78264f1ce976593d4d969dd8cfb5/src/archive/k-meleon/k-meleon.svg?sanitize=true" alt="K-Meleon browser logo">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/8c2a8900a80a78264f1ce976593d4d969dd8cfb5/src/archive/k-meleon/k-meleon.svg?sanitize=true" alt="K-Meleon browser logo">
             </a>
         </td>
     </tr>

@@ -1,12 +1,10 @@
 # Chrome v12-48
 
-## Logo
-
 <table>
-    <tr height=300>
+    <tr height=230>
         <td>
             <a href="https://github.com/alrra/browser-logos/tree/2f206710e50d366ebf09e84779fb614393a59a2b/src/archive/chrome_12-48">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/2f206710e50d366ebf09e84779fb614393a59a2b/src/archive/chrome_12-48/chrome_12-48_512x512.png" alt="Chrome v12-48 browser logo">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/2f206710e50d366ebf09e84779fb614393a59a2b/src/archive/chrome_12-48/chrome_12-48_512x512.png" alt="Chrome v12-48 browser logo">
             </a>
         </td>
     </tr>
