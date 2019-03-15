@@ -3,8 +3,8 @@
 <table>
     <tr height=230>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/75f1dc4267f899cf3f3802352cbc2a3b074ed54c/src/jsdom">
-                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/75f1dc4267f899cf3f3802352cbc2a3b074ed54c/src/jsdom/jsdom.svg?sanitize=true" alt="jsdom browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/fe67c07fd39322ac5378f63f9f9d50422d7658b7/src/jsdom">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/fe67c07fd39322ac5378f63f9f9d50422d7658b7/src/jsdom/jsdom.svg?sanitize=true" alt="jsdom browser logo">
             </a>
         </td>
     </tr>
