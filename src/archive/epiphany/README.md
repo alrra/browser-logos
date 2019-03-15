@@ -3,8 +3,8 @@
 <table>
     <tr height=230>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/8e3db5b253c76483e50bc50983c17f880d37b163/src/archive/epiphany">
-                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/8e3db5b253c76483e50bc50983c17f880d37b163/src/archive/epiphany/epiphany.svg?sanitize=true" alt="Epiphany browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/fe67c07fd39322ac5378f63f9f9d50422d7658b7/src/archive/epiphany">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/fe67c07fd39322ac5378f63f9f9d50422d7658b7/src/archive/epiphany/epiphany.svg?sanitize=true" alt="Epiphany browser logo">
             </a>
         </td>
     </tr>
