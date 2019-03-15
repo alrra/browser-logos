@@ -3,8 +3,8 @@
 <table>
     <tr height=230>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/5a3d2f577a2488f1c1483b18d4aabb1380f65799/src/archive/firefox-aurora_23-35">
-                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/5a3d2f577a2488f1c1483b18d4aabb1380f65799/src/archive/firefox-aurora_23-35/firefox-aurora_23-35_512x512.png" alt="Firefox Aurora v23-35 browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/fe67c07fd39322ac5378f63f9f9d50422d7658b7/src/archive/firefox-aurora_23-35">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/fe67c07fd39322ac5378f63f9f9d50422d7658b7/src/archive/firefox-aurora_23-35/firefox-aurora_23-35_512x512.png" alt="Firefox Aurora v23-35 browser logo">
             </a>
         </td>
     </tr>
