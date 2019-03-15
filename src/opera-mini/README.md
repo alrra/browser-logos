@@ -3,8 +3,8 @@
 <table>
     <tr height=230>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/cff2532e719e28be4ed0b313bcd72fa979df1053/src/opera-mini">
-                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/cff2532e719e28be4ed0b313bcd72fa979df1053/src/opera-mini/opera-mini_512x512.png" alt="Opera Mini browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/fe67c07fd39322ac5378f63f9f9d50422d7658b7/src/opera-mini">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/fe67c07fd39322ac5378f63f9f9d50422d7658b7/src/opera-mini/opera-mini_512x512.png" alt="Opera Mini browser logo">
             </a>
         </td>
     </tr>
