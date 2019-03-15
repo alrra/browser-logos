@@ -3,8 +3,8 @@
 <table>
     <tr height=230>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/ef3aeb4053788411ccfac121afd712d57a9388eb/src/archive/iceape">
-                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/ef3aeb4053788411ccfac121afd712d57a9388eb/src/archive/iceape/iceape.svg?sanitize=true" alt="Iceape browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/fe67c07fd39322ac5378f63f9f9d50422d7658b7/src/archive/iceape">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/fe67c07fd39322ac5378f63f9f9d50422d7658b7/src/archive/iceape/iceape.svg?sanitize=true" alt="Iceape browser logo">
             </a>
         </td>
     </tr>
