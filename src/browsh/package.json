@@ -8,7 +8,6 @@
     "browsh",
     "browsh-logo"
   ],
-  "private": true,
   "name": "@browser-logos/browsh",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"
