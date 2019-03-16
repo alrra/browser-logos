@@ -8,7 +8,6 @@
     "maxthon",
     "maxthon-logo"
   ],
-  "private": true,
   "name": "@browser-logos/maxthon",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"
