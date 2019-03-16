@@ -20,72 +20,6 @@
     </tbody>
 </table>
 
-### Adrenaline
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://web.archive.org/web/20141218215235/http://www.adrenalinemobility.com/">Adrenaline</a>
-                <a href="#note"><code>*</code></a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="adrenaline">
-                    <img width=150 src="adrenaline/adrenaline_256x256.png" alt="Adrenaline browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-### AirWeb
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://web.archive.org/web/20160316122907/http://airwebapp.com/">AirWeb</a>
-                <a href="#note"><code>*</code></a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="airweb">
-                    <img width=150 src="airweb/airweb_256x256.png" alt="AirWeb browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-### AllInOne
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://web.archive.org/web/20150801011234/http://allinonebrowser.com/">AllInOne</a>
-                <a href="#note"><code>*</code></a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="allinone">
-                    <img width=150 src="allinone/allinone_256x256.png" alt="AllInOne browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
 ### Amigo
 
 <table>
@@ -151,28 +85,6 @@
     </tbody>
 </table>
 
-### Apollo
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://web.archive.org/web/20141006164535/http://apollobrowser.wordpress.com/the-most-innovative-browser-for-ipad/">Apollo</a>
-                <a href="#note"><code>*</code></a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="apollo">
-                    <img width=150 src="apollo/apollo_256x256.png" alt="Apollo browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
 ### Arora
 
 <table>
@@ -188,28 +100,6 @@
             <td>
                 <a href="arora">
                     <img width=150 src="arora/arora.svg" alt="Arora browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-### Atomic
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://web.archive.org/web/20150801050429/http://atomicwebbrowser.com/">Atomic</a>
-                <a href="#note"><code>*</code></a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="atomic">
-                    <img width=150 src="atomic/atomic_256x256.png" alt="Atomic browser logo">
                 </a>
             </td>
         </tr>
@@ -341,27 +231,6 @@
     </tbody>
 </table>
 
-### Boat
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://web.archive.org/web/20170211081508/http://www.boatmob.com/mobile/product_browser_free.html">Boat</a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="boat">
-                    <img width=150 src="boat/boat_256x256.png" alt="Boat browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
 ### Brave
 
 <table>
@@ -387,28 +256,6 @@
             <td>
                 <a href="brave_2">
                     <img width=150 src="brave_2/brave_2.svg" alt="Brave browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-### Breach
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://github.com/breach">Breach</a>
-                <a href="#note"><code>*</code></a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="breach">
-                    <img width=150 src="breach/breach_256x256.png" alt="Breach browser logo">
                 </a>
             </td>
         </tr>
@@ -608,28 +455,6 @@
     </tbody>
 </table>
 
-### Cliqz
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://en.wikipedia.org/wiki/Cliqz">Cliqz</a>
-                <a href="#note"><code>*</code></a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="cliqz">
-                    <img width=150 src="cliqz/cliqz_256x256.png" alt="Cliqz browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
 ### CM
 
 <table>
@@ -708,90 +533,6 @@
             <td>
                 <a href="cruz">
                     <img width=150 src="cruz/cruz_256x256.png" alt="Cruz browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-### CXM Web
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                CXM Web
-                <a href="#note"><code>*</code></a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="cxm-web">
-                    <img width=150 src="cxm-web/cxm-web_256x256.png" alt="CXM Web browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-### Diigo
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://en.wikipedia.org/wiki/Diigo">Diigo</a>
-                <a href="#note"><code>*</code></a>
-            </th>
-            <th>
-                <a href="https://en.wikipedia.org/wiki/Diigo">Diigo</a>
-                <a href="#note"><code>*</code></a>
-            </th>
-            <th>
-                <a href="https://en.wikipedia.org/wiki/Diigo">Diigo</a>
-                <a href="#note"><code>*</code></a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="diigo_1">
-                    <img width=150 src="diigo_1/diigo_1_256x256.png" alt="Diigo browser logo">
-                </a>
-            </td>
-            <td>
-                <a href="diigo_2">
-                    <img width=150 src="diigo_2/diigo_2_256x256.png" alt="Diigo browser logo">
-                </a>
-            </td>
-            <td>
-                <a href="diigo_3">
-                    <img width=150 src="diigo_3/diigo_3_256x256.png" alt="Diigo browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-### Docler
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://web.archive.org/web/20150801111856/http://doclerbrowser.com/">Docler</a>
-                <a href="#note"><code>*</code></a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="docler">
-                    <img width=150 src="docler/docler_256x256.png" alt="Docler browser logo">
                 </a>
             </td>
         </tr>
@@ -882,28 +623,6 @@
     </tbody>
 </table>
 
-### Endless
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://github.com/jcs/endless">Endless</a>
-                <a href="#note"><code>*</code></a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="endless">
-                    <img width=150 src="endless/endless_256x256.png" alt="Endless browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
 ### Epic
 
 <table>
@@ -941,37 +660,6 @@
             <td>
                 <a href="epiphany">
                     <img width=150 src="epiphany/epiphany.svg" alt="Epiphany browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-### Exsoul
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://web.archive.org/web/20150803013210/http://www.exsoul-browser.com/">Exsoul</a>
-                <a href="#note"><code>*</code></a>
-            </th>
-            <th>
-                <a href="https://web.archive.org/web/20150803013210/http://www.exsoul-browser.com/">Exsoul</a>
-                <a href="#note"><code>*</code></a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="exsoul_1">
-                    <img width=150 src="exsoul_1/exsoul_1_256x256.png" alt="Exsoul browser logo">
-                </a>
-            </td>
-            <td>
-                <a href="exsoul_2">
-                    <img width=150 src="exsoul_2/exsoul_2_256x256.png" alt="Exsoul browser logo">
                 </a>
             </td>
         </tr>
@@ -1238,50 +926,6 @@
     </tbody>
 </table>
 
-### GreenBrowser
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://en.wikipedia.org/wiki/GreenBrowser">GreenBrowser</a>
-                <a href="#note"><code>*</code></a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="greenbrowser">
-                    <img width=150 src="greenbrowser/greenbrowser_256x256.png" alt="GreenBrowser browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-### iCab (Mobile)
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://en.wikipedia.org/wiki/ICab">iCab<br>(Mobile)</a>
-                <a href="#note"><code>*</code></a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="icab-mobile">
-                    <img width=150 src="icab-mobile/icab-mobile_256x256.png" alt="iCab Mobile browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
 ### Iceape
 
 <table>
@@ -1318,37 +962,6 @@
             <td>
                 <a href="iceweasel">
                     <img width=150 src="iceweasel/iceweasel.svg" alt="Iceweasel browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-### iLunascape
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://en.wikipedia.org/wiki/Lunascape">iLunascape <br>(Android)</a>
-                <a href="#note"><code>*</code></a>
-            </th>
-            <th>
-                <a href="https://en.wikipedia.org/wiki/Lunascape">iLunascape <br>(iOS)</a>
-                <a href="#note"><code>*</code></a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="ilunascape-android">
-                    <img width=150 src="ilunascape-android/ilunascape-android_256x256.png" alt="iLunascape for Android browser logo">
-                </a>
-            </td>
-            <td>
-                <a href="ilunascape-ios">
-                    <img width=150 src="ilunascape-ios/ilunascape-ios_256x256.png" alt="iLunascape for iOS browser logo">
                 </a>
             </td>
         </tr>
@@ -1464,28 +1077,6 @@
     </tbody>
 </table>
 
-### K9
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://en.wikipedia.org/wiki/K9_Web_Protection">K9</a>
-                <a href="#note"><code>*</code></a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="k9">
-                    <img width=150 src="k9/k9_256x256.png" alt="K9 browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
 ### KidZui
 
 <table>
@@ -1536,79 +1127,6 @@
     </tbody>
 </table>
 
-### Kylo
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://en.wikipedia.org/wiki/Kylo_%28web_browser%29">Kylo</a>
-                <a href="#note"><code>*</code></a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="kylo">
-                    <img width=150 src="kylo/kylo.svg" alt="Kylo browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-### Lightning
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://github.com/anthonycr/Lightning-Browser/">Lightning</a>
-                <a href="#note"><code>*</code></a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="lightning">
-                    <img width=150 src="lightning/lightning_256x256.png" alt="Lightning browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-### Link Bubble
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://web.archive.org/web/20150320102407/http://www.linkbubble.com/">Link Bubble<br>1-1.4</a>
-            </th>
-            <th>
-                <a href="https://web.archive.org/web/20150320102407/http://www.linkbubble.com/">Link Bubble<br>1.5-1.7</a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="link-bubble_1-1.4">
-                    <img width=150 src="link-bubble_1-1.4/link-bubble_1-1.4_256x256.png" alt="Link Bubble 1-1.4 browser logo">
-                </a>
-            </td>
-            <td>
-                <a href="link-bubble_1.5-1.7">
-                    <img width=150 src="link-bubble_1.5-1.7/link-bubble_1.5-1.7_256x256.png" alt="Link Bubble 1.5-1.7 browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
 ### Links
 
 <table>
@@ -1624,28 +1142,6 @@
             <td>
                 <a href="links">
                     <img width=150 src="links/links_256x256.png" alt="Links browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-### Liri
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://github.com/liri-project/liri-browser#readme">Liri</a>
-                <a href="#note"><code>*</code></a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="liri">
-                    <img width=150 src="liri/liri_256x256.png" alt="Liri browser logo">
                 </a>
             </td>
         </tr>
@@ -1696,90 +1192,6 @@
     </tbody>
 </table>
 
-### Mercury
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://en.wikipedia.org/wiki/Mercury_Browser">Mercury</a>
-                <a href="#note"><code>*</code></a>
-            </th>
-            <th>
-                <a href="https://en.wikipedia.org/wiki/Mercury_Browser">Mercury</a>
-                <a href="#note"><code>*</code></a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="mercury_1">
-                    <img width=150 src="mercury_1/mercury_1_256x256.png" alt="Mercury browser logo">
-                </a>
-            </td>
-            <td>
-                <a href="mercury_2">
-                    <img width=150 src="mercury_2/mercury_2_256x256.png" alt="Mercury browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-### MetaCert
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://web.archive.org/web/20150624200845/https://metacert.com/">MetaCert</a>
-                <a href="#note"><code>*</code></a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="metacert">
-                    <img width=150 src="metacert/metacert_256x256.png" alt="MetaCert browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-### Mobicip
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://en.wikipedia.org/wiki/Mobicip">Mobicip</a>
-                <a href="#note"><code>*</code></a>
-            </th>
-            <th>
-                <a href="https://en.wikipedia.org/wiki/Mobicip">Mobicip</a>
-                <a href="#note"><code>*</code></a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="mobicip_1">
-                    <img width=150 src="mobicip_1/mobicip_1_256x256.png" alt="Mobicip browser logo">
-                </a>
-            </td>
-            <td>
-                <a href="mobicip_2">
-                    <img width=150 src="mobicip_2/mobicip_2_256x256.png" alt="Mobicip browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
 ### Mosaic
 
 <table>
@@ -1795,28 +1207,6 @@
             <td>
                 <a href="mosaic">
                     <img width=150 src="mosaic/mosaic_256x256.png" alt="Mosaic browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-### Moznet Fire
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://web.archive.org/web/20141023171026/http://www.moznet.bplaced.net/">Moznet Fire</a>
-                <a href="#note"><code>*</code></a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="moznet-fire">
-                    <img width=150 src="moznet-fire/moznet-fire_256x256.png" alt="Moznet Fire browser logo">
                 </a>
             </td>
         </tr>
@@ -1860,94 +1250,6 @@
     </tbody>
 </table>
 
-### Next
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://web.archive.org/web/20141116131240/http://nextbrowser.goforandroid.com/">Next</a>
-                <a href="#note"><code>*</code></a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="next">
-                    <img width=150 src="next/next_256x256.png" alt="Next browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-### Ninesky
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://web.archive.org/web/20140102181923/http://ninesky.com/">Ninesky</a>
-                <a href="#note"><code>*</code></a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="ninesky">
-                    <img width=150 src="ninesky/ninesky_256x256.png" alt="Ninesky browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-### NLIA
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://web.archive.org/web/20150411053800/http://e.netpia.com/">NLIA</a>
-                <a href="#note"><code>*</code></a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="nlia">
-                    <img width=150 src="nlia/nlia_256x256.png" alt="NLIA browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-### Omega
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://web.archive.org/web/20130330103419/http://ddmsite.ucoz.ru/">Omega</a>
-                <a href="#note"><code>*</code></a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="omega">
-                    <img width=150 src="omega/omega_256x256.png" alt="Omega browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
 ### OmniWeb
 
 <table>
@@ -1971,37 +1273,6 @@
             <td>
                 <a href="omniweb_6">
                     <img width=150 src="omniweb_6/omniweb_6_256x256.png" alt="OmniWeb 6 browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-### ONE
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://web.archive.org/web/20140406142259/http://one-browser.com/mobile/home/">ONE<br>(Android)</a>
-                <a href="#note"><code>*</code></a>
-            </th>
-            <th>
-                <a href="https://web.archive.org/web/20140406142259/http://one-browser.com/mobile/home/">ONE<br>(iOS)</a>
-                <a href="#note"><code>*</code></a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="one-android">
-                    <img width=150 src="one-android/one-android_256x256.png" alt="ONE for Android browser logo">
-                </a>
-            </td>
-            <td>
-                <a href="one-ios">
-                    <img width=150 src="one-ios/one-ios_256x256.png" alt="ONE for iOS browser logo">
                 </a>
             </td>
         </tr>
@@ -2177,48 +1448,6 @@
     </tbody>
 </table>
 
-### Orfox
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://guardianproject.info/apps/orfox/">Orfox</a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="orfox">
-                    <img width=150 src="orfox/orfox.svg" alt="Orfox browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-### Orweb
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://web.archive.org/web/20150802023241/https://guardianproject.info/apps/orweb/">Orweb</a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="orweb">
-                    <img width=150 src="orweb/orweb_256x256.png" alt="Orweb browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
 ### PhantomJS
 
 <table>
@@ -2234,28 +1463,6 @@
             <td>
                 <a href="phantomjs">
                     <img width=150 src="phantomjs/phantomjs.svg" alt="PhantomJS browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-### Photon
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://web.archive.org/web/20150629011134/http://www.appsverse.com/Index">Photon</a>
-                <a href="#note"><code>*</code></a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="photon">
-                    <img width=150 src="photon/photon_256x256.png" alt="Photon browser logo">
                 </a>
             </td>
         </tr>
@@ -2353,28 +1560,6 @@
             <td>
                 <a href="rekonq">
                     <img width=150 src="rekonq/rekonq.svg" alt="rekonq browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-### Roccat
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://web.archive.org/web/20160708015650/http://runecats.com/">Roccat</a>
-                <a href="#note"><code>*</code></a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="roccat">
-                    <img width=150 src="roccat/roccat_256x256.png" alt="Roccat browser logo">
                 </a>
             </td>
         </tr>
@@ -2583,81 +1768,6 @@
     </tbody>
 </table>
 
-### Sleipnir
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="http://www.fenrir-inc.com/jp/sleipnir/">Sleipnir</a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="sleipnir">
-                    <img width=150 src="sleipnir/sleipnir_256x256.png" alt="Sleipnir browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-
-### Sleipnir (Mobile)
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://en.wikipedia.org/wiki/Sleipnir_%28web_browser%29">Sleipnir<br>(Mobile)</a>
-                <a href="#note"><code>*</code></a>
-            </th>
-            <th>
-                <a href="https://en.wikipedia.org/wiki/Sleipnir_%28web_browser%29">Sleipnir<br>(Mobile)</a>
-                <a href="#note"><code>*</code></a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="sleipnir-mobile_1">
-                    <img width=150 src="sleipnir-mobile_1/sleipnir-mobile_1_256x256.png" alt="Sleipnir Mobile browser logo">
-                </a>
-            </td>
-            <td>
-                <a href="sleipnir-mobile_2">
-                    <img width=150 src="sleipnir-mobile_2/sleipnir-mobile_2_256x256.png" alt="Sleipnir Mobile browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-### SlimBoat
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://en.wikipedia.org/wiki/SlimBrowser">SlimBoat</a>
-                <a href="#note"><code>*</code></a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="slimboat">
-                    <img width=150 src="slimboat/slimboat_256x256.png" alt="SlimBoat browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
 ### Sogou (Mobile)
 
 <table>
@@ -2719,72 +1829,6 @@
     </tbody>
 </table>
 
-### Stainless
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://github.com/mesadynamics/stainless">Stainless</a>
-                <a href="#note"><code>*</code></a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="stainless">
-                    <img width=150 src="stainless/stainless_256x256.png" alt="Stainless browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-### Streamy
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://www.streamybrowser.com/">Streamy</a>
-                <a href="#note"><code>*</code></a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="streamy">
-                    <img width=150 src="streamy/streamy.svg" alt="Streamy browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-### Super Fast
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://web.archive.org/web/20150423215607/http://www.sfbrowser.com/">Super Fast</a>
-                <a href="#note"><code>*</code></a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="superfast">
-                    <img width=150 src="superfast/superfast_256x256.png" alt="Super Fast browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
 ### surf
 
 <table>
@@ -2807,93 +1851,6 @@
     </tbody>
 </table>
 
-### Swiftfox
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://en.wikipedia.org/wiki/Swiftfox">Swiftfox</a>
-                <a href="#note"><code>*</code></a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="swiftfox">
-                    <img width=150 src="swiftfox/swiftfox_256x256.png" alt="Swiftfox browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-#### Tob
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://web.archive.org/web/20181228031613/https://itunes.apple.com/us/app/tob/id1063151782?mt=8">Tob</a>
-                <a href="#note"><code>*</code></a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="tob">
-                    <img width=150 src="tob/tob_256x256.png" alt="Tob browser Logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-### Tofino
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://mozilla.github.io/tofino/">Tofino</a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="tofino">
-                    <img width=150 src="tofino/tofino_256x256.png" alt="Project Tofino browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-### Torch
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://en.wikipedia.org/wiki/Torch_%28browser%29">Torch</a>
-                <a href="#note"><code>*</code></a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="torch">
-                    <img width=150 src="torch/torch_256x256.png" alt="Torch browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
 ### UC
 
 <table>
@@ -2910,50 +1867,6 @@
             <td>
                 <a href="uc">
                     <img width=150 src="uc/uc_256x256.png" alt="UC browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-### Uzbl
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://en.wikipedia.org/wiki/Uzbl">Uzbl</a>
-                <a href="#note"><code>*</code></a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="uzbl">
-                    <img width=150 src="uzbl/uzbl.svg" alt="Uzbl browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-### Vitrum
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://web.archive.org/web/20140928181625/https://itunes.apple.com/us/app/vitrum-unique-web-browser/id569847799?mt=8">Vitrum</a>
-                <a href="#note"><code>*</code></a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="vitrum">
-                    <img width=150 src="vitrum/vitrum_256x256.png" alt="Vitrum browser logo">
                 </a>
             </td>
         </tr>
@@ -3000,28 +1913,6 @@
             <td><a href="vivaldi-snapshot">
                 <img width=150 src="vivaldi-snapshot/vivaldi-snapshot_256x256.png" alt="Vivaldi Snapshot browser logo">
             </a></td>
-        </tr>
-    </tbody>
-</table>
-
-### WaterFox
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://en.wikipedia.org/wiki/Waterfox">WaterFox</a>
-                <a href="#note"><code>*</code></a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="waterfox">
-                    <img width=150 src="waterfox/waterfox_256x256.png" alt="WaterFox browser logo">
-                </a>
-            </td>
         </tr>
     </tbody>
 </table>
@@ -3127,28 +2018,6 @@
     </tbody>
 </table>
 
-### Xombrero
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://en.wikipedia.org/wiki/Xombrero">Xombrero</a>
-                <a href="#note"><code>*</code></a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="xombrero">
-                    <img width=150 src="xombrero/xombrero_256x256.png" alt="Xombrero browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
 ### Xpress
 
 <table>
@@ -3165,28 +2034,6 @@
             <td>
                 <a href="xpress">
                     <img width=150 src="xpress/xpress_256x256.png" alt="Xpress browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-### Xtravo
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://github.com/sheikhimran01/xtravo">Xtravo</a>
-                <a href="#note"><code>*</code></a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="xtravo">
-                    <img width=150 src="xtravo/xtravo_256x256.png" alt="Xtravo browser logo">
                 </a>
             </td>
         </tr>

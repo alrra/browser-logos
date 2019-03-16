@@ -124,27 +124,6 @@
     </tbody>
 </table>
 
-### Blisk
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://blisk.io/">Blisk</a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="blisk">
-                    <img width=150 src="blisk/blisk.svg" alt="Blisk browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
 ### Brave
 
 <table>
@@ -197,27 +176,6 @@
             <td>
                 <a href="browsh">
                     <img width=150 src="browsh/browsh.svg" alt="browsh browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-#### Cent
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://www.centbrowser.com">Cent</a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="cent">
-                    <img width=150 src="cent/cent.svg" alt="Cent browser Logo">
                 </a>
             </td>
         </tr>
@@ -311,27 +269,6 @@
     </tbody>
 </table>
 
-### Cliqz
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://cliqz.com/">Cliqz</a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="cliqz">
-                    <img width=150 src="cliqz/cliqz.svg" alt="Cliqz browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
 ### Cốc Cốc
 
 <table>
@@ -353,27 +290,6 @@
     </tbody>
 </table>
 
-### Crusta
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://github.com/Crusta/CrustaBrowser">Crusta</a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="crusta">
-                    <img width=150 src="crusta/crusta.svg" alt="Crusta browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
 ### Dolphin
 
 <table>
@@ -389,27 +305,6 @@
             <td>
                 <a href="dolphin">
                     <img width=150 src="dolphin/dolphin_256x256.png" alt="Dolphin browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-### Dooble
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://textbrowser.github.io/dooble/">Dooble</a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="dooble">
-                    <img width=150 src="dooble/dooble_256x256.png" alt="Dooble browser logo">
                 </a>
             </td>
         </tr>
@@ -606,27 +501,6 @@
     </tbody>
 </table>
 
-### iCab (Mobile)
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="http://www.icab.de/mobile.html">iCab<br>(Mobile)</a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="icab-mobile">
-                    <img width=150 src="icab-mobile/icab-mobile_256x256.png" alt="iCab Mobile browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
 ### IceCat
 
 <table>
@@ -684,27 +558,6 @@
             <td>
                 <a href="jsdom">
                     <img width=150 src="jsdom/jsdom.svg" alt="jsdom browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-### Lightning
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://github.com/anthonycr/Lightning-Browser/">Lightning</a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="lightning">
-                    <img width=150 src="lightning/lightning_256x256.png" alt="Lightning browser logo">
                 </a>
             </td>
         </tr>
@@ -837,27 +690,6 @@
     </tbody>
 </table>
 
-### Onion
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://onionbrowser.com/">Onion</a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="onion">
-                    <img width=150 src="onion/onion_256x256.png" alt="Onion browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
 ### Opera
 
 <table>
@@ -966,27 +798,6 @@
     </tbody>
 </table>
 
-### Orbitum
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://orbitum.com/">Orbitum</a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="orbitum">
-                    <img width=150 src="orbitum/orbitum_256x256.png" alt="Orbitum browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
 ### Otter
 
 <table>
@@ -1044,27 +855,6 @@
             <td>
                 <a href="phoenix">
                     <img width=150 src="phoenix/phoenix_256x256.png" alt="Phoenix browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-### Polarity
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="http://polarityweb.weebly.com/">Polarity</a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="polarity">
-                    <img width=150 src="polarity/polarity_256x256.png" alt="Polarity browser logo">
                 </a>
             </td>
         </tr>
@@ -1515,27 +1305,6 @@
             <td>
                 <a href="vivaldi-snapshot">
                     <img width=150 src="vivaldi-snapshot/vivaldi-snapshot.png" alt="Vivaldi Snapshot browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-### WaterFox
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://www.waterfoxproject.org/">WaterFox</a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="waterfox">
-                    <img width=150 src="waterfox/waterfox_256x256.png" alt="WaterFox browser logo">
                 </a>
             </td>
         </tr>
