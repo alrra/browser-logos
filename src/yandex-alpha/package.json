@@ -8,7 +8,6 @@
     "yandex-alpha",
     "yandex-alpha-logo"
   ],
-  "private": true,
   "name": "@browser-logos/yandex-alpha",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"
