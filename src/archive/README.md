@@ -268,7 +268,7 @@
     <thead>
         <tr>
             <th>
-                <a href="https://en.wikipedia.org/wiki/Camino">Camino</a>
+                <a href="https://en.wikipedia.org/wiki/Camino_%28web_browser%29">Camino</a>
             </th>
         </tr>
     </thead>
