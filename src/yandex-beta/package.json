@@ -8,7 +8,6 @@
     "yandex-beta",
     "yandex-beta-logo"
   ],
-  "private": true,
   "name": "@browser-logos/yandex-beta",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"
