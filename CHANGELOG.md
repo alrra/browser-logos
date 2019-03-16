@@ -1,3 +1,19 @@
+# 49.0.0 (March 16, 2019)
+
+## Breaking Changes
+
+* [[`bf0d74a371`](https://github.com/alrra/browser-logos/commit/bf0d74a37179c9969afc6dbb9dc5c48fe1f5dd67)] - 💥 Remove logos that don't meet requirements (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+## New features
+
+* [[`689036a718`](https://github.com/alrra/browser-logos/commit/689036a7186b550ae92a4e843bd0870c3f85687d)] - ✨ Publish `Yandex Lite` logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`4f03500178`](https://github.com/alrra/browser-logos/commit/4f03500178d9bec02e6f0bc836a9e5a64749035c)] - ✨ Publish `Yandex Beta` logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`19863a7bfe`](https://github.com/alrra/browser-logos/commit/19863a7bfe69aba11931e5d26ae2355fd8ffb84f)] - ✨ Publish `Yandex Alpha` logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`2d841efe45`](https://github.com/alrra/browser-logos/commit/2d841efe458a833b7850c0e7e914042c5cef3db4)] - ✨ Publish `Maxthon` logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`c8c1f981da`](https://github.com/alrra/browser-logos/commit/c8c1f981daad563f6638ac2f426236cbae0c5777)] - ✨ Publish `Falkon` logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`43a515f272`](https://github.com/alrra/browser-logos/commit/43a515f272f6616490f0830c8686667db21476a8)] - ✨ Publish `Xpress` logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 48.0.4 (March 15, 2019)
 
 ## Bug fixes / Improvements
