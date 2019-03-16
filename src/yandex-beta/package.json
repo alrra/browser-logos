@@ -1,0 +1,15 @@
+{
+  "bugs": "https://github.com/alrra/browser-logos/issues",
+  "description": "Yandex Beta browser logo",
+  "homepage": "https://github.com/alrra/browser-logos",
+  "keywords": [
+    "browser-logos",
+    "logo",
+    "yandex-beta",
+    "yandex-beta-logo"
+  ],
+  "private": true,
+  "name": "@browser-logos/yandex-beta",
+  "repository": "alrra/browser-logos",
+  "version": "1.0.0"
+}

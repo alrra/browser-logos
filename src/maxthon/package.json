@@ -1,0 +1,15 @@
+{
+  "bugs": "https://github.com/alrra/browser-logos/issues",
+  "description": "Maxthon browser logo",
+  "homepage": "https://github.com/alrra/browser-logos",
+  "keywords": [
+    "browser-logos",
+    "logo",
+    "maxthon",
+    "maxthon-logo"
+  ],
+  "private": true,
+  "name": "@browser-logos/maxthon",
+  "repository": "alrra/browser-logos",
+  "version": "1.0.0"
+}
