@@ -8,7 +8,6 @@
     "yandex-lite",
     "yandex-lite-logo"
   ],
-  "private": true,
   "name": "@browser-logos/yandex-lite",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"
