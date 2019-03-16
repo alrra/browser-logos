@@ -8,7 +8,6 @@
     "falkon",
     "falkon-logo"
   ],
-  "private": true,
   "name": "@browser-logos/falkon",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"
