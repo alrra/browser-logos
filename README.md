@@ -87,7 +87,7 @@ you want, for whatever reason, that logo removed from this project,
 [open an issue][issues] requesting its takedown and we will remove
 it as soon as possible.
 
-Everything else is available under the MIT license.
+Everything else is available under the [MIT license][license].
 
 ## Project origin and history
 
