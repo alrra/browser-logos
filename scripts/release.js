@@ -92,12 +92,43 @@ const prettyPrintArray = (a) => {
     return [a.slice(0, -1).join(', '), a.slice(-1)[0]].join(a.length < 2 ? '' : ', and ');
 };
 
+const prettyPrintBrowserName = (str) => {
+    return str.replace(/-/g, ' ')
+        .split(' ')
+        .map((s) => s.charAt(0).toUpperCase() + s.substring(1))
+        .join(' ');
+};
+
 const prettyPrintCommit = async (commit) => {
 
     let additionalInfo = false;
     let commitAuthorInfo = '';
     let issuesInfo = '';
-    let result = `* [[\`${commit.sha.substring(0, 10)}\`](${github.repositoryURL}/commit/${commit.sha})] - ${commit.title}`;
+    let commitTitle = commit.title;
+
+    // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+    // Handle special case, transform something such as:
+    //
+    //   🚀 browser-name - v1.0.0 [skip ci]
+    //
+    // to
+    //
+    //   ✨ Publish `Browser Name` logo on `npm`
+
+    if (commit.tag === '🚀') {
+        if (commit.title.indexOf('v1.0.0') !== -1 ) {
+            const browserName = commit.title.split(' ')[1];
+
+            commitTitle = `✨ Publish \`${prettyPrintBrowserName(browserName)}\` logo on \`npm\``;
+        } else {
+            return '';
+        }
+    }
+
+    // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+    let result = `* [[\`${commit.sha.substring(0, 10)}\`](${github.repositoryURL}/commit/${commit.sha})] - ${commitTitle}`;
 
     // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -137,7 +168,11 @@ const generateChangelogSection = async (title, tags, commits) => {
 
     for (const commit of commits) {
         if (tags.includes(commit.tag)) {
-            result += `${await prettyPrintCommit(commit)}\n`;
+            const msg = await prettyPrintCommit(commit);
+
+            if (msg) {
+                result += `${msg}\n`;
+            }
         }
     }
 
@@ -152,11 +187,19 @@ const getChangelogContent = (ctx) => {
     return `# ${ctx.newPackageVersion} (${getDate()})\n\n${ctx.packageReleaseNotes}\n`;
 };
 
-const getChangelogData = async (commits = []) => {
+const getChangelogData = async (commits = [], isPackage = true) => {
 
-    const breakingChanges = await generateChangelogSection('Breaking Changes', ['💥'], commits);
-    const bugFixesAndImprovements = await generateChangelogSection('Bug fixes / Improvements', ['🐛', '📚', '🔧', '🗜️'], commits);
-    const newFeatures = await generateChangelogSection('New features', ['✨'], commits);
+    const tagsBreakingChanges = ['💥'];
+    const tagsBugFixesAndImprovements = ['🐛', '📚', '🔧', '🗜️'];
+    const tagsNewFeatures = ['✨'];
+
+    if (!isPackage) {
+        tagsNewFeatures.push('🚀');
+    }
+
+    const breakingChanges = await generateChangelogSection('Breaking Changes', tagsBreakingChanges, commits);
+    const bugFixesAndImprovements = await generateChangelogSection('Bug fixes / Improvements', tagsBugFixesAndImprovements, commits);
+    const newFeatures = await generateChangelogSection('New features', tagsNewFeatures, commits);
 
     if (!breakingChanges &&
         !bugFixesAndImprovements &&
@@ -193,7 +236,7 @@ const getChangelogData = async (commits = []) => {
 };
 
 const getReleaseData = async (ctx) => {
-    const changelogData = await getChangelogData(ctx.commitSHAsSinceLastRelease);
+    const changelogData = await getChangelogData(ctx.commitSHAsSinceLastRelease, ctx.isPackage);
 
     if (!changelogData) {
         ctx.skipRemainingTasks = true;
