@@ -8,7 +8,6 @@
     "chrome-dev",
     "chrome-dev-logo"
   ],
-  "private": true,
   "name": "@browser-logos/chrome-dev_37-59",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"
