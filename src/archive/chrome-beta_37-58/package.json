@@ -8,7 +8,6 @@
     "chrome-beta",
     "chrome-beta-logo"
   ],
-  "private": true,
   "name": "@browser-logos/chrome-beta_37-58",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"
