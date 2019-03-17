@@ -1,0 +1,15 @@
+{
+  "bugs": "https://github.com/alrra/browser-logos/issues",
+  "description": "Chrome Dev v37-59 browser logo",
+  "homepage": "https://github.com/alrra/browser-logos",
+  "keywords": [
+    "browser-logos",
+    "logo",
+    "chrome-dev",
+    "chrome-dev-logo"
+  ],
+  "private": true,
+  "name": "@browser-logos/chrome-dev_37-59",
+  "repository": "alrra/browser-logos",
+  "version": "1.0.0"
+}
