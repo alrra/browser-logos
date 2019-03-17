@@ -1,3 +1,15 @@
+# 49.1.0 (March 17, 2019)
+
+## Bug fixes / Improvements
+
+* [[`fc37a2af78`](https://github.com/alrra/browser-logos/commit/fc37a2af78deee87920b798a132f0d59d0f0cddc)] - 🗜️ Further optimize images (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+## New features
+
+* [[`ec66f56e4c`](https://github.com/alrra/browser-logos/commit/ec66f56e4c3f1cb2c70531a3cf0ff7a29d2ff66f)] - ✨ Publish `Chrome Dev_37 59` logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`f482067b1a`](https://github.com/alrra/browser-logos/commit/f482067b1aff268622ab4f9cd3e6b88b62a83ca9)] - ✨ Publish `Chrome Beta_37 58` logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 49.0.0 (March 16, 2019)
 
 ## Breaking Changes
