@@ -138,6 +138,9 @@
             <th>
                 <a href="https://brave.com/download-dev/">Brave<br>Dev</a>
             </th>
+            <th>
+                <a href="https://brave.com/download-nightly/">Brave<br>Nightly</a>
+            </th>
         </tr>
     </thead>
     <tbody>
@@ -149,12 +152,17 @@
             </td>
             <td>
                 <a href="brave-beta">
-                    <img width=150 src="brave-beta/brave-beta.svg" alt="Brave Beta Edition browser logo">
+                    <img width=150 src="brave-beta/brave-beta.svg" alt="Brave Beta browser logo">
                 </a>
             </td>
             <td>
                 <a href="brave-dev">
-                    <img width=150 src="brave-dev/brave-dev.svg" alt="Brave Developer Edition browser logo">
+                    <img width=150 src="brave-dev/brave-dev.svg" alt="Brave Developer browser logo">
+                </a>
+            </td>
+            <td>
+                <a href="brave-nightly">
+                    <img width=150 src="brave-nightly/brave-nightly_256x256.png" alt="Brave Nightly browser logo">
                 </a>
             </td>
         </tr>
