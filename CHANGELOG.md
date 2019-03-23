@@ -1,3 +1,11 @@
+# 49.2.0 (March 22, 2019)
+
+## New features
+
+* [[`c0516fe4f3`](https://github.com/alrra/browser-logos/commit/c0516fe4f30259ddf57950b1666c9b0f7058f3f2)] - ✨ Publish `Brave Nightly` logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`3a10f3dc74`](https://github.com/alrra/browser-logos/commit/3a10f3dc74d6b3f94957478489fc5ff7b434fe76)] - ✨ Add `Brave Nightly` logo (by [`Cătălin Mariș`](https://github.com/alrra) / see also: [`#168`](https://github.com/alrra/browser-logos/issues/168)).
+
+
 # 49.1.0 (March 17, 2019)
 
 ## Bug fixes / Improvements
