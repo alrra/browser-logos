@@ -8,7 +8,6 @@
     "brave-nightly",
     "brave-nightly-logo"
   ],
-  "private": true,
   "name": "@browser-logos/brave-nightly",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"
