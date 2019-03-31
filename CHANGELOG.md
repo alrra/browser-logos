@@ -1,3 +1,18 @@
+# 50.0.0 (March 31, 2019)
+
+## Breaking Changes
+
+* [[`3b4f2866d3`](https://github.com/alrra/browser-logos/commit/3b4f2866d3afbfc583cce702ef9222c2711a56f2)] - 💥 Update `Samsung Internet` logo (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+## Bug fixes / Improvements
+
+* [[`1efe43e7de`](https://github.com/alrra/browser-logos/commit/1efe43e7de9666f3e0c2b013456bcc4e5d6749aa)] - 🗜️ Further optimize images (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+## New features
+
+* [[`3d24c034a4`](https://github.com/alrra/browser-logos/commit/3d24c034a4c14328799f384327e381f747ed6b4d)] - ✨ Publish `Samsung Internet_5.4 9.0` logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 49.2.1 (March 27, 2019)
 
 ## Bug fixes / Improvements
