@@ -3,8 +3,8 @@
 <table>
     <tr height=300>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/82e17591d5fef5ee560fe89e857fcf8b1ab1674d/src/archive/aol-explorer">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/82e17591d5fef5ee560fe89e857fcf8b1ab1674d/src/archive/aol-explorer/aol-explorer.svg?sanitize=true" alt="AOL Explorer browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/1efe43e7de9666f3e0c2b013456bcc4e5d6749aa/src/archive/aol-explorer">
+                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/1efe43e7de9666f3e0c2b013456bcc4e5d6749aa/src/archive/aol-explorer/aol-explorer.svg?sanitize=true" alt="AOL Explorer browser logo">
             </a>
         </td>
     </tr>
