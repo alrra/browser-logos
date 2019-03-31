@@ -1643,10 +1643,13 @@
     <thead>
         <tr>
             <th>
-                <a href="https://web.archive.org/web/20170215040801/http://developer.samsung.com/internet">Samsung<br>Internet<br>3-4.2</a>
+                <a href="https://en.wikipedia.org/wiki/Samsung_Internet_for_Android">Samsung<br>Internet<br>3-4.2</a>
             </th>
             <th>
-                <a href="https://web.archive.org/web/20170215040801/http://developer.samsung.com/internet">Samsung<br>Internet<br>5</a>
+                <a href="https://en.wikipedia.org/wiki/Samsung_Internet_for_Android">Samsung<br>Internet<br>5</a>
+            </th>
+            <th>
+                <a href="https://en.wikipedia.org/wiki/Samsung_Internet_for_Android">Samsung<br>Internet<br>5.4-9</a>
             </th>
         </tr>
     </thead>
@@ -1660,6 +1663,11 @@
             <td>
                 <a href="samsung-internet_5">
                     <img width=150 src="samsung-internet_5/samsung-internet_5.svg" alt="Samsung Internet 5 browser logo">
+                </a>
+            </td>
+            <td>
+                <a href="samsung-internet_5.4-9.0">
+                    <img width=150 src="samsung-internet_5.4-9.0/samsung-internet_5.4-9.0.svg" alt="Samsung Internet 5.4-9.0 browser logo">
                 </a>
             </td>
         </tr>
