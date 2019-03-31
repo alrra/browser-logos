@@ -1,3 +1,10 @@
+# 4.0.0 (March 31, 2019)
+
+## Breaking Changes
+
+* [[`3b4f2866d3`](https://github.com/alrra/browser-logos/commit/3b4f2866d3afbfc583cce702ef9222c2711a56f2)] - 💥 Update `Samsung Internet` logo (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 3.0.4 (March 15, 2019)
 
 ## Bug fixes / Improvements
