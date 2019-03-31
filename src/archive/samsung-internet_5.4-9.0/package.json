@@ -8,7 +8,6 @@
     "samsung-internet",
     "samsung-internet-logo"
   ],
-  "private": true,
   "name": "@browser-logos/samsung-internet_5.4-9.0",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"
