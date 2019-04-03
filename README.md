@@ -103,6 +103,7 @@ paul] blog post.
 [contributors]: https://github.com/alrra/browser-logos/graphs/contributors
 [github paul]: https://github.com/paulirish/
 [issues]: https://github.com/alrra/browser-logos/issues/new
+[license]: LICENSE.txt
 [npm org]: https://www.npmjs.com/org/browser-logos
 [npm]: https://www.npmjs.com/
 [repo]: https://github.com/alrra/browser-logos/
