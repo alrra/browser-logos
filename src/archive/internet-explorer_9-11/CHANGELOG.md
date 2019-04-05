@@ -1,3 +1,10 @@
+# 1.1.6 (April 5, 2019)
+
+## Bug fixes / Improvements
+
+* [[`eba7a4445b`](https://github.com/alrra/browser-logos/commit/eba7a4445bff89ecd25dcc853cc666058fb6852a)] - 🗜️ Further optimize images (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 1.1.5 (March 15, 2019)
 
 ## Bug fixes / Improvements
