@@ -1,3 +1,18 @@
+# 51.0.0 (April 11, 2019)
+
+## Breaking Changes
+
+* [[`a7d1154580`](https://github.com/alrra/browser-logos/commit/a7d1154580f352b56aac0452cf3e2f106fbfd67d)] - 💥 Add official `Edge Beta` logo (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+## New features
+
+* [[`90d65c0788`](https://github.com/alrra/browser-logos/commit/90d65c0788fa112a66220e0d5d6697fc37ef66bd)] - ✨ Publish `Edge Dev` logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`230ef80015`](https://github.com/alrra/browser-logos/commit/230ef800154c109138ff06f7235d6c29d958785f)] - ✨ Publish `Edge Canary` logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`ef4935fd14`](https://github.com/alrra/browser-logos/commit/ef4935fd147d7d2dc691c631ea4daa1084330c48)] - ✨ Publish `Edge Beta` logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`8b7223ac57`](https://github.com/alrra/browser-logos/commit/8b7223ac5713252d09d00b4c84fe4895d29de7ae)] - ✨ Add `Edge Canary` logo (by [`Cătălin Mariș`](https://github.com/alrra) / see also: [`#170`](https://github.com/alrra/browser-logos/issues/170)).
+* [[`2dee6e5f61`](https://github.com/alrra/browser-logos/commit/2dee6e5f61d7b5ef2b959e1b53992bace099a847)] - ✨ Add `Edge Dev` logo (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 50.0.1 (April 5, 2019)
 
 ## Bug fixes / Improvements
