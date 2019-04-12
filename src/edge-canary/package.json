@@ -1,12 +1,12 @@
 {
   "bugs": "https://github.com/alrra/browser-logos/issues",
-  "description": "Edge Canary browser logo",
+  "description": "Microsoft Edge Canary browser logo",
   "homepage": "https://github.com/alrra/browser-logos",
   "keywords": [
     "browser-logos",
     "logo",
-    "edge-canary",
-    "edge-canary-logo"
+    "microsoft-edge-canary",
+    "microsoft-edge-canary-logo"
   ],
   "name": "@browser-logos/edge-canary",
   "repository": "alrra/browser-logos",

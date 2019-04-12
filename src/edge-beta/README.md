@@ -1,10 +1,10 @@
-# Edge Beta
+# Microsoft Edge Beta
 
 <table>
     <tr height=300>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/41ede388d67a3366fc46f13574ceacf8529304ea/src/edge-beta">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/41ede388d67a3366fc46f13574ceacf8529304ea/src/edge-beta/edge-beta_512x512.png" alt="Edge Beta browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/a7d1154580f352b56aac0452cf3e2f106fbfd67d/src/edge-beta">
+                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/a7d1154580f352b56aac0452cf3e2f106fbfd67d/src/edge-beta/edge-beta_512x512.png" alt="Microsoft Edge Beta browser logo">
             </a>
         </td>
     </tr>

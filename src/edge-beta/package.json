@@ -1,12 +1,12 @@
 {
   "bugs": "https://github.com/alrra/browser-logos/issues",
-  "description": "Edge Beta browser logo",
+  "description": "Microsoft Edge Beta browser logo",
   "homepage": "https://github.com/alrra/browser-logos",
   "keywords": [
     "browser-logos",
     "logo",
-    "edge-beta",
-    "edge-beta-logo"
+    "microsoft-edge-beta",
+    "microsoft-edge-beta-logo"
   ],
   "name": "@browser-logos/edge-beta",
   "repository": "alrra/browser-logos",

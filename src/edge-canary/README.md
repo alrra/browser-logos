@@ -1,10 +1,10 @@
-# Edge Canary
+# Microsoft Edge Canary
 
 <table>
     <tr height=300>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/2dfe2f375822926dc62cf9c4adcf60988368ea58/src/edge-canary">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/2dfe2f375822926dc62cf9c4adcf60988368ea58/src/edge-canary/edge-canary_512x512.png" alt="Edge Canary browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/8b7223ac5713252d09d00b4c84fe4895d29de7ae/src/edge-canary">
+                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/8b7223ac5713252d09d00b4c84fe4895d29de7ae/src/edge-canary/edge-canary_512x512.png" alt="Microsoft Edge Canary browser logo">
             </a>
         </td>
     </tr>
