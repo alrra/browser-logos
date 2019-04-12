@@ -336,6 +336,9 @@
             <th>
                 <a href="https://www.microsoftedgeinsider.com/en-us/download/">Edge<br>Dev</a>
             </th>
+            <th>
+                <a href="https://www.microsoftedgeinsider.com/en-us/download/">Edge<br>Canary</a>
+            </th>
         </tr>
     </thead>
     <tbody>
@@ -358,6 +361,11 @@
             <td>
                 <a href="edge-dev">
                     <img width=150 src="edge-dev/edge-dev.svg" alt="Microsoft Edge Dev browser logo">
+                </a>
+            </td>
+            <td>
+                <a href="edge-canary">
+                    <img width=150 src="edge-canary/edge-canary.svg" alt="Microsoft Edge Canary browser logo">
                 </a>
             </td>
         </tr>
