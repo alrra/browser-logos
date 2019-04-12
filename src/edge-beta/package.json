@@ -8,7 +8,6 @@
     "edge-beta",
     "edge-beta-logo"
   ],
-  "private": true,
   "name": "@browser-logos/edge-beta",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"
