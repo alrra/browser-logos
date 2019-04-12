@@ -331,7 +331,10 @@
                 <a href="https://www.microsoft.com/en-us/windows/microsoft-edge">Edge<br>Tile</a>
             </th>
             <th>
-                <a href="https://www.microsoft.com/en-us/windows/microsoft-edge">Edge<br>Beta</a>
+                <a href="https://www.microsoftedgeinsider.com/en-us/download/">Edge<br>Beta</a>
+            </th>
+            <th>
+                <a href="https://www.microsoftedgeinsider.com/en-us/download/">Edge<br>Dev</a>
             </th>
         </tr>
     </thead>
@@ -350,6 +353,11 @@
             <td>
                 <a href="edge-beta">
                     <img width=150 src="edge-beta/edge-beta.svg" alt="Microsoft Edge Beta browser logo">
+                </a>
+            </td>
+            <td>
+                <a href="edge-dev">
+                    <img width=150 src="edge-dev/edge-dev.svg" alt="Microsoft Edge Dev browser logo">
                 </a>
             </td>
         </tr>
