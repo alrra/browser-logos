@@ -1,0 +1,15 @@
+{
+  "bugs": "https://github.com/alrra/browser-logos/issues",
+  "description": "Edge Canary browser logo",
+  "homepage": "https://github.com/alrra/browser-logos",
+  "keywords": [
+    "browser-logos",
+    "logo",
+    "edge-canary",
+    "edge-canary-logo"
+  ],
+  "private": true,
+  "name": "@browser-logos/edge-canary",
+  "repository": "alrra/browser-logos",
+  "version": "1.0.0"
+}
