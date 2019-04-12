@@ -1,0 +1,15 @@
+{
+  "bugs": "https://github.com/alrra/browser-logos/issues",
+  "description": "Edge Dev browser logo",
+  "homepage": "https://github.com/alrra/browser-logos",
+  "keywords": [
+    "browser-logos",
+    "logo",
+    "edge-dev",
+    "edge-dev-logo"
+  ],
+  "private": true,
+  "name": "@browser-logos/edge-dev",
+  "repository": "alrra/browser-logos",
+  "version": "1.0.0"
+}
