@@ -190,7 +190,7 @@ const getChangelogContent = (ctx) => {
 const getChangelogData = async (commits = [], isPackage = true) => {
 
     const tagsBreakingChanges = ['💥'];
-    const tagsBugFixesAndImprovements = ['🐛', '📚', '🔧', '🗜️'];
+    const tagsBugFixesAndImprovements = ['🐛', '📚', '🔧', '🗜'];
     const tagsNewFeatures = ['✨'];
 
     if (!isPackage) {
