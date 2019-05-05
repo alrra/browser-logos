@@ -544,7 +544,7 @@
     <thead>
         <tr>
             <th>
-                <a href="https://iridiumbrowser.de/">Iridium</a>
+                <a href="https://github.com/iridium-browser">Iridium</a>
             </th>
         </tr>
     </thead>
