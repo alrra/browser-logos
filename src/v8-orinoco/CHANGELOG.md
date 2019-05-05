@@ -1,3 +1,11 @@
+# 1.2.3 (May 5, 2019)
+
+## Bug fixes / Improvements
+
+* [[`f92577772d`](https://github.com/alrra/browser-logos/commit/f92577772df359546446c265d208c17e22744553)] - 🗜 Further optimize `v8-orinoco-outline.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`178ddfdf44`](https://github.com/alrra/browser-logos/commit/178ddfdf4483e465b67d35da6a7081c4d79b8c22)] - 🗜 Further optimize `v8-orinoco.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 1.2.2 (March 15, 2019)
 
 ## Bug fixes / Improvements
