@@ -1,3 +1,10 @@
+# 1.1.4 (May 5, 2019)
+
+## Bug fixes / Improvements
+
+* [[`58d4c52b22`](https://github.com/alrra/browser-logos/commit/58d4c52b2247edfa224eb9c00288b36da4a1c885)] - 🗜 Further optimize `v8-turbofan-outline.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 1.1.3 (March 15, 2019)
 
 ## Bug fixes / Improvements
