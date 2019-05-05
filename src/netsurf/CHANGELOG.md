@@ -1,3 +1,10 @@
+# 1.0.9 (May 5, 2019)
+
+## Bug fixes / Improvements
+
+* [[`792160028a`](https://github.com/alrra/browser-logos/commit/792160028ac93867aa96010b49b77085d351f518)] - 🗜️ Further losslessly optimize `netsurf.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 1.0.8 (April 5, 2019)
 
 ## Bug fixes / Improvements
