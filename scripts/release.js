@@ -47,7 +47,7 @@ const extractDataFromCommit = async (sha) => {
 
     const associatedIssues = [];
     const title = commitBodyLines[0];
-    const tag = title.split(' ')[0];
+    const tag = [...title][0];
 
     const regex = /(Fix|Close)\s+#([0-9]+)/gi;
 
