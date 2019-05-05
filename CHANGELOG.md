@@ -1,3 +1,12 @@
+# 51.0.3 (May 4, 2019)
+
+## Bug fixes / Improvements
+
+* [[`54e5792ccb`](https://github.com/alrra/browser-logos/commit/54e5792ccbad7ecc5f62161f5232a86cb8be2eb7)] - 🗜 Further optimize `chrome.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`ca0c2b0d29`](https://github.com/alrra/browser-logos/commit/ca0c2b0d2938706f4d3a4e17174da9a8c6b488c5)] - 🗜 Further optimize `v8.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`79382836d3`](https://github.com/alrra/browser-logos/commit/79382836d304443d2e89f919e5f68d27d9341a1a)] - 🗜 Further optimize `v8-outline.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 51.0.2 (April 13, 2019)
 
 ## Bug fixes / Improvements
