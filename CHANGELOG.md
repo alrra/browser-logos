@@ -1,3 +1,14 @@
+# 51.0.4 (May 5, 2019)
+
+## Bug fixes / Improvements
+
+* [[`b3621fb8a1`](https://github.com/alrra/browser-logos/commit/b3621fb8a19babe0b6aab1ab2673a3405e3be153)] - 🗜 Further optimize `v8-liftoff-outline.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`d3eaa96038`](https://github.com/alrra/browser-logos/commit/d3eaa96038ea9181f1db9da9d4ddcb6170d26a49)] - 🗜 Further optimize `v8-liftoff.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`f92577772d`](https://github.com/alrra/browser-logos/commit/f92577772df359546446c265d208c17e22744553)] - 🗜 Further optimize `v8-orinoco-outline.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`178ddfdf44`](https://github.com/alrra/browser-logos/commit/178ddfdf4483e465b67d35da6a7081c4d79b8c22)] - 🗜 Further optimize `v8-orinoco.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`58d4c52b22`](https://github.com/alrra/browser-logos/commit/58d4c52b2247edfa224eb9c00288b36da4a1c885)] - 🗜 Further optimize `v8-turbofan-outline.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 51.0.3 (May 4, 2019)
 
 ## Bug fixes / Improvements
