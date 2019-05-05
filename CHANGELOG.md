@@ -1,3 +1,14 @@
+# 51.0.5 (May 5, 2019)
+
+## Bug fixes / Improvements
+
+* [[`897f953645`](https://github.com/alrra/browser-logos/commit/897f9536453431de19240365d3b93ffa5cd4e3e7)] - 🗜️ Further losslessly optimize `safari-ios.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`896c866920`](https://github.com/alrra/browser-logos/commit/896c866920140f41a5a7f13408980db181bd85ce)] - 🗜️ Further optimize `vivaldi.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`e27bdef554`](https://github.com/alrra/browser-logos/commit/e27bdef55432ee70621159ef4297a06cc3e1efb5)] - 🗜️ Further optimize `electron.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`28cf3f1767`](https://github.com/alrra/browser-logos/commit/28cf3f17678cc805a2b20615ca4bd85a5fab3d83)] - 🗜️ Further losslessly optimize `samsung-internet_5.4-9.0.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`792160028a`](https://github.com/alrra/browser-logos/commit/792160028ac93867aa96010b49b77085d351f518)] - 🗜️ Further losslessly optimize `netsurf.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 51.0.4 (May 5, 2019)
 
 ## Bug fixes / Improvements
