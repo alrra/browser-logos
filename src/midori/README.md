@@ -3,8 +3,8 @@
 <table>
     <tr height=230>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/fe67c07fd39322ac5378f63f9f9d50422d7658b7/src/midori">
-                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/fe67c07fd39322ac5378f63f9f9d50422d7658b7/src/midori/midori.svg?sanitize=true" alt="Midori browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/95c1164ec337b536c7f51e8427dd2c71b4b6e6fd/src/midori">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/95c1164ec337b536c7f51e8427dd2c71b4b6e6fd/src/midori/midori.svg?sanitize=true" alt="Midori browser logo">
             </a>
         </td>
     </tr>

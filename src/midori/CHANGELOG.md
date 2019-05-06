@@ -1,3 +1,10 @@
+# 1.0.6 (May 5, 2019)
+
+## Bug fixes / Improvements
+
+* [[`95c1164ec3`](https://github.com/alrra/browser-logos/commit/95c1164ec337b536c7f51e8427dd2c71b4b6e6fd)] - 🗜️ Further optimize `midori.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 1.0.5 (March 15, 2019)
 
 ## Bug fixes / Improvements
