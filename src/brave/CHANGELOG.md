@@ -1,3 +1,10 @@
+# 3.0.3 (May 5, 2019)
+
+## Bug fixes / Improvements
+
+* [[`0f6574911b`](https://github.com/alrra/browser-logos/commit/0f6574911b8d56098d33abeb4a548d24c4f2fbd0)] - 🗜️ Further optimize `brave.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 3.0.2 (March 15, 2019)
 
 ## Bug fixes / Improvements
