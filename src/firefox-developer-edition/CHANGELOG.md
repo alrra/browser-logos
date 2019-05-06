@@ -1,3 +1,10 @@
+# 2.1.6 (May 5, 2019)
+
+## Bug fixes / Improvements
+
+* [[`59f3678f04`](https://github.com/alrra/browser-logos/commit/59f3678f0475342424e984ab04454840b679b34e)] - 🗜️ Further optimize `firefox-developer-edition.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 2.1.5 (March 31, 2019)
 
 ## Bug fixes / Improvements
