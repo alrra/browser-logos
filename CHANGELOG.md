@@ -1,3 +1,23 @@
+# 51.0.6 (May 5, 2019)
+
+## Bug fixes / Improvements
+
+* [[`9765ada997`](https://github.com/alrra/browser-logos/commit/9765ada9977f86859c7ddeceb5f53598d896947a)] - 🗜 Further optimize `qutebrowser.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`9fbd2a84ba`](https://github.com/alrra/browser-logos/commit/9fbd2a84ba8492f9984bfdb665dc5fd8de3c9a38)] - 🗜️ Further optimize `brave_dev.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`1b28d505e3`](https://github.com/alrra/browser-logos/commit/1b28d505e317ec82f73066af6f8154a6ee863e96)] - 🗜 Further optimize `brave-beta.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`b21ca6a4c1`](https://github.com/alrra/browser-logos/commit/b21ca6a4c1a43e7f78d16eafd569b2a26d3080cb)] - 🗜️ Further optimize `brave_2.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`f7f741838d`](https://github.com/alrra/browser-logos/commit/f7f741838d346f06764e629641363d22ead664a5)] - 🗜️ Further optimize `samsung-internet_5.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`7f675d7bc0`](https://github.com/alrra/browser-logos/commit/7f675d7bc0df1e048bd2d061a062ac9cdb824976)] - 🗜️ Further optimize `epiphany.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`95c1164ec3`](https://github.com/alrra/browser-logos/commit/95c1164ec337b536c7f51e8427dd2c71b4b6e6fd)] - 🗜️ Further optimize `midori.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`0f6574911b`](https://github.com/alrra/browser-logos/commit/0f6574911b8d56098d33abeb4a548d24c4f2fbd0)] - 🗜️ Further optimize `brave.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`59f3678f04`](https://github.com/alrra/browser-logos/commit/59f3678f0475342424e984ab04454840b679b34e)] - 🗜️ Further optimize `firefox-developer-edition.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`69e13046c4`](https://github.com/alrra/browser-logos/commit/69e13046c43f607894e8c9356c43c43a2868dae2)] - 🗜️ Further optimize `falkon.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`049e5bbbdc`](https://github.com/alrra/browser-logos/commit/049e5bbbdc14f66c1686188d976a7d49c140c498)] - 🗜️ Further optimize `aol-explorer.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`8e8b38a7af`](https://github.com/alrra/browser-logos/commit/8e8b38a7af7272562a1c0100b49ad291327715b4)] - 🗜️ Further optimize `samsung-internet-gear-vr.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`3bab2bc3be`](https://github.com/alrra/browser-logos/commit/3bab2bc3bea5221f16a0c48b035673b42336a0f4)] - 🗜️ Further optimize `opera.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`703b47ef34`](https://github.com/alrra/browser-logos/commit/703b47ef343b63f957cd5073a9fa6705d9b1f3e6)] - 🗜️ Further optimize `netscape_9.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 51.0.5 (May 5, 2019)
 
 ## Bug fixes / Improvements
