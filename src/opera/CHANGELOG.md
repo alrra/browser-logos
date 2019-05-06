@@ -1,3 +1,10 @@
+# 1.1.4 (May 5, 2019)
+
+## Bug fixes / Improvements
+
+* [[`3bab2bc3be`](https://github.com/alrra/browser-logos/commit/3bab2bc3bea5221f16a0c48b035673b42336a0f4)] - 🗜️ Further optimize `opera.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 1.1.3 (March 15, 2019)
 
 ## Bug fixes / Improvements
