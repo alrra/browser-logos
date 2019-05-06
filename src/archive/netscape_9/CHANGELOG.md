@@ -1,3 +1,10 @@
+# 1.0.6 (May 5, 2019)
+
+## Bug fixes / Improvements
+
+* [[`703b47ef34`](https://github.com/alrra/browser-logos/commit/703b47ef343b63f957cd5073a9fa6705d9b1f3e6)] - 🗜️ Further optimize `netscape_9.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 1.0.5 (March 15, 2019)
 
 ## Bug fixes / Improvements
