@@ -1,3 +1,10 @@
+# 1.0.2 (May 5, 2019)
+
+## Bug fixes / Improvements
+
+* [[`049e5bbbdc`](https://github.com/alrra/browser-logos/commit/049e5bbbdc14f66c1686188d976a7d49c140c498)] - 🗜️ Further optimize `aol-explorer.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 1.0.1 (March 31, 2019)
 
 ## Bug fixes / Improvements
