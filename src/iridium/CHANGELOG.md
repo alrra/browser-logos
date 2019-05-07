@@ -1,3 +1,10 @@
+# 2.0.3 (May 7, 2019)
+
+## Bug fixes / Improvements
+
+* [[`5d6889fd3a`](https://github.com/alrra/browser-logos/commit/5d6889fd3aaec4897c4c6ee5dfb036bc9b4b8824)] - 🗜 Further optimize `iridium.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 2.0.2 (March 15, 2019)
 
 ## Bug fixes / Improvements
