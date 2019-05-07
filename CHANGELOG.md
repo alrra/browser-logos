@@ -1,3 +1,15 @@
+# 51.0.7 (May 7, 2019)
+
+## Bug fixes / Improvements
+
+* [[`7fb6a0f107`](https://github.com/alrra/browser-logos/commit/7fb6a0f107e1264c79cc5a99f18f0f0b4b3027f9)] - 🗜 Further optimize `firefox-reality.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`5dd185335f`](https://github.com/alrra/browser-logos/commit/5dd185335fd7c4d77602b171e324eb30d0a09286)] - 🗜 Further optimize `firefox.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`fa6934798e`](https://github.com/alrra/browser-logos/commit/fa6934798e9b6f43cdccb9b95a92b65d7fddce70)] - 🗜️ Further optimize `k-meleon.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`380a7500e8`](https://github.com/alrra/browser-logos/commit/380a7500e86d57188e3a6819cbb1a1d9cc97a4c2)] - 🗜 Further optimize `bezillabrowser.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`5d6889fd3a`](https://github.com/alrra/browser-logos/commit/5d6889fd3aaec4897c4c6ee5dfb036bc9b4b8824)] - 🗜 Further optimize `iridium.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`21b85c8efa`](https://github.com/alrra/browser-logos/commit/21b85c8efa4e6866d32fa68e9d942ccedbf4a18d)] - 🗜 Further optimize `rekonq.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 51.0.6 (May 5, 2019)
 
 ## Bug fixes / Improvements
