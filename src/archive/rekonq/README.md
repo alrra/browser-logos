@@ -3,8 +3,8 @@
 <table>
     <tr height=230>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/79786c4f71272800a61bb3257cc38474b5b8097b/src/archive/rekonq">
-                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/79786c4f71272800a61bb3257cc38474b5b8097b/src/archive/rekonq/rekonq.svg?sanitize=true" alt="Rekonq browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/21b85c8efa4e6866d32fa68e9d942ccedbf4a18d/src/archive/rekonq">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/21b85c8efa4e6866d32fa68e9d942ccedbf4a18d/src/archive/rekonq/rekonq.svg?sanitize=true" alt="Rekonq browser logo">
             </a>
         </td>
     </tr>

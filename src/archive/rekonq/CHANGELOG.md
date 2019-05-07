@@ -1,3 +1,10 @@
+# 1.0.8 (May 7, 2019)
+
+## Bug fixes / Improvements
+
+* [[`21b85c8efa`](https://github.com/alrra/browser-logos/commit/21b85c8efa4e6866d32fa68e9d942ccedbf4a18d)] - 🗜 Further optimize `rekonq.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 1.0.7 (March 27, 2019)
 
 ## Bug fixes / Improvements
