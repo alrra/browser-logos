@@ -1,3 +1,12 @@
+# 51.0.8 (May 8, 2019)
+
+## Bug fixes / Improvements
+
+* [[`35569c4a4d`](https://github.com/alrra/browser-logos/commit/35569c4a4d6f7bfabd38345ede75e2b005fbd75e)] - 🗜️ Further optimize `firefox-beta.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`40cc78f2cb`](https://github.com/alrra/browser-logos/commit/40cc78f2cb1d90cbbb8700b1a8911a988027bd29)] - 🗜️ Further optimize `firefox-nightly.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`91fe2e50d3`](https://github.com/alrra/browser-logos/commit/91fe2e50d38ee6765865ceea9a3d48627599a366)] - 🗜️ Further optimize `firefox-focus.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 51.0.7 (May 7, 2019)
 
 ## Bug fixes / Improvements
