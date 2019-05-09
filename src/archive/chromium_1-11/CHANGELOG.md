@@ -1,3 +1,10 @@
+# 1.0.6 (May 8, 2019)
+
+## Bug fixes / Improvements
+
+* [[`3e3ff079be`](https://github.com/alrra/browser-logos/commit/3e3ff079be852a5cb5057d60129c2cbb8ca78df2)] - 🗜️ Further losslessly optimize `chromium_1-11.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 1.0.5 (March 15, 2019)
 
 ## Bug fixes / Improvements
