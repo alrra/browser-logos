@@ -1,3 +1,10 @@
+# 1.0.6 (May 8, 2019)
+
+## Bug fixes / Improvements
+
+* [[`f32d975edb`](https://github.com/alrra/browser-logos/commit/f32d975edb70e5045cecc6fa223a45043c2c19d6)] - 🗜 Further optimize `konqueror_1-3.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 1.0.5 (March 15, 2019)
 
 ## Bug fixes / Improvements
