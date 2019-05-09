@@ -1,3 +1,18 @@
+# 51.0.9 (May 8, 2019)
+
+## Bug fixes / Improvements
+
+* [[`3281ca6573`](https://github.com/alrra/browser-logos/commit/3281ca657319c9b8173be0d42cc5ca87c6263652)] - 🗜️ Further losslessly optimize `phoenix-firebird.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`f32d975edb`](https://github.com/alrra/browser-logos/commit/f32d975edb70e5045cecc6fa223a45043c2c19d6)] - 🗜 Further optimize `konqueror_1-3.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`d5c573b0a4`](https://github.com/alrra/browser-logos/commit/d5c573b0a46d85ef4fc3757b3863551e0e0c4d89)] - 🗜️ Further losslessly optimize `chrome-canary.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`115d93c391`](https://github.com/alrra/browser-logos/commit/115d93c391dcbe7bfcdf4593fac10b1cbedfdb9b)] - 🗜️ Further optimize `edge-dev.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`9ac593a5be`](https://github.com/alrra/browser-logos/commit/9ac593a5beef8fb9f02a09b329312a1318010b1a)] - 🗜️ Further optimize `edge-canary.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`f2febcbfd9`](https://github.com/alrra/browser-logos/commit/f2febcbfd9d98144dc3e21e77bc9f9a4778be9f9)] - 🗜️ Further optimize `edge-beta.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`3e3ff079be`](https://github.com/alrra/browser-logos/commit/3e3ff079be852a5cb5057d60129c2cbb8ca78df2)] - 🗜️ Further losslessly optimize `chromium_1-11.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`b8920acd33`](https://github.com/alrra/browser-logos/commit/b8920acd333cb0994eee281a90dc13b32fa13dbb)] - 🗜️ Further losslessly optimize `chrome_1-11.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`b6a3f4f87c`](https://github.com/alrra/browser-logos/commit/b6a3f4f87c407dd8867fb925f101c5b28d85bcc6)] - 🗜️ Further losslessly optimize `opera_10-14.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 51.0.8 (May 8, 2019)
 
 ## Bug fixes / Improvements
