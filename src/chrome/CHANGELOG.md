@@ -1,3 +1,10 @@
+# 1.0.10 (May 9, 2019)
+
+## Bug fixes / Improvements
+
+* [[`7de0f2a1e4`](https://github.com/alrra/browser-logos/commit/7de0f2a1e482d7dd179829f506f007d4e13de8b3)] - 🗜️ Further optimize `chrome.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 1.0.9 (May 4, 2019)
 
 ## Bug fixes / Improvements
