@@ -6,6 +6,9 @@
     "listr-input": "^0.1.3",
     "shelljs": "^0.8.3"
   },
+  "files": [
+    "src/!(browser-logos.gif|main-desktop-browser-logos.png|main-mobile-browser-logos.png|old-browser-logos.gif)"
+  ],
   "name": "browser-logos",
   "private": true,
   "scripts": {
