@@ -1,3 +1,12 @@
+# 51.0.13 (May 16, 2019)
+
+## Bug fixes / Improvements
+
+* [[`91fb4f0f0f`](https://github.com/alrra/browser-logos/commit/91fb4f0f0fc808539d602f438d7362a6939ffc10)] - 🗜️ Further optimize `k-meleon.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`34a667f16e`](https://github.com/alrra/browser-logos/commit/34a667f16e3cc18e3c23d63283b59bd1ef08837f)] - 🗜️ Further optimize `bezillabrowser.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`a9a1386245`](https://github.com/alrra/browser-logos/commit/a9a13862456884f1955914ec4f5d06b0c02df115)] - 🗜️ Further optimize `web.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 51.0.12 (May 14, 2019)
 
 ## Bug fixes / Improvements
