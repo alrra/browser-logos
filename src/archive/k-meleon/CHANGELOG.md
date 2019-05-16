@@ -1,3 +1,10 @@
+# 1.0.7 (May 16, 2019)
+
+## Bug fixes / Improvements
+
+* [[`91fb4f0f0f`](https://github.com/alrra/browser-logos/commit/91fb4f0f0fc808539d602f438d7362a6939ffc10)] - 🗜️ Further optimize `k-meleon.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 1.0.6 (May 7, 2019)
 
 ## Bug fixes / Improvements
