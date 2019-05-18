@@ -1,3 +1,11 @@
+# 51.0.14 (May 18, 2019)
+
+## Bug fixes / Improvements
+
+* [[`e6b1361634`](https://github.com/alrra/browser-logos/commit/e6b136163499731bd5d3d2e30186c4cf4255983d)] - 🗜️ Further optimize `chrome-dev.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`296a0eff71`](https://github.com/alrra/browser-logos/commit/296a0eff71ac75116e8acae512aaa691c603a6fd)] - 🗜️ Further optimize `firefox_1.5-3.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 51.0.13 (May 16, 2019)
 
 ## Bug fixes / Improvements
