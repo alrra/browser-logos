@@ -9,11 +9,12 @@
 # https://git-scm.com/book/en/Customizing-Git-Git-Attributes#Exporting-Your-Repository
 
 **/CHANGELOG.md export-ignore
+**/package-lock.json export-ignore
+**/package.json export-ignore
 **/README.md export-ignore
 .editorconfig export-ignore
 .gitattributes export-ignore
 .github export-ignore
-.npmignore export-ignore
 .travis.yml export-ignore
 scripts export-ignore
 src/browser-logos.gif export-ignore
