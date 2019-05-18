@@ -1,3 +1,10 @@
+# 1.0.7 (May 18, 2019)
+
+## Bug fixes / Improvements
+
+* [[`296a0eff71`](https://github.com/alrra/browser-logos/commit/296a0eff71ac75116e8acae512aaa691c603a6fd)] - 🗜️ Further optimize `firefox_1.5-3.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 1.0.6 (March 15, 2019)
 
 ## Bug fixes / Improvements
