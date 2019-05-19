@@ -1,3 +1,10 @@
+# 1.0.7 (May 18, 2019)
+
+## Bug fixes / Improvements
+
+* [[`68e25ee7fc`](https://github.com/alrra/browser-logos/commit/68e25ee7fcbd6dc5acbb4fcc5ed782cb59b51702)] - 🗜️ Further optimize `internet-explorer-tile_10-11.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 1.0.6 (March 15, 2019)
 
 ## Bug fixes / Improvements
