@@ -1,3 +1,10 @@
+# 1.0.9 (May 19, 2019)
+
+## Bug fixes / Improvements
+
+* [[`724550f317`](https://github.com/alrra/browser-logos/commit/724550f317cedf6281bb6ca375adc7b9d198f8c4)] - 🗜️ Further losslessly optimize `opera_10-14.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 1.0.8 (May 8, 2019)
 
 ## Bug fixes / Improvements
