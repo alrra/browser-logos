@@ -1,3 +1,10 @@
+# 1.0.3 (May 18, 2019)
+
+## Bug fixes / Improvements
+
+* [[`b0768425db`](https://github.com/alrra/browser-logos/commit/b0768425db3ec320fb9e7064e61038446d3da0eb)] - 🗜️ Further losslessly optimize `edge-canary.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 1.0.2 (May 8, 2019)
 
 ## Bug fixes / Improvements
