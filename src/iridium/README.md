@@ -3,8 +3,8 @@
 <table>
     <tr height=230>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/5d6889fd3aaec4897c4c6ee5dfb036bc9b4b8824/src/iridium">
-                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/5d6889fd3aaec4897c4c6ee5dfb036bc9b4b8824/src/iridium/iridium.svg?sanitize=true" alt="Iridium browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/dadb4cde7a136dd4373eed92c4b61d943263e3a2/src/iridium">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/dadb4cde7a136dd4373eed92c4b61d943263e3a2/src/iridium/iridium.svg?sanitize=true" alt="Iridium browser logo">
             </a>
         </td>
     </tr>
