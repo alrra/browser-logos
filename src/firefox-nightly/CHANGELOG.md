@@ -1,3 +1,10 @@
+# 2.1.6 (May 19, 2019)
+
+## Bug fixes / Improvements
+
+* [[`e6e07a24b8`](https://github.com/alrra/browser-logos/commit/e6e07a24b8820808441e8307a6065b8b32c0a313)] - 🗜️ Further optimize `firefox-nightly.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 2.1.5 (May 8, 2019)
 
 ## Bug fixes / Improvements
