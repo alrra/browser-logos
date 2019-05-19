@@ -3,8 +3,8 @@
 <table>
     <tr height=230>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/1efe43e7de9666f3e0c2b013456bcc4e5d6749aa/src/archive/iceweasel">
-                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/1efe43e7de9666f3e0c2b013456bcc4e5d6749aa/src/archive/iceweasel/iceweasel.svg?sanitize=true" alt="Iceweasel browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/ea047661994dae121991c2dc02b853873b941e6b/src/archive/iceweasel">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/ea047661994dae121991c2dc02b853873b941e6b/src/archive/iceweasel/iceweasel.svg?sanitize=true" alt="Iceweasel browser logo">
             </a>
         </td>
     </tr>

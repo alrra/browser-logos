@@ -1,3 +1,10 @@
+# 1.0.8 (May 19, 2019)
+
+## Bug fixes / Improvements
+
+* [[`ea04766199`](https://github.com/alrra/browser-logos/commit/ea047661994dae121991c2dc02b853873b941e6b)] - 🗜️ Further optimize `iceweasel.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 1.0.7 (March 31, 2019)
 
 ## Bug fixes / Improvements
