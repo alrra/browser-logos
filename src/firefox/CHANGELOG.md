@@ -1,3 +1,10 @@
+# 2.0.4 (May 18, 2019)
+
+## Bug fixes / Improvements
+
+* [[`e1c40834b4`](https://github.com/alrra/browser-logos/commit/e1c40834b43043b0c59fce9f0a8f04e11b50e612)] - 🗜️ Further losslessly optimize `firefox.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 2.0.3 (May 7, 2019)
 
 ## Bug fixes / Improvements
