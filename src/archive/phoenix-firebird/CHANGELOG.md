@@ -1,3 +1,10 @@
+# 1.0.8 (May 19, 2019)
+
+## Bug fixes / Improvements
+
+* [[`e0ae55f3b3`](https://github.com/alrra/browser-logos/commit/e0ae55f3b3820c9aec63ce5c3aa6d441e6505ca9)] - 🗜️ Further losslessly optimize `phoenix-firebird.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 1.0.7 (May 8, 2019)
 
 ## Bug fixes / Improvements
