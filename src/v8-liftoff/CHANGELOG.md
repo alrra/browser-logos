@@ -1,3 +1,10 @@
+# 1.1.6 (May 19, 2019)
+
+## Bug fixes / Improvements
+
+* [[`b775631ddf`](https://github.com/alrra/browser-logos/commit/b775631ddf189ab5b4d29ceb3f48c7540d12c871)] - 🗜️ Further optimize `v8-liftoff-outline.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 1.1.5 (May 5, 2019)
 
 ## Bug fixes / Improvements
