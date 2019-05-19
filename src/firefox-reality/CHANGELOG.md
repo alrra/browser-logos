@@ -1,3 +1,10 @@
+# 1.0.4 (May 19, 2019)
+
+## Bug fixes / Improvements
+
+* [[`5021bdb762`](https://github.com/alrra/browser-logos/commit/5021bdb7620d4dbe3433bed76a8d4df01d7338e2)] - 🗜️ Further losslessly optimize `firefox-reality.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 1.0.3 (May 7, 2019)
 
 ## Bug fixes / Improvements
