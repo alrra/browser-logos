@@ -1,3 +1,12 @@
+# 51.0.17 (May 26, 2019)
+
+## Bug fixes / Improvements
+
+* [[`2ccbc9a444`](https://github.com/alrra/browser-logos/commit/2ccbc9a444237abe3752949c744f9b79504f12be)] - 🗜️ Further optimize `chrome-canary.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`7029851f86`](https://github.com/alrra/browser-logos/commit/7029851f8610ce545704e6c9e2c0e8e3a29a0e00)] - 🗜️ Further optimize `maxthon_1.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`532dcdfcae`](https://github.com/alrra/browser-logos/commit/532dcdfcae131e5a5fe9de84c587f6a1fcf7c622)] - 🗜️ Further optimize `maxthon-beta_1.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 51.0.16 (May 19, 2019)
 
 ## Bug fixes / Improvements
