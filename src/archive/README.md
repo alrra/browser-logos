@@ -905,6 +905,28 @@
     </tbody>
 </table>
 
+### Firefox Reality
+
+<table>
+    <thead>
+        <tr>
+            <th>
+                <a href="https://en.wikipedia.org/wiki/Firefox#Versions">Firefox Reality</a>
+                <a href="#note"><code>*</code></a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=170>
+            <td>
+                <a href="firefox-reality">
+                    <img width=150 src="firefox-reality/firefox-reality.svg" alt="Firefox Reality browser logo">
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 ### Flock
 
 <table>
