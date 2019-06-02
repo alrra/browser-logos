@@ -1,3 +1,14 @@
+# 52.0.0 (June 1, 2019)
+
+## Breaking Changes
+
+* [[`d2e38a6c73`](https://github.com/alrra/browser-logos/commit/d2e38a6c7347f57d694346c552aad0f9541ef125)] - 💥 Update `Firefox Reality` logo (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+## Bug fixes / Improvements
+
+* [[`45f17e9af5`](https://github.com/alrra/browser-logos/commit/45f17e9af5769b0cf71ee55ebabf6ff7940259a0)] - 🗜️ Further optimize `firefox-focus.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 51.0.17 (May 26, 2019)
 
 ## Bug fixes / Improvements
