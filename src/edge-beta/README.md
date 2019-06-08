@@ -3,8 +3,8 @@
 <table>
     <tr height=300>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/a8feea77158e4b66f12d93e965ca0ce7589ba3c1/src/edge-beta">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/a8feea77158e4b66f12d93e965ca0ce7589ba3c1/src/edge-beta/edge-beta_512x512.png" alt="Microsoft Edge Beta browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/4f2e8db72a78cef59b356504385a15d466340870/src/edge-beta">
+                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/4f2e8db72a78cef59b356504385a15d466340870/src/edge-beta/edge-beta_512x512.png" alt="Microsoft Edge Beta browser logo">
             </a>
         </td>
     </tr>
