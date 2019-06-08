@@ -1,3 +1,10 @@
+# 1.0.2 (June 8, 2019)
+
+## Bug fixes / Improvements
+
+* [[`df2d448c13`](https://github.com/alrra/browser-logos/commit/df2d448c137615f2a46c675e00247bb0934b20ea)] - 🗜️ Further optimize `basilisk.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 1.0.1 (March 15, 2019)
 
 ## Bug fixes / Improvements
