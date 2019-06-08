@@ -1,3 +1,12 @@
+# 52.0.1 (June 8, 2019)
+
+## Bug fixes / Improvements
+
+* [[`df2d448c13`](https://github.com/alrra/browser-logos/commit/df2d448c137615f2a46c675e00247bb0934b20ea)] - 🗜️ Further optimize `basilisk.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`1969a52f1b`](https://github.com/alrra/browser-logos/commit/1969a52f1be7d43cd946578d2e6a64849f586e56)] - 🗜️ Further losslessly optimize `electron.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`4f2e8db72a`](https://github.com/alrra/browser-logos/commit/4f2e8db72a78cef59b356504385a15d466340870)] - 🗜️ Further optimize `edge-beta.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 52.0.0 (June 1, 2019)
 
 ## Breaking Changes
