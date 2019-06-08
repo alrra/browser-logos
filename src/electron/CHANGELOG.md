@@ -1,3 +1,10 @@
+# 1.0.5 (June 8, 2019)
+
+## Bug fixes / Improvements
+
+* [[`1969a52f1b`](https://github.com/alrra/browser-logos/commit/1969a52f1be7d43cd946578d2e6a64849f586e56)] - 🗜️ Further losslessly optimize `electron.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 1.0.4 (May 18, 2019)
 
 ## Bug fixes / Improvements
