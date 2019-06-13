@@ -1,3 +1,10 @@
+# 52.1.0 (June 12, 2019)
+
+## New features
+
+* [[`553f9d9e04`](https://github.com/alrra/browser-logos/commit/553f9d9e04598ce06a9105529613cd867ac647dc)] - ✨ Add `Opera GX` logo (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 52.0.1 (June 8, 2019)
 
 ## Bug fixes / Improvements
