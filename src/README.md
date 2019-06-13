@@ -743,6 +743,27 @@
     </tbody>
 </table>
 
+### Opera GX
+
+<table>
+    <thead>
+        <tr>
+            <th>
+                <a href="https://www.opera.com/gx">Opera GX</a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=170>
+            <td>
+                <a href="opera-gx">
+                    <img width=150 src="opera-gx/opera-gx.svg" alt="Opera GX browser logo">
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 ### Opera Mini
 
 <table>
