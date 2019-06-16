@@ -1,3 +1,13 @@
+# 52.1.1 (June 16, 2019)
+
+## Bug fixes / Improvements
+
+* [[`7a67f550c0`](https://github.com/alrra/browser-logos/commit/7a67f550c0deb2c7f8f4cbe34f9b24d98cb73681)] - 🗜️ Further optimize `firefox-developer-edition.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`9a9cc9de8a`](https://github.com/alrra/browser-logos/commit/9a9cc9de8a85a4f53b0018f05f63f16dc5348bb1)] - 🗜️ Further optimize `epiphany.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`01c9778a3e`](https://github.com/alrra/browser-logos/commit/01c9778a3eb1df43f0c671e893c4b244014985d9)] - 🗜️ Further optimize `edge-canary.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`50a73dc2f4`](https://github.com/alrra/browser-logos/commit/50a73dc2f476634024d77e3cb4968fedb0c230ef)] - 🗜️ Further optimize `edge-dev.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 52.1.0 (June 12, 2019)
 
 ## New features
