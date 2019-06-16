@@ -1,3 +1,10 @@
+# 1.0.6 (June 16, 2019)
+
+## Bug fixes / Improvements
+
+* [[`9a9cc9de8a`](https://github.com/alrra/browser-logos/commit/9a9cc9de8a85a4f53b0018f05f63f16dc5348bb1)] - 🗜️ Further optimize `epiphany.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 1.0.5 (May 5, 2019)
 
 ## Bug fixes / Improvements
