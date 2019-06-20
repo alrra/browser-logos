@@ -1,3 +1,10 @@
+# 52.1.3 (June 19, 2019)
+
+## Bug fixes / Improvements
+
+* [[`629df8b1a6`](https://github.com/alrra/browser-logos/commit/629df8b1a66b19aee884d7f6fe4c0eb6af341dc0)] - 🗜️ Further optimize `webpositive.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 52.1.2 (June 19, 2019)
 
 ## Bug fixes / Improvements
