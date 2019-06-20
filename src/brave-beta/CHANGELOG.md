@@ -1,3 +1,10 @@
+# 1.0.3 (June 19, 2019)
+
+## Bug fixes / Improvements
+
+* [[`becf968a1a`](https://github.com/alrra/browser-logos/commit/becf968a1a5e72d0c7de30aefb7c97c60100d420)] - 🗜️ Further losslessly optimize `brave-beta.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 1.0.2 (May 18, 2019)
 
 ## Bug fixes / Improvements
