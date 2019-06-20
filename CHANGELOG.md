@@ -1,3 +1,15 @@
+# 52.1.2 (June 19, 2019)
+
+## Bug fixes / Improvements
+
+* [[`41729604c3`](https://github.com/alrra/browser-logos/commit/41729604c3d11b2fb4d3ef4b4762d9d555e2d070)] - 🗜️ Further losslessly optimize `web.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`3c5908e898`](https://github.com/alrra/browser-logos/commit/3c5908e8983c4d181e709b549a1fc4396914a7c0)] - 🗜️ Further losslessly optimize `safari-ios.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`61513a68d4`](https://github.com/alrra/browser-logos/commit/61513a68d4be26003bfa47cddc55399efb75d503)] - 🗜️ Further losslessly optimize `firefox-developer-edition.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`8c53f49049`](https://github.com/alrra/browser-logos/commit/8c53f49049cdf53d4336f83279d54c2f69c4b7cc)] - 🗜️ Further losslessly optimize `brave.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`072b78aa07`](https://github.com/alrra/browser-logos/commit/072b78aa071a8ef36a0acdfc55f0279a8dfc94af)] - 🗜️ Further losslessly optimize `brave-dev.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`becf968a1a`](https://github.com/alrra/browser-logos/commit/becf968a1a5e72d0c7de30aefb7c97c60100d420)] - 🗜️ Further losslessly optimize `brave-beta.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 52.1.1 (June 16, 2019)
 
 ## Bug fixes / Improvements
