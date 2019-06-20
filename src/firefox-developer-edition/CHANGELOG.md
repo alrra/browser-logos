@@ -1,3 +1,10 @@
+# 2.1.8 (June 19, 2019)
+
+## Bug fixes / Improvements
+
+* [[`61513a68d4`](https://github.com/alrra/browser-logos/commit/61513a68d4be26003bfa47cddc55399efb75d503)] - 🗜️ Further losslessly optimize `firefox-developer-edition.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 2.1.7 (June 16, 2019)
 
 ## Bug fixes / Improvements
