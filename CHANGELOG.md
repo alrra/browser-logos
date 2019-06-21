@@ -1,3 +1,17 @@
+# 52.1.4 (June 20, 2019)
+
+## Bug fixes / Improvements
+
+* [[`06c3b3a303`](https://github.com/alrra/browser-logos/commit/06c3b3a30303fd0954ac8a2b723d4d0fe48c671a)] - 🗜 Further optimize `brave_2.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`a9662e2e51`](https://github.com/alrra/browser-logos/commit/a9662e2e518ce0e41ec1e766297f1c003ca2b574)] - 🗜️ Further losslessly optimize `iridium.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`2c6a19c355`](https://github.com/alrra/browser-logos/commit/2c6a19c3557c6cabd47d9eca6130fb32638b678d)] - 🗜️ Further optimize `safari-ios.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`f86ba311e4`](https://github.com/alrra/browser-logos/commit/f86ba311e4fed72ee81d22bc5ba57e09d0413b8f)] - 🗜️ Further optimize `brave-dev.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`b9edeff667`](https://github.com/alrra/browser-logos/commit/b9edeff6676b50a3648dc1b44d645cea046cadf4)] - 🗜️ Further optimize `brave-beta.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`94ac2ec74a`](https://github.com/alrra/browser-logos/commit/94ac2ec74aff066f0b1615e60818edac521698bc)] - 🗜️ Further optimize `brave.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`42e9117d4b`](https://github.com/alrra/browser-logos/commit/42e9117d4b9daa99f2425dea49a65d6827511b6a)] - 🗜️ Further optimize `edge-beta.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`1b2b2f4be7`](https://github.com/alrra/browser-logos/commit/1b2b2f4be74bbd48c8a414a6b5dda7262cda3fc6)] - 🗜️ Further losslessly optimize `vivaldi.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 52.1.3 (June 19, 2019)
 
 ## Bug fixes / Improvements
