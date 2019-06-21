@@ -1,3 +1,10 @@
+# 2.1.4 (June 20, 2019)
+
+## Bug fixes / Improvements
+
+* [[`1b2b2f4be7`](https://github.com/alrra/browser-logos/commit/1b2b2f4be74bbd48c8a414a6b5dda7262cda3fc6)] - 🗜️ Further losslessly optimize `vivaldi.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 2.1.3 (May 5, 2019)
 
 ## Bug fixes / Improvements

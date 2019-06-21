@@ -3,8 +3,8 @@
 <table>
     <tr height=230>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/896c866920140f41a5a7f13408980db181bd85ce/src/vivaldi">
-                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/896c866920140f41a5a7f13408980db181bd85ce/src/vivaldi/vivaldi.svg?sanitize=true" alt="Vivaldi browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/1b2b2f4be74bbd48c8a414a6b5dda7262cda3fc6/src/vivaldi">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/1b2b2f4be74bbd48c8a414a6b5dda7262cda3fc6/src/vivaldi/vivaldi.svg?sanitize=true" alt="Vivaldi browser logo">
             </a>
         </td>
     </tr>
