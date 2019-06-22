@@ -1,3 +1,10 @@
+# 1.0.8 (June 21, 2019)
+
+## Bug fixes / Improvements
+
+* [[`b307997298`](https://github.com/alrra/browser-logos/commit/b307997298e2c8742f12f3ffc343674a8c19b53e)] - 🗜 Further optimize `webpositive.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 1.0.7 (June 19, 2019)
 
 ## Bug fixes / Improvements
