@@ -1,3 +1,11 @@
+# 52.1.5 (June 21, 2019)
+
+## Bug fixes / Improvements
+
+* [[`713c5d8176`](https://github.com/alrra/browser-logos/commit/713c5d817664d592e757b2f55b342ae22551607f)] - 🗜 Further optimize `firefox-focus.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`b307997298`](https://github.com/alrra/browser-logos/commit/b307997298e2c8742f12f3ffc343674a8c19b53e)] - 🗜 Further optimize `webpositive.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 52.1.4 (June 20, 2019)
 
 ## Bug fixes / Improvements
