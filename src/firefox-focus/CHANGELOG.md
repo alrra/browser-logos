@@ -1,3 +1,10 @@
+# 1.0.7 (June 21, 2019)
+
+## Bug fixes / Improvements
+
+* [[`713c5d8176`](https://github.com/alrra/browser-logos/commit/713c5d817664d592e757b2f55b342ae22551607f)] - 🗜 Further optimize `firefox-focus.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 1.0.6 (June 1, 2019)
 
 ## Bug fixes / Improvements
