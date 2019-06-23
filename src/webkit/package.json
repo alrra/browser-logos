@@ -1,0 +1,15 @@
+{
+  "bugs": "https://github.com/alrra/browser-logos/issues",
+  "description": "WebKit browser engine logo",
+  "homepage": "https://github.com/alrra/browser-logos",
+  "keywords": [
+    "browser-logos",
+    "logo",
+    "webkit",
+    "webkit-logo"
+  ],
+  "private": true,
+  "name": "@browser-logos/webkit",
+  "repository": "alrra/browser-logos",
+  "version": "1.0.0"
+}
