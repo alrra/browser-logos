@@ -1,3 +1,11 @@
+# 52.2.0 (June 23, 2019)
+
+## New features
+
+* [[`da66e2f3b7`](https://github.com/alrra/browser-logos/commit/da66e2f3b7f0c6e0722db539fb276ce9c30db288)] - ✨ Publish `Webkit` logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`703e422321`](https://github.com/alrra/browser-logos/commit/703e422321c44c4b35ebd2af520444f896c1534a)] - ✨ Add `WebKit` browser engine logo (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 52.1.5 (June 21, 2019)
 
 ## Bug fixes / Improvements
