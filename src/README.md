@@ -1369,6 +1369,27 @@
     </tbody>
 </table>
 
+### WebKit
+
+<table>
+    <thead>
+        <tr>
+            <th>
+                <a href="https://webkit.org/">WebKit</a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=170>
+            <td>
+                <a href="webkit">
+                    <img width=150 src="webkit/webkit.svg" alt="WebKit browser engine logo">
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 ### Yandex
 
 <table>
