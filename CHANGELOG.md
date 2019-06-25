@@ -1,3 +1,13 @@
+# 52.2.1 (June 25, 2019)
+
+## Bug fixes / Improvements
+
+* [[`cc84b01f60`](https://github.com/alrra/browser-logos/commit/cc84b01f60edb9478236312a8311812a3d1f7adc)] - 🗜 Further losslessly optimize `samsung-internet.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`d7a07cb403`](https://github.com/alrra/browser-logos/commit/d7a07cb403aadea7333dd2f3e5a1d4fb86bb5c3a)] - 🗜️ Further losslessly optimize `jsdom.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`09b513f4ab`](https://github.com/alrra/browser-logos/commit/09b513f4ab493998fcd2337ed519dd13a645a4f5)] - 🗜️ Further losslessly optimize `edge-tile.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`4764b8424b`](https://github.com/alrra/browser-logos/commit/4764b8424b0b88ec1d03a2e14162bf2ddaa4ce85)] - 🗜️ Further losslessly optimize `edge.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 52.2.0 (June 23, 2019)
 
 ## New features
