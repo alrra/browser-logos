@@ -1,3 +1,15 @@
+# 52.2.2 (June 26, 2019)
+
+## Bug fixes / Improvements
+
+* [[`65f74d1fd9`](https://github.com/alrra/browser-logos/commit/65f74d1fd9d70205780dd087c0867a54b7a14f4d)] - 🗜️ Further losslessly optimize `samsung-internet-gear-vr.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`76d0180f2d`](https://github.com/alrra/browser-logos/commit/76d0180f2dd1aca5e9b2d8f6cb7c4a4c8621b6c3)] - 🗜️ Further losslessly optimize `samsung-internet_5.4-9.0.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`dd7e89c04c`](https://github.com/alrra/browser-logos/commit/dd7e89c04c9f97b85807716720670a1e82e2853b)] - 🗜 Further losslessly optimize `opera-gx.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`ddbae56866`](https://github.com/alrra/browser-logos/commit/ddbae568661134e26f84d28974c9c0b661a2689f)] - 🗜️ Further losslessly optimize `maxthon_1.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`e6994b123d`](https://github.com/alrra/browser-logos/commit/e6994b123d9649f7bacbae7e44a7ff83e393a6f0)] - 🗜 Further losslessly optimize `maxthon-beta_1.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`1ca2ae8276`](https://github.com/alrra/browser-logos/commit/1ca2ae8276f5982be3cc2eb3cb46a3b2342854b4)] - 🗜 Further losslessly optimize `sinternet-explorer-tile_10-11.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 52.2.1 (June 25, 2019)
 
 ## Bug fixes / Improvements
