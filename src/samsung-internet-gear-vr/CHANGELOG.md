@@ -1,3 +1,10 @@
+# 1.0.3 (June 26, 2019)
+
+## Bug fixes / Improvements
+
+* [[`65f74d1fd9`](https://github.com/alrra/browser-logos/commit/65f74d1fd9d70205780dd087c0867a54b7a14f4d)] - 🗜️ Further losslessly optimize `samsung-internet-gear-vr.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 1.0.2 (May 18, 2019)
 
 ## Bug fixes / Improvements
