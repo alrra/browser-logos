@@ -1,3 +1,10 @@
+# 1.0.8 (June 26, 2019)
+
+## Bug fixes / Improvements
+
+* [[`1ca2ae8276`](https://github.com/alrra/browser-logos/commit/1ca2ae8276f5982be3cc2eb3cb46a3b2342854b4)] - 🗜 Further losslessly optimize `sinternet-explorer-tile_10-11.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 1.0.7 (May 18, 2019)
 
 ## Bug fixes / Improvements
