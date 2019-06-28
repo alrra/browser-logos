@@ -1,3 +1,10 @@
+# 1.0.10 (June 27, 2019)
+
+## Bug fixes / Improvements
+
+* [[`0746211905`](https://github.com/alrra/browser-logos/commit/074621190550debc2c116989bccafa673a1b73df)] - 🗜️ Further optimize `safari-ios.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 1.0.9 (June 20, 2019)
 
 ## Bug fixes / Improvements
