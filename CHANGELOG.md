@@ -1,3 +1,13 @@
+# 52.2.4 (June 28, 2019)
+
+## Bug fixes / Improvements
+
+* [[`7d8226b662`](https://github.com/alrra/browser-logos/commit/7d8226b662748b3d083e8eece423e942652f943f)] - 🗜 Further optimize `samsung-internet_5.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`31ff68c9ee`](https://github.com/alrra/browser-logos/commit/31ff68c9ee99a70e1aebc48bfcbf6aa1b7c787b2)] - 🗜 Further optimize `basilisk.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`99a31e8183`](https://github.com/alrra/browser-logos/commit/99a31e8183078865b73c0459391d594ed964da0a)] - 🗜️ Further optimize `brave.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`367bfc51c4`](https://github.com/alrra/browser-logos/commit/367bfc51c47e8e2e5e460035ca7446a6ece52f22)] - 🗜️ Further optimize `midori.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 52.2.3 (June 27, 2019)
 
 ## Bug fixes / Improvements
