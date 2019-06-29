@@ -1,3 +1,10 @@
+# 1.0.7 (June 28, 2019)
+
+## Bug fixes / Improvements
+
+* [[`7d8226b662`](https://github.com/alrra/browser-logos/commit/7d8226b662748b3d083e8eece423e942652f943f)] - 🗜 Further optimize `samsung-internet_5.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 1.0.6 (May 18, 2019)
 
 ## Bug fixes / Improvements
