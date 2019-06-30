@@ -8,7 +8,6 @@
     "firefox-preview",
     "firefox-preview-logo"
   ],
-  "private": true,
   "name": "@browser-logos/firefox-preview",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"
