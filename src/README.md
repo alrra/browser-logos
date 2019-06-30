@@ -517,6 +517,27 @@
     </tbody>
 </table>
 
+### Firefox Preview
+
+<table>
+    <thead>
+        <tr>
+            <th>
+                <a href="https://play.google.com/store/apps/details?id=org.mozilla.fenix">Firefox<br>Preview</a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=170>
+            <td>
+                <a href="firefox-preview">
+                    <img width=150 src="firefox-preview/firefox-preview.svg" alt="Firefox Preview browser logo">
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 ### IceCat
 
 <table>
