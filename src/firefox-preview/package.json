@@ -1,0 +1,15 @@
+{
+  "bugs": "https://github.com/alrra/browser-logos/issues",
+  "description": "Firefox Preview browser logo",
+  "homepage": "https://github.com/alrra/browser-logos",
+  "keywords": [
+    "browser-logos",
+    "logo",
+    "firefox-preview",
+    "firefox-preview-logo"
+  ],
+  "private": true,
+  "name": "@browser-logos/firefox-preview",
+  "repository": "alrra/browser-logos",
+  "version": "1.0.0"
+}
