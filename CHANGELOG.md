@@ -1,3 +1,11 @@
+# 52.3.0 (June 30, 2019)
+
+## New features
+
+* [[`ca85e204e8`](https://github.com/alrra/browser-logos/commit/ca85e204e8d6b98b7e697e1ad5602b9d0c02856b)] - ✨ Publish `Firefox Preview` logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`8e07ac791b`](https://github.com/alrra/browser-logos/commit/8e07ac791b6e2dcf67e8821cc116b9254cb0f856)] - ✨ Add `Firefox Preview` logo (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 52.2.4 (June 28, 2019)
 
 ## Bug fixes / Improvements
