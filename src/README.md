@@ -538,6 +538,27 @@
     </tbody>
 </table>
 
+### GeckoView
+
+<table>
+    <thead>
+        <tr>
+            <th>
+                <a href="https://mozilla.github.io/geckoview/">GeckoView</a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=170>
+            <td>
+                <a href="geckoview">
+                    <img width=150 src="geckoview/geckoview.svg" alt="GeckoView logo">
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 ### IceCat
 
 <table>
