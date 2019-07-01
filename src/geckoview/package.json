@@ -8,7 +8,6 @@
     "geckoview",
     "geckoview-logo"
   ],
-  "private": true,
   "name": "@browser-logos/geckoview",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"
