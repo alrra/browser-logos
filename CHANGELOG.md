@@ -1,3 +1,11 @@
+# 52.4.0 (June 30, 2019)
+
+## New features
+
+* [[`3c77a79844`](https://github.com/alrra/browser-logos/commit/3c77a798444b11bc65389908cbf70e115bcbd5c7)] - ✨ Publish `Geckoview` logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`91872dc9ed`](https://github.com/alrra/browser-logos/commit/91872dc9ed95556656c0d55a37015c897f641f0f)] - ✨ Add `GeckoView` logo (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 52.3.0 (June 30, 2019)
 
 ## New features
