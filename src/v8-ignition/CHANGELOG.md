@@ -1,3 +1,11 @@
+# 1.1.3 (July 2, 2019)
+
+## Bug fixes / Improvements
+
+* [[`b054bdf990`](https://github.com/alrra/browser-logos/commit/b054bdf9908acb2bbbacd9d687096e2bf98171ce)] - 🗜 Further optimize `v8-ignition-outline.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`c478b2ec6f`](https://github.com/alrra/browser-logos/commit/c478b2ec6f46b0b053dafafc11a4c118f7a5841a)] - 🗜 Further optimize `v8-ignition.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 1.1.2 (March 15, 2019)
 
 ## Bug fixes / Improvements
