@@ -1,3 +1,12 @@
+# 52.4.2 (July 4, 2019)
+
+## Bug fixes / Improvements
+
+* [[`334cdfaccc`](https://github.com/alrra/browser-logos/commit/334cdfaccc4e3001b0e06f508a4b447252330453)] - 🗜 Further optimize `edge-beta.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`42e0c8d36a`](https://github.com/alrra/browser-logos/commit/42e0c8d36af5b6ec7dfcfcd41104c31f30871710)] - 🗜 Further optimize `edge-canary.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`7230649861`](https://github.com/alrra/browser-logos/commit/72306498611e518b86324ddf46bc9a4d8123cc47)] - 🗜 Further optimize `edge-dev.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 52.4.1 (July 2, 2019)
 
 ## Bug fixes / Improvements
