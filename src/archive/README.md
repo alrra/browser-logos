@@ -78,7 +78,7 @@
         <tr height=170>
             <td>
                 <a href="aol-explorer">
-                    <img width=150 src="aol-explorer/aol-explorer.svg" alt="AOL Explorer browser logo">
+                    <img width=150 src="aol-explorer/aol-explorer_256x256.png" alt="AOL Explorer browser logo">
                 </a>
             </td>
         </tr>
@@ -99,7 +99,7 @@
         <tr height=170>
             <td>
                 <a href="arora">
-                    <img width=150 src="arora/arora.svg" alt="Arora browser logo">
+                    <img width=150 src="arora/arora_256x256.png" alt="Arora browser logo">
                 </a>
             </td>
         </tr>
@@ -224,7 +224,7 @@
         <tr height=170>
             <td>
                 <a href="bezillabrowser">
-                    <img width=150 src="bezillabrowser/bezillabrowser.svg" alt="BeZillaBrowser browser logo">
+                    <img width=150 src="bezillabrowser/bezillabrowser_256x256.png" alt="BeZillaBrowser browser logo">
                 </a>
             </td>
         </tr>
@@ -255,7 +255,7 @@
             </td>
             <td>
                 <a href="brave_2">
-                    <img width=150 src="brave_2/brave_2.svg" alt="Brave browser logo">
+                    <img width=150 src="brave_2/brave_2_256x256.png" alt="Brave browser logo">
                 </a>
             </td>
         </tr>
@@ -322,7 +322,7 @@
         <tr height=170>
             <td>
                 <a href="chrome_1-11">
-                    <img width=150 src="chrome_1-11/chrome_1-11.svg" alt="Chrome 1-11 browser logo">
+                    <img width=150 src="chrome_1-11/chrome_1-11_256x256.png" alt="Chrome 1-11 browser logo">
                 </a>
             </td>
             <td>
@@ -443,7 +443,7 @@
         <tr height=170>
             <td>
                 <a href="chromium_1-11">
-                    <img width=150 src="chromium_1-11/chromium_1-11.svg" alt="Chromium 1-11 browser logo">
+                    <img width=150 src="chromium_1-11/chromium_1-11_256x256.png" alt="Chromium 1-11 browser logo">
                 </a>
             </td>
             <td>
@@ -659,7 +659,7 @@
         <tr height=170>
             <td>
                 <a href="epiphany">
-                    <img width=150 src="epiphany/epiphany.svg" alt="Epiphany browser logo">
+                    <img width=150 src="epiphany/epiphany_256x256.png" alt="Epiphany browser logo">
                 </a>
             </td>
         </tr>
@@ -755,7 +755,7 @@
         <tr height=170>
             <td>
                 <a href="phoenix-firebird">
-                    <img width=150 src="phoenix-firebird/phoenix-firebird.svg" alt="Phoenix/Firebird browser logo">
+                    <img width=150 src="phoenix-firebird/phoenix-firebird_256x256.png" alt="Phoenix/Firebird browser logo">
                 </a>
             </td>
             <td>
@@ -765,7 +765,7 @@
             </td>
             <td>
                 <a href="firefox_1.5-3">
-                    <img width=150 src="firefox_1.5-3/firefox_1.5-3.svg" alt="Firefox 1 browser logo">
+                    <img width=150 src="firefox_1.5-3/firefox_1.5-3_256x256.png" alt="Firefox 1 browser logo">
                 </a>
             </td>
             <td>
@@ -775,7 +775,7 @@
             </td>
             <td>
                 <a href="firefox_23-56">
-                    <img width=150 src="firefox_23-56/firefox_23-56.svg" alt="Firefox 23-56 browser logo">
+                    <img width=150 src="firefox_23-56/firefox_23-56_256x256.png" alt="Firefox 23-56 browser logo">
                 </a>
             </td>
         </tr>
@@ -920,7 +920,7 @@
         <tr height=170>
             <td>
                 <a href="firefox-reality">
-                    <img width=150 src="firefox-reality/firefox-reality.svg" alt="Firefox Reality browser logo">
+                    <img width=150 src="firefox-reality/firefox-reality_256x256.png" alt="Firefox Reality browser logo">
                 </a>
             </td>
         </tr>
@@ -962,7 +962,7 @@
         <tr height=170>
             <td>
                 <a href="iceape">
-                    <img width=150 src="iceape/iceape.svg" alt="Iceape browser logo">
+                    <img width=150 src="iceape/iceape_256x256.png" alt="Iceape browser logo">
                 </a>
             </td>
         </tr>
@@ -983,7 +983,7 @@
         <tr height=170>
             <td>
                 <a href="iceweasel">
-                    <img width=150 src="iceweasel/iceweasel.svg" alt="Iceweasel browser logo">
+                    <img width=150 src="iceweasel/iceweasel_256x256.png" alt="Iceweasel browser logo">
                 </a>
             </td>
         </tr>
@@ -1023,12 +1023,12 @@
             </td>
             <td>
                 <a href="internet-explorer_9-11">
-                    <img width=150 src="internet-explorer_9-11/internet-explorer_9-11.svg"alt="Internet Explorer 9, 10 and 11 browser logo">
+                    <img width=150 src="internet-explorer_9-11/internet-explorer_9-11_256x256.png"alt="Internet Explorer 9, 10 and 11 browser logo">
                 </a>
             </td>
             <td>
                 <a href="internet-explorer-tile_10-11">
-                    <img width=150 src="internet-explorer-tile_10-11/internet-explorer-tile_10-11.svg" alt="Internet Explorer 10 and 11 start screen tile">
+                    <img width=150 src="internet-explorer-tile_10-11/internet-explorer-tile_10-11_256x256.png" alt="Internet Explorer 10 and 11 start screen tile">
                 </a>
             </td>
         </tr>
@@ -1049,7 +1049,7 @@
         <tr height=170>
             <td>
                 <a href="internet-explorer-developer-channel">
-                    <img width=150 src="internet-explorer-developer-channel/internet-explorer-developer-channel.svg" alt="Internet Explorer Developer Channel browser logo">
+                    <img width=150 src="internet-explorer-developer-channel/internet-explorer-developer-channel_256x256.png" alt="Internet Explorer Developer Channel browser logo">
                 </a>
             </td>
         </tr>
@@ -1092,7 +1092,7 @@
         <tr height=170>
             <td>
                 <a href="k-meleon">
-                    <img width=150 src="k-meleon/k-meleon.svg" alt="K-Meleon browser logo">
+                    <img width=150 src="k-meleon/k-meleon_256x256.png" alt="K-Meleon browser logo">
                 </a>
             </td>
         </tr>
@@ -1137,12 +1137,12 @@
         <tr height=170>
             <td>
                 <a href="konqueror_1-3">
-                    <img width=150 src="konqueror_1-3/konqueror_1-3.svg" alt="Konqueror 1-3 browser logo">
+                    <img width=150 src="konqueror_1-3/konqueror_1-3_256x256.png" alt="Konqueror 1-3 browser logo">
                 </a>
             </td>
             <td>
                 <a href="konqueror_4">
-                    <img width=150 src="konqueror_4/konqueror_4.svg" alt="Konqueror 4 browser logo">
+                    <img width=150 src="konqueror_4/konqueror_4_256x256.png" alt="Konqueror 4 browser logo">
                 </a>
             </td>
         </tr>
@@ -1185,7 +1185,7 @@
         <tr height=170>
             <td>
                 <a href="maxthon_1">
-                    <img width=150 src="maxthon_1/maxthon_1.svg" alt="Maxthon browser logo">
+                    <img width=150 src="maxthon_1/maxthon_1_256x256.png" alt="Maxthon browser logo">
                 </a>
             </td>
         </tr>
@@ -1207,7 +1207,7 @@
         <tr height=170>
             <td>
                 <a href="maxthon-beta_1">
-                    <img width=150 src="maxthon-beta_1/maxthon-beta_1.svg" alt="Maxthon Beta browser logo">
+                    <img width=150 src="maxthon-beta_1/maxthon-beta_1_256x256.png" alt="Maxthon Beta browser logo">
                 </a>
             </td>
         </tr>
@@ -1255,7 +1255,7 @@
         <tr height=170>
             <td>
                 <a href="netscape_4-6">
-                    <img width=150 src="netscape_4-6/netscape_4-6.svg" alt="Netscape 4-6 browser logo">
+                    <img width=150 src="netscape_4-6/netscape_4-6_256x256.png" alt="Netscape 4-6 browser logo">
                 </a>
             </td>
             <td>
@@ -1265,7 +1265,7 @@
             </td>
             <td>
                 <a href="netscape_9">
-                    <img width=150 src="netscape_9/netscape_9.svg" alt="Netscape 9 browser logo">
+                    <img width=150 src="netscape_9/netscape_9_256x256.png" alt="Netscape 9 browser logo">
                 </a>
             </td>
         </tr>
@@ -1334,7 +1334,7 @@
             </td>
             <td>
                 <a href="opera_10-14">
-                    <img width=150 src="opera_10-14/opera_10-14.svg" alt="Opera 10-14 browser logo">
+                    <img width=150 src="opera_10-14/opera_10-14_256x256.png" alt="Opera 10-14 browser logo">
                 </a>
             </td>
             <td>
@@ -1363,7 +1363,7 @@
         <tr height=170>
             <td>
                 <a href="opera-next_15-24">
-                    <img width=150 src="opera-next_15-24/opera-next_15-24.svg" alt="Opera Next 15 browser logo">
+                    <img width=150 src="opera-next_15-24/opera-next_15-24_256x256.png" alt="Opera Next 15 browser logo">
                 </a>
             </td>
             <td>
@@ -1484,7 +1484,7 @@
         <tr height=170>
             <td>
                 <a href="phantomjs">
-                    <img width=150 src="phantomjs/phantomjs.svg" alt="PhantomJS browser logo">
+                    <img width=150 src="phantomjs/phantomjs_256x256.png" alt="PhantomJS browser logo">
                 </a>
             </td>
         </tr>
@@ -1581,7 +1581,7 @@
         <tr height=170>
             <td>
                 <a href="rekonq">
-                    <img width=150 src="rekonq/rekonq.svg" alt="rekonq browser logo">
+                    <img width=150 src="rekonq/rekonq_256x256.png" alt="rekonq browser logo">
                 </a>
             </td>
         </tr>
@@ -1684,12 +1684,12 @@
             </td>
             <td>
                 <a href="samsung-internet_5">
-                    <img width=150 src="samsung-internet_5/samsung-internet_5.svg" alt="Samsung Internet 5 browser logo">
+                    <img width=150 src="samsung-internet_5/samsung-internet_5_256x256.png" alt="Samsung Internet 5 browser logo">
                 </a>
             </td>
             <td>
                 <a href="samsung-internet_5.4-9.0">
-                    <img width=150 src="samsung-internet_5.4-9.0/samsung-internet_5.4-9.0.svg" alt="Samsung Internet 5.4-9.0 browser logo">
+                    <img width=150 src="samsung-internet_5.4-9.0/samsung-internet_5.4-9.0_256x256.png" alt="Samsung Internet 5.4-9.0 browser logo">
                 </a>
             </td>
         </tr>
@@ -1710,7 +1710,7 @@
         <tr height=170>
             <td>
                 <a href="samsung-internet-beta_5.4-9.1">
-                    <img width=150 src="samsung-internet-beta_5.4-9.1/samsung-internet-beta_5.4-9.1.svg" alt="Samsung Internet Beta v5.4-9.1 browser logo">
+                    <img width=150 src="samsung-internet-beta_5.4-9.1/samsung-internet-beta_5.4-9.1_256x256.png" alt="Samsung Internet Beta v5.4-9.1 browser logo">
                 </a>
             </td>
         </tr>
@@ -1874,7 +1874,7 @@
         <tr height=170>
             <td>
                 <a href="surf">
-                    <img width=150 src="surf/surf.svg" alt="surf browser logo">
+                    <img width=150 src="surf/surf_256x256.png" alt="surf browser logo">
                 </a>
             </td>
         </tr>
@@ -1962,7 +1962,7 @@
         <tr height=170>
             <td>
                 <a href="web">
-                    <img width=150 src="web/web.svg" alt="Web (f.k.a. Epiphany) browser logo">
+                    <img width=150 src="web/web_256x256.png" alt="Web (f.k.a. Epiphany) browser logo">
                 </a>
             </td>
         </tr>
@@ -2020,7 +2020,7 @@
         <tr height=170>
             <td>
                 <a href="webpositive">
-                    <img width=150 src="webpositive/webpositive.svg" alt="WebPositive browser logo">
+                    <img width=150 src="webpositive/webpositive_256x256.png" alt="WebPositive browser logo">
                 </a>
             </td>
         </tr>
