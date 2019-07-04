@@ -1,3 +1,10 @@
+# 1.0.7 (July 4, 2019)
+
+## Bug fixes / Improvements
+
+* [[`334cdfaccc`](https://github.com/alrra/browser-logos/commit/334cdfaccc4e3001b0e06f508a4b447252330453)] - 🗜 Further optimize `edge-beta.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 1.0.6 (June 20, 2019)
 
 ## Bug fixes / Improvements
