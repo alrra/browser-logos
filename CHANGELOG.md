@@ -1,3 +1,10 @@
+# 52.4.3 (July 4, 2019)
+
+## Bug fixes / Improvements
+
+* [[`f6ac41c9ee`](https://github.com/alrra/browser-logos/commit/f6ac41c9eed404e793b3659fea4c6443f9549eb0)] - 🗜 Further losslessly optimize `falkon.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 52.4.2 (July 4, 2019)
 
 ## Bug fixes / Improvements
