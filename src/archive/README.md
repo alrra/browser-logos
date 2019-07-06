@@ -106,27 +106,6 @@
     </tbody>
 </table>
 
-### Aviator
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://web.archive.org/web/20151021044307/https://www.whitehatsec.com/aviator/">Aviator</a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="aviator">
-                    <img width=150 src="aviator/aviator_256x256.png" alt="Aviator browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
 ### Axis
 
 <table>
@@ -142,46 +121,6 @@
             <td>
                 <a href="axis">
                     <img width=150 src="axis/axis_256x256.png" alt="Yahoo! Axis browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-### Baidu (Mobile)
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://web.archive.org/web/20150726085553/http://global.baidu.com/browser/">Baidu<br>(Mobile)</a>
-                <a href="#note"><code>*</code></a>
-            </th>
-            <th>
-                <a href="https://web.archive.org/web/20150726085553/http://global.baidu.com/browser/">Baidu<br>(Mobile)</a>
-                <a href="#note"><code>*</code></a>
-            </th>
-            <th>
-                <a href="https://web.archive.org/web/20150726085553/http://global.baidu.com/browser/">Baidu<br>(Mobile)</a>
-                <a href="#note"><code>*</code></a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="baidu-mobile_1">
-                    <img width=150 src="baidu-mobile_1/baidu-mobile_1_256x256.png" alt="Baidu Mobile browser logo">
-                </a>
-            </td>
-            <td>
-                <a href="baidu-mobile_2">
-                    <img width=150 src="baidu-mobile_2/baidu-mobile_2_256x256.png" alt="Baidu Mobile browser logo">
-                </a>
-            </td>
-            <td>
-                <a href="baidu-mobile_3">
-                    <img width=150 src="baidu-mobile_3/baidu-mobile_3_256x256.png" alt="Baidu Mobile browser logo">
                 </a>
             </td>
         </tr>
@@ -283,28 +222,6 @@
     </tbody>
 </table>
 
-### Cheetah
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://en.wikipedia.org/wiki/Cheetah_Mobile">Cheetah</a>
-                <a href="#note"><code>*</code></a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="cheetah">
-                    <img width=150 src="cheetah/cheetah_256x256.png" alt="Cheetah browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
 ### Chrome
 
 <table>
@@ -334,35 +251,11 @@
     </tbody>
 </table>
 
-### Chrome (Android)
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://en.wikipedia.org/wiki/Google_Chrome_for_Android">Chrome<br>(Android)<br> 25-36</a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="chrome-android_18-36">
-                    <img width=150 src="chrome-android_18-36/chrome-android_18-36_256x256.png" alt="Chrome for Android 18-36 browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
 ### Chrome Beta
 
 <table>
     <thead>
         <tr>
-            <th>
-                <a href="https://en.wikipedia.org/wiki/Google_Chrome_for_Android">Chrome Beta<br>(Android)<br>25-36<br></a>
-            </th>
             <th>
                 <a href="https://en.wikipedia.org/wiki/Google_Chrome">Chrome Beta<br>37-58<br></a>
             </th>
@@ -370,11 +263,6 @@
     </thead>
     <tbody>
         <tr height=170>
-            <td>
-                <a href="chrome-beta-android_25-36">
-                    <img width=150 src="chrome-beta-android_25-36/chrome-beta-android_25-36_256x256.png" alt="Chrome Beta for Android 25-36 browser logo">
-                </a>
-            </td>
             <td>
                 <a href="chrome-beta_37-58">
                     <img width=150 src="chrome-beta_37-58/chrome-beta_37-58_256x256.png" alt="Chrome Beta 37-58 browser logo">
@@ -426,6 +314,35 @@
     </tbody>
 </table>
 
+### Chrome (Android)
+
+<table>
+    <thead>
+        <tr>
+            <th>
+                <a href="https://en.wikipedia.org/wiki/Google_Chrome_for_Android">Chrome<br>(Android)<br> 25-36</a>
+            </th>
+            <th>
+                <a href="https://en.wikipedia.org/wiki/Google_Chrome_for_Android">Chrome Beta<br>(Android)<br>25-36<br></a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=170>
+            <td>
+                <a href="chrome-android_18-36">
+                    <img width=150 src="chrome-android_18-36/chrome-android_18-36_256x256.png" alt="Chrome for Android 18-36 browser logo">
+                </a>
+            </td>
+            <td>
+                <a href="chrome-beta-android_25-36">
+                    <img width=150 src="chrome-beta-android_25-36/chrome-beta-android_25-36_256x256.png" alt="Chrome Beta for Android 25-36 browser logo">
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 ### Chromium
 
 <table>
@@ -449,27 +366,6 @@
             <td>
                 <a href="chromium_12-48">
                     <img width=150 src="chromium_12-48/chromium_12-48_256x256.png" alt="Chromium 12-48 browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-### CM
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://www.cmcm.com/en-us/cm-browser/">CM</a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="cm">
-                    <img width=150 src="cm/cm_256x256.png" alt="CM browser logo">
                 </a>
             </td>
         </tr>
@@ -702,27 +598,6 @@
             <td>
                 <a href="fennec">
                     <img width=150 src="fennec/fennec_256x256.png" alt="Fennec browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-### Firedoge
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://en.wikipedia.org/wiki/Firefox#Version_history">Firedoge</a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="firedoge">
-                    <img width=150 src="firedoge/firedoge_256x256.png" alt="Firedoge browser logo">
                 </a>
             </td>
         </tr>
@@ -1056,28 +931,6 @@
     </tbody>
 </table>
 
-### Iridium
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://github.com/iridium-browser">Iridium</a>
-                <a href="#note"><code>*</code></a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="iridium">
-                    <img width=150 src="iridium/iridium_256x256.png" alt="Iridium browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
 ### K-Meleon
 
 <table>
@@ -1093,27 +946,6 @@
             <td>
                 <a href="k-meleon">
                     <img width=150 src="k-meleon/k-meleon_256x256.png" alt="K-Meleon browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-### KidZui
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://en.wikipedia.org/wiki/KidZui">KidZui</a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="kidzui">
-                    <img width=150 src="kidzui/kidzui_256x256.png" alt="KidZui Browser logo">
                 </a>
             </td>
         </tr>
@@ -1508,37 +1340,6 @@
             <td>
                 <a href="puffin">
                     <img width=150 src="puffin/puffin_256x256.png" alt="Puffin browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-### QQ
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://web.archive.org/web/20160115132857/http://browser.qq.com/">QQ</a>
-                <a href="#note"><code>*</code></a>
-            </th>
-            <th>
-                <a href="https://web.archive.org/web/20160115132857/http://browser.qq.com/">QQ</a>
-                <a href="#note"><code>*</code></a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="qq_1">
-                    <img width=150 src="qq_1/qq_1_256x256.png" alt="QQ browser logo">
-                </a>
-            </td>
-            <td>
-                <a href="qq_2">
-                    <img width=150 src="qq_2/qq_2_256x256.png" alt="QQ browser logo">
                 </a>
             </td>
         </tr>

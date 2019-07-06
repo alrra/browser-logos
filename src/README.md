@@ -1,66 +1,3 @@
-### Adblock
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://adblockbrowser.org/">Adblock</a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="adblock">
-                    <img width=150 src="adblock/adblock_256x256.png" alt="Adblock browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-### Aloha
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://alohabrowser.com/">Aloha</a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="aloha">
-                    <img width=150 src="aloha/aloha_512x512.png" alt="Aloha browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-### Amazon Internet
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://play.google.com/store/apps/details?id=com.amazon.cloud9.garuda">Amazon<br>Internet</a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="amazon-internet">
-                    <img width=150 src="amazon-internet/amazon-internet_256x256.png" alt="Amazon Internet logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
 ### Android
 
 <table>
@@ -441,13 +378,13 @@
     <thead>
         <tr>
             <th>
+                <a href="https://play.google.com/store/apps/details?id=org.mozilla.fenix">Firefox<br>Preview</a>
+            </th>
+            <th>
                 <a href="https://www.mozilla.org/en-US/firefox/new/">Firefox</a>
             </th>
             <th>
                 <a href="https://play.google.com/store/apps/details?id=org.mozilla.rocket">Firefox<br>Lite</a>
-            </th>
-            <th>
-                <a href="https://mixedreality.mozilla.org/firefox-reality/">Firefox<br>Reality</a>
             </th>
             <th>
                 <a href="https://www.mozilla.org/en-US/firefox/channel/#beta">Firefox<br>Beta</a>
@@ -463,6 +400,11 @@
     <tbody>
         <tr height=170>
             <td>
+                <a href="firefox-preview">
+                    <img width=150 src="firefox-preview/firefox-preview_256x256.png" alt="Firefox Preview browser logo">
+                </a>
+            </td>
+            <td>
                 <a href="firefox">
                     <img width=150 src="firefox/firefox_256x256.png" alt="Firefox browser logo">
                 </a>
@@ -470,11 +412,6 @@
             <td>
                 <a href="firefox-lite">
                    <img width=150 src="firefox-lite/firefox-lite_256x256.png" alt="Firefox Lite browser logo">
-                </a>
-            </td>
-            <td>
-                <a href="firefox-reality">
-                    <img width=150 src="firefox-reality/firefox-reality_256x256.png" alt="Firefox Reality browser logo">
                 </a>
             </td>
             <td>
@@ -517,21 +454,21 @@
     </tbody>
 </table>
 
-### Firefox Preview
+### Firefox Reality
 
 <table>
     <thead>
         <tr>
             <th>
-                <a href="https://play.google.com/store/apps/details?id=org.mozilla.fenix">Firefox<br>Preview</a>
+                <a href="https://mixedreality.mozilla.org/firefox-reality/">Firefox<br>Reality</a>
             </th>
         </tr>
     </thead>
     <tbody>
         <tr height=170>
             <td>
-                <a href="firefox-preview">
-                    <img width=150 src="firefox-preview/firefox-preview_256x256.png" alt="Firefox Preview browser logo">
+                <a href="firefox-reality">
+                    <img width=150 src="firefox-reality/firefox-reality_256x256.png" alt="Firefox Reality browser logo">
                 </a>
             </td>
         </tr>
@@ -574,27 +511,6 @@
             <td>
                 <a href="icecat">
                     <img width=150 src="icecat/icecat_256x256.png" alt="IceCat browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-### Iridium
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://github.com/iridium-browser">Iridium</a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="iridium">
-                    <img width=150 src="iridium/iridium_256x256.png" alt="Iridium browser logo">
                 </a>
             </td>
         </tr>
@@ -658,48 +574,6 @@
             <td>
                 <a href="midori">
                     <img width=150 src="midori/midori_256x256.png" alt="Midori browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-### MIHTool
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="http://www.mihtool.com/">MIHTool</a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="mihtool">
-                    <img width=150 src="mihtool/mihtool_256x256.png" alt="MIHTool browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-### Min
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://palmeral.github.io/min/">Min</a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="min">
-                    <img width=150 src="min/min_256x256.png" alt="Min browser logo">
                 </a>
             </td>
         </tr>
@@ -919,27 +793,6 @@
     </tbody>
 </table>
 
-### Phoenix
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://play.google.com/store/apps/details?id=com.transsion.phoenix">Phoenix</a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="phoenix">
-                    <img width=150 src="phoenix/phoenix_256x256.png" alt="Phoenix browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
 ### Puffin
 
 <table>
@@ -955,27 +808,6 @@
             <td>
                 <a href="puffin">
                     <img width=150 src="puffin/puffin_256x256.png" alt="Puffin browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-### qutebrowser
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://www.qutebrowser.org/">qutebrowser</a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="qutebrowser">
-                    <img width=150 src="qutebrowser/qutebrowser_256x256.png" alt="qutebrowser browser logo">
                 </a>
             </td>
         </tr>
