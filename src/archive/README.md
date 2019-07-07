@@ -1560,6 +1560,10 @@
                 <a href="https://en.wikipedia.org/wiki/Amazon_Silk">Silk</a>
                 <a href="#note"><code>*</code></a>
             </th>
+            <th>
+                <a href="https://en.wikipedia.org/wiki/Amazon_Silk">Silk</a>
+                <a href="#note"><code>*</code></a>
+            </th>
         </tr>
     </thead>
     <tbody>
@@ -1572,6 +1576,11 @@
             <td>
                 <a href="silk_3">
                     <img width=150 src="silk_3/silk_3_256x256.png" alt="Silk browser logo">
+                </a>
+            </td>
+            <td>
+                <a href="silk_4">
+                    <img width=150 src="silk_4/silk_4_256x256.png" alt="Silk browser logo">
                 </a>
             </td>
         </tr>
