@@ -1,3 +1,10 @@
+# 3.0.0 (July 6, 2019)
+
+## Breaking Changes
+
+* [[`9f31112c03`](https://github.com/alrra/browser-logos/commit/9f31112c03fbd28f8fa094fb71aa34d1cf9739c6)] - 💥 Update `Silk` logo (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 2.0.2 (March 15, 2019)
 
 ## Bug fixes / Improvements
