@@ -8,7 +8,6 @@
     "bezillabrowser",
     "bezillabrowser-logo"
   ],
-  "private": true,
   "name": "@browser-logos/bezillabrowser",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"
