@@ -378,9 +378,6 @@
     <thead>
         <tr>
             <th>
-                <a href="https://play.google.com/store/apps/details?id=org.mozilla.fenix">Firefox<br>Preview</a>
-            </th>
-            <th>
                 <a href="https://www.mozilla.org/en-US/firefox/new/">Firefox</a>
             </th>
             <th>
@@ -399,11 +396,6 @@
     </thead>
     <tbody>
         <tr height=170>
-            <td>
-                <a href="firefox-preview">
-                    <img width=150 src="firefox-preview/firefox-preview_256x256.png" alt="Firefox Preview browser logo">
-                </a>
-            </td>
             <td>
                 <a href="firefox">
                     <img width=150 src="firefox/firefox_256x256.png" alt="Firefox browser logo">
@@ -448,6 +440,27 @@
             <td>
                 <a href="firefox-focus">
                     <img width=150 src="firefox-focus/firefox-focus_256x256.png" alt="Firefox Focus browser logo">
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+### Firefox Preview
+
+<table>
+    <thead>
+        <tr>
+            <th>
+                <a href="https://play.google.com/store/apps/details?id=org.mozilla.fenix">Firefox<br>Preview</a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=170>
+            <td>
+                <a href="firefox-preview">
+                    <img width=150 src="firefox-preview/firefox-preview_256x256.png" alt="Firefox Preview browser logo">
                 </a>
             </td>
         </tr>

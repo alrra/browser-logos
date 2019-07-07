@@ -1,10 +1,10 @@
 # Falkon
 
 <table>
-    <tr height=300>
+    <tr height=240>
         <td>
             <a href="https://github.com/alrra/browser-logos/tree/f6ac41c9eed404e793b3659fea4c6443f9549eb0/src/falkon">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/f6ac41c9eed404e793b3659fea4c6443f9549eb0/src/falkon/falkon_512x512.png" alt="Falkon browser logo">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/f6ac41c9eed404e793b3659fea4c6443f9549eb0/src/falkon/falkon_512x512.png" alt="Falkon browser logo">
             </a>
         </td>
     </tr>

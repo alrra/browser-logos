@@ -1,10 +1,10 @@
 # Brave Nightly
 
 <table>
-    <tr height=300>
+    <tr height=240>
         <td>
             <a href="https://github.com/alrra/browser-logos/tree/3a10f3dc74d6b3f94957478489fc5ff7b434fe76/src/brave-nightly">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/3a10f3dc74d6b3f94957478489fc5ff7b434fe76/src/brave-nightly/brave-nightly_512x512.png" alt="Brave Nightly browser logo">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/3a10f3dc74d6b3f94957478489fc5ff7b434fe76/src/brave-nightly/brave-nightly_512x512.png" alt="Brave Nightly browser logo">
             </a>
         </td>
     </tr>

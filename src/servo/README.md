@@ -1,10 +1,10 @@
 # Servo
 
 <table>
-    <tr height=300>
+    <tr height=240>
         <td>
             <a href="https://github.com/alrra/browser-logos/tree/34210c14966421b29619c3dfdd3383950fb1cdce/src/servo">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/34210c14966421b29619c3dfdd3383950fb1cdce/src/servo/servo_512x512.png" alt="Servo browser engine logo">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/34210c14966421b29619c3dfdd3383950fb1cdce/src/servo/servo_512x512.png" alt="Servo browser engine logo">
             </a>
         </td>
     </tr>

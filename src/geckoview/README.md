@@ -1,10 +1,10 @@
 # GeckoView
 
 <table>
-    <tr height=300>
+    <tr height=240>
         <td>
             <a href="https://github.com/alrra/browser-logos/tree/f8703ce7c1c9016f40d2d31ef24d74571eb816c9/src/geckoview">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/f8703ce7c1c9016f40d2d31ef24d74571eb816c9/src/geckoview/geckoview_512x512.png" alt="GeckoView logo">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/f8703ce7c1c9016f40d2d31ef24d74571eb816c9/src/geckoview/geckoview_512x512.png" alt="GeckoView logo">
             </a>
         </td>
     </tr>

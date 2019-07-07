@@ -1,10 +1,10 @@
 # Samsung Internet Beta v5.4-9.1
 
 <table>
-    <tr height=300>
+    <tr height=240>
         <td>
             <a href="https://github.com/alrra/browser-logos/tree/c18e75785f164fe34827edac3a0f1bc6b03cd2e7/src/archive/samsung-internet-beta_5.4-9.1">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/c18e75785f164fe34827edac3a0f1bc6b03cd2e7/src/archive/samsung-internet-beta_5.4-9.1/samsung-internet-beta_5.4-9.1.svg?sanitize=true" alt="Samsung Internet Beta v5.4-9.1 browser logo">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/c18e75785f164fe34827edac3a0f1bc6b03cd2e7/src/archive/samsung-internet-beta_5.4-9.1/samsung-internet-beta_5.4-9.1.svg?sanitize=true" alt="Samsung Internet Beta v5.4-9.1 browser logo">
             </a>
         </td>
     </tr>

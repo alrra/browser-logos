@@ -1,10 +1,10 @@
 # WebKit
 
 <table>
-    <tr height=300>
+    <tr height=240>
         <td>
             <a href="https://github.com/alrra/browser-logos/tree/703e422321c44c4b35ebd2af520444f896c1534a/src/webkit">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/703e422321c44c4b35ebd2af520444f896c1534a/src/webkit/webkit_512x512.png" alt="WebKit browser engine logo">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/703e422321c44c4b35ebd2af520444f896c1534a/src/webkit/webkit_512x512.png" alt="WebKit browser engine logo">
             </a>
         </td>
     </tr>

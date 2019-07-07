@@ -58,10 +58,10 @@ const createReadme = (data) => {
     const content =`# ${data.prettifiedName}
 
 <table>
-    <tr height=300>
+    <tr height=240>
         <td>
             <a href="https://github.com/alrra/browser-logos/tree/${data.lastCommitSHA}/${data.packagePath}">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/${data.lastCommitSHA}/${data.packagePath}/${data.packageName}_512x512.png" alt="${data.prettifiedName} browser logo">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/${data.lastCommitSHA}/${data.packagePath}/${data.packageName}_512x512.png" alt="${data.prettifiedName} browser logo">
             </a>
         </td>
     </tr>

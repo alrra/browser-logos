@@ -1,10 +1,10 @@
 # Xpress
 
 <table>
-    <tr height=300>
+    <tr height=240>
         <td>
             <a href="https://github.com/alrra/browser-logos/tree/718167f0d89de74285c39c1a074c8e4c9091c186/src/archive/xpress">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/718167f0d89de74285c39c1a074c8e4c9091c186/src/archive/xpress/xpress_512x512.png" alt="Xpress browser logo">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/718167f0d89de74285c39c1a074c8e4c9091c186/src/archive/xpress/xpress_512x512.png" alt="Xpress browser logo">
             </a>
         </td>
     </tr>

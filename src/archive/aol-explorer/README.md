@@ -1,10 +1,10 @@
 # AOL Explorer
 
 <table>
-    <tr height=300>
+    <tr height=240>
         <td>
             <a href="https://github.com/alrra/browser-logos/tree/049e5bbbdc14f66c1686188d976a7d49c140c498/src/archive/aol-explorer">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/049e5bbbdc14f66c1686188d976a7d49c140c498/src/archive/aol-explorer/aol-explorer.svg?sanitize=true" alt="AOL Explorer browser logo">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/049e5bbbdc14f66c1686188d976a7d49c140c498/src/archive/aol-explorer/aol-explorer.svg?sanitize=true" alt="AOL Explorer browser logo">
             </a>
         </td>
     </tr>

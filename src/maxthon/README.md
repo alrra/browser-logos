@@ -1,10 +1,10 @@
 # Maxthon
 
 <table>
-    <tr height=300>
+    <tr height=240>
         <td>
             <a href="https://github.com/alrra/browser-logos/tree/3c87a3d63e0413320dcb38481c4aa04a7cffc1e2/src/maxthon">
-                <img width=290 src="https://raw.githubusercontent.com/alrra/browser-logos/3c87a3d63e0413320dcb38481c4aa04a7cffc1e2/src/maxthon/maxthon_512x512.png" alt="Maxthon browser logo">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/3c87a3d63e0413320dcb38481c4aa04a7cffc1e2/src/maxthon/maxthon_512x512.png" alt="Maxthon browser logo">
             </a>
         </td>
     </tr>
