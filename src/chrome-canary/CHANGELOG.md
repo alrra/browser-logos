@@ -1,3 +1,10 @@
+# 1.1.4 (July 6, 2019)
+
+## Bug fixes / Improvements
+
+* [[`1ab4f413dd`](https://github.com/alrra/browser-logos/commit/1ab4f413ddbdf3d1582cbcfbc84907ce451ded47)] - 🗜 Further losslessly optimize `chrome-canary.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 1.1.3 (May 26, 2019)
 
 ## Bug fixes / Improvements
