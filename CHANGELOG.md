@@ -1,3 +1,14 @@
+# 54.0.0 (July 6, 2019)
+
+## Breaking Changes
+
+* [[`f808aec727`](https://github.com/alrra/browser-logos/commit/f808aec7276696cf777079e31a5e544cb04c33da)] - 💥 Update `Samsung Internet Beta` logo (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+## New features
+
+* [[`aefda421de`](https://github.com/alrra/browser-logos/commit/aefda421de5baac3886568e1fee7083631188799)] - ✨ Publish `Samsung Internet Beta_9.2 9.4` logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 53.0.0 (July 6, 2019)
 
 ## Breaking Changes
