@@ -3,8 +3,8 @@
 <table>
     <tr height=240>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/718167f0d89de74285c39c1a074c8e4c9091c186/src/archive/xpress">
-                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/718167f0d89de74285c39c1a074c8e4c9091c186/src/archive/xpress/xpress_512x512.png" alt="Xpress browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/226c9014633a3282758019e78ef294c3f56eaa79/src/archive/xpress">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/226c9014633a3282758019e78ef294c3f56eaa79/src/archive/xpress/xpress_512x512.png" alt="Xpress browser logo">
             </a>
         </td>
     </tr>
