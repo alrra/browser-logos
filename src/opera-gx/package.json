@@ -8,7 +8,6 @@
     "opera-gx",
     "opera-gx-logo"
   ],
-  "private": true,
   "name": "@browser-logos/opera-gx",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"
