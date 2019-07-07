@@ -1,3 +1,10 @@
+## 2.0.1 (July 7, 2019)
+
+### Bug fixes / Improvements
+
+* [[`090b80280b`](https://github.com/alrra/browser-logos/commit/090b80280b2cc3bf662401f361d5628eaa07fb91)] - 🗜 Further optimize `web.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 2.0.0 (July 6, 2019)
 
 ### Breaking Changes
