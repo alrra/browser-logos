@@ -1,14 +1,14 @@
-# 1.1.4 (March 15, 2019)
+## 1.1.4 (March 15, 2019)
 
-## Bug fixes / Improvements
+### Bug fixes / Improvements
 
 * [[`fe67c07fd3`](https://github.com/alrra/browser-logos/commit/fe67c07fd39322ac5378f63f9f9d50422d7658b7)] - 📚 Improve `README.md`s (by [`Cătălin Mariș`](https://github.com/alrra)).
 * [[`36f6545134`](https://github.com/alrra/browser-logos/commit/36f65451346e2a5b4cb711b73665bafcd9ddacda)] - 📚 Remove `yarn` install instructions (by [`Cătălin Mariș`](https://github.com/alrra)).
 
 
-# 1.1.3 (March 7, 2019)
+## 1.1.3 (March 7, 2019)
 
-## Bug fixes / Improvements
+### Bug fixes / Improvements
 
 * [[`9012c275cc`](https://github.com/alrra/browser-logos/commit/9012c275ccf2a11ac12801f3d2b6fa8398492122)] - 🗜️ Further optimize images (by [`Cătălin Mariș`](https://github.com/alrra)).
 * [[`4047b60300`](https://github.com/alrra/browser-logos/commit/4047b60300cb7b3ba84a49e9d690c7dcb05b5043)] - 🗜️ Further optimize `internet-explorer-developer-channel.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
@@ -20,25 +20,25 @@
 
 ## 1.1.2 (June 3, 2017)
 
-#### Bug fixes / Improvements
+### Bug fixes / Improvements
 
 * [[`4406d8a2ef`](https://github.com/alrra/browser-logos/commit/4406d8a2ef0f9cf1fd91cf1c9b438b2096a51bba)] - 📚 Make minor changes in `README.md`.
 
 
 ## 1.1.1 (May 27, 2017)
 
-#### Bug fixes / Improvements
+### Bug fixes / Improvements
 
 * [[`e8d37969cb`](https://github.com/alrra/browser-logos/commit/e8d37969cb7f8a30f59f85805efaf89a0141cc28)] - 🗜 Further optimize `internet-explorer-developer-channel.svg`.
 
 
 ## 1.1.0 (May 26, 2017)
 
-#### Bug fixes / Improvements
+### Bug fixes / Improvements
 
 * [[`181527680c`](https://github.com/alrra/browser-logos/commit/181527680c7a1b43101a704967c08dc2d4788f75)] - 🔧 Tweak and further optimize `internet-explorer-developer-channel.svg`.
 
-#### New features
+### New features
 
 * [[`eafb11496e`](https://github.com/alrra/browser-logos/commit/eafb11496ed9518aaa222e038de1c2a430a929a7)] - ✨ Add `internet-explorer-developer-channel.svg`
 

@@ -1,49 +1,49 @@
-# 3.0.7 (June 28, 2019)
+## 3.0.7 (June 28, 2019)
 
-## Bug fixes / Improvements
+### Bug fixes / Improvements
 
 * [[`99a31e8183`](https://github.com/alrra/browser-logos/commit/99a31e8183078865b73c0459391d594ed964da0a)] - 🗜️ Further optimize `brave.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
 
-# 3.0.6 (June 20, 2019)
+## 3.0.6 (June 20, 2019)
 
-## Bug fixes / Improvements
+### Bug fixes / Improvements
 
 * [[`94ac2ec74a`](https://github.com/alrra/browser-logos/commit/94ac2ec74aff066f0b1615e60818edac521698bc)] - 🗜️ Further optimize `brave.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
 
-# 3.0.5 (June 19, 2019)
+## 3.0.5 (June 19, 2019)
 
-## Bug fixes / Improvements
+### Bug fixes / Improvements
 
 * [[`8c53f49049`](https://github.com/alrra/browser-logos/commit/8c53f49049cdf53d4336f83279d54c2f69c4b7cc)] - 🗜️ Further losslessly optimize `brave.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
 
-# 3.0.4 (May 18, 2019)
+## 3.0.4 (May 18, 2019)
 
-## Bug fixes / Improvements
+### Bug fixes / Improvements
 
 * [[`5cd80cf37c`](https://github.com/alrra/browser-logos/commit/5cd80cf37c35fe4780084bc57cc06a5321f4d0a6)] - 🗜 Further optimize `brave.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
 
-# 3.0.3 (May 5, 2019)
+## 3.0.3 (May 5, 2019)
 
-## Bug fixes / Improvements
+### Bug fixes / Improvements
 
 * [[`0f6574911b`](https://github.com/alrra/browser-logos/commit/0f6574911b8d56098d33abeb4a548d24c4f2fbd0)] - 🗜️ Further optimize `brave.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
 
-# 3.0.2 (March 15, 2019)
+## 3.0.2 (March 15, 2019)
 
-## Bug fixes / Improvements
+### Bug fixes / Improvements
 
 * [[`fe67c07fd3`](https://github.com/alrra/browser-logos/commit/fe67c07fd39322ac5378f63f9f9d50422d7658b7)] - 📚 Improve `README.md`s (by [`Cătălin Mariș`](https://github.com/alrra)).
 * [[`36f6545134`](https://github.com/alrra/browser-logos/commit/36f65451346e2a5b4cb711b73665bafcd9ddacda)] - 📚 Remove `yarn` install instructions (by [`Cătălin Mariș`](https://github.com/alrra)).
 
 
-# 3.0.1 (March 8, 2019)
+## 3.0.1 (March 8, 2019)
 
-## Bug fixes / Improvements
+### Bug fixes / Improvements
 
 * [[`4179e9b2e6`](https://github.com/alrra/browser-logos/commit/4179e9b2e6841e13ecde9f3b076228a90e69cdf9)] - 🗜️ Further losslessly optimize `brave.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 * [[`ea258c94d7`](https://github.com/alrra/browser-logos/commit/ea258c94d7e40d6a65c9f4a53bb762dee35c9340)] - 🗜️ Further losslessly optimize `brave.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
@@ -55,35 +55,35 @@
 
 ## 3.0.0 (February 10, 2018)
 
-#### Breaking changes
+### Breaking changes
 
 * [[`e201dc3299`](https://github.com/alrra/browser-logos/commit/e201dc3299fa06ce961c6a1914831850de2cbc17)] - 💥 Update logo.
 
 
 ## 2.0.0 (January 13, 2018)
 
-#### Breaking changes
+### Breaking changes
 
 * [[`0bb2d21bff`](https://github.com/alrra/browser-logos/commit/0bb2d21bffe501581522c2ea651c9035b408512b)] - 💥 Update logo.
 
 
 ## 1.0.3 (December 30, 2017)
 
-#### Bug fixes / Improvements
+### Bug fixes / Improvements
 
 * [[`26ea05bb01`](https://github.com/alrra/browser-logos/commit/26ea05bb012377c3306c511294be0fcb655aaa6b)] - 🗜 Further optimize images.
 
 
 ## 1.0.2 (June 3, 2017)
 
-#### Bug fixes / Improvements
+### Bug fixes / Improvements
 
 * [[`4406d8a2ef`](https://github.com/alrra/browser-logos/commit/4406d8a2ef0f9cf1fd91cf1c9b438b2096a51bba)] - 📚 Make minor changes in `README.md`.
 
 
 ## 1.0.1 (May 27, 2017)
 
-#### Bug fixes / Improvements
+### Bug fixes / Improvements
 
 * [[`e8d37969cb`](https://github.com/alrra/browser-logos/commit/e8d37969cb7f8a30f59f85805efaf89a0141cc28)] - 🗜 Further optimize `brave.svg`.
 

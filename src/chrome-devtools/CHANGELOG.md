@@ -1,14 +1,14 @@
-# 1.0.3 (March 15, 2019)
+## 1.0.3 (March 15, 2019)
 
-## Bug fixes / Improvements
+### Bug fixes / Improvements
 
 * [[`fe67c07fd3`](https://github.com/alrra/browser-logos/commit/fe67c07fd39322ac5378f63f9f9d50422d7658b7)] - 📚 Improve `README.md`s (by [`Cătălin Mariș`](https://github.com/alrra)).
 * [[`36f6545134`](https://github.com/alrra/browser-logos/commit/36f65451346e2a5b4cb711b73665bafcd9ddacda)] - 📚 Remove `yarn` install instructions (by [`Cătălin Mariș`](https://github.com/alrra)).
 
 
-# 1.0.2 (March 8, 2019)
+## 1.0.2 (March 8, 2019)
 
-## Bug fixes / Improvements
+### Bug fixes / Improvements
 
 * [[`4697943bc7`](https://github.com/alrra/browser-logos/commit/4697943bc7e24d820d370341f55b29db92910808)] - 🗜️ Further optimize `chrome-devtools.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 * [[`3bb40f69b0`](https://github.com/alrra/browser-logos/commit/3bb40f69b0cce0795655e43d42f802b8f9393cc0)] - 📚 Improve READMEs (by [`Cătălin Mariș`](https://github.com/alrra)).
@@ -19,7 +19,7 @@
 
 ## 1.0.1 (September 23, 2018)
 
-#### Bug fixes / Improvements
+### Bug fixes / Improvements
 
 * [[`93c9e1e326`](https://github.com/alrra/browser-logos/commit/93c9e1e32694ee23f75b8d5013264cf2a78e22fe)] - 🔧 Tweak `chrome-devtools.svg`
 

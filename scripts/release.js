@@ -177,14 +177,14 @@ const generateChangelogSection = async (title, tags, commits) => {
     }
 
     if (result) {
-        result = `## ${title}\n\n${result}`;
+        result = `### ${title}\n\n${result}`;
     }
 
     return result;
 };
 
 const getChangelogContent = (ctx) => {
-    return `# ${ctx.newPackageVersion} (${getDate()})\n\n${ctx.packageReleaseNotes}\n`;
+    return `## ${ctx.newPackageVersion} (${getDate()})\n\n${ctx.packageReleaseNotes}\n`;
 };
 
 const getChangelogData = async (commits = [], isPackage = true) => {
@@ -254,12 +254,12 @@ const getReleaseNotes = (changelogFilePath) => {
 
     // The change log is structured as follows:
     //
-    // # <version_number> (<date>)
+    // ## <version_number> (<date>)
     // <empty_line>
     // <version_log> <= this is what we need to extract
     // <empty_line>
     // <empty_line>
-    // # <version_number> (<date>)
+    // ## <version_number> (<date>)
     // <empty_line>
     // <version_log>
     // ...

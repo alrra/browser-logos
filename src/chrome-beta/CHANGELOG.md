@@ -1,14 +1,14 @@
-# 2.1.1 (March 15, 2019)
+## 2.1.1 (March 15, 2019)
 
-## Bug fixes / Improvements
+### Bug fixes / Improvements
 
 * [[`fe67c07fd3`](https://github.com/alrra/browser-logos/commit/fe67c07fd39322ac5378f63f9f9d50422d7658b7)] - 📚 Improve `README.md`s (by [`Cătălin Mariș`](https://github.com/alrra)).
 * [[`36f6545134`](https://github.com/alrra/browser-logos/commit/36f65451346e2a5b4cb711b73665bafcd9ddacda)] - 📚 Remove `yarn` install instructions (by [`Cătălin Mariș`](https://github.com/alrra)).
 
 
-# 2.1.0 (March 8, 2019)
+## 2.1.0 (March 8, 2019)
 
-## Bug fixes / Improvements
+### Bug fixes / Improvements
 
 * [[`4fd0025cb0`](https://github.com/alrra/browser-logos/commit/4fd0025cb067af38de1a6fd0d4fb264421616b94)] - 🗜️ Further optimize `chrome-beta.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 * [[`0dd87d453e`](https://github.com/alrra/browser-logos/commit/0dd87d453e5936467d19894278d817e72c34b3ce)] - 🗜️ Further optimize `chrome-beta.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
@@ -17,21 +17,21 @@
 * [[`d211b219a3`](https://github.com/alrra/browser-logos/commit/d211b219a3952704773ba38108ef5b6212f21aab)] - 🗜️ Further optimize images (by [`Cătălin Mariș`](https://github.com/alrra)).
 * [[`3bb40f69b0`](https://github.com/alrra/browser-logos/commit/3bb40f69b0cce0795655e43d42f802b8f9393cc0)] - 📚 Improve READMEs (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-## New features
+### New features
 
 * [[`434c8a2d71`](https://github.com/alrra/browser-logos/commit/434c8a2d71da71690797d7e735c2f7e1267105f1)] - ✨ Add `chrome-beta.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
 
 ## 2.0.0 (July 1, 2017)
 
-#### Breaking changes
+### Breaking changes
 
 * [[`907b11ebe8`](https://github.com/alrra/browser-logos/commit/907b11ebe817fe5535e88d5ef2bf91a640de3122)] - 💥 Update logo.
 
 
 ## 1.0.1 (June 3, 2017)
 
-#### Bug fixes / Improvements
+### Bug fixes / Improvements
 
 * [[`4406d8a2ef`](https://github.com/alrra/browser-logos/commit/4406d8a2ef0f9cf1fd91cf1c9b438b2096a51bba)] - 📚 Make minor changes in `README.md`.
 

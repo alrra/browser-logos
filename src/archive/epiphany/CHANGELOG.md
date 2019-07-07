@@ -1,28 +1,28 @@
-# 1.0.6 (June 16, 2019)
+## 1.0.6 (June 16, 2019)
 
-## Bug fixes / Improvements
+### Bug fixes / Improvements
 
 * [[`9a9cc9de8a`](https://github.com/alrra/browser-logos/commit/9a9cc9de8a85a4f53b0018f05f63f16dc5348bb1)] - 🗜️ Further optimize `epiphany.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
 
-# 1.0.5 (May 5, 2019)
+## 1.0.5 (May 5, 2019)
 
-## Bug fixes / Improvements
+### Bug fixes / Improvements
 
 * [[`7f675d7bc0`](https://github.com/alrra/browser-logos/commit/7f675d7bc0df1e048bd2d061a062ac9cdb824976)] - 🗜️ Further optimize `epiphany.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
 
-# 1.0.4 (March 15, 2019)
+## 1.0.4 (March 15, 2019)
 
-## Bug fixes / Improvements
+### Bug fixes / Improvements
 
 * [[`fe67c07fd3`](https://github.com/alrra/browser-logos/commit/fe67c07fd39322ac5378f63f9f9d50422d7658b7)] - 📚 Improve `README.md`s (by [`Cătălin Mariș`](https://github.com/alrra)).
 * [[`36f6545134`](https://github.com/alrra/browser-logos/commit/36f65451346e2a5b4cb711b73665bafcd9ddacda)] - 📚 Remove `yarn` install instructions (by [`Cătălin Mariș`](https://github.com/alrra)).
 
 
-# 1.0.3 (March 7, 2019)
+## 1.0.3 (March 7, 2019)
 
-## Bug fixes / Improvements
+### Bug fixes / Improvements
 
 * [[`3bb40f69b0`](https://github.com/alrra/browser-logos/commit/3bb40f69b0cce0795655e43d42f802b8f9393cc0)] - 📚 Improve READMEs (by [`Cătălin Mariș`](https://github.com/alrra)).
 * [[`2715231215`](https://github.com/alrra/browser-logos/commit/27152312156179b4175140d4ba3f6596a8fdf850)] - 🗜️ Further losslessly optimize `epiphany.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
@@ -31,14 +31,14 @@
 
 ## 1.0.2 (June 3, 2017)
 
-#### Bug fixes / Improvements
+### Bug fixes / Improvements
 
 * [[`4406d8a2ef`](https://github.com/alrra/browser-logos/commit/4406d8a2ef0f9cf1fd91cf1c9b438b2096a51bba)] - 📚 Make minor changes in `README.md`.
 
 
 ## 1.0.1 (May 27, 2017)
 
-#### Bug fixes / Improvements
+### Bug fixes / Improvements
 
 * [[`e8d37969cb`](https://github.com/alrra/browser-logos/commit/e8d37969cb7f8a30f59f85805efaf89a0141cc28)] - 🗜 Further optimize `epiphany.svg`.
 

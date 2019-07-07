@@ -1,45 +1,45 @@
-# 1.0.6 (July 6, 2019)
+## 1.0.6 (July 6, 2019)
 
-## Bug fixes / Improvements
+### Bug fixes / Improvements
 
 * [[`226c901463`](https://github.com/alrra/browser-logos/commit/226c9014633a3282758019e78ef294c3f56eaa79)] - 📚 Make minor consistency changes in `README.md` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
 
-# 1.0.5 (July 4, 2019)
+## 1.0.5 (July 4, 2019)
 
-## Bug fixes / Improvements
+### Bug fixes / Improvements
 
 * [[`7230649861`](https://github.com/alrra/browser-logos/commit/72306498611e518b86324ddf46bc9a4d8123cc47)] - 🗜 Further optimize `edge-dev.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
 
-# 1.0.4 (June 16, 2019)
+## 1.0.4 (June 16, 2019)
 
-## Bug fixes / Improvements
+### Bug fixes / Improvements
 
 * [[`50a73dc2f4`](https://github.com/alrra/browser-logos/commit/50a73dc2f476634024d77e3cb4968fedb0c230ef)] - 🗜️ Further optimize `edge-dev.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
 
-# 1.0.3 (May 18, 2019)
+## 1.0.3 (May 18, 2019)
 
-## Bug fixes / Improvements
+### Bug fixes / Improvements
 
 * [[`e49dbfa0b7`](https://github.com/alrra/browser-logos/commit/e49dbfa0b7c822034f191b785ec1e52274203275)] - 🗜️ Further losslessly optimize `edge-dev.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
 
-# 1.0.2 (May 8, 2019)
+## 1.0.2 (May 8, 2019)
 
-## Bug fixes / Improvements
+### Bug fixes / Improvements
 
 * [[`115d93c391`](https://github.com/alrra/browser-logos/commit/115d93c391dcbe7bfcdf4593fac10b1cbedfdb9b)] - 🗜️ Further optimize `edge-dev.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
 
-# 1.0.1 (April 11, 2019)
+## 1.0.1 (April 11, 2019)
 
-## Bug fixes / Improvements
+### Bug fixes / Improvements
 
 * [[`afa53811f4`](https://github.com/alrra/browser-logos/commit/afa53811f46d34a6f85fe67b73561933586063fa)] - 📚 Make minor consistency changes (by [`Cătălin Mariș`](https://github.com/alrra)).
 
 
-# 1.0.0 (April 11, 2019)
+## 1.0.0 (April 11, 2019)
 
 ✨

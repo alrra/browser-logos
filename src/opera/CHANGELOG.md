@@ -1,28 +1,28 @@
-# 1.1.5 (May 18, 2019)
+## 1.1.5 (May 18, 2019)
 
-## Bug fixes / Improvements
+### Bug fixes / Improvements
 
 * [[`644216d358`](https://github.com/alrra/browser-logos/commit/644216d35892f2f72e5b3b074eec13d43da474b6)] - 🗜️ Further optimize `opera.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
 
-# 1.1.4 (May 5, 2019)
+## 1.1.4 (May 5, 2019)
 
-## Bug fixes / Improvements
+### Bug fixes / Improvements
 
 * [[`3bab2bc3be`](https://github.com/alrra/browser-logos/commit/3bab2bc3bea5221f16a0c48b035673b42336a0f4)] - 🗜️ Further optimize `opera.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
 
-# 1.1.3 (March 15, 2019)
+## 1.1.3 (March 15, 2019)
 
-## Bug fixes / Improvements
+### Bug fixes / Improvements
 
 * [[`fe67c07fd3`](https://github.com/alrra/browser-logos/commit/fe67c07fd39322ac5378f63f9f9d50422d7658b7)] - 📚 Improve `README.md`s (by [`Cătălin Mariș`](https://github.com/alrra)).
 * [[`36f6545134`](https://github.com/alrra/browser-logos/commit/36f65451346e2a5b4cb711b73665bafcd9ddacda)] - 📚 Remove `yarn` install instructions (by [`Cătălin Mariș`](https://github.com/alrra)).
 
 
-# 1.1.2 (March 8, 2019)
+## 1.1.2 (March 8, 2019)
 
-## Bug fixes / Improvements
+### Bug fixes / Improvements
 
 * [[`9864a29b84`](https://github.com/alrra/browser-logos/commit/9864a29b8416954d93123158ef228e9968ca2fba)] - 🗜️ Further losslessly optimize `opera.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 * [[`1d3ec7150a`](https://github.com/alrra/browser-logos/commit/1d3ec7150a0f069fbaebeee871a78aa507776c35)] - 🗜️ Further optimize `opera.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
@@ -32,18 +32,18 @@
 
 ## 1.1.1 (June 3, 2017)
 
-#### Bug fixes / Improvements
+### Bug fixes / Improvements
 
 * [[`4406d8a2ef`](https://github.com/alrra/browser-logos/commit/4406d8a2ef0f9cf1fd91cf1c9b438b2096a51bba)] - 📚 Make minor changes in `README.md`.
 
 
 ## 1.1.0 (May 26, 2017)
 
-#### Bug fixes / Improvements
+### Bug fixes / Improvements
 
 * [[`32687b51ee`](https://github.com/alrra/browser-logos/commit/32687b51eed865d2568e83292abb6af1aa6d56a5)] - 🔧 Tweak `opera.svg`.
 
-#### New features
+### New features
 
 * [[`e507703257`](https://github.com/alrra/browser-logos/commit/e5077032574e6d3389677d343c9ea7b324e58994)] - 💥 Add `opera.svg` logo.
 

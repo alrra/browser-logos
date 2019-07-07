@@ -1,25 +1,25 @@
-# 3.0.0 (July 6, 2019)
+## 3.0.0 (July 6, 2019)
 
-## Breaking Changes
+### Breaking Changes
 
 * [[`f808aec727`](https://github.com/alrra/browser-logos/commit/f808aec7276696cf777079e31a5e544cb04c33da)] - 💥 Update `Samsung Internet Beta` logo (by [`Cătălin Mariș`](https://github.com/alrra)).
 
 
-# 2.0.1 (March 15, 2019)
+## 2.0.1 (March 15, 2019)
 
-## Bug fixes / Improvements
+### Bug fixes / Improvements
 
 * [[`fe67c07fd3`](https://github.com/alrra/browser-logos/commit/fe67c07fd39322ac5378f63f9f9d50422d7658b7)] - 📚 Improve `README.md`s (by [`Cătălin Mariș`](https://github.com/alrra)).
 * [[`36f6545134`](https://github.com/alrra/browser-logos/commit/36f65451346e2a5b4cb711b73665bafcd9ddacda)] - 📚 Remove `yarn` install instructions (by [`Cătălin Mariș`](https://github.com/alrra)).
 
 
-# 2.0.0 (March 8, 2019)
+## 2.0.0 (March 8, 2019)
 
-## Breaking Changes
+### Breaking Changes
 
 * [[`e395a2fc61`](https://github.com/alrra/browser-logos/commit/e395a2fc61e02dbfb5bbe3496200a140186dff7c)] - 💥 Update `Samsung Internet Beta` logo (by [`Cătălin Mariș`](https://github.com/alrra) / see also: [`#154`](https://github.com/alrra/browser-logos/issues/154)).
 
-## Bug fixes / Improvements
+### Bug fixes / Improvements
 
 * [[`988b7a90ea`](https://github.com/alrra/browser-logos/commit/988b7a90ead034a2beeca2fdc163f99e8ea4ccc7)] - 📚 Fix image link in `README.md` (by [`Cătălin Mariș`](https://github.com/alrra)).
 * [[`195a4e40dd`](https://github.com/alrra/browser-logos/commit/195a4e40ddbe9be4d6794551d85fd8fc23fe3506)] - 🗜️ Further losslessly optimize `samsung-internet-beta.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
@@ -30,28 +30,28 @@
 
 ## 1.1.3 (June 3, 2017)
 
-#### Bug fixes / Improvements
+### Bug fixes / Improvements
 
 * [[`4406d8a2ef`](https://github.com/alrra/browser-logos/commit/4406d8a2ef0f9cf1fd91cf1c9b438b2096a51bba)] - 📚 Make minor changes in `README.md`.
 
 
 ## 1.1.2 (May 27, 2017)
 
-#### Bug fixes / Improvements
+### Bug fixes / Improvements
 
 * [[`e8d37969cb`](https://github.com/alrra/browser-logos/commit/e8d37969cb7f8a30f59f85805efaf89a0141cc28)] - 🗜 Further optimize `samsung-internet-beta.svg`.
 
 
 ## 1.1.1 (April 1, 2017)
 
-#### Bug fixes / Improvements
+### Bug fixes / Improvements
 
 * [[`0a8c35b31b`](https://github.com/alrra/browser-logos/commit/0a8c35b31b745aac15a45d700ceba2797ca0257f)] - 🗜 Further losslessly optimize images.
 
 
 ## 1.1.0 (March 18, 2017)
 
-#### New features
+### New features
 
 * [[`a23c6f66b0`](https://github.com/alrra/browser-logos/commit/a23c6f66b0c9d13c6e43c83a24a3db06f4fc5e96)] - 💥 Add SVG version of the logo.
 
