@@ -1,3 +1,10 @@
+# 2.0.0 (July 6, 2019)
+
+## Breaking Changes
+
+* [[`2f2856da7c`](https://github.com/alrra/browser-logos/commit/2f2856da7c13bc971c32afd8ddc739e99b64ccab)] - 💥 Remove the V8 logos that have the outline (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 1.1.6 (May 19, 2019)
 
 ## Bug fixes / Improvements
