@@ -1,3 +1,10 @@
+# 3.0.0 (July 6, 2019)
+
+## Breaking Changes
+
+* [[`f808aec727`](https://github.com/alrra/browser-logos/commit/f808aec7276696cf777079e31a5e544cb04c33da)] - 💥 Update `Samsung Internet Beta` logo (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 2.0.1 (March 15, 2019)
 
 ## Bug fixes / Improvements
