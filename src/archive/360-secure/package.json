@@ -8,7 +8,6 @@
     "360-secure",
     "360-secure-logo"
   ],
-  "private": true,
   "name": "@browser-logos/360-secure",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"
