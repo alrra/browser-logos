@@ -1,3 +1,10 @@
+# 2.0.0 (July 6, 2019)
+
+## Breaking Changes
+
+* [[`6e371ea91a`](https://github.com/alrra/browser-logos/commit/6e371ea91aebc3078711c096e9b2b2936619d4e3)] - 💥 Update `Web` logo (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 1.1.7 (May 16, 2019)
 
 ## Bug fixes / Improvements
