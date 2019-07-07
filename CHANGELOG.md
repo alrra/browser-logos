@@ -1,3 +1,11 @@
+## 55.0.1 (July 7, 2019)
+
+### Bug fixes / Improvements
+
+* [[`54b33d5f93`](https://github.com/alrra/browser-logos/commit/54b33d5f93486fc30ab4f5676d7e18c550930fd9)] - 🗜 Further losslessly optimize `midori.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`090b80280b`](https://github.com/alrra/browser-logos/commit/090b80280b2cc3bf662401f361d5628eaa07fb91)] - 🗜 Further optimize `web.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 55.0.0 (July 6, 2019)
 
 ### Breaking Changes
