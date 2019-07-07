@@ -1,3 +1,23 @@
+# 53.0.0 (July 6, 2019)
+
+## Breaking Changes
+
+* [[`2f2856da7c`](https://github.com/alrra/browser-logos/commit/2f2856da7c13bc971c32afd8ddc739e99b64ccab)] - 💥 Remove the V8 logos that have the outline (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`03fcabb71e`](https://github.com/alrra/browser-logos/commit/03fcabb71e4649102ecf602bb152656457c4317e)] - 💥 Remove logos that don't meet requirements (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+## Bug fixes / Improvements
+
+* [[`226c901463`](https://github.com/alrra/browser-logos/commit/226c9014633a3282758019e78ef294c3f56eaa79)] - 📚 Make minor consistency changes in `README.md` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`1ab4f413dd`](https://github.com/alrra/browser-logos/commit/1ab4f413ddbdf3d1582cbcfbc84907ce451ded47)] - 🗜 Further losslessly optimize `chrome-canary.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+## New features
+
+* [[`b5eae7171d`](https://github.com/alrra/browser-logos/commit/b5eae7171d9dcac0a6a7588fdd988a47c293ec08)] - ✨ Publish `Opera Gx` logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`fbb64dbee7`](https://github.com/alrra/browser-logos/commit/fbb64dbee7f16f70c0d867c59c35a971e7fe504e)] - ✨ Publish `Bezillabrowser` logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`8de4f027dd`](https://github.com/alrra/browser-logos/commit/8de4f027ddff6bacd9c95f5f4f05bf1658122359)] - ✨ Publish `Amigo` logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`a4eac9c942`](https://github.com/alrra/browser-logos/commit/a4eac9c942a795b8a5b009414205b70414396208)] - ✨ Publish `360 Secure` logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 52.4.3 (July 4, 2019)
 
 ## Bug fixes / Improvements
