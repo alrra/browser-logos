@@ -1,3 +1,11 @@
+# 55.0.0 (July 6, 2019)
+
+## Breaking Changes
+
+* [[`6e371ea91a`](https://github.com/alrra/browser-logos/commit/6e371ea91aebc3078711c096e9b2b2936619d4e3)] - 💥 Update `Web` logo (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`9f31112c03`](https://github.com/alrra/browser-logos/commit/9f31112c03fbd28f8fa094fb71aa34d1cf9739c6)] - 💥 Update `Silk` logo (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 54.0.0 (July 6, 2019)
 
 ## Breaking Changes
