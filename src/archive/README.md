@@ -1699,6 +1699,28 @@
     </tbody>
 </table>
 
+### Tor
+
+<table>
+    <thead>
+        <tr>
+            <th>
+                <a href="https://en.wikipedia.org/wiki/Tor_%28anonymity_network%29#Tor_Browser">Tor</a>
+                <a href="#note"><code>*</code></a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=170>
+            <td>
+                <a href="tor">
+                    <img width=150 src="tor/tor_256x256.png" alt="Tor browser logo">
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 ### UC
 
 <table>
@@ -1771,11 +1793,11 @@
     <thead>
         <tr>
             <th>
-                <a href="https://en.wikipedia.org/wiki/Web_(web_browser)">Web <br>(f.k.a. Epiphany)</a>
+                <a href="https://en.wikipedia.org/wiki/Web_%28web_browser%29">Web <br>(f.k.a. Epiphany)</a>
                 <a href="#note"><code>*</code></a>
             </th>
             <th>
-                <a href="https://en.wikipedia.org/wiki/Web_(web_browser)">Web <br>(f.k.a. Epiphany)</a>
+                <a href="https://en.wikipedia.org/wiki/Web_%28web_browser%29">Web <br>(f.k.a. Epiphany)</a>
                 <a href="#note"><code>*</code></a>
             </th>
         </tr>
