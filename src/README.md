@@ -1006,6 +1006,9 @@
             <th>
                 <a href="https://www.torproject.org/">Tor</a>
             </th>
+            <th>
+                <a href="https://www.torproject.org/">Tor Alpha</a>
+            </th>
         </tr>
     </thead>
     <tbody>
@@ -1013,6 +1016,11 @@
             <td>
                 <a href="tor">
                     <img width=150 src="tor/tor_256x256.png" alt="Tor browser logo">
+                </a>
+            </td>
+            <td>
+                <a href="tor-alpha">
+                    <img width=150 src="tor-alpha/tor-alpha_256x256.png" alt="Tor Alpha browser logo">
                 </a>
             </td>
         </tr>
