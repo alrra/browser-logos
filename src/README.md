@@ -678,7 +678,7 @@
     <thead>
         <tr>
             <th>
-                <a href="https://www.opera.com/gx">Opera GX</a>
+                <a href="https://www.opera.com/gx">Opera<br>GX</a>
             </th>
         </tr>
     </thead>
@@ -699,10 +699,10 @@
     <thead>
         <tr>
             <th>
-                <a href="https://www.opera.com/mobile/mini">Opera Mini</a>
+                <a href="https://www.opera.com/mobile/mini">Opera<br>Mini</a>
             </th>
             <th>
-                <a href="https://www.opera.com/mobile/mini">Opera Mini<br>Beta</a>
+                <a href="https://www.opera.com/mobile/mini">Opera<br>Mini Beta</a>
             </th>
         </tr>
     </thead>
@@ -728,7 +728,7 @@
     <thead>
         <tr>
             <th>
-                <a href="https://www.opera.com/computer/neon">Opera Neon</a>
+                <a href="https://www.opera.com/computer/neon">Opera<br>Neon</a>
             </th>
         </tr>
     </thead>
@@ -749,7 +749,7 @@
     <thead>
         <tr>
             <th>
-                <a href="https://www.opera.com/mobile/touch">Opera Touch</a>
+                <a href="https://www.opera.com/mobile/touch">Opera<br>Touch</a>
             </th>
         </tr>
     </thead>
@@ -1007,10 +1007,10 @@
                 <a href="https://www.torproject.org/">Tor</a>
             </th>
             <th>
-                <a href="https://www.torproject.org/">Tor Alpha</a>
+                <a href="https://www.torproject.org/">Tor<br>Alpha</a>
             </th>
             <th>
-                <a href="https://www.torproject.org/">Tor Nightly</a>
+                <a href="https://www.torproject.org/">Tor<br>Nightly</a>
             </th>
         </tr>
     </thead>
@@ -1062,7 +1062,7 @@
     <thead>
         <tr>
             <th>
-                <a href="http://www.ucweb.com">UC Mini</a>
+                <a href="http://www.ucweb.com">UC<br>Mini</a>
             </th>
         </tr>
     </thead>
@@ -1104,7 +1104,7 @@
     <thead>
         <tr>
             <th>
-                <a href="https://v8.dev/">V8 Ignition</a>
+                <a href="https://v8.dev/">V8<br>Ignition</a>
             </th>
         </tr>
     </thead>
@@ -1125,7 +1125,7 @@
     <thead>
         <tr>
             <th>
-                <a href="https://v8.dev/">V8 Liftoff</a>
+                <a href="https://v8.dev/">V8<br>Liftoff</a>
             </th>
         </tr>
     </thead>
@@ -1146,7 +1146,7 @@
     <thead>
         <tr>
             <th>
-                <a href="https://v8.dev/">V8 Orinoco</a>
+                <a href="https://v8.dev/">V8<br>Orinoco</a>
             </th>
         </tr>
     </thead>
@@ -1167,7 +1167,7 @@
     <thead>
         <tr>
             <th>
-                <a href="https://v8.dev/">V8 TurboFan</a>
+                <a href="https://v8.dev/">V8<br>TurboFan</a>
             </th>
         </tr>
     </thead>

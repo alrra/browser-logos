@@ -4,7 +4,7 @@
     <thead>
         <tr>
             <th>
-                <a href="https://en.wikipedia.org/wiki/360_Secure_Browser">360 Secure</a>
+                <a href="https://en.wikipedia.org/wiki/360_Secure_Browser">360<br>Secure</a>
                 <a href="#note"><code>*</code></a>
             </th>
         </tr>
@@ -69,7 +69,7 @@
     <thead>
         <tr>
             <th>
-                <a href="https://en.wikipedia.org/wiki/AOL_Explorer">AOL Explorer</a>
+                <a href="https://en.wikipedia.org/wiki/AOL_Explorer">AOL<br>Explorer</a>
                 <a href="#note"><code>*</code></a>
             </th>
         </tr>
@@ -257,7 +257,7 @@
     <thead>
         <tr>
             <th>
-                <a href="https://en.wikipedia.org/wiki/Google_Chrome">Chrome Beta<br>37-58<br></a>
+                <a href="https://en.wikipedia.org/wiki/Google_Chrome">Chrome<br>Beta<br>37-58<br></a>
             </th>
         </tr>
     </thead>
@@ -278,7 +278,7 @@
     <thead>
         <tr>
             <th>
-                <a href="https://en.wikipedia.org/wiki/Google_Chrome#Pre-releases">Chrome Canary<br>19-48</a>
+                <a href="https://en.wikipedia.org/wiki/Google_Chrome#Pre-releases">Chrome<br>Canary<br>19-48</a>
             </th>
         </tr>
     </thead>
@@ -299,7 +299,7 @@
     <thead>
         <tr>
             <th>
-                <a href="https://en.wikipedia.org/wiki/Google_Chrome">Chrome Dev<br>37-59<br></a>
+                <a href="https://en.wikipedia.org/wiki/Google_Chrome">Chrome<br>Dev<br>37-59<br></a>
             </th>
         </tr>
     </thead>
@@ -323,7 +323,7 @@
                 <a href="https://en.wikipedia.org/wiki/Google_Chrome_for_Android">Chrome<br>(Android)<br> 25-36</a>
             </th>
             <th>
-                <a href="https://en.wikipedia.org/wiki/Google_Chrome_for_Android">Chrome Beta<br>(Android)<br>25-36<br></a>
+                <a href="https://en.wikipedia.org/wiki/Google_Chrome_for_Android">Chrome<br>Beta (Android)<br>25-36<br></a>
             </th>
         </tr>
     </thead>
@@ -663,10 +663,10 @@
     <thead>
         <tr>
             <th>
-                <a href="https://en.wikipedia.org/wiki/Firefox#Versions">Firefox Aurora<br>5-22</a>
+                <a href="https://en.wikipedia.org/wiki/Firefox#Versions">Firefox<br>Aurora<br>5-22</a>
             </th>
             <th>
-                <a href="https://en.wikipedia.org/wiki/Firefox#Versions">Firefox Aurora<br>23-35</a>
+                <a href="https://en.wikipedia.org/wiki/Firefox#Versions">Firefox<br>Aurora<br>23-35</a>
             </th>
         </tr>
     </thead>
@@ -692,7 +692,7 @@
     <thead>
         <tr>
             <th>
-                <a href="https://en.wikipedia.org/wiki/Firefox#Versions">Firefox Beta</a>
+                <a href="https://en.wikipedia.org/wiki/Firefox#Versions">Firefox<br>Beta</a>
                 <a href="#note"><code>*</code></a>
             </th>
         </tr>
@@ -735,7 +735,7 @@
     <thead>
         <tr>
             <th>
-                <a href="https://en.wikipedia.org/wiki/Firefox_Focus">Firefox Focus</a>
+                <a href="https://en.wikipedia.org/wiki/Firefox_Focus">Firefox<br>Focus</a>
                 <a href="#note"><code>*</code></a>
             </th>
         </tr>
@@ -757,10 +757,10 @@
     <thead>
         <tr>
             <th>
-                <a href="https://en.wikipedia.org/wiki/Firefox#Version_history">Firefox Nightly<br>6-22</a>
+                <a href="https://en.wikipedia.org/wiki/Firefox#Version_history">Firefox<br>Nightly<br>6-22</a>
             </th>
             <th>
-                <a href="https://en.wikipedia.org/wiki/Firefox#Version_history">Firefox Nightly<br>23-56</a>
+                <a href="https://en.wikipedia.org/wiki/Firefox#Version_history">Firefox<br>Nightly<br>23-56</a>
             </th>
         </tr>
     </thead>
@@ -786,7 +786,7 @@
     <thead>
         <tr>
             <th>
-                <a href="https://en.wikipedia.org/wiki/Firefox#Versions">Firefox Reality</a>
+                <a href="https://en.wikipedia.org/wiki/Firefox#Versions">Firefox<br>Reality</a>
                 <a href="#note"><code>*</code></a>
             </th>
         </tr>
@@ -1184,10 +1184,10 @@
     <thead>
         <tr>
             <th>
-                <a href="https://en.wikipedia.org/wiki/Opera_%28web_browser%29#Opera_Developer_and_Opera_Nex">Opera Next<br>15-24</a>
+                <a href="https://en.wikipedia.org/wiki/Opera_%28web_browser%29#Opera_Developer_and_Opera_Nex">Opera<br>Next<br>15-24</a>
             </th>
             <th>
-                <a href="https://en.wikipedia.org/wiki/Opera_%28web_browser%29#Opera_Developer_and_Opera_Next">Opera Beta<br>25-32</a>
+                <a href="https://en.wikipedia.org/wiki/Opera_%28web_browser%29#Opera_Developer_and_Opera_Next">Opera<br>Beta<br>25-32</a>
             </th>
         </tr>
     </thead>
@@ -1213,7 +1213,7 @@
     <thead>
         <tr>
             <th>
-                <a href="https://en.wikipedia.org/wiki/Opera_%28web_browser%29#Opera_Developer_and_Opera_Nex">Opera Developer<br>16-33</a>
+                <a href="https://en.wikipedia.org/wiki/Opera_%28web_browser%29#Opera_Developer_and_Opera_Nex">Opera<br>Developer<br>16-33</a>
             </th>
         </tr>
     </thead>
