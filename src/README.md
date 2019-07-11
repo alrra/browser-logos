@@ -1009,6 +1009,9 @@
             <th>
                 <a href="https://www.torproject.org/">Tor Alpha</a>
             </th>
+            <th>
+                <a href="https://www.torproject.org/">Tor Nightly</a>
+            </th>
         </tr>
     </thead>
     <tbody>
@@ -1021,6 +1024,11 @@
             <td>
                 <a href="tor-alpha">
                     <img width=150 src="tor-alpha/tor-alpha_256x256.png" alt="Tor Alpha browser logo">
+                </a>
+            </td>
+            <td>
+                <a href="tor-nightly">
+                    <img width=150 src="tor-nightly/tor-nightly_256x256.png" alt="Tor Nightly browser logo">
                 </a>
             </td>
         </tr>
