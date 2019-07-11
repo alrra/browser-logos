@@ -1,3 +1,10 @@
+## 2.0.0 (July 10, 2019)
+
+### Breaking Changes
+
+* [[`e22f81c1e2`](https://github.com/alrra/browser-logos/commit/e22f81c1e2c65630d331e8dec8f1fe94550dbf2e)] - 💥 Update `Tor` logo (by [`Cătălin Mariș`](https://github.com/alrra) / see also: [`#174`](https://github.com/alrra/browser-logos/issues/174)).
+
+
 ## 1.0.4 (March 15, 2019)
 
 ### Bug fixes / Improvements
