@@ -3,9 +3,7 @@
 <table>
     <tr height=230>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/master/src/polypane">
                 <img width=220 src="./polypane.svg?sanitize=true" alt="Polypane browser logo">
-            </a>
         </td>
     </tr>
 </table>
@@ -14,11 +12,11 @@
 
 You can either:
 
-* Install it using [`npm`][npm]:
+- Install it using [`npm`][npm]:
 
   `npm install --save-dev @browser-logos/polypane`
 
-* Use [`cdnjs`][cdnjs].
+- Use [`cdnjs`][cdnjs].
 
 <!-- Link labels: -->
 
