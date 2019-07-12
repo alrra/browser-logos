@@ -806,6 +806,28 @@
     </tbody>
 </table>
 
+
+### Polypane
+
+<table>
+    <thead>
+        <tr>
+            <th>
+                <a href="https://www.polypane.rocks/">Polypane</a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=170>
+            <td>
+                <a href="polypane">
+                    <img width=150 src="polypane/polypane_256x256.png" alt="Polypane browser logo">
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 ### Puffin
 
 <table>
