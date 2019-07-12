@@ -4,7 +4,7 @@
     <tr height=230>
         <td>
             <a href="https://github.com/alrra/browser-logos/tree/master/src/polypane">
-                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/polypane/polypane.svg?sanitize=true" alt="Polypane browser logo">
+                <img width=220 src="./polypane.svg?sanitize=true" alt="Polypane browser logo">
             </a>
         </td>
     </tr>
