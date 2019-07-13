@@ -509,6 +509,27 @@
     </tbody>
 </table>
 
+### Hermes
+
+<table>
+    <thead>
+        <tr>
+            <th>
+                <a href="https://github.com/facebook/hermes">Hermes</a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=170>
+            <td>
+                <a href="hermes">
+                    <img width=150 src="hermes/hermes_256x256.png" alt="Hermes JavaScript engine logo">
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 ### IceCat
 
 <table>
