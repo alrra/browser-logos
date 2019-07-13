@@ -1,3 +1,10 @@
+## 56.1.0 (July 12, 2019)
+
+### New features
+
+* [[`5301941cc4`](https://github.com/alrra/browser-logos/commit/5301941cc4f0b03431c851d2487a195dc94b5e50)] - ✨ Add `Hermes` JavaScript engine logo (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 56.0.0 (July 10, 2019)
 
 ### Breaking Changes
