@@ -1,0 +1,15 @@
+{
+  "bugs": "https://github.com/alrra/browser-logos/issues",
+  "description": "Hermes JavaScript engine logo",
+  "homepage": "https://github.com/alrra/browser-logos",
+  "keywords": [
+    "browser-logos",
+    "logo",
+    "hermes",
+    "hermes-logo"
+  ],
+  "private": true,
+  "name": "@browser-logos/hermes",
+  "repository": "alrra/browser-logos",
+  "version": "1.0.0"
+}
