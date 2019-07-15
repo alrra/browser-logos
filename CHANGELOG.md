@@ -1,3 +1,10 @@
+## 56.2.0 (July 15, 2019)
+
+### New features
+
+* [[`7391d14c4d`](https://github.com/alrra/browser-logos/commit/7391d14c4d42c8f4228bc31ea13d3fd831582909)] - ✨ Publish `Hermes` logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 56.1.0 (July 12, 2019)
 
 ### New features
