@@ -8,7 +8,6 @@
     "tor-nightly",
     "tor-nightly-logo"
   ],
-  "private": true,
   "name": "@browser-logos/tor-nightly",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"
