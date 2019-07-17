@@ -4,7 +4,7 @@
     <thead>
         <tr>
             <th>
-                <a href="https://play.google.com/store/apps/details?id=com.google.android.webview">Android<br>WebView<b<br>>Beta</a>
+                <a href="https://play.google.com/store/apps/details?id=com.google.android.webview">Android<br>WebView<br>Beta</a>
             </th>
         </tr>
     </thead>
