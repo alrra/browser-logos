@@ -1,3 +1,10 @@
+## 1.0.4 (July 17, 2019)
+
+### Bug fixes / Improvements
+
+* [[`39e682ae57`](https://github.com/alrra/browser-logos/commit/39e682ae57a1911dc79aa1a431116786afa1faca)] - 🗜 Further optimize `chrome-devtools.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 1.0.3 (March 15, 2019)
 
 ### Bug fixes / Improvements
