@@ -1,3 +1,18 @@
+## 56.3.0 (July 17, 2019)
+
+### Bug fixes / Improvements
+
+* [[`39e682ae57`](https://github.com/alrra/browser-logos/commit/39e682ae57a1911dc79aa1a431116786afa1faca)] - 🗜 Further optimize `chrome-devtools.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`5a3dc25a53`](https://github.com/alrra/browser-logos/commit/5a3dc25a5345fd5706ed4362cb6e87286ecc3cb4)] - 🗜 Further losslessly optimize `samsung-internet-gear-vr.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+### New features
+
+* [[`28058d7602`](https://github.com/alrra/browser-logos/commit/28058d760274f8ee3e534f33507e2be232fd8328)] - ✨ Publish `Tor Nightly` logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`aa60fe12e0`](https://github.com/alrra/browser-logos/commit/aa60fe12e00dab63bf9e141ff5124810f8042328)] - ✨ Publish `Tor Alpha` logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`281e0afa5f`](https://github.com/alrra/browser-logos/commit/281e0afa5f5ed0dc1d1577388f5b1e5c4f72a0e8)] - ✨ Publish `Cốc Cốc` logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`642e4e0609`](https://github.com/alrra/browser-logos/commit/642e4e06093eb6a3d83ac85e66ca33c750003f28)] - ✨ Publish `Avant` logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 56.2.0 (July 15, 2019)
 
 ### New features
