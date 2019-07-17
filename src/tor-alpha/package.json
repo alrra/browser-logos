@@ -8,7 +8,6 @@
     "tor-alpha",
     "tor-alpha-logo"
   ],
-  "private": true,
   "name": "@browser-logos/tor-alpha",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"
