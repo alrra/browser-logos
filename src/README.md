@@ -4,7 +4,7 @@
     <thead>
         <tr>
             <th>
-                <a href="https://play.google.com/store/apps/details?id=com.google.android.webview">Android<br>WebView Beta</a>
+                <a href="https://play.google.com/store/apps/details?id=com.google.android.webview">Android<br>WebView<b<br>>Beta</a>
             </th>
         </tr>
     </thead>
@@ -723,7 +723,7 @@
                 <a href="https://www.opera.com/mobile/mini">Opera<br>Mini</a>
             </th>
             <th>
-                <a href="https://www.opera.com/mobile/mini">Opera<br>Mini Beta</a>
+                <a href="https://www.opera.com/mobile/mini">Opera<br>Mini<br>Beta</a>
             </th>
         </tr>
     </thead>

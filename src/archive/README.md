@@ -323,7 +323,7 @@
                 <a href="https://en.wikipedia.org/wiki/Google_Chrome_for_Android">Chrome<br>(Android)<br> 25-36</a>
             </th>
             <th>
-                <a href="https://en.wikipedia.org/wiki/Google_Chrome_for_Android">Chrome<br>Beta (Android)<br>25-36<br></a>
+                <a href="https://en.wikipedia.org/wiki/Google_Chrome_for_Android">Chrome<br>Beta<br>(Android)<br>25-36<br></a>
             </th>
         </tr>
     </thead>
@@ -1265,7 +1265,7 @@
     <thead>
         <tr>
             <th>
-                <a href="https://en.wikipedia.org/wiki/Opera_Mini">Opera<br>Mini Beta</a>
+                <a href="https://en.wikipedia.org/wiki/Opera_Mini">Opera<br>Mini<br>Beta</a>
                 <a href="#note"><code>*</code></a>
             </th>
         </tr>
