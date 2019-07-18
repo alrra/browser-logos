@@ -1,0 +1,15 @@
+{
+  "bugs": "https://github.com/alrra/browser-logos/issues",
+  "description": "Cốc Cốc browser logo",
+  "homepage": "https://github.com/alrra/browser-logos",
+  "keywords": [
+    "browser-logos",
+    "logo",
+    "cốc-cốc",
+    "cốc-cốc-logo"
+  ],
+  "private": true,
+  "name": "@browser-logos/coc-coc",
+  "repository": "alrra/browser-logos",
+  "version": "1.0.0"
+}
