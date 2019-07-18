@@ -1,0 +1,15 @@
+{
+  "bugs": "https://github.com/alrra/browser-logos/issues",
+  "description": "Avant browser logo",
+  "homepage": "https://github.com/alrra/browser-logos",
+  "keywords": [
+    "browser-logos",
+    "logo",
+    "avant",
+    "avant-logo"
+  ],
+  "private": true,
+  "name": "@browser-logos/avant",
+  "repository": "alrra/browser-logos",
+  "version": "1.0.0"
+}
