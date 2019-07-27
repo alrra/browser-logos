@@ -123,8 +123,8 @@ class GitHub {
 
             commitInfo = await this.octokit.repos.getCommit({
                 owner: this.REPOSITORY_OWNER,
-                repo: this.REPOSITORY_NAME,
-                commit_sha: sha
+                ref: sha,
+                repo: this.REPOSITORY_NAME
             });
 
             // - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
