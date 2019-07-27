@@ -1,3 +1,10 @@
+## 1.0.8 (July 26, 2019)
+
+### Bug fixes / Improvements
+
+* [[`3150e099d3`](https://github.com/alrra/browser-logos/commit/3150e099d3d1e5040bdeec2c05c2146404f49cc7)] - 🗜 Further losslessly optimize `edge-tile.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 1.0.7 (June 25, 2019)
 
 ### Bug fixes / Improvements
