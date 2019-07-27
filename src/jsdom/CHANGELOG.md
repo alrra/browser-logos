@@ -1,3 +1,10 @@
+## 1.0.4 (July 26, 2019)
+
+### Bug fixes / Improvements
+
+* [[`3bae782ad2`](https://github.com/alrra/browser-logos/commit/3bae782ad2adabd4d13f9d8a65a9bc2316de3c71)] - 🗜 Further losslessly optimize `jsdom.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 1.0.3 (June 25, 2019)
 
 ### Bug fixes / Improvements
