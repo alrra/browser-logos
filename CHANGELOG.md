@@ -1,3 +1,16 @@
+## 56.3.1 (July 26, 2019)
+
+### Bug fixes / Improvements
+
+* [[`86128e5727`](https://github.com/alrra/browser-logos/commit/86128e5727d86eb64531cd3e14dbe46ed4b17e0e)] - 🗜 Further losslessly optimize `electron.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`b1bf83b2ee`](https://github.com/alrra/browser-logos/commit/b1bf83b2ee53d302ddd165c50c623d8d3dbc67e5)] - 🔧 Tweak `opera-gx.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`2e90d0ff88`](https://github.com/alrra/browser-logos/commit/2e90d0ff88be00fd59a6c51ca526fd019ac60455)] - 🗜 Further losslessly optimize `maxthon_1.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`48d1d0e207`](https://github.com/alrra/browser-logos/commit/48d1d0e2070f11717784c24934afcb9b3ff22e5f)] - 🗜 Further losslessly optimize `maxthon-beta_1.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`3bae782ad2`](https://github.com/alrra/browser-logos/commit/3bae782ad2adabd4d13f9d8a65a9bc2316de3c71)] - 🗜 Further losslessly optimize `jsdom.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`3150e099d3`](https://github.com/alrra/browser-logos/commit/3150e099d3d1e5040bdeec2c05c2146404f49cc7)] - 🗜 Further losslessly optimize `edge-tile.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`4bb9e9dbe0`](https://github.com/alrra/browser-logos/commit/4bb9e9dbe07448496d2075bd4db1dcb97a934b48)] - 🗜 Further losslessly optimize `browsh.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 56.3.0 (July 17, 2019)
 
 ### Bug fixes / Improvements
