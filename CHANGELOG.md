@@ -1,3 +1,24 @@
+## 56.3.2 (August 10, 2019)
+
+### Bug fixes / Improvements
+
+* [[`a57809b13f`](https://github.com/alrra/browser-logos/commit/a57809b13f5b72f30e2a47cf52192f28dcab7d08)] - 🗜 Further optimize `firefox-preview.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`75dbd36f4a`](https://github.com/alrra/browser-logos/commit/75dbd36f4abf14d1b8237515cd152304fd9c58f7)] - 🗜 Further optimize `samsung-internet_5.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`82546a2e06`](https://github.com/alrra/browser-logos/commit/82546a2e061024933f0d1a20123bbde8dbefe62b)] - 🗜 Further losslessly optimize `electron.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`51787089d4`](https://github.com/alrra/browser-logos/commit/51787089d43c0d3a5868997e9b6ce4302d9b4846)] - 🗜 Further losslessly optimize `basilisk.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`15beb92e06`](https://github.com/alrra/browser-logos/commit/15beb92e06bafefdafdfa1b78bacdbbc6ab2eb71)] - 🗜 Further losslessly optimize `edge.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`884c05cbae`](https://github.com/alrra/browser-logos/commit/884c05cbaee112be1bb87228b76cfaa71fecf22d)] - 🗜 Further optimize `basilisk.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`bc4b197f14`](https://github.com/alrra/browser-logos/commit/bc4b197f1439e921174aa37cc9cdaf79f98c8fdf)] - 🗜 Further optimize `brave.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`37dfa8d9c0`](https://github.com/alrra/browser-logos/commit/37dfa8d9c002142fc58c522230696d970d1b23f0)] - 🗜 Further losslessly optimize images (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`accb7ca09a`](https://github.com/alrra/browser-logos/commit/accb7ca09a6d6904701950b95c9cf6b0f7770afe)] - 🗜 Further optimize `v8-orinoco.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`1bc1be31e7`](https://github.com/alrra/browser-logos/commit/1bc1be31e7584ee9cbe4dc9359960eff538ad54e)] - 🗜 Further optimize `phantomjs.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`c40812f635`](https://github.com/alrra/browser-logos/commit/c40812f635f378a496c41a9e13ce9927e290c62a)] - 🔧 Tweak `edge-canary.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`db55e9d0ef`](https://github.com/alrra/browser-logos/commit/db55e9d0ef91f74db831cf5e1aceaee3c9fe797c)] - 🔧 Tweak `edge-beta.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`0a5548a8c4`](https://github.com/alrra/browser-logos/commit/0a5548a8c45b5738de71eea6171f6117153bdffb)] - 🗜 Further optimize `geckoview.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`9dde3475e6`](https://github.com/alrra/browser-logos/commit/9dde3475e6d967aab4f4aeaf78b900807cf021e9)] - 🔧 Tweak `edge.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`bc23a64b20`](https://github.com/alrra/browser-logos/commit/bc23a64b20cef895615988237b390ff507d4ae27)] - 🗜 Further losslessly optimize `samsung-internet-beta_5.4-9.1.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 56.3.1 (July 26, 2019)
 
 ### Bug fixes / Improvements
