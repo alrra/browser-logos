@@ -1,3 +1,10 @@
+## 2.0.1 (August 10, 2019)
+
+### Bug fixes / Improvements
+
+* [[`accb7ca09a`](https://github.com/alrra/browser-logos/commit/accb7ca09a6d6904701950b95c9cf6b0f7770afe)] - 🗜 Further optimize `v8-orinoco.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 2.0.0 (July 6, 2019)
 
 ### Breaking Changes
