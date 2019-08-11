@@ -1,3 +1,10 @@
+## 1.0.7 (August 10, 2019)
+
+### Bug fixes / Improvements
+
+* [[`1bc1be31e7`](https://github.com/alrra/browser-logos/commit/1bc1be31e7584ee9cbe4dc9359960eff538ad54e)] - 🗜 Further optimize `phantomjs.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 1.0.6 (March 31, 2019)
 
 ### Bug fixes / Improvements
