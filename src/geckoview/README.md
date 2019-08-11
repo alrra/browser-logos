@@ -3,8 +3,8 @@
 <table>
     <tr height=240>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/226c9014633a3282758019e78ef294c3f56eaa79/src/geckoview">
-                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/226c9014633a3282758019e78ef294c3f56eaa79/src/geckoview/geckoview_512x512.png" alt="GeckoView logo">
+            <a href="https://github.com/alrra/browser-logos/tree/0a5548a8c45b5738de71eea6171f6117153bdffb/src/geckoview">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/0a5548a8c45b5738de71eea6171f6117153bdffb/src/geckoview/geckoview_512x512.png" alt="GeckoView logo">
             </a>
         </td>
     </tr>
