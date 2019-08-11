@@ -1,3 +1,10 @@
+## 1.0.7 (August 10, 2019)
+
+### Bug fixes / Improvements
+
+* [[`c40812f635`](https://github.com/alrra/browser-logos/commit/c40812f635f378a496c41a9e13ce9927e290c62a)] - 🔧 Tweak `edge-canary.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 1.0.6 (July 6, 2019)
 
 ### Bug fixes / Improvements

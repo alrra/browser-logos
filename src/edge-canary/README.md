@@ -3,8 +3,8 @@
 <table>
     <tr height=240>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/226c9014633a3282758019e78ef294c3f56eaa79/src/edge-canary">
-                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/226c9014633a3282758019e78ef294c3f56eaa79/src/edge-canary/edge-canary_512x512.png" alt="Microsoft Edge Canary browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/c40812f635f378a496c41a9e13ce9927e290c62a/src/edge-canary">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/c40812f635f378a496c41a9e13ce9927e290c62a/src/edge-canary/edge-canary_512x512.png" alt="Microsoft Edge Canary browser logo">
             </a>
         </td>
     </tr>
