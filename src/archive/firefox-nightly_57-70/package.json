@@ -8,7 +8,6 @@
     "firefox-nightly",
     "firefox-nightly-logo"
   ],
-  "private": true,
   "name": "@browser-logos/firefox-nightly_57-70",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"
