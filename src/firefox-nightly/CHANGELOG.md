@@ -1,3 +1,10 @@
+## 3.0.0 (August 12, 2019)
+
+### Breaking Changes
+
+* [[`e1e5b57141`](https://github.com/alrra/browser-logos/commit/e1e5b57141cf221c9421af0d22b68ee95e1d6a62)] - 💥 Update `Firefox Nightly` logo (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 2.1.6 (May 19, 2019)
 
 ### Bug fixes / Improvements
