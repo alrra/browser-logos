@@ -762,6 +762,9 @@
             <th>
                 <a href="https://en.wikipedia.org/wiki/Firefox#Version_history">Firefox<br>Nightly<br>23-56</a>
             </th>
+            <th>
+                <a href="https://en.wikipedia.org/wiki/Firefox#Version_history">Firefox<br>Nightly<br>57-70</a>
+            </th>
         </tr>
     </thead>
     <tbody>
@@ -774,6 +777,11 @@
             <td>
                 <a href="firefox-nightly_23-56">
                     <img width=150 src="firefox-nightly_23-56/firefox-nightly_23-56_256x256.png" alt="Firefox Nightly 23-56 browser logo">
+                </a>
+            </td>
+            <td>
+                <a href="firefox-nightly_57-70">
+                    <img width=150 src="firefox-nightly_57-70/firefox-nightly_57-70_256x256.png" alt="Firefox Nightly 57-70 browser logo">
                 </a>
             </td>
         </tr>
