@@ -1,3 +1,20 @@
+## 57.0.0 (August 12, 2019)
+
+### Breaking Changes
+
+* [[`e1e5b57141`](https://github.com/alrra/browser-logos/commit/e1e5b57141cf221c9421af0d22b68ee95e1d6a62)] - 💥 Update `Firefox Nightly` logo (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+### Bug fixes / Improvements
+
+* [[`d77024c008`](https://github.com/alrra/browser-logos/commit/d77024c0082fcdcb9cca70c841884c373ac02527)] - 🗜 Further optimize `webkit.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`37d36ad281`](https://github.com/alrra/browser-logos/commit/37d36ad2813ac3a2006911f5f503653f82cdd48a)] - 🗜 Further optimize `chrome.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`3ea61c02ec`](https://github.com/alrra/browser-logos/commit/3ea61c02ec6017a08edd19814504e457ddf2fdb2)] - 🔧 Tweak `surf.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+### New features
+
+* [[`04b8edb41d`](https://github.com/alrra/browser-logos/commit/04b8edb41d86e133911325c61be1999d198a940b)] - ✨ Publish `Firefox Nightly_57 70` logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 56.3.2 (August 10, 2019)
 
 ### Bug fixes / Improvements
