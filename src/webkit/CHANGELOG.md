@@ -1,3 +1,10 @@
+## 1.0.3 (August 12, 2019)
+
+### Bug fixes / Improvements
+
+* [[`d77024c008`](https://github.com/alrra/browser-logos/commit/d77024c0082fcdcb9cca70c841884c373ac02527)] - 🗜 Further optimize `webkit.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 1.0.2 (August 10, 2019)
 
 ### Bug fixes / Improvements
