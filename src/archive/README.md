@@ -624,6 +624,9 @@
             <th>
                 <a href="https://en.wikipedia.org/wiki/Firefox">Firefox<br>23-56</a>
             </th>
+            <th>
+                <a href="https://en.wikipedia.org/wiki/Firefox">Firefox<br>57-70</a>
+            </th>
         </tr>
     </thead>
     <tbody>
@@ -651,6 +654,11 @@
             <td>
                 <a href="firefox_23-56">
                     <img width=150 src="firefox_23-56/firefox_23-56_256x256.png" alt="Firefox 23-56 browser logo">
+                </a>
+            </td>
+            <td>
+                <a href="firefox_57-70">
+                    <img width=150 src="firefox_57-70/firefox_57-70_256x256.png" alt="Firefox 57-70 browser logo">
                 </a>
             </td>
         </tr>
