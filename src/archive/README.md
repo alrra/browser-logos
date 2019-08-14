@@ -724,6 +724,9 @@
             <th>
                 <a href="https://en.wikipedia.org/wiki/Firefox#Version_history">Firefox<br>Developer Edition<br>35-56</a>
             </th>
+            <th>
+                <a href="https://en.wikipedia.org/wiki/Firefox#Version_history">Firefox<br>Developer Edition<br>57-70</a>
+            </th>
         </tr>
     </thead>
     <tbody>
@@ -731,6 +734,11 @@
             <td>
                 <a href="firefox-developer-edition_35-56">
                     <img width=150 src="firefox-developer-edition_35-56/firefox-developer-edition_35-56_256x256.png" alt="Firefox Developer Edition 35-56 browser logo">
+                </a>
+            </td>
+            <td>
+                <a href="firefox-developer-edition_57-70">
+                    <img width=150 src="firefox-developer-edition_57-70/firefox-developer-edition_57-70_256x256.png" alt="Firefox Developer Edition 57-70 browser logo">
                 </a>
             </td>
         </tr>
