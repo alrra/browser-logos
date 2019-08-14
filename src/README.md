@@ -578,7 +578,7 @@
     <thead>
         <tr>
             <th>
-                <a href="http://www.maxthon.com/">Maxthon</a>
+                <a href="https://www.maxthon.com/">Maxthon</a>
             </th>
         </tr>
     </thead>
@@ -620,7 +620,7 @@
     <thead>
         <tr>
             <th>
-                <a href="http://www.netsurf-browser.org/">NetSurf</a>
+                <a href="https://www.netsurf-browser.org/">NetSurf</a>
             </th>
         </tr>
     </thead>
@@ -791,7 +791,7 @@
     <thead>
         <tr>
             <th>
-                <a href="http://otter-browser.org/">Otter</a>
+                <a href="https://otter-browser.org/">Otter</a>
             </th>
         </tr>
     </thead>
@@ -812,7 +812,7 @@
     <thead>
         <tr>
             <th>
-                <a href="http://www.palemoon.org/">Pale Moon</a>
+                <a href="https://www.palemoon.org/">Pale Moon</a>
             </th>
         </tr>
     </thead>
@@ -941,7 +941,7 @@
     <thead>
         <tr>
             <th>
-                <a href="http://www.seamonkey-project.org/">SeaMonkey</a>
+                <a href="https://www.seamonkey-project.org/">SeaMonkey</a>
             </th>
         </tr>
     </thead>
@@ -1062,7 +1062,7 @@
     <thead>
         <tr>
             <th>
-                <a href="http://www.ucweb.com">UC</a>
+                <a href="https://www.ucweb.com">UC</a>
             </th>
         </tr>
     </thead>
@@ -1083,7 +1083,7 @@
     <thead>
         <tr>
             <th>
-                <a href="http://www.ucweb.com">UC<br>Mini</a>
+                <a href="https://www.ucweb.com">UC<br>Mini</a>
             </th>
         </tr>
     </thead>
