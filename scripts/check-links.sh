@@ -5,18 +5,12 @@ cd "$(dirname "${BASH_SOURCE[0]}")/.." \
 
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-declare -r -a IGNORED_URLS=(
-    "https://github.com/alrra/browser-logos/commit/4406d8a2ef0f9cf1fd91cf1c9b438b2096a51bba"
-    "https://web.archive.org/web"
-)
+declare exitCode=0
+declare markdownFiles=$(find . -name "*.md" -not -path "./node_modules/*");
 
-# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+for file in $markdownFiles; do
+    markdown-link-check -pv "$file" \
+        || exitCode=1
+done
 
-find .  -name "*.md" \
-        -not -path "./node_modules/*" \
-        -exec awesome_bot \
-                --allow-dupe \
-                --allow-redirect \
-                --set-timeout 150 \
-                --white-list "$(IFS=,;printf "%s" "${IGNORED_URLS[*]}")" \
-                {} +
+exit $exitCode

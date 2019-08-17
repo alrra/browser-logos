@@ -5,18 +5,16 @@
 
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-before_script:
-  - gem install awesome_bot
+language:
+  - node_js
 
-language: ruby
+node_js:
+  - node
 
 notifications:
   email:
     on_failure: always
     on_success: never
 
-rvm:
-  - 2.2
-
 script:
-  - ./scripts/check-links.sh
+  - npm run check-links
