@@ -1,3 +1,10 @@
+## 1.0.3 (August 24, 2019)
+
+### Bug fixes / Improvements
+
+* [[`b4006f5114`](https://github.com/alrra/browser-logos/commit/b4006f5114d10b44e376e6dc0ae0c3859dc6b821)] - 🗜 Further optimize `browsh.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 1.0.2 (July 26, 2019)
 
 ### Bug fixes / Improvements
