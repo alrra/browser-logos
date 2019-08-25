@@ -1,3 +1,10 @@
+## 2.0.1 (August 24, 2019)
+
+### Bug fixes / Improvements
+
+* [[`60e962df5d`](https://github.com/alrra/browser-logos/commit/60e962df5d3233e7d8a7a2e3943c52ba0189487c)] - 🗜 Further optimize `v8.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 2.0.0 (July 6, 2019)
 
 ### Breaking Changes
