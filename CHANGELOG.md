@@ -2,8 +2,8 @@
 
 ### New features
 
-* [[`3ec33e5f65`](https://github.com/alrra/browser-logos/commit/3ec33e5f659326c791b661b4eb60c2dec38faf52)] - ✨ Publish `Firefox Developer Edition_57 70` logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
-* [[`e33cd01055`](https://github.com/alrra/browser-logos/commit/e33cd010557f9fbad5627abbed0dc8a387451d20)] - ✨ Publish `Firefox_57 70` logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`3ec33e5f65`](https://github.com/alrra/browser-logos/commit/3ec33e5f659326c791b661b4eb60c2dec38faf52)] - ✨ Publish `Firefox Developer Edition` v57-70 logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`e33cd01055`](https://github.com/alrra/browser-logos/commit/e33cd010557f9fbad5627abbed0dc8a387451d20)] - ✨ Publish `Firefox` v57-70 logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
 
 ## 58.0.0 (August 24, 2019)
@@ -42,7 +42,7 @@
 
 ### New features
 
-* [[`04b8edb41d`](https://github.com/alrra/browser-logos/commit/04b8edb41d86e133911325c61be1999d198a940b)] - ✨ Publish `Firefox Nightly_57 70` logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`04b8edb41d`](https://github.com/alrra/browser-logos/commit/04b8edb41d86e133911325c61be1999d198a940b)] - ✨ Publish `Firefox Nightly` v57-70 logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
 
 ## 56.3.2 (August 10, 2019)
