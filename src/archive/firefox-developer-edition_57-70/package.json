@@ -8,7 +8,6 @@
     "firefox-developer-edition",
     "firefox-developer-edition-logo"
   ],
-  "private": true,
   "name": "@browser-logos/firefox-developer-edition_57-70",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"
