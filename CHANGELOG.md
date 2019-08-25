@@ -1,3 +1,25 @@
+## 58.0.0 (August 24, 2019)
+
+### Breaking Changes
+
+* [[`b92e3a4717`](https://github.com/alrra/browser-logos/commit/b92e3a4717d9f120c7be5484d087afc00947de91)] - 💥 Update `Firefox Developer` logo (by [`Cătălin Mariș`](https://github.com/alrra) / see also: [`#172`](https://github.com/alrra/browser-logos/issues/172)).
+* [[`3eac290f2c`](https://github.com/alrra/browser-logos/commit/3eac290f2c5d9baebbcb6a963d62661f6121f5ef)] - 💥 Update `Firefox` logo (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+### Bug fixes / Improvements
+
+* [[`547ac0bcb7`](https://github.com/alrra/browser-logos/commit/547ac0bcb714a167efd30103e835f78951f655e3)] - 🗜 Further losslessly optimize `netscape_4-6.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`70c6d6bb60`](https://github.com/alrra/browser-logos/commit/70c6d6bb600808811cecd52f4934c5ba51e7cb71)] - 🗜 Further optimize `netscape_9.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`783bd39449`](https://github.com/alrra/browser-logos/commit/783bd39449f4d830ea341d9f1f6ed9d6eb8ea6e3)] - 🗜 Further optimize `v8-orinoco.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`b509889b40`](https://github.com/alrra/browser-logos/commit/b509889b407d7ac2b9f5e0a7dec4681196fefa41)] - 🗜 Further losslessly optimize `v8-ignition.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`8727dd57e1`](https://github.com/alrra/browser-logos/commit/8727dd57e100af86acf5b0c947779e049b746f41)] - 🗜 Further optimize `v8-turbofan.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`60e962df5d`](https://github.com/alrra/browser-logos/commit/60e962df5d3233e7d8a7a2e3943c52ba0189487c)] - 🗜 Further optimize `v8.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`b4006f5114`](https://github.com/alrra/browser-logos/commit/b4006f5114d10b44e376e6dc0ae0c3859dc6b821)] - 🗜 Further optimize `browsh.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`9a5da1ecdc`](https://github.com/alrra/browser-logos/commit/9a5da1ecdc65b8cfcfceed42e8dca91bdec9e997)] - 🗜 Further optimize `geckoview.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`cd3da7aab3`](https://github.com/alrra/browser-logos/commit/cd3da7aab372dafcf9786054a4e63f31321cacac)] - 🗜 Further losslessly optimize `edge.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`03c029d33d`](https://github.com/alrra/browser-logos/commit/03c029d33dc31391eda13fdaf72f20e72e8b2a55)] - 🔧 Tweak `netsurf.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`29fbb200fa`](https://github.com/alrra/browser-logos/commit/29fbb200fa20feff3c3feac2f8f6213b0cbd827d)] - 🗜 Further optimize `falkon.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 57.0.0 (August 12, 2019)
 
 ### Breaking Changes
