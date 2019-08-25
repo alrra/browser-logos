@@ -1,3 +1,10 @@
+## 1.0.5 (August 24, 2019)
+
+### Bug fixes / Improvements
+
+* [[`29fbb200fa`](https://github.com/alrra/browser-logos/commit/29fbb200fa20feff3c3feac2f8f6213b0cbd827d)] - 🗜 Further optimize `falkon.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 1.0.4 (July 6, 2019)
 
 ### Bug fixes / Improvements
