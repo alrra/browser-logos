@@ -1,3 +1,11 @@
+## 58.1.0 (August 24, 2019)
+
+### New features
+
+* [[`3ec33e5f65`](https://github.com/alrra/browser-logos/commit/3ec33e5f659326c791b661b4eb60c2dec38faf52)] - ✨ Publish `Firefox Developer Edition_57 70` logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`e33cd01055`](https://github.com/alrra/browser-logos/commit/e33cd010557f9fbad5627abbed0dc8a387451d20)] - ✨ Publish `Firefox_57 70` logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 58.0.0 (August 24, 2019)
 
 ### Breaking Changes
