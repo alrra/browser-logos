@@ -1,3 +1,10 @@
+## 3.0.0 (August 24, 2019)
+
+### Breaking Changes
+
+* [[`3eac290f2c`](https://github.com/alrra/browser-logos/commit/3eac290f2c5d9baebbcb6a963d62661f6121f5ef)] - 💥 Update `Firefox` logo (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 2.0.5 (May 19, 2019)
 
 ### Bug fixes / Improvements
