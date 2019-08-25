@@ -8,7 +8,6 @@
     "firefox",
     "firefox-logo"
   ],
-  "private": true,
   "name": "@browser-logos/firefox_57-70",
   "repository": "alrra/browser-logos",
   "version": "1.0.0"
