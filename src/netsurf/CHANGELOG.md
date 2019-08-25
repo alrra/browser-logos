@@ -1,3 +1,10 @@
+## 1.0.10 (August 24, 2019)
+
+### Bug fixes / Improvements
+
+* [[`03c029d33d`](https://github.com/alrra/browser-logos/commit/03c029d33dc31391eda13fdaf72f20e72e8b2a55)] - 🔧 Tweak `netsurf.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 1.0.9 (May 5, 2019)
 
 ### Bug fixes / Improvements
