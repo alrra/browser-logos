@@ -3,8 +3,8 @@
 <table>
     <tr height=230>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/accb7ca09a6d6904701950b95c9cf6b0f7770afe/src/v8-orinoco">
-                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/accb7ca09a6d6904701950b95c9cf6b0f7770afe/src/v8-orinoco/v8-orinoco.svg?sanitize=true" alt="V8 Orinoco browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/783bd39449f4d830ea341d9f1f6ed9d6eb8ea6e3/src/v8-orinoco">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/783bd39449f4d830ea341d9f1f6ed9d6eb8ea6e3/src/v8-orinoco/v8-orinoco.svg?sanitize=true" alt="V8 Orinoco browser logo">
             </a>
         </td>
     </tr>
