@@ -1,3 +1,10 @@
+## 2.0.1 (August 24, 2019)
+
+### Bug fixes / Improvements
+
+* [[`8727dd57e1`](https://github.com/alrra/browser-logos/commit/8727dd57e100af86acf5b0c947779e049b746f41)] - 🗜 Further optimize `v8-turbofan.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 2.0.0 (July 6, 2019)
 
 ### Breaking Changes
