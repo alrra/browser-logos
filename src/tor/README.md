@@ -3,8 +3,8 @@
 <table>
     <tr height=230>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/e22f81c1e2c65630d331e8dec8f1fe94550dbf2e/src/tor">
-                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/e22f81c1e2c65630d331e8dec8f1fe94550dbf2e/src/tor/tor_512x512.png" alt="Tor browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/3799655cbde62ea2de2a8a2b12a6123edae087b1/src/tor">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/3799655cbde62ea2de2a8a2b12a6123edae087b1/src/tor/tor_512x512.png" alt="Tor browser logo">
             </a>
         </td>
     </tr>
