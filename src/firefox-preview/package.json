@@ -9,6 +9,10 @@
     "firefox-preview-logo"
   ],
   "name": "@browser-logos/firefox-preview",
-  "repository": "alrra/browser-logos",
+  "repository": {
+    "directory": "src/firefox-preview",
+    "type": "git",
+    "url": "https://github.com/alrra/browser-logos.git"
+  },
   "version": "1.0.2"
 }

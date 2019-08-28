@@ -9,6 +9,10 @@
     "brave-dev-logo"
   ],
   "name": "@browser-logos/brave-dev",
-  "repository": "alrra/browser-logos",
+  "repository": {
+    "directory": "src/brave-dev",
+    "type": "git",
+    "url": "https://github.com/alrra/browser-logos.git"
+  },
   "version": "1.0.5"
 }

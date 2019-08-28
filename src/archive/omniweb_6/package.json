@@ -9,6 +9,10 @@
     "omniweb-logo"
   ],
   "name": "@browser-logos/omniweb_6",
-  "repository": "alrra/browser-logos",
+  "repository": {
+    "directory": "src/archive/omniweb_6",
+    "type": "git",
+    "url": "https://github.com/alrra/browser-logos.git"
+  },
   "version": "1.0.4"
 }

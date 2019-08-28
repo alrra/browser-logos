@@ -11,6 +11,10 @@
     "v8-orinoco-logo"
   ],
   "name": "@browser-logos/v8-orinoco",
-  "repository": "alrra/browser-logos",
+  "repository": {
+    "directory": "src/v8-orinoco",
+    "type": "git",
+    "url": "https://github.com/alrra/browser-logos.git"
+  },
   "version": "2.0.2"
 }

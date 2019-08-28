@@ -9,6 +9,10 @@
     "tor-logo"
   ],
   "name": "@browser-logos/tor",
-  "repository": "alrra/browser-logos",
+  "repository": {
+    "directory": "src/tor",
+    "type": "git",
+    "url": "https://github.com/alrra/browser-logos.git"
+  },
   "version": "2.0.0"
 }

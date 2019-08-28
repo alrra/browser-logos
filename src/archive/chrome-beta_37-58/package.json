@@ -9,6 +9,10 @@
     "chrome-beta-logo"
   ],
   "name": "@browser-logos/chrome-beta_37-58",
-  "repository": "alrra/browser-logos",
+  "repository": {
+    "directory": "src/archive/chrome-beta_37-58",
+    "type": "git",
+    "url": "https://github.com/alrra/browser-logos.git"
+  },
   "version": "1.0.1"
 }

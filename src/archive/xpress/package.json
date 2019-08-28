@@ -9,6 +9,10 @@
     "xpress-logo"
   ],
   "name": "@browser-logos/xpress",
-  "repository": "alrra/browser-logos",
+  "repository": {
+    "directory": "src/archive/xpress",
+    "type": "git",
+    "url": "https://github.com/alrra/browser-logos.git"
+  },
   "version": "1.0.1"
 }

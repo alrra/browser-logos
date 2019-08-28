@@ -11,6 +11,10 @@
     "v8-liftoff-logo"
   ],
   "name": "@browser-logos/v8-liftoff",
-  "repository": "alrra/browser-logos",
+  "repository": {
+    "directory": "src/v8-liftoff",
+    "type": "git",
+    "url": "https://github.com/alrra/browser-logos.git"
+  },
   "version": "2.0.0"
 }

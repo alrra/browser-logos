@@ -9,6 +9,10 @@
     "seamonkey-logo"
   ],
   "name": "@browser-logos/seamonkey",
-  "repository": "alrra/browser-logos",
+  "repository": {
+    "directory": "src/seamonkey",
+    "type": "git",
+    "url": "https://github.com/alrra/browser-logos.git"
+  },
   "version": "1.0.4"
 }

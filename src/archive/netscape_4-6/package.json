@@ -9,6 +9,10 @@
     "netscape-logo"
   ],
   "name": "@browser-logos/netscape_4-6",
-  "repository": "alrra/browser-logos",
+  "repository": {
+    "directory": "src/archive/netscape_4-6",
+    "type": "git",
+    "url": "https://github.com/alrra/browser-logos.git"
+  },
   "version": "1.0.7"
 }

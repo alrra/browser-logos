@@ -9,6 +9,10 @@
     "microsoft-edge-logo"
   ],
   "name": "@browser-logos/edge",
-  "repository": "alrra/browser-logos",
+  "repository": {
+    "directory": "src/edge",
+    "type": "git",
+    "url": "https://github.com/alrra/browser-logos.git"
+  },
   "version": "1.0.8"
 }

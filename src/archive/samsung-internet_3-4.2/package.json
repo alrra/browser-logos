@@ -9,6 +9,10 @@
     "samsung-internet-logo"
   ],
   "name": "@browser-logos/samsung-internet_3-4.2",
-  "repository": "alrra/browser-logos",
+  "repository": {
+    "directory": "src/archive/samsung-internet_3-4.2",
+    "type": "git",
+    "url": "https://github.com/alrra/browser-logos.git"
+  },
   "version": "1.0.4"
 }

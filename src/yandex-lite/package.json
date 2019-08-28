@@ -9,6 +9,10 @@
     "yandex-lite-logo"
   ],
   "name": "@browser-logos/yandex-lite",
-  "repository": "alrra/browser-logos",
+  "repository": {
+    "directory": "src/yandex-lite",
+    "type": "git",
+    "url": "https://github.com/alrra/browser-logos.git"
+  },
   "version": "1.0.1"
 }

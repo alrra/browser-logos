@@ -10,6 +10,10 @@
     "vivaldi-snapshot-logo"
   ],
   "name": "@browser-logos/vivaldi-snapshot",
-  "repository": "alrra/browser-logos",
+  "repository": {
+    "directory": "src/vivaldi-snapshot",
+    "type": "git",
+    "url": "https://github.com/alrra/browser-logos.git"
+  },
   "version": "1.0.2"
 }

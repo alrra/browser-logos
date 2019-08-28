@@ -9,6 +9,10 @@
     "firefox-reality-logo"
   ],
   "name": "@browser-logos/firefox-reality",
-  "repository": "alrra/browser-logos",
+  "repository": {
+    "directory": "src/firefox-reality",
+    "type": "git",
+    "url": "https://github.com/alrra/browser-logos.git"
+  },
   "version": "2.0.0"
 }

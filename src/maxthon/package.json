@@ -9,6 +9,10 @@
     "maxthon-logo"
   ],
   "name": "@browser-logos/maxthon",
-  "repository": "alrra/browser-logos",
+  "repository": {
+    "directory": "src/maxthon",
+    "type": "git",
+    "url": "https://github.com/alrra/browser-logos.git"
+  },
   "version": "1.0.1"
 }

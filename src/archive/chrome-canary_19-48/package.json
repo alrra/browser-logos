@@ -9,6 +9,10 @@
     "chrome-canary-logo"
   ],
   "name": "@browser-logos/chrome-canary_19-48",
-  "repository": "alrra/browser-logos",
+  "repository": {
+    "directory": "src/archive/chrome-canary_19-48",
+    "type": "git",
+    "url": "https://github.com/alrra/browser-logos.git"
+  },
   "version": "1.0.5"
 }

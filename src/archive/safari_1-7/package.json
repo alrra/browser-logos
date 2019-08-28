@@ -9,6 +9,10 @@
     "safari-logo"
   ],
   "name": "@browser-logos/safari_1-7",
-  "repository": "alrra/browser-logos",
+  "repository": {
+    "directory": "src/archive/safari_1-7",
+    "type": "git",
+    "url": "https://github.com/alrra/browser-logos.git"
+  },
   "version": "1.0.4"
 }

@@ -9,6 +9,10 @@
     "opera-logo"
   ],
   "name": "@browser-logos/opera_2-6",
-  "repository": "alrra/browser-logos",
+  "repository": {
+    "directory": "src/archive/opera_2-6",
+    "type": "git",
+    "url": "https://github.com/alrra/browser-logos.git"
+  },
   "version": "1.0.4"
 }

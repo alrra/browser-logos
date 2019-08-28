@@ -9,6 +9,10 @@
     "k-meleon-logo"
   ],
   "name": "@browser-logos/k-meleon",
-  "repository": "alrra/browser-logos",
+  "repository": {
+    "directory": "src/archive/k-meleon",
+    "type": "git",
+    "url": "https://github.com/alrra/browser-logos.git"
+  },
   "version": "1.0.8"
 }

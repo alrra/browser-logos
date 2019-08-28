@@ -9,6 +9,10 @@
     "hermes-logo"
   ],
   "name": "@browser-logos/hermes",
-  "repository": "alrra/browser-logos",
+  "repository": {
+    "directory": "src/hermes",
+    "type": "git",
+    "url": "https://github.com/alrra/browser-logos.git"
+  },
   "version": "1.0.0"
 }

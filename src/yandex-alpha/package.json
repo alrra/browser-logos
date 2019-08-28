@@ -9,6 +9,10 @@
     "yandex-alpha-logo"
   ],
   "name": "@browser-logos/yandex-alpha",
-  "repository": "alrra/browser-logos",
+  "repository": {
+    "directory": "src/yandex-alpha",
+    "type": "git",
+    "url": "https://github.com/alrra/browser-logos.git"
+  },
   "version": "1.0.1"
 }

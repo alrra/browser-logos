@@ -9,6 +9,10 @@
     "safari-ios-logo"
   ],
   "name": "@browser-logos/safari-ios_1-6",
-  "repository": "alrra/browser-logos",
+  "repository": {
+    "directory": "src/archive/safari-ios_1-6",
+    "type": "git",
+    "url": "https://github.com/alrra/browser-logos.git"
+  },
   "version": "1.0.4"
 }

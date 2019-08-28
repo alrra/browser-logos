@@ -9,6 +9,10 @@
     "qupzilla-logo"
   ],
   "name": "@browser-logos/qupzilla",
-  "repository": "alrra/browser-logos",
+  "repository": {
+    "directory": "src/archive/qupzilla",
+    "type": "git",
+    "url": "https://github.com/alrra/browser-logos.git"
+  },
   "version": "1.0.4"
 }

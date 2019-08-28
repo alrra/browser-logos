@@ -9,6 +9,10 @@
     "samsung-internet-beta-logo"
   ],
   "name": "@browser-logos/samsung-internet-beta_9.2-9.4",
-  "repository": "alrra/browser-logos",
+  "repository": {
+    "directory": "src/archive/samsung-internet-beta_9.2-9.4",
+    "type": "git",
+    "url": "https://github.com/alrra/browser-logos.git"
+  },
   "version": "1.0.0"
 }

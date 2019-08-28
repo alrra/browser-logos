@@ -9,6 +9,10 @@
     "firefox-nightly-logo"
   ],
   "name": "@browser-logos/firefox-nightly_6-22",
-  "repository": "alrra/browser-logos",
+  "repository": {
+    "directory": "src/archive/firefox-nightly_6-22",
+    "type": "git",
+    "url": "https://github.com/alrra/browser-logos.git"
+  },
   "version": "1.0.4"
 }

@@ -9,6 +9,10 @@
     "firefox-aurora-logo"
   ],
   "name": "@browser-logos/firefox-aurora_23-35",
-  "repository": "alrra/browser-logos",
+  "repository": {
+    "directory": "src/archive/firefox-aurora_23-35",
+    "type": "git",
+    "url": "https://github.com/alrra/browser-logos.git"
+  },
   "version": "1.0.4"
 }

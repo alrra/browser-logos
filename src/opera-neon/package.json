@@ -9,6 +9,10 @@
     "opera-neon-logo"
   ],
   "name": "@browser-logos/opera-neon",
-  "repository": "alrra/browser-logos",
+  "repository": {
+    "directory": "src/opera-neon",
+    "type": "git",
+    "url": "https://github.com/alrra/browser-logos.git"
+  },
   "version": "1.0.4"
 }

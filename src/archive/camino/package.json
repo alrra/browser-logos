@@ -9,6 +9,10 @@
     "camino-logo"
   ],
   "name": "@browser-logos/camino",
-  "repository": "alrra/browser-logos",
+  "repository": {
+    "directory": "src/archive/camino",
+    "type": "git",
+    "url": "https://github.com/alrra/browser-logos.git"
+  },
   "version": "1.0.4"
 }

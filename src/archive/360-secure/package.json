@@ -9,6 +9,10 @@
     "360-secure-logo"
   ],
   "name": "@browser-logos/360-secure",
-  "repository": "alrra/browser-logos",
+  "repository": {
+    "directory": "src/archive/360-secure",
+    "type": "git",
+    "url": "https://github.com/alrra/browser-logos.git"
+  },
   "version": "1.0.0"
 }

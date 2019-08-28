@@ -11,6 +11,10 @@
     "web-logo"
   ],
   "name": "@browser-logos/web",
-  "repository": "alrra/browser-logos",
+  "repository": {
+    "directory": "src/web",
+    "type": "git",
+    "url": "https://github.com/alrra/browser-logos.git"
+  },
   "version": "2.0.1"
 }

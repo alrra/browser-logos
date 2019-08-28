@@ -9,6 +9,10 @@
     "chrome-dev-logo"
   ],
   "name": "@browser-logos/chrome-dev_37-59",
-  "repository": "alrra/browser-logos",
+  "repository": {
+    "directory": "src/archive/chrome-dev_37-59",
+    "type": "git",
+    "url": "https://github.com/alrra/browser-logos.git"
+  },
   "version": "1.0.1"
 }

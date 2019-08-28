@@ -9,6 +9,10 @@
     "rockmelt-ios-logo"
   ],
   "name": "@browser-logos/rockmelt-ios",
-  "repository": "alrra/browser-logos",
+  "repository": {
+    "directory": "src/archive/rockmelt-ios",
+    "type": "git",
+    "url": "https://github.com/alrra/browser-logos.git"
+  },
   "version": "1.0.3"
 }

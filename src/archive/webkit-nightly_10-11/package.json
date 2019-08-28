@@ -9,6 +9,10 @@
     "webkit-nightly-logo"
   ],
   "name": "@browser-logos/webkit-nightly",
-  "repository": "alrra/browser-logos",
+  "repository": {
+    "directory": "src/archive/webkit-nightly",
+    "type": "git",
+    "url": "https://github.com/alrra/browser-logos.git"
+  },
   "version": "1.0.4"
 }

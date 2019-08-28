@@ -9,6 +9,10 @@
     "firefox-logo"
   ],
   "name": "@browser-logos/firefox_3.5-22",
-  "repository": "alrra/browser-logos",
+  "repository": {
+    "directory": "src/archive/firefox_3.5-22",
+    "type": "git",
+    "url": "https://github.com/alrra/browser-logos.git"
+  },
   "version": "1.0.4"
 }
