@@ -1,3 +1,11 @@
+## 1.0.4 (August 27, 2019)
+
+### Bug fixes / Improvements
+
+* [[`3799655cbd`](https://github.com/alrra/browser-logos/commit/3799655cbde62ea2de2a8a2b12a6123edae087b1)] - 🔧 Specify the directory of the package in the `package.json` file (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`c016df4fad`](https://github.com/alrra/browser-logos/commit/c016df4fad32186b3de40f23802a73505fc5e62b)] - 🗜 Further optimize `samsung-internet-beta_5.4-9.1.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 1.0.3 (August 10, 2019)
 
 ### Bug fixes / Improvements
