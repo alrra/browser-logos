@@ -3,8 +3,8 @@
 <table>
     <tr height=240>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/d1bd21cc4316c0fd863299601178e91abd8256bc/src/archive/bezillabrowser">
-                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/d1bd21cc4316c0fd863299601178e91abd8256bc/src/archive/bezillabrowser/bezillabrowser_512x512.png" alt="BeZillaBrowser browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/3799655cbde62ea2de2a8a2b12a6123edae087b1/src/archive/bezillabrowser">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/3799655cbde62ea2de2a8a2b12a6123edae087b1/src/archive/bezillabrowser/bezillabrowser_512x512.png" alt="BeZillaBrowser browser logo">
             </a>
         </td>
     </tr>
