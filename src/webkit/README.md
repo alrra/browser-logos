@@ -3,8 +3,8 @@
 <table>
     <tr height=240>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/d77024c0082fcdcb9cca70c841884c373ac02527/src/webkit">
-                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/d77024c0082fcdcb9cca70c841884c373ac02527/src/webkit/webkit_512x512.png" alt="WebKit browser engine logo">
+            <a href="https://github.com/alrra/browser-logos/tree/3799655cbde62ea2de2a8a2b12a6123edae087b1/src/webkit">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/3799655cbde62ea2de2a8a2b12a6123edae087b1/src/webkit/webkit_512x512.png" alt="WebKit browser engine logo">
             </a>
         </td>
     </tr>
