@@ -3,8 +3,8 @@
 <table>
     <tr height=240>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/5a3dc25a5345fd5706ed4362cb6e87286ecc3cb4/src/samsung-internet-gear-vr">
-                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/5a3dc25a5345fd5706ed4362cb6e87286ecc3cb4/src/samsung-internet-gear-vr/samsung-internet-gear-vr.svg?sanitize=true" alt="Samsung Internet Gear VR browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/3799655cbde62ea2de2a8a2b12a6123edae087b1/src/samsung-internet-gear-vr">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/3799655cbde62ea2de2a8a2b12a6123edae087b1/src/samsung-internet-gear-vr/samsung-internet-gear-vr.svg?sanitize=true" alt="Samsung Internet Gear VR browser logo">
             </a>
         </td>
     </tr>
