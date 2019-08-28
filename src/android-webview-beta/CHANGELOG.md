@@ -1,3 +1,10 @@
+## 1.0.4 (August 27, 2019)
+
+### Bug fixes / Improvements
+
+* [[`a0a3b59c19`](https://github.com/alrra/browser-logos/commit/a0a3b59c1982fd62f9a359ec25d9a6fca8b74cc2)] - 🔧 Specify the directory of the package in the `package.json` file (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 1.0.3 (March 14, 2019)
 
 ### Bug fixes / Improvements
