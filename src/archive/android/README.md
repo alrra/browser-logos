@@ -3,8 +3,8 @@
 <table>
     <tr height=230>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/2595111f26d5d31b62422f10c656171fd7633e4f/src/archive/android">
-                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/2595111f26d5d31b62422f10c656171fd7633e4f/src/archive/android/android_512x512.png" alt="Android browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/3799655cbde62ea2de2a8a2b12a6123edae087b1/src/archive/android">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/3799655cbde62ea2de2a8a2b12a6123edae087b1/src/archive/android/android_512x512.png" alt="Android browser logo">
             </a>
         </td>
     </tr>
