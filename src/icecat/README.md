@@ -3,8 +3,8 @@
 <table>
     <tr height=230>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/eba7a4445bff89ecd25dcc853cc666058fb6852a/src/icecat">
-                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/eba7a4445bff89ecd25dcc853cc666058fb6852a/src/icecat/icecat_512x512.png" alt="IceCat browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/3799655cbde62ea2de2a8a2b12a6123edae087b1/src/icecat">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/3799655cbde62ea2de2a8a2b12a6123edae087b1/src/icecat/icecat_512x512.png" alt="IceCat browser logo">
             </a>
         </td>
     </tr>
