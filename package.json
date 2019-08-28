@@ -17,5 +17,5 @@
     "prepare-for-publishing": "./scripts/prepare-for-publishing.js",
     "release": "./scripts/release.js"
   },
-  "version": "58.1.0"
+  "version": "58.1.1"
 }

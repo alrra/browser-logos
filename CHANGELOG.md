@@ -1,3 +1,13 @@
+## 58.1.1 (August 27, 2019)
+
+### Bug fixes / Improvements
+
+* [[`3799655cbd`](https://github.com/alrra/browser-logos/commit/3799655cbde62ea2de2a8a2b12a6123edae087b1)] - 🔧 Specify the directory of the package in the `package.json` file (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`d54c371efa`](https://github.com/alrra/browser-logos/commit/d54c371efac807e5bcbc58a64ea2db27c431608b)] - 🔧 Tweak `edge-dev.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`c016df4fad`](https://github.com/alrra/browser-logos/commit/c016df4fad32186b3de40f23802a73505fc5e62b)] - 🗜 Further optimize `samsung-internet-beta_5.4-9.1.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`610064a27a`](https://github.com/alrra/browser-logos/commit/610064a27a3bd990ff4342c256aa5dad9feb9866)] - 🗜 Further losslessly optimize `safari-ios.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 58.1.0 (August 24, 2019)
 
 ### New features
