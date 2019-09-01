@@ -1,3 +1,10 @@
+## 1.0.3 (September 1, 2019)
+
+### Bug fixes / Improvements
+
+* [[`5fe5122faf`](https://github.com/alrra/browser-logos/commit/5fe5122faf525532f9ad38dc920fd38d51599fb1)] - 🗜 Further losslessly optimize `opera-gx.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 1.0.2 (August 27, 2019)
 
 ### Bug fixes / Improvements
