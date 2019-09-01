@@ -1,3 +1,14 @@
+## 58.1.2 (September 1, 2019)
+
+### Bug fixes / Improvements
+
+* [[`822e8efe03`](https://github.com/alrra/browser-logos/commit/822e8efe03e483d62a4f564591df6689df7a9a47)] - 🗜 Further optimize `chrome.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`5fe5122faf`](https://github.com/alrra/browser-logos/commit/5fe5122faf525532f9ad38dc920fd38d51599fb1)] - 🗜 Further losslessly optimize `opera-gx.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`9867babb80`](https://github.com/alrra/browser-logos/commit/9867babb80524181beda9104c18f8649964e5ff4)] - 🗜 Further optimize `samsung-internet-gear-vr.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`019f43fd27`](https://github.com/alrra/browser-logos/commit/019f43fd277161ae1455d5815be1507be63d5670)] - 🗜 Further optimize `samsung-internet_5.4-9.0.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`41cd6443a7`](https://github.com/alrra/browser-logos/commit/41cd6443a7da42ed65e0f128394f352043ccf7d2)] - 🗜 Further optimize `opera.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 58.1.1 (August 27, 2019)
 
 ### Bug fixes / Improvements
