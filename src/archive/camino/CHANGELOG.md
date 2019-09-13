@@ -1,3 +1,10 @@
+## 1.0.6 (September 13, 2019)
+
+### Bug fixes / Improvements
+
+* [[`e6f3432693`](https://github.com/alrra/browser-logos/commit/e6f34326937783cc6eb14708f2036a03417c4195)] - 🗜️ Further losslessly optimize images (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 1.0.5 (August 27, 2019)
 
 ### Bug fixes / Improvements
