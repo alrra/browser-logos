@@ -3,8 +3,8 @@
 <table>
     <tr height=230>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/3799655cbde62ea2de2a8a2b12a6123edae087b1/src/archive/phantomjs">
-                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/3799655cbde62ea2de2a8a2b12a6123edae087b1/src/archive/phantomjs/phantomjs.svg?sanitize=true" alt="PhantomJS browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/d08cb94665cbb130b546aa62420b78af4f247858/src/archive/phantomjs">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/d08cb94665cbb130b546aa62420b78af4f247858/src/archive/phantomjs/phantomjs.svg?sanitize=true" alt="PhantomJS browser logo">
             </a>
         </td>
     </tr>
