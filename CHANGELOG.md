@@ -1,3 +1,20 @@
+## 58.1.3 (September 13, 2019)
+
+### Bug fixes / Improvements
+
+* [[`52e9f5439d`](https://github.com/alrra/browser-logos/commit/52e9f5439d50f94169dcbf1c7f28ad133b10691d)] - 🗜 Further losslessly optimize `aol-explorer.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`61dc2c148d`](https://github.com/alrra/browser-logos/commit/61dc2c148daaf92a9389999757916d669e2ce690)] - 🗜 Further optimize `maxthon-beta_1.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`c62d864958`](https://github.com/alrra/browser-logos/commit/c62d8649585ac847445171819a9ae22e5e824185)] - 🗜 Further optimize `maxthon_1.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`b95c297f84`](https://github.com/alrra/browser-logos/commit/b95c297f8490d748bc36372047b7c96c0e6cec55)] - 🗜 Further losslessly optimize `phoenix-firebird.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`3e3d1dec1e`](https://github.com/alrra/browser-logos/commit/3e3d1dec1ebb9eb22eae3522fcf56f3cfeac178f)] - 🗜 Further optimize `brave_2.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`6975609955`](https://github.com/alrra/browser-logos/commit/6975609955af7be9077ac87643617e28f486fdcf)] - 🗜 Further optimize `brave-beta.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`07ecf88bd2`](https://github.com/alrra/browser-logos/commit/07ecf88bd289a59d882cb01e1237eb543541f8bc)] - 🗜 Further optimize `brave-dev.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`d08cb94665`](https://github.com/alrra/browser-logos/commit/d08cb94665cbb130b546aa62420b78af4f247858)] - 🗜 Further optimize `phantomjs.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`e6f3432693`](https://github.com/alrra/browser-logos/commit/e6f34326937783cc6eb14708f2036a03417c4195)] - 🗜️ Further losslessly optimize images (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`2de2ba052f`](https://github.com/alrra/browser-logos/commit/2de2ba052ff9c89d968fb66458c9eb1214caf17a)] - 🗜 Further optimize `chrome-devtools.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`a6eb8acc84`](https://github.com/alrra/browser-logos/commit/a6eb8acc8410301ce37aead344d3f8f8de6e2ded)] - 🗜 Further optimize `epiphany.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 58.1.2 (September 1, 2019)
 
 ### Bug fixes / Improvements
