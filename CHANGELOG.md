@@ -1,3 +1,15 @@
+## 58.2.0 (September 16, 2019)
+
+### Bug fixes / Improvements
+
+* [[`1f0e897168`](https://github.com/alrra/browser-logos/commit/1f0e89716826da0baa4d35f75b50ee340c7e9f85)] - 🗜 Further optimize `bezillabrowser.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+### New features
+
+* [[`b5f534c26e`](https://github.com/alrra/browser-logos/commit/b5f534c26e8d21182536bb8e718f4ccea3e8c665)] - ✨ Publish `Qutebrowser` logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`a5febb4478`](https://github.com/alrra/browser-logos/commit/a5febb447889b199cc13c65e16383b0b3ec48e8e)] - ✨ Add `qutebrowser` browser logo (see also: [`#175`](https://github.com/alrra/browser-logos/issues/175)).
+
+
 ## 58.1.3 (September 13, 2019)
 
 ### Bug fixes / Improvements
