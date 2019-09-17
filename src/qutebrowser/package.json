@@ -1,0 +1,15 @@
+{
+  "bugs": "https://github.com/alrra/browser-logos/issues",
+  "description": "qutebrowser browser logo",
+  "homepage": "https://github.com/alrra/browser-logos",
+  "keywords": [
+    "browser-logos",
+    "logo",
+    "qutebrowser",
+    "qutebrowser-logo"
+  ],
+  "private": true,
+  "name": "@browser-logos/qutebrowser",
+  "repository": "alrra/browser-logos",
+  "version": "1.0.0"
+}
