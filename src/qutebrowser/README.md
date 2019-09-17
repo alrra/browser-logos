@@ -3,8 +3,8 @@
 <table>
     <tr height=240>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/bb15fbb4809fe2d3a887e0d7a3f710415295851e/src/qutebrowser">
-                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/bb15fbb4809fe2d3a887e0d7a3f710415295851e/src/qutebrowser/qutebrowser_512x512.png" alt="qutebrowser browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/23e1410fb5a815535f4d7fad307de4fd8991471d/src/qutebrowser">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/23e1410fb5a815535f4d7fad307de4fd8991471d/src/qutebrowser/qutebrowser_512x512.png" alt="qutebrowser browser logo">
             </a>
         </td>
     </tr>
