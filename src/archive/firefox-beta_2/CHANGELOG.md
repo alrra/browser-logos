@@ -1,3 +1,10 @@
+## 3.0.0 (September 22, 2019)
+
+### Breaking Changes
+
+* [[`7332bf5b1e`](https://github.com/alrra/browser-logos/commit/7332bf5b1e7a8ea5cebabcb5dabd2dd8011ebd6f)] - 💥 Move `Firefox Beta` logo into the `archive` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 2.1.6 (August 27, 2019)
 
 ### Bug fixes / Improvements
