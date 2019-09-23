@@ -1,3 +1,10 @@
+## 2.1.5 (September 22, 2019)
+
+### Bug fixes / Improvements
+
+* [[`8f7243c240`](https://github.com/alrra/browser-logos/commit/8f7243c240dbc536bcb75afa598caffc9716effe)] - 🗜 Further optimize `chrome-dev.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 2.1.4 (September 22, 2019)
 
 ### Bug fixes / Improvements
