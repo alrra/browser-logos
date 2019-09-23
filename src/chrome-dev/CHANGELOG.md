@@ -1,3 +1,11 @@
+## 2.1.4 (September 22, 2019)
+
+### Bug fixes / Improvements
+
+* [[`15976af813`](https://github.com/alrra/browser-logos/commit/15976af813b93b47fab2965ceb21a472d965cae9)] - 🗜 Further optimize `chrome-dev.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`f813a0e6ed`](https://github.com/alrra/browser-logos/commit/f813a0e6edc5d7a8ec154b4c263ed1f85e0eef47)] - 🗜 Further losslessly optimize `chrome-dev.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 2.1.3 (August 27, 2019)
 
 ### Bug fixes / Improvements
