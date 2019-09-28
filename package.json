@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "@octokit/rest": "^16.28.9",
+    "@octokit/rest": "^16.30.1",
     "inquirer": "^7.0.0",
     "listr": "^0.14.3",
     "listr-input": "^0.1.3",
