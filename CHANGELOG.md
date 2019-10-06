@@ -1,3 +1,11 @@
+## 59.1.0 (October 5, 2019)
+
+### New features
+
+* [[`8cb8e29d7c`](https://github.com/alrra/browser-logos/commit/8cb8e29d7cfdc903477033f549eae9fbc990b456)] - ✨ Add `Firefox Preview Nightly` logo (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`ca5ab43b04`](https://github.com/alrra/browser-logos/commit/ca5ab43b0448d1e1bd14b00c45cf6dcdf0ba7b9e)] - ✨ Add `Firefox Preview Beta` logo (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 59.0.1 (September 22, 2019)
 
 ### Bug fixes / Improvements
