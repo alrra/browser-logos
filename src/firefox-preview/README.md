@@ -4,7 +4,7 @@
     <tr height=240>
         <td>
             <a href="https://github.com/alrra/browser-logos/tree/3799655cbde62ea2de2a8a2b12a6123edae087b1/src/firefox-preview">
-                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/3799655cbde62ea2de2a8a2b12a6123edae087b1/src/firefox-preview/firefox-preview_512x512.png" alt="Firefox Preview browser logo">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/3799655cbde62ea2de2a8a2b12a6123edae087b1/src/firefox-preview/firefox-preview.svg?sanitize=true" alt="Firefox Preview browser logo">
             </a>
         </td>
     </tr>
