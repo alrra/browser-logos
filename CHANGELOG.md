@@ -1,3 +1,11 @@
+## 60.1.0 (October 9, 2019)
+
+### New features
+
+* [[`7ae1bc1f40`](https://github.com/alrra/browser-logos/commit/7ae1bc1f4026139d63348db05bf5050ce895c616)] - ✨ Publish `Firefox Preview Nightly` logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`458476bed1`](https://github.com/alrra/browser-logos/commit/458476bed1ce7e8dbe71f8b90dbea13e8adf5041)] - ✨ Publish `Firefox Preview Beta` logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 60.0.1 (October 9, 2019)
 
 ### Bug fixes / Improvements
