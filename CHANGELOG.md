@@ -1,3 +1,10 @@
+## 60.0.0 (October 9, 2019)
+
+### Breaking Changes
+
+* [[`55bcd41ed3`](https://github.com/alrra/browser-logos/commit/55bcd41ed333fa7dbe6d4e7e8bcf919d8053679f)] - 💥 Add new `Firefox Beta` browser logo (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 59.1.0 (October 5, 2019)
 
 ### New features
