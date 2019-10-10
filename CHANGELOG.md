@@ -1,3 +1,10 @@
+## 60.0.1 (October 9, 2019)
+
+### Bug fixes / Improvements
+
+* [[`23b3538c9c`](https://github.com/alrra/browser-logos/commit/23b3538c9c39244c44e5f48738072acb3274832b)] - 🐛 Fix broken link in `README.md` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 60.0.0 (October 9, 2019)
 
 ### Breaking Changes
