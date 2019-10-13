@@ -3,8 +3,8 @@
 <table>
     <tr height=240>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/8cb8e29d7cfdc903477033f549eae9fbc990b456/src/firefox-preview-nightly">
-                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/8cb8e29d7cfdc903477033f549eae9fbc990b456/src/firefox-preview-nightly/firefox-preview-nightly.svg?sanitize=true" alt="Firefox Preview Nightly browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/8fab53c2544fe45642f4b330f21c426a07c63367/src/firefox-preview-nightly">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/8fab53c2544fe45642f4b330f21c426a07c63367/src/firefox-preview-nightly/firefox-preview-nightly.svg?sanitize=true" alt="Firefox Preview Nightly browser logo">
             </a>
         </td>
     </tr>
