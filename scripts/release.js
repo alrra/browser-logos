@@ -366,7 +366,12 @@ const updateFile = (filePath, content) => {
 const updateReadme = async (ctx) => {
     const lastCommitSha = (await exec(`git log -n 1 --pretty=format:'%H' ${ctx.packagePath}`)).stdout;
 
-    shell.sed('-i', '[0-9a-f]{40}', lastCommitSha, `${ctx.packagePath}/README.md`);
+    if (ctx.packagePath !== '.') {
+        shell.sed('-i', '[0-9a-f]{40}', lastCommitSha, `${ctx.packagePath}/README.md`);
+    } else {
+        shell.sed('-i', '#[0-9]+\.[0-9]+\.[0-9]+', `#${ctx.newPackageVersion}` , `${ctx.packagePath}/README.md`);
+        console.log(`${ctx.newPackageVersion}, ${ctx.packagePath}/README.md`);
+    }
 };
 
 const updateChangelog = (ctx) => {
