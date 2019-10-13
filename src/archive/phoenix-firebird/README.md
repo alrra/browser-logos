@@ -3,8 +3,8 @@
 <table>
     <tr height=230>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/b95c297f8490d748bc36372047b7c96c0e6cec55/src/archive/phoenix-firebird">
-                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/b95c297f8490d748bc36372047b7c96c0e6cec55/src/archive/phoenix-firebird/phoenix-firebird.svg?sanitize=true" alt="Phoenix/Firebird browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/8fab53c2544fe45642f4b330f21c426a07c63367/src/archive/phoenix-firebird">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/8fab53c2544fe45642f4b330f21c426a07c63367/src/archive/phoenix-firebird/phoenix-firebird.svg?sanitize=true" alt="Phoenix/Firebird browser logo">
             </a>
         </td>
     </tr>
