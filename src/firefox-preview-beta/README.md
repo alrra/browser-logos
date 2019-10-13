@@ -3,8 +3,8 @@
 <table>
     <tr height=240>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/ca5ab43b0448d1e1bd14b00c45cf6dcdf0ba7b9e/src/firefox-preview-beta">
-                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/ca5ab43b0448d1e1bd14b00c45cf6dcdf0ba7b9e/src/firefox-preview-beta/firefox-preview-beta.svg?sanitize=true" alt="Firefox Preview Beta browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/8fab53c2544fe45642f4b330f21c426a07c63367/src/firefox-preview-beta">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/8fab53c2544fe45642f4b330f21c426a07c63367/src/firefox-preview-beta/firefox-preview-beta.svg?sanitize=true" alt="Firefox Preview Beta browser logo">
             </a>
         </td>
     </tr>
