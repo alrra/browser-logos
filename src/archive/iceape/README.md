@@ -14,9 +14,10 @@
 
 You can either:
 
-* Install it using [`npm`][npm]:
+* Install it using:
 
-  `npm install --save-dev @browser-logos/iceape`
+  * [`npm`][npm]: `npm install --save-dev @browser-logos/iceape`
+  * [`Yarn`][yarn]: `yarn add --dev @browser-logos/iceape`
 
 * Use [`cdnjs`][cdnjs].
 
@@ -24,3 +25,4 @@ You can either:
 
 [cdnjs]: https://cdnjs.com/libraries/browser-logos
 [npm]: https://www.npmjs.com/
+[yarn]: https://yarnpkg.com/
