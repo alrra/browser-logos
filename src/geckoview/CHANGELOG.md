@@ -1,3 +1,10 @@
+## 1.0.6 (October 24, 2019)
+
+### Bug fixes / Improvements
+
+* [[`3dc00c7a62`](https://github.com/alrra/browser-logos/commit/3dc00c7a62934266cf744c92fa3dc0ad278b4f9b)] - 🗜 Further losslessly optimize `geckoview.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 1.0.5 (October 13, 2019)
 
 ### Bug fixes / Improvements
