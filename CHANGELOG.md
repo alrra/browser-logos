@@ -1,3 +1,13 @@
+## 60.1.4 (October 24, 2019)
+
+### Bug fixes / Improvements
+
+* [[`b76531ac8a`](https://github.com/alrra/browser-logos/commit/b76531ac8a605d4cbce0fdb8fdf964aaf3b8d093)] - 🗜 Further losslessly optimize `maxthon_1.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`62eba0a1a9`](https://github.com/alrra/browser-logos/commit/62eba0a1a92e4041e258be60427c3bb39aebb17b)] - 🗜 Further losslessly optimize `firefox.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`3dc00c7a62`](https://github.com/alrra/browser-logos/commit/3dc00c7a62934266cf744c92fa3dc0ad278b4f9b)] - 🗜 Further losslessly optimize `geckoview.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`04fb61936f`](https://github.com/alrra/browser-logos/commit/04fb61936fd4fcae9b6ffa94c21a5517385a0e79)] - 🗜 Further losslessly optimize `jsdom.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 60.1.3 (October 20, 2019)
 
 ### Bug fixes / Improvements
