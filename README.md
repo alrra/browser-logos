@@ -49,20 +49,6 @@ the [`src/archive/`][archive readme] directory.
 
 ---
 
-## Acknowledgements
-
-[Browser Logos][repo] is only possible thanks to all the awesome
-[contributors][contributors]!
-
-## Contributing
-
-Anyone and everyone is welcome to contribute, but before you do, please
-take a moment to review the [guidelines](.github/CONTRIBUTING.md).
-
-* [Bug reports](.github/CONTRIBUTING.md#bugs)
-* [Feature requests](.github/CONTRIBUTING.md#features)
-* [Pull requests](.github/CONTRIBUTING.md#pull-requests)
-
 ## Getting the browser logos
 
 There are a few options for getting the browser logos:
@@ -81,6 +67,20 @@ There are a few options for getting the browser logos:
    * Install using:
      * [`npm`][npm]: `npm install alrra/browser-logos#60.1.4`
      * [`Yarn`][yarn]: `yarn add browser-logos#60.1.4`
+
+## Contributing
+
+Anyone and everyone is welcome to contribute, but before you do, please
+take a moment to review the [guidelines](.github/CONTRIBUTING.md).
+
+* [Bug reports](.github/CONTRIBUTING.md#bugs)
+* [Feature requests](.github/CONTRIBUTING.md#features)
+* [Pull requests](.github/CONTRIBUTING.md#pull-requests)
+
+## Acknowledgements
+
+[Browser Logos][repo] is only possible thanks to all the awesome
+[contributors][contributors]!
 
 ## Legal
 
