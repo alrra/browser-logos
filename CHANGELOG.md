@@ -1,3 +1,12 @@
+## 60.1.5 (October 27, 2019)
+
+### Bug fixes / Improvements
+
+* [[`b4b40f27c4`](https://github.com/alrra/browser-logos/commit/b4b40f27c4cddd96fbc166e44cfae13b91eba496)] - 🗜 Further losslessly optimize `firefox-preview-beta.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`50ec5d56ae`](https://github.com/alrra/browser-logos/commit/50ec5d56ae2cac6999a4c6af750cbb175ec9bdc8)] - 🗜 Further losslessly optimize `maxthon-beta_1.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`849055757c`](https://github.com/alrra/browser-logos/commit/849055757c8894c8c9f7527a4aad6456526dc146)] - 🗜 Further losslessly optimize `firefox-preview-nightly.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 60.1.4 (October 24, 2019)
 
 ### Bug fixes / Improvements
