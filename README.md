@@ -65,8 +65,8 @@ There are a few options for getting the browser logos:
    * Use [`cdnjs`][cdnjs].
    * Download the [`zip` archive][archive].
    * Install using:
-     * [`npm`][npm]: `npm install alrra/browser-logos#60.1.5`
-     * [`Yarn`][yarn]: `yarn add browser-logos#60.1.5`
+     * [`npm`][npm]: `npm install alrra/browser-logos#60.2.0`
+     * [`Yarn`][yarn]: `yarn add browser-logos#60.2.0`
 
 ## Contributing
 

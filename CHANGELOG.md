@@ -1,3 +1,22 @@
+## 60.2.0 (November 2, 2019)
+
+### Bug fixes / Improvements
+
+* [[`7c17a5507e`](https://github.com/alrra/browser-logos/commit/7c17a5507e9bd4196e7164285d42359a119b239f)] - 🔧 Tweak `firefox-reality.svg` logo (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`578894a670`](https://github.com/alrra/browser-logos/commit/578894a6700c2ef21c734e79df6b8474ad616a16)] - 🔧 Tweak `firefox-nightly.svg` logo (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`f2f7ddf00f`](https://github.com/alrra/browser-logos/commit/f2f7ddf00fd31544e4d967ea512027d8fce29938)] - 🔧 Tweak `firefox-developer-edition.svg` logo (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`bd90dba9aa`](https://github.com/alrra/browser-logos/commit/bd90dba9aac7d9eb03aa35d636b566cb6b214896)] - 🔧 Tweak `firefox.svg` logo (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`f41ebc3650`](https://github.com/alrra/browser-logos/commit/f41ebc36503ef0dcc90a6ced0ae110353ecae08c)] - 🗜 Further losslessly optimize `v8-orinoco.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`b85808cc46`](https://github.com/alrra/browser-logos/commit/b85808cc46ca6880b8d1cd02dc7e1fa559670bda)] - 🗜 Further losslessly optimize `samsung-internet.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`878a632246`](https://github.com/alrra/browser-logos/commit/878a632246f50c59a1cce99142fe2b41b35d5835)] - 🗜 Further losslessly optimize `firefox-developer-edition.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`984988d59d`](https://github.com/alrra/browser-logos/commit/984988d59d4dba16735d1fd09747ca725e8296c4)] - 🗜 Further losslessly optimize `firefox-nightly.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`267e0abdbd`](https://github.com/alrra/browser-logos/commit/267e0abdbd3bee47f5d33407be53fbca33c4acc8)] - 🗜 Further losslessly optimize `firefox-preview.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+### New features
+
+* [[`ca34866476`](https://github.com/alrra/browser-logos/commit/ca3486647605b5113df9fd9e8e6a9127db9b4e73)] - ✨ Add `firefox-beta.svg` logo (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 60.1.5 (October 27, 2019)
 
 ### Bug fixes / Improvements
