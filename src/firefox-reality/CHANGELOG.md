@@ -1,3 +1,10 @@
+## 2.0.3 (November 2, 2019)
+
+### Bug fixes / Improvements
+
+* [[`7c17a5507e`](https://github.com/alrra/browser-logos/commit/7c17a5507e9bd4196e7164285d42359a119b239f)] - 🔧 Tweak `firefox-reality.svg` logo (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 2.0.2 (October 13, 2019)
 
 ### Bug fixes / Improvements
