@@ -3,8 +3,8 @@
 <table>
     <tr height=230>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/8fab53c2544fe45642f4b330f21c426a07c63367/src/samsung-internet">
-                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/8fab53c2544fe45642f4b330f21c426a07c63367/src/samsung-internet/samsung-internet.svg?sanitize=true" alt="Samsung Internet browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/b85808cc46ca6880b8d1cd02dc7e1fa559670bda/src/samsung-internet">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/b85808cc46ca6880b8d1cd02dc7e1fa559670bda/src/samsung-internet/samsung-internet.svg?sanitize=true" alt="Samsung Internet browser logo">
             </a>
         </td>
     </tr>
