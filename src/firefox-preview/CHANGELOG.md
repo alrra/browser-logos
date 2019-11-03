@@ -1,3 +1,10 @@
+## 1.0.5 (November 2, 2019)
+
+### Bug fixes / Improvements
+
+* [[`267e0abdbd`](https://github.com/alrra/browser-logos/commit/267e0abdbd3bee47f5d33407be53fbca33c4acc8)] - 🗜 Further losslessly optimize `firefox-preview.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 1.0.4 (October 13, 2019)
 
 ### Bug fixes / Improvements
