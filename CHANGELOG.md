@@ -1,4 +1,8 @@
-## 60.2.0 (November 2, 2019)
+Changelog
+=========
+
+60.2.0 (November 2, 2019)
+-------------------------
 
 ### Bug fixes / Improvements
 
@@ -16,8 +20,8 @@
 
 * [[`ca34866476`](https://github.com/alrra/browser-logos/commit/ca3486647605b5113df9fd9e8e6a9127db9b4e73)] - ✨ Add `firefox-beta.svg` logo (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 60.1.5 (October 27, 2019)
+60.1.5 (October 27, 2019)
+-------------------------
 
 ### Bug fixes / Improvements
 
@@ -25,8 +29,8 @@
 * [[`50ec5d56ae`](https://github.com/alrra/browser-logos/commit/50ec5d56ae2cac6999a4c6af750cbb175ec9bdc8)] - 🗜 Further losslessly optimize `maxthon-beta_1.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 * [[`849055757c`](https://github.com/alrra/browser-logos/commit/849055757c8894c8c9f7527a4aad6456526dc146)] - 🗜 Further losslessly optimize `firefox-preview-nightly.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 60.1.4 (October 24, 2019)
+60.1.4 (October 24, 2019)
+-------------------------
 
 ### Bug fixes / Improvements
 
@@ -35,66 +39,66 @@
 * [[`3dc00c7a62`](https://github.com/alrra/browser-logos/commit/3dc00c7a62934266cf744c92fa3dc0ad278b4f9b)] - 🗜 Further losslessly optimize `geckoview.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 * [[`04fb61936f`](https://github.com/alrra/browser-logos/commit/04fb61936fd4fcae9b6ffa94c21a5517385a0e79)] - 🗜 Further losslessly optimize `jsdom.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 60.1.3 (October 20, 2019)
+60.1.3 (October 20, 2019)
+-------------------------
 
 ### Bug fixes / Improvements
 
 * [[`64101e22c5`](https://github.com/alrra/browser-logos/commit/64101e22c5cc9a61c39041d324f38fae36532614)] - 🗜 Further losslessly optimize `brave.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 60.1.2 (October 13, 2019)
+60.1.2 (October 13, 2019)
+-------------------------
 
 ### Bug fixes / Improvements
 
 * [[`8fab53c254`](https://github.com/alrra/browser-logos/commit/8fab53c2544fe45642f4b330f21c426a07c63367)] - 📚 Add instructions on how to install packages via `Yarn` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 60.1.1 (October 12, 2019)
+60.1.1 (October 12, 2019)
+-------------------------
 
 ### Bug fixes / Improvements
 
 * [[`b73ed13ea4`](https://github.com/alrra/browser-logos/commit/b73ed13ea4df7184c5d65d4caad8143ffcb227a4)] - 🗜 Further optimize `chrome-canary.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 60.1.0 (October 9, 2019)
+60.1.0 (October 9, 2019)
+------------------------
 
 ### New features
 
 * [[`7ae1bc1f40`](https://github.com/alrra/browser-logos/commit/7ae1bc1f4026139d63348db05bf5050ce895c616)] - ✨ Publish `Firefox Preview Nightly` logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
 * [[`458476bed1`](https://github.com/alrra/browser-logos/commit/458476bed1ce7e8dbe71f8b90dbea13e8adf5041)] - ✨ Publish `Firefox Preview Beta` logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 60.0.1 (October 9, 2019)
+60.0.1 (October 9, 2019)
+------------------------
 
 ### Bug fixes / Improvements
 
 * [[`23b3538c9c`](https://github.com/alrra/browser-logos/commit/23b3538c9c39244c44e5f48738072acb3274832b)] - 🐛 Fix broken link in `README.md` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 60.0.0 (October 9, 2019)
+60.0.0 (October 9, 2019)
+------------------------
 
 ### Breaking Changes
 
 * [[`55bcd41ed3`](https://github.com/alrra/browser-logos/commit/55bcd41ed333fa7dbe6d4e7e8bcf919d8053679f)] - 💥 Add new `Firefox Beta` browser logo (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 59.1.0 (October 5, 2019)
+59.1.0 (October 5, 2019)
+------------------------
 
 ### New features
 
 * [[`8cb8e29d7c`](https://github.com/alrra/browser-logos/commit/8cb8e29d7cfdc903477033f549eae9fbc990b456)] - ✨ Add `Firefox Preview Nightly` logo (by [`Cătălin Mariș`](https://github.com/alrra)).
 * [[`ca5ab43b04`](https://github.com/alrra/browser-logos/commit/ca5ab43b0448d1e1bd14b00c45cf6dcdf0ba7b9e)] - ✨ Add `Firefox Preview Beta` logo (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 59.0.1 (September 22, 2019)
+59.0.1 (September 22, 2019)
+---------------------------
 
 ### Bug fixes / Improvements
 
 * [[`8f7243c240`](https://github.com/alrra/browser-logos/commit/8f7243c240dbc536bcb75afa598caffc9716effe)] - 🗜 Further optimize `chrome-dev.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 59.0.0 (September 22, 2019)
+59.0.0 (September 22, 2019)
+---------------------------
 
 ### Breaking Changes
 
@@ -106,15 +110,15 @@
 * [[`f813a0e6ed`](https://github.com/alrra/browser-logos/commit/f813a0e6edc5d7a8ec154b4c263ed1f85e0eef47)] - 🗜 Further losslessly optimize `chrome-dev.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 * [[`ece156c174`](https://github.com/alrra/browser-logos/commit/ece156c174cd71b5d69d9eba53da7b2bbc77ceb1)] - 🗜 Further optimize `chrome-beta.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 58.2.1 (September 16, 2019)
+58.2.1 (September 16, 2019)
+---------------------------
 
 ### Bug fixes / Improvements
 
 * [[`23e1410fb5`](https://github.com/alrra/browser-logos/commit/23e1410fb5a815535f4d7fad307de4fd8991471d)] - 🗜 Further optimize `qutebrowser.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 58.2.0 (September 16, 2019)
+58.2.0 (September 16, 2019)
+---------------------------
 
 ### Bug fixes / Improvements
 
@@ -125,8 +129,8 @@
 * [[`b5f534c26e`](https://github.com/alrra/browser-logos/commit/b5f534c26e8d21182536bb8e718f4ccea3e8c665)] - ✨ Publish `Qutebrowser` logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
 * [[`a5febb4478`](https://github.com/alrra/browser-logos/commit/a5febb447889b199cc13c65e16383b0b3ec48e8e)] - ✨ Add `qutebrowser` browser logo (see also: [`#175`](https://github.com/alrra/browser-logos/issues/175)).
 
-
-## 58.1.3 (September 13, 2019)
+58.1.3 (September 13, 2019)
+---------------------------
 
 ### Bug fixes / Improvements
 
@@ -142,8 +146,8 @@
 * [[`2de2ba052f`](https://github.com/alrra/browser-logos/commit/2de2ba052ff9c89d968fb66458c9eb1214caf17a)] - 🗜 Further optimize `chrome-devtools.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 * [[`a6eb8acc84`](https://github.com/alrra/browser-logos/commit/a6eb8acc8410301ce37aead344d3f8f8de6e2ded)] - 🗜 Further optimize `epiphany.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 58.1.2 (September 1, 2019)
+58.1.2 (September 1, 2019)
+--------------------------
 
 ### Bug fixes / Improvements
 
@@ -153,8 +157,8 @@
 * [[`019f43fd27`](https://github.com/alrra/browser-logos/commit/019f43fd277161ae1455d5815be1507be63d5670)] - 🗜 Further optimize `samsung-internet_5.4-9.0.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 * [[`41cd6443a7`](https://github.com/alrra/browser-logos/commit/41cd6443a7da42ed65e0f128394f352043ccf7d2)] - 🗜 Further optimize `opera.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 58.1.1 (August 27, 2019)
+58.1.1 (August 27, 2019)
+------------------------
 
 ### Bug fixes / Improvements
 
@@ -163,16 +167,16 @@
 * [[`c016df4fad`](https://github.com/alrra/browser-logos/commit/c016df4fad32186b3de40f23802a73505fc5e62b)] - 🗜 Further optimize `samsung-internet-beta_5.4-9.1.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 * [[`610064a27a`](https://github.com/alrra/browser-logos/commit/610064a27a3bd990ff4342c256aa5dad9feb9866)] - 🗜 Further losslessly optimize `safari-ios.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 58.1.0 (August 24, 2019)
+58.1.0 (August 24, 2019)
+------------------------
 
 ### New features
 
 * [[`3ec33e5f65`](https://github.com/alrra/browser-logos/commit/3ec33e5f659326c791b661b4eb60c2dec38faf52)] - ✨ Publish `Firefox Developer Edition` v57-70 logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
 * [[`e33cd01055`](https://github.com/alrra/browser-logos/commit/e33cd010557f9fbad5627abbed0dc8a387451d20)] - ✨ Publish `Firefox` v57-70 logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 58.0.0 (August 24, 2019)
+58.0.0 (August 24, 2019)
+------------------------
 
 ### Breaking Changes
 
@@ -193,8 +197,8 @@
 * [[`03c029d33d`](https://github.com/alrra/browser-logos/commit/03c029d33dc31391eda13fdaf72f20e72e8b2a55)] - 🔧 Tweak `netsurf.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 * [[`29fbb200fa`](https://github.com/alrra/browser-logos/commit/29fbb200fa20feff3c3feac2f8f6213b0cbd827d)] - 🗜 Further optimize `falkon.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 57.0.0 (August 12, 2019)
+57.0.0 (August 12, 2019)
+------------------------
 
 ### Breaking Changes
 
@@ -210,8 +214,8 @@
 
 * [[`04b8edb41d`](https://github.com/alrra/browser-logos/commit/04b8edb41d86e133911325c61be1999d198a940b)] - ✨ Publish `Firefox Nightly` v57-70 logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 56.3.2 (August 10, 2019)
+56.3.2 (August 10, 2019)
+------------------------
 
 ### Bug fixes / Improvements
 
@@ -231,8 +235,8 @@
 * [[`9dde3475e6`](https://github.com/alrra/browser-logos/commit/9dde3475e6d967aab4f4aeaf78b900807cf021e9)] - 🔧 Tweak `edge.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 * [[`bc23a64b20`](https://github.com/alrra/browser-logos/commit/bc23a64b20cef895615988237b390ff507d4ae27)] - 🗜 Further losslessly optimize `samsung-internet-beta_5.4-9.1.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 56.3.1 (July 26, 2019)
+56.3.1 (July 26, 2019)
+----------------------
 
 ### Bug fixes / Improvements
 
@@ -244,8 +248,8 @@
 * [[`3150e099d3`](https://github.com/alrra/browser-logos/commit/3150e099d3d1e5040bdeec2c05c2146404f49cc7)] - 🗜 Further losslessly optimize `edge-tile.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 * [[`4bb9e9dbe0`](https://github.com/alrra/browser-logos/commit/4bb9e9dbe07448496d2075bd4db1dcb97a934b48)] - 🗜 Further losslessly optimize `browsh.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 56.3.0 (July 17, 2019)
+56.3.0 (July 17, 2019)
+----------------------
 
 ### Bug fixes / Improvements
 
@@ -259,22 +263,22 @@
 * [[`281e0afa5f`](https://github.com/alrra/browser-logos/commit/281e0afa5f5ed0dc1d1577388f5b1e5c4f72a0e8)] - ✨ Publish `Cốc Cốc` logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
 * [[`642e4e0609`](https://github.com/alrra/browser-logos/commit/642e4e06093eb6a3d83ac85e66ca33c750003f28)] - ✨ Publish `Avant` logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 56.2.0 (July 15, 2019)
+56.2.0 (July 15, 2019)
+----------------------
 
 ### New features
 
 * [[`7391d14c4d`](https://github.com/alrra/browser-logos/commit/7391d14c4d42c8f4228bc31ea13d3fd831582909)] - ✨ Publish `Hermes` logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 56.1.0 (July 12, 2019)
+56.1.0 (July 12, 2019)
+----------------------
 
 ### New features
 
 * [[`5301941cc4`](https://github.com/alrra/browser-logos/commit/5301941cc4f0b03431c851d2487a195dc94b5e50)] - ✨ Add `Hermes` JavaScript engine logo (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 56.0.0 (July 10, 2019)
+56.0.0 (July 10, 2019)
+----------------------
 
 ### Breaking Changes
 
@@ -285,24 +289,24 @@
 * [[`1acc99fd1e`](https://github.com/alrra/browser-logos/commit/1acc99fd1ea66a297b1dd402db7abf046a609385)] - ✨ Add `Tor Nightly` logo (by [`Cătălin Mariș`](https://github.com/alrra) / see also: [`#174`](https://github.com/alrra/browser-logos/issues/174)).
 * [[`0788da21fa`](https://github.com/alrra/browser-logos/commit/0788da21fa538cad72f050919479eeff1c6f924f)] - ✨ Add `Tor Alpha` logo (by [`Cătălin Mariș`](https://github.com/alrra) / see also: [`#174`](https://github.com/alrra/browser-logos/issues/174)).
 
-
-## 55.0.1 (July 7, 2019)
+55.0.1 (July 7, 2019)
+---------------------
 
 ### Bug fixes / Improvements
 
 * [[`54b33d5f93`](https://github.com/alrra/browser-logos/commit/54b33d5f93486fc30ab4f5676d7e18c550930fd9)] - 🗜 Further losslessly optimize `midori.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 * [[`090b80280b`](https://github.com/alrra/browser-logos/commit/090b80280b2cc3bf662401f361d5628eaa07fb91)] - 🗜 Further optimize `web.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 55.0.0 (July 6, 2019)
+55.0.0 (July 6, 2019)
+---------------------
 
 ### Breaking Changes
 
 * [[`6e371ea91a`](https://github.com/alrra/browser-logos/commit/6e371ea91aebc3078711c096e9b2b2936619d4e3)] - 💥 Update `Web` logo (by [`Cătălin Mariș`](https://github.com/alrra)).
 * [[`9f31112c03`](https://github.com/alrra/browser-logos/commit/9f31112c03fbd28f8fa094fb71aa34d1cf9739c6)] - 💥 Update `Silk` logo (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 54.0.0 (July 6, 2019)
+54.0.0 (July 6, 2019)
+---------------------
 
 ### Breaking Changes
 
@@ -312,8 +316,8 @@
 
 * [[`aefda421de`](https://github.com/alrra/browser-logos/commit/aefda421de5baac3886568e1fee7083631188799)] - ✨ Publish `Samsung Internet Beta_9.2 9.4` logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 53.0.0 (July 6, 2019)
+53.0.0 (July 6, 2019)
+---------------------
 
 ### Breaking Changes
 
@@ -332,15 +336,15 @@
 * [[`8de4f027dd`](https://github.com/alrra/browser-logos/commit/8de4f027ddff6bacd9c95f5f4f05bf1658122359)] - ✨ Publish `Amigo` logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
 * [[`a4eac9c942`](https://github.com/alrra/browser-logos/commit/a4eac9c942a795b8a5b009414205b70414396208)] - ✨ Publish `360 Secure` logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 52.4.3 (July 4, 2019)
+52.4.3 (July 4, 2019)
+---------------------
 
 ### Bug fixes / Improvements
 
 * [[`f6ac41c9ee`](https://github.com/alrra/browser-logos/commit/f6ac41c9eed404e793b3659fea4c6443f9549eb0)] - 🗜 Further losslessly optimize `falkon.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 52.4.2 (July 4, 2019)
+52.4.2 (July 4, 2019)
+---------------------
 
 ### Bug fixes / Improvements
 
@@ -348,32 +352,32 @@
 * [[`42e0c8d36a`](https://github.com/alrra/browser-logos/commit/42e0c8d36af5b6ec7dfcfcd41104c31f30871710)] - 🗜 Further optimize `edge-canary.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 * [[`7230649861`](https://github.com/alrra/browser-logos/commit/72306498611e518b86324ddf46bc9a4d8123cc47)] - 🗜 Further optimize `edge-dev.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 52.4.1 (July 2, 2019)
+52.4.1 (July 2, 2019)
+---------------------
 
 ### Bug fixes / Improvements
 
 * [[`b054bdf990`](https://github.com/alrra/browser-logos/commit/b054bdf9908acb2bbbacd9d687096e2bf98171ce)] - 🗜 Further optimize `v8-ignition-outline.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 * [[`c478b2ec6f`](https://github.com/alrra/browser-logos/commit/c478b2ec6f46b0b053dafafc11a4c118f7a5841a)] - 🗜 Further optimize `v8-ignition.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 52.4.0 (June 30, 2019)
+52.4.0 (June 30, 2019)
+----------------------
 
 ### New features
 
 * [[`3c77a79844`](https://github.com/alrra/browser-logos/commit/3c77a798444b11bc65389908cbf70e115bcbd5c7)] - ✨ Publish `Geckoview` logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
 * [[`91872dc9ed`](https://github.com/alrra/browser-logos/commit/91872dc9ed95556656c0d55a37015c897f641f0f)] - ✨ Add `GeckoView` logo (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 52.3.0 (June 30, 2019)
+52.3.0 (June 30, 2019)
+----------------------
 
 ### New features
 
 * [[`ca85e204e8`](https://github.com/alrra/browser-logos/commit/ca85e204e8d6b98b7e697e1ad5602b9d0c02856b)] - ✨ Publish `Firefox Preview` logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
 * [[`8e07ac791b`](https://github.com/alrra/browser-logos/commit/8e07ac791b6e2dcf67e8821cc116b9254cb0f856)] - ✨ Add `Firefox Preview` logo (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 52.2.4 (June 28, 2019)
+52.2.4 (June 28, 2019)
+----------------------
 
 ### Bug fixes / Improvements
 
@@ -382,8 +386,8 @@
 * [[`99a31e8183`](https://github.com/alrra/browser-logos/commit/99a31e8183078865b73c0459391d594ed964da0a)] - 🗜️ Further optimize `brave.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 * [[`367bfc51c4`](https://github.com/alrra/browser-logos/commit/367bfc51c47e8e2e5e460035ca7446a6ece52f22)] - 🗜️ Further optimize `midori.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 52.2.3 (June 27, 2019)
+52.2.3 (June 27, 2019)
+----------------------
 
 ### Bug fixes / Improvements
 
@@ -393,8 +397,8 @@
 * [[`e085d83004`](https://github.com/alrra/browser-logos/commit/e085d830045b35baae30cca256a813c083d65248)] - 🗜️ Further optimize `netscape_4-6.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 * [[`105081906f`](https://github.com/alrra/browser-logos/commit/105081906f432b68e8ea5a663e4ec8e547384380)] - 🗜 Further losslessly optimize `vivaldi.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 52.2.2 (June 26, 2019)
+52.2.2 (June 26, 2019)
+----------------------
 
 ### Bug fixes / Improvements
 
@@ -405,8 +409,8 @@
 * [[`e6994b123d`](https://github.com/alrra/browser-logos/commit/e6994b123d9649f7bacbae7e44a7ff83e393a6f0)] - 🗜 Further losslessly optimize `maxthon-beta_1.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 * [[`1ca2ae8276`](https://github.com/alrra/browser-logos/commit/1ca2ae8276f5982be3cc2eb3cb46a3b2342854b4)] - 🗜 Further losslessly optimize `sinternet-explorer-tile_10-11.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 52.2.1 (June 25, 2019)
+52.2.1 (June 25, 2019)
+----------------------
 
 ### Bug fixes / Improvements
 
@@ -415,24 +419,24 @@
 * [[`09b513f4ab`](https://github.com/alrra/browser-logos/commit/09b513f4ab493998fcd2337ed519dd13a645a4f5)] - 🗜️ Further losslessly optimize `edge-tile.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 * [[`4764b8424b`](https://github.com/alrra/browser-logos/commit/4764b8424b0b88ec1d03a2e14162bf2ddaa4ce85)] - 🗜️ Further losslessly optimize `edge.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 52.2.0 (June 23, 2019)
+52.2.0 (June 23, 2019)
+----------------------
 
 ### New features
 
 * [[`da66e2f3b7`](https://github.com/alrra/browser-logos/commit/da66e2f3b7f0c6e0722db539fb276ce9c30db288)] - ✨ Publish `Webkit` logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
 * [[`703e422321`](https://github.com/alrra/browser-logos/commit/703e422321c44c4b35ebd2af520444f896c1534a)] - ✨ Add `WebKit` browser engine logo (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 52.1.5 (June 21, 2019)
+52.1.5 (June 21, 2019)
+----------------------
 
 ### Bug fixes / Improvements
 
 * [[`713c5d8176`](https://github.com/alrra/browser-logos/commit/713c5d817664d592e757b2f55b342ae22551607f)] - 🗜 Further optimize `firefox-focus.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 * [[`b307997298`](https://github.com/alrra/browser-logos/commit/b307997298e2c8742f12f3ffc343674a8c19b53e)] - 🗜 Further optimize `webpositive.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 52.1.4 (June 20, 2019)
+52.1.4 (June 20, 2019)
+----------------------
 
 ### Bug fixes / Improvements
 
@@ -445,15 +449,15 @@
 * [[`42e9117d4b`](https://github.com/alrra/browser-logos/commit/42e9117d4b9daa99f2425dea49a65d6827511b6a)] - 🗜️ Further optimize `edge-beta.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 * [[`1b2b2f4be7`](https://github.com/alrra/browser-logos/commit/1b2b2f4be74bbd48c8a414a6b5dda7262cda3fc6)] - 🗜️ Further losslessly optimize `vivaldi.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 52.1.3 (June 19, 2019)
+52.1.3 (June 19, 2019)
+----------------------
 
 ### Bug fixes / Improvements
 
 * [[`629df8b1a6`](https://github.com/alrra/browser-logos/commit/629df8b1a66b19aee884d7f6fe4c0eb6af341dc0)] - 🗜️ Further optimize `webpositive.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 52.1.2 (June 19, 2019)
+52.1.2 (June 19, 2019)
+----------------------
 
 ### Bug fixes / Improvements
 
@@ -464,8 +468,8 @@
 * [[`072b78aa07`](https://github.com/alrra/browser-logos/commit/072b78aa071a8ef36a0acdfc55f0279a8dfc94af)] - 🗜️ Further losslessly optimize `brave-dev.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 * [[`becf968a1a`](https://github.com/alrra/browser-logos/commit/becf968a1a5e72d0c7de30aefb7c97c60100d420)] - 🗜️ Further losslessly optimize `brave-beta.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 52.1.1 (June 16, 2019)
+52.1.1 (June 16, 2019)
+----------------------
 
 ### Bug fixes / Improvements
 
@@ -474,15 +478,15 @@
 * [[`01c9778a3e`](https://github.com/alrra/browser-logos/commit/01c9778a3eb1df43f0c671e893c4b244014985d9)] - 🗜️ Further optimize `edge-canary.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 * [[`50a73dc2f4`](https://github.com/alrra/browser-logos/commit/50a73dc2f476634024d77e3cb4968fedb0c230ef)] - 🗜️ Further optimize `edge-dev.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 52.1.0 (June 12, 2019)
+52.1.0 (June 12, 2019)
+----------------------
 
 ### New features
 
 * [[`553f9d9e04`](https://github.com/alrra/browser-logos/commit/553f9d9e04598ce06a9105529613cd867ac647dc)] - ✨ Add `Opera GX` logo (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 52.0.1 (June 8, 2019)
+52.0.1 (June 8, 2019)
+---------------------
 
 ### Bug fixes / Improvements
 
@@ -490,8 +494,8 @@
 * [[`1969a52f1b`](https://github.com/alrra/browser-logos/commit/1969a52f1be7d43cd946578d2e6a64849f586e56)] - 🗜️ Further losslessly optimize `electron.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 * [[`4f2e8db72a`](https://github.com/alrra/browser-logos/commit/4f2e8db72a78cef59b356504385a15d466340870)] - 🗜️ Further optimize `edge-beta.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 52.0.0 (June 1, 2019)
+52.0.0 (June 1, 2019)
+---------------------
 
 ### Breaking Changes
 
@@ -501,8 +505,8 @@
 
 * [[`45f17e9af5`](https://github.com/alrra/browser-logos/commit/45f17e9af5769b0cf71ee55ebabf6ff7940259a0)] - 🗜️ Further optimize `firefox-focus.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 51.0.17 (May 26, 2019)
+51.0.17 (May 26, 2019)
+----------------------
 
 ### Bug fixes / Improvements
 
@@ -510,8 +514,8 @@
 * [[`7029851f86`](https://github.com/alrra/browser-logos/commit/7029851f8610ce545704e6c9e2c0e8e3a29a0e00)] - 🗜️ Further optimize `maxthon_1.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 * [[`532dcdfcae`](https://github.com/alrra/browser-logos/commit/532dcdfcae131e5a5fe9de84c587f6a1fcf7c622)] - 🗜️ Further optimize `maxthon-beta_1.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 51.0.16 (May 19, 2019)
+51.0.16 (May 19, 2019)
+----------------------
 
 ### Bug fixes / Improvements
 
@@ -529,8 +533,8 @@
 * [[`7a178d6a3a`](https://github.com/alrra/browser-logos/commit/7a178d6a3a922d084bfe8bc05187e38da1de36fd)] - 🗜️ Further losslessly optimize `firefox-beta.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 * [[`d1bd21cc43`](https://github.com/alrra/browser-logos/commit/d1bd21cc4316c0fd863299601178e91abd8256bc)] - 🗜 Further optimize `bezillabrowser.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 51.0.15 (May 18, 2019)
+51.0.15 (May 18, 2019)
+----------------------
 
 ### Bug fixes / Improvements
 
@@ -551,16 +555,16 @@
 * [[`644216d358`](https://github.com/alrra/browser-logos/commit/644216d35892f2f72e5b3b074eec13d43da474b6)] - 🗜️ Further optimize `opera.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 * [[`e1c40834b4`](https://github.com/alrra/browser-logos/commit/e1c40834b43043b0c59fce9f0a8f04e11b50e612)] - 🗜️ Further losslessly optimize `firefox.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 51.0.14 (May 18, 2019)
+51.0.14 (May 18, 2019)
+----------------------
 
 ### Bug fixes / Improvements
 
 * [[`e6b1361634`](https://github.com/alrra/browser-logos/commit/e6b136163499731bd5d3d2e30186c4cf4255983d)] - 🗜️ Further optimize `chrome-dev.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 * [[`296a0eff71`](https://github.com/alrra/browser-logos/commit/296a0eff71ac75116e8acae512aaa691c603a6fd)] - 🗜️ Further optimize `firefox_1.5-3.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 51.0.13 (May 16, 2019)
+51.0.13 (May 16, 2019)
+----------------------
 
 ### Bug fixes / Improvements
 
@@ -568,29 +572,29 @@
 * [[`34a667f16e`](https://github.com/alrra/browser-logos/commit/34a667f16e3cc18e3c23d63283b59bd1ef08837f)] - 🗜️ Further optimize `bezillabrowser.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 * [[`a9a1386245`](https://github.com/alrra/browser-logos/commit/a9a13862456884f1955914ec4f5d06b0c02df115)] - 🗜️ Further optimize `web.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 51.0.12 (May 14, 2019)
+51.0.12 (May 14, 2019)
+----------------------
 
 ### Bug fixes / Improvements
 
 * [[`8c572c2504`](https://github.com/alrra/browser-logos/commit/8c572c25040c50c1a9b50613c333b253c5a57ffc)] - 🗜️ Further optimize `chromium_1-11.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 51.0.11 (May 11, 2019)
+51.0.11 (May 11, 2019)
+----------------------
 
 ### Bug fixes / Improvements
 
 * [[`1b7bd0c94d`](https://github.com/alrra/browser-logos/commit/1b7bd0c94d43d4ce8c991eff42fbcaa42e02b483)] - 🗜️ Further optimize `chrome.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 51.0.10 (May 9, 2019)
+51.0.10 (May 9, 2019)
+---------------------
 
 ### Bug fixes / Improvements
 
 * [[`7de0f2a1e4`](https://github.com/alrra/browser-logos/commit/7de0f2a1e482d7dd179829f506f007d4e13de8b3)] - 🗜️ Further optimize `chrome.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 51.0.9 (May 8, 2019)
+51.0.9 (May 8, 2019)
+--------------------
 
 ### Bug fixes / Improvements
 
@@ -604,8 +608,8 @@
 * [[`b8920acd33`](https://github.com/alrra/browser-logos/commit/b8920acd333cb0994eee281a90dc13b32fa13dbb)] - 🗜️ Further losslessly optimize `chrome_1-11.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 * [[`b6a3f4f87c`](https://github.com/alrra/browser-logos/commit/b6a3f4f87c407dd8867fb925f101c5b28d85bcc6)] - 🗜️ Further losslessly optimize `opera_10-14.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 51.0.8 (May 8, 2019)
+51.0.8 (May 8, 2019)
+--------------------
 
 ### Bug fixes / Improvements
 
@@ -613,8 +617,8 @@
 * [[`40cc78f2cb`](https://github.com/alrra/browser-logos/commit/40cc78f2cb1d90cbbb8700b1a8911a988027bd29)] - 🗜️ Further optimize `firefox-nightly.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 * [[`91fe2e50d3`](https://github.com/alrra/browser-logos/commit/91fe2e50d38ee6765865ceea9a3d48627599a366)] - 🗜️ Further optimize `firefox-focus.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 51.0.7 (May 7, 2019)
+51.0.7 (May 7, 2019)
+--------------------
 
 ### Bug fixes / Improvements
 
@@ -625,8 +629,8 @@
 * [[`5d6889fd3a`](https://github.com/alrra/browser-logos/commit/5d6889fd3aaec4897c4c6ee5dfb036bc9b4b8824)] - 🗜 Further optimize `iridium.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 * [[`21b85c8efa`](https://github.com/alrra/browser-logos/commit/21b85c8efa4e6866d32fa68e9d942ccedbf4a18d)] - 🗜 Further optimize `rekonq.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 51.0.6 (May 5, 2019)
+51.0.6 (May 5, 2019)
+--------------------
 
 ### Bug fixes / Improvements
 
@@ -645,8 +649,8 @@
 * [[`3bab2bc3be`](https://github.com/alrra/browser-logos/commit/3bab2bc3bea5221f16a0c48b035673b42336a0f4)] - 🗜️ Further optimize `opera.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 * [[`703b47ef34`](https://github.com/alrra/browser-logos/commit/703b47ef343b63f957cd5073a9fa6705d9b1f3e6)] - 🗜️ Further optimize `netscape_9.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 51.0.5 (May 5, 2019)
+51.0.5 (May 5, 2019)
+--------------------
 
 ### Bug fixes / Improvements
 
@@ -656,8 +660,8 @@
 * [[`28cf3f1767`](https://github.com/alrra/browser-logos/commit/28cf3f17678cc805a2b20615ca4bd85a5fab3d83)] - 🗜️ Further losslessly optimize `samsung-internet_5.4-9.0.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 * [[`792160028a`](https://github.com/alrra/browser-logos/commit/792160028ac93867aa96010b49b77085d351f518)] - 🗜️ Further losslessly optimize `netsurf.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 51.0.4 (May 5, 2019)
+51.0.4 (May 5, 2019)
+--------------------
 
 ### Bug fixes / Improvements
 
@@ -667,8 +671,8 @@
 * [[`178ddfdf44`](https://github.com/alrra/browser-logos/commit/178ddfdf4483e465b67d35da6a7081c4d79b8c22)] - 🗜 Further optimize `v8-orinoco.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 * [[`58d4c52b22`](https://github.com/alrra/browser-logos/commit/58d4c52b2247edfa224eb9c00288b36da4a1c885)] - 🗜 Further optimize `v8-turbofan-outline.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 51.0.3 (May 4, 2019)
+51.0.3 (May 4, 2019)
+--------------------
 
 ### Bug fixes / Improvements
 
@@ -676,22 +680,22 @@
 * [[`ca0c2b0d29`](https://github.com/alrra/browser-logos/commit/ca0c2b0d2938706f4d3a4e17174da9a8c6b488c5)] - 🗜 Further optimize `v8.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 * [[`79382836d3`](https://github.com/alrra/browser-logos/commit/79382836d304443d2e89f919e5f68d27d9341a1a)] - 🗜 Further optimize `v8-outline.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 51.0.2 (April 13, 2019)
+51.0.2 (April 13, 2019)
+-----------------------
 
 ### Bug fixes / Improvements
 
 * [[`859eb892e7`](https://github.com/alrra/browser-logos/commit/859eb892e7ad91cfef1a9b4dc3c2330f803d75a9)] - 🗜️ Further optimize `edge-beta.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 51.0.1 (April 11, 2019)
+51.0.1 (April 11, 2019)
+-----------------------
 
 ### Bug fixes / Improvements
 
 * [[`afa53811f4`](https://github.com/alrra/browser-logos/commit/afa53811f46d34a6f85fe67b73561933586063fa)] - 📚 Make minor consistency changes (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 51.0.0 (April 11, 2019)
+51.0.0 (April 11, 2019)
+-----------------------
 
 ### Breaking Changes
 
@@ -705,15 +709,15 @@
 * [[`8b7223ac57`](https://github.com/alrra/browser-logos/commit/8b7223ac5713252d09d00b4c84fe4895d29de7ae)] - ✨ Add `Edge Canary` logo (by [`Cătălin Mariș`](https://github.com/alrra) / see also: [`#170`](https://github.com/alrra/browser-logos/issues/170)).
 * [[`2dee6e5f61`](https://github.com/alrra/browser-logos/commit/2dee6e5f61d7b5ef2b959e1b53992bace099a847)] - ✨ Add `Edge Dev` logo (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 50.0.1 (April 5, 2019)
+50.0.1 (April 5, 2019)
+----------------------
 
 ### Bug fixes / Improvements
 
 * [[`eba7a4445b`](https://github.com/alrra/browser-logos/commit/eba7a4445bff89ecd25dcc853cc666058fb6852a)] - 🗜️ Further optimize images (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 50.0.0 (March 31, 2019)
+50.0.0 (March 31, 2019)
+-----------------------
 
 ### Breaking Changes
 
@@ -727,23 +731,23 @@
 
 * [[`3d24c034a4`](https://github.com/alrra/browser-logos/commit/3d24c034a4c14328799f384327e381f747ed6b4d)] - ✨ Publish `Samsung Internet_5.4 9.0` logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 49.2.1 (March 27, 2019)
+49.2.1 (March 27, 2019)
+-----------------------
 
 ### Bug fixes / Improvements
 
 * [[`79786c4f71`](https://github.com/alrra/browser-logos/commit/79786c4f71272800a61bb3257cc38474b5b8097b)] - 🗜️ Further optimize images (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 49.2.0 (March 22, 2019)
+49.2.0 (March 22, 2019)
+-----------------------
 
 ### New features
 
 * [[`c0516fe4f3`](https://github.com/alrra/browser-logos/commit/c0516fe4f30259ddf57950b1666c9b0f7058f3f2)] - ✨ Publish `Brave Nightly` logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
 * [[`3a10f3dc74`](https://github.com/alrra/browser-logos/commit/3a10f3dc74d6b3f94957478489fc5ff7b434fe76)] - ✨ Add `Brave Nightly` logo (by [`Cătălin Mariș`](https://github.com/alrra) / see also: [`#168`](https://github.com/alrra/browser-logos/issues/168)).
 
-
-## 49.1.0 (March 17, 2019)
+49.1.0 (March 17, 2019)
+-----------------------
 
 ### Bug fixes / Improvements
 
@@ -754,8 +758,8 @@
 * [[`ec66f56e4c`](https://github.com/alrra/browser-logos/commit/ec66f56e4c3f1cb2c70531a3cf0ff7a29d2ff66f)] - ✨ Publish `Chrome Dev_37 59` logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
 * [[`f482067b1a`](https://github.com/alrra/browser-logos/commit/f482067b1aff268622ab4f9cd3e6b88b62a83ca9)] - ✨ Publish `Chrome Beta_37 58` logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 49.0.0 (March 16, 2019)
+49.0.0 (March 16, 2019)
+-----------------------
 
 ### Breaking Changes
 
@@ -770,38 +774,38 @@
 * [[`c8c1f981da`](https://github.com/alrra/browser-logos/commit/c8c1f981daad563f6638ac2f426236cbae0c5777)] - ✨ Publish `Falkon` logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
 * [[`43a515f272`](https://github.com/alrra/browser-logos/commit/43a515f272f6616490f0830c8686667db21476a8)] - ✨ Publish `Xpress` logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 48.0.4 (March 15, 2019)
+48.0.4 (March 15, 2019)
+-----------------------
 
 ### Bug fixes / Improvements
 
 * [[`e8b0d231f6`](https://github.com/alrra/browser-logos/commit/e8b0d231f6085d6d05337b3c982e793a5c4f170b)] - 📚 Fix typo (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 48.0.3 (March 15, 2019)
+48.0.3 (March 15, 2019)
+-----------------------
 
 ### Bug fixes / Improvements
 
 * [[`38424dde86`](https://github.com/alrra/browser-logos/commit/38424dde86b531c502a296d5f338a5ce5a2d3262)] - 🗜️ Further optimize `basilisk.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 48.0.2 (March 15, 2019)
+48.0.2 (March 15, 2019)
+-----------------------
 
 ### Bug fixes / Improvements
 
 * [[`9ec97c4531`](https://github.com/alrra/browser-logos/commit/9ec97c45316569927150c4cc96476cd41628c2c9)] - 🗜️ Further optimize `iridium.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 * [[`877f379f3f`](https://github.com/alrra/browser-logos/commit/877f379f3f73e080e83a7a7ecc6d33590d8903ee)] - 📚 Improve `README.md`s (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 48.0.1 (March 15, 2019)
+48.0.1 (March 15, 2019)
+-----------------------
 
 ### Bug fixes / Improvements
 
 * [[`fe67c07fd3`](https://github.com/alrra/browser-logos/commit/fe67c07fd39322ac5378f63f9f9d50422d7658b7)] - 📚 Improve `README.md`s (by [`Cătălin Mariș`](https://github.com/alrra)).
 * [[`36f6545134`](https://github.com/alrra/browser-logos/commit/36f65451346e2a5b4cb711b73665bafcd9ddacda)] - 📚 Remove `yarn` install instructions (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 48.0.0 (March 10, 2019)
+48.0.0 (March 10, 2019)
+-----------------------
 
 ### Breaking Changes
 
@@ -822,8 +826,8 @@
 * [[`c1c2920668`](https://github.com/alrra/browser-logos/commit/c1c29206687537c4be4624f1f25a4f804abdb9b0)] - ✨ Add `Aloha` logo (by [`scribblemaniac`](https://github.com/scribblemaniac) / see also: [`#160`](https://github.com/alrra/browser-logos/issues/160)).
 * [[`6bca642f2c`](https://github.com/alrra/browser-logos/commit/6bca642f2c53570068279da68ba6c11ba1839ba2)] - ✨ Add `Firefox Lite` logo (by [`scribblemaniac`](https://github.com/scribblemaniac) / see also: [`#156`](https://github.com/alrra/browser-logos/issues/156)).
 
-
-## 47.0.0 (March 8, 2019)
+47.0.0 (March 8, 2019)
+----------------------
 
 ### Breaking Changes
 
@@ -1072,15 +1076,15 @@
 * [[`831df6ce90`](https://github.com/alrra/browser-logos/commit/831df6ce9022e73861494eb87506c36e0a7b3bc5)] - ✨ Add `Chrome DevTools` logo (by [`Cătălin Mariș`](https://github.com/alrra)).
 * [[`2c61bea4d7`](https://github.com/alrra/browser-logos/commit/2c61bea4d7f41b559d518e8e394c238570f6e461)] - ✨ Add `brave-dev.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 46.1.0 (September 9, 2018)
+46.1.0 (September 9, 2018)
+--------------------------
 
 ### New features
 
 * [[`d25fbb7886`](https://github.com/alrra/browser-logos/commit/d25fbb7886b415eca8f077e2e198c292a62eee95)] - ✨ Add `Brave` Developer Edition browser logo.
 
-
-## 46.0.0 (August 20, 2018)
+46.0.0 (August 20, 2018)
+------------------------
 
 ### Breaking changes
 
@@ -1098,8 +1102,8 @@
 * [[`1b9a1ff13f`](https://github.com/alrra/browser-logos/commit/1b9a1ff13fd436294a4013913b0f81ec497680c5)] - ✨ Add `Falkon` browser logo.
 * [[`a929120457`](https://github.com/alrra/browser-logos/commit/a92912045776f46a75422572b87f5bd128cd787c)] - ✨ Add `browsh` browser logo.
 
-
-## 45.10.0 (July 7, 2018)
+45.10.0 (July 7, 2018)
+----------------------
 
 ### Bug fixes / Improvements
 
@@ -1109,8 +1113,8 @@
 
 * [[`db94a1d30e`](https://github.com/alrra/browser-logos/commit/db94a1d30ec498e41358f165dbfee1ed438dc0c3)] - ✨ Add `V8 Liftoff` logo.
 
-
-## 45.9.0 (June 27, 2018)
+45.9.0 (June 27, 2018)
+----------------------
 
 ### Bug fixes / Improvements
 
@@ -1121,8 +1125,8 @@
 * [[`453f51f4cf`](https://github.com/alrra/browser-logos/commit/453f51f4cf165063ef8dfd5a158e8aad43e7aa10)] - ✨ Add `V8 Orinoco` logo.
 * [[`fcc06fc540`](https://github.com/alrra/browser-logos/commit/fcc06fc540d961ce91d87537278a77a2f6f9166f)] - ✨ Add `Edge Beta` logo.
 
-
-## 45.8.0 (May 10, 2018)
+45.8.0 (May 10, 2018)
+---------------------
 
 ### Breaking changes
 
@@ -1139,22 +1143,22 @@
 * [[`295f1c9fd3`](https://github.com/alrra/browser-logos/commit/295f1c9fd3bbbd353a934bf350b6fb65a407493)] - ✨ Publish `jsdom` logo on `npm`.
 * [[`631edc5164`](https://github.com/alrra/browser-logos/commit/631edc51644dc1e2856d32d709582fea3457d28)] - ✨ Add `jsdom` logo.
 
-
-## 45.7.0 (April 26, 2018)
+45.7.0 (April 26, 2018)
+-----------------------
 
 ### New features
 
 * [[`fe22fb6339`](https://github.com/alrra/browser-logos/commit/fe22fb6339b68f717f84bb4122ee8b999915989c)] - ✨ Add `Opera Touch` logo.
 
-
-## 45.6.0 (April 21, 2018)
+45.6.0 (April 21, 2018)
+-----------------------
 
 ### New features
 
 * [[`9b7ed5f4e2`](https://github.com/alrra/browser-logos/commit/9b7ed5f4e229c8580ce1922191d5b5fd841f95f7)] - ✨ Add `Amazon Internet` logo.
 
-
-## 45.5.0 (March 28, 2018)
+45.5.0 (March 28, 2018)
+-----------------------
 
 ### Bug fixes / Improvements
 
@@ -1164,36 +1168,36 @@
 
 * [[`6d830b1bff`](https://github.com/alrra/browser-logos/commit/6d830b1bffc413860a54b6b17cd7bb92dd220202)] - ✨ Add `Crusta` logo.
 
-
-## 45.4.0 (March 20, 2018)
+45.4.0 (March 20, 2018)
+-----------------------
 
 ### New features
 
 * [[`c979fe581b`](https://github.com/alrra/browser-logos/commit/c979fe581b0eee1322181235114d350c6891cbd9)] - ✨ Publish `Beaker` logo on `npm`.
 
-
-## 45.3.0 (February 10, 2018)
+45.3.0 (February 10, 2018)
+--------------------------
 
 ### New features
 
 * [[`e201dc3299`](https://github.com/alrra/browser-logos/commit/e201dc3299fa06ce961c6a1914831850de2cbc17)] - ✨ Update `Brave` logo.
 
-
-## 45.2.0 (January 13, 2018)
+45.2.0 (January 13, 2018)
+-------------------------
 
 ### New features
 
 * [[`0bb2d21bff`](https://github.com/alrra/browser-logos/commit/0bb2d21bffe501581522c2ea651c9035b408512b)] - ✨ Update `Brave` logo.
 
-
-## 45.1.0 (December 30, 2017)
+45.1.0 (December 30, 2017)
+--------------------------
 
 ### New features
 
 * [[`cc647916f6`](https://github.com/alrra/browser-logos/commit/cc647916f68a453855090b1f523272a40f5c2f0d)] - ✨ Add `Yandex Lite` logo.
 
-
-## 45.0.0 (December 30, 2017)
+45.0.0 (December 30, 2017)
+--------------------------
 
 ### Breaking changes
 
@@ -1210,23 +1214,23 @@
 
 * [[`7c140f4a21`](https://github.com/alrra/browser-logos/commit/7c140f4a2170f4ea4d750c236dbdcd57ef1efbc6)] - ✨ Update `Sogou Mobile` logo.
 
-
-## 44.0.0 (December 2, 2017)
+44.0.0 (December 2, 2017)
+-------------------------
 
 ### Breaking changes
 
 * [[`189fb0cc6f`](https://github.com/alrra/browser-logos/commit/189fb0cc6f743c0e982d1fca372defe6f3a63dbc)] - 💥 Move `Android Browser` into the `archive`.
 * [[`62c0a38fa3`](https://github.com/alrra/browser-logos/commit/62c0a38fa3a617351c332437c945543152b77fc9)] - 💥 Update `Silk` logo.
 
-
-## 43.2.0 (November 5, 2017)
+43.2.0 (November 5, 2017)
+-------------------------
 
 ### New features
 
 * [[`4107160ac7`](https://github.com/alrra/browser-logos/commit/4107160ac7ebb7f9a098bd6658ac82d92f25d1f5)] - ✨ Add `firefox-beta.svg`.
 
-
-## 43.1.0 (October 6, 2017)
+43.1.0 (October 6, 2017)
+------------------------
 
 ### Bug fixes / Improvements
 
@@ -1236,23 +1240,23 @@
 
 * [[`19b25cbe36`](https://github.com/alrra/browser-logos/commit/19b25cbe36a70a7f5d53abc67d3afb56943f8957)] - ✨ Add `BeZillaBrowser` logo.
 
-
-## 43.0.0 (October 5, 2017)
+43.0.0 (October 5, 2017)
+------------------------
 
 ### Breaking changes
 
 * [[`eb0dac0cde`](https://github.com/alrra/browser-logos/commit/eb0dac0cde66a7af514d6564195cbb98ccb4cfdd)] - 💥 Move `WebKit Nightly` into the `archive`.
 
-
-## 42.13.0 (October 3, 2017)
+42.13.0 (October 3, 2017)
+-------------------------
 
 ### New features
 
 * [[`67e6276d0e`](https://github.com/alrra/browser-logos/commit/67e6276d0e7dbf1864851153ec68875b7cd2affe)] - ✨ Publish `Firedoge` logo on `npm`.
 * [[`67e6276d0e`](https://github.com/alrra/browser-logos/commit/67e6276d0e7dbf1864851153ec68875b7cd2affe)] - ✨ Add `Firedoge` logo.
 
-
-## 42.12.0 (October 1, 2017)
+42.12.0 (October 1, 2017)
+-------------------------
 
 ### New features
 
@@ -1260,15 +1264,15 @@
 * [[`3eb900b8bd`](https://github.com/alrra/browser-logos/commit/3eb900b8bd884331fa1b5ca691ad2ab1ffd8e796)] - ✨ Update `Vivaldi Snapshot` logo.
 * [[`3886c5f2a6`](https://github.com/alrra/browser-logos/commit/3886c5f2a68fe7693e6407c7c77faf05491e6ef4)] - ✨ Update `Vivaldi` logo.
 
-
-## 42.11.0 (September 29, 2017)
+42.11.0 (September 29, 2017)
+----------------------------
 
 ### New features
 
 * [[`580a987f44`](https://github.com/alrra/browser-logos/commit/580a987f443ca7dae2bc73b8a73956e58638e55c)] - ✨ Update `Firefox Beta` logo.
 
-
-## 42.10.0 (September 28, 2017)
+42.10.0 (September 28, 2017)
+----------------------------
 
 ### Bug fixes / Improvements
 
@@ -1282,46 +1286,46 @@
 * [[`8516b82486`](https://github.com/alrra/browser-logos/commit/8516b82486bfd5d5014e95dcb01eb9d5e5a94590)] - ✨ Add `firefox-developer-edition.svg`.
 * [[`e68ab95abc`](https://github.com/alrra/browser-logos/commit/e68ab95abcd48fa6bb1c3422a149df35f866f646)] - ✨ Add `firefox-nightly.svg`.
 
-
-## 42.9.0 (September 21, 2017)
+42.9.0 (September 21, 2017)
+---------------------------
 
 ### New features
 
 * [[`d9aaa3f982`](https://github.com/alrra/browser-logos/commit/d9aaa3f9827ca218aac05daf5446849eb330c277)] - ✨ Publish `Firefox Developer Edition v35-56` logo on `npm`.
 * [[`d9aaa3f982`](https://github.com/alrra/browser-logos/commit/d9aaa3f9827ca218aac05daf5446849eb330c277)] - ✨ Update `Firefox Developer Edition` logo.
 
-
-## 42.8.0 (September 10, 2017)
+42.8.0 (September 10, 2017)
+---------------------------
 
 ### New features
 
 * [[`026cc1e1cb`](https://github.com/alrra/browser-logos/commit/026cc1e1cb8d152a57536aa6f17ab0ebcef66950)] - ✨ Update `Firefox Focus` logo.
 
-
-## 42.7.1 (August 13, 2017)
+42.7.1 (August 13, 2017)
+------------------------
 
 ### Bug fixes / Improvements
 
 * [[`240a69cd30`](https://github.com/alrra/browser-logos/commit/240a69cd30be5d6eb207d7f912d549e54fbeffb6)] - 🔧 Further losslessly optimize images.
 
-
-## 42.7.0 (August 5, 2017)
+42.7.0 (August 5, 2017)
+-----------------------
 
 ### New features
 
 * [[`dafd137bcf`](https://github.com/alrra/browser-logos/commit/dafd137bcf5055c2ab508409ab3a050fb082a51f)] - ✨ Publish `Firefox Nightly v23-56` logo on `npm`.
 * [[`f9861f8aad`](https://github.com/alrra/browser-logos/commit/f9861f8aad61a4445d990b9c6cef0d80eb53b776)] - ✨ Update `Firefox Nightly` logo.
 
-
-## 42.6.0 (July 1, 2017)
+42.6.0 (July 1, 2017)
+---------------------
 
 ### New features
 
 * [[`907b11ebe8`](https://github.com/alrra/browser-logos/commit/907b11ebe817fe5535e88d5ef2bf91a640de3122)] - ✨ Update `Chrome Beta` logo.
 * [[`cf1680a87c`](https://github.com/alrra/browser-logos/commit/cf1680a87c7c3438394c5fec2fc2f447981885dc)] - ✨ Update `Chrome Dev` logo.
 
-
-## 42.5.0 (June 25, 2017)
+42.5.0 (June 25, 2017)
+----------------------
 
 ### Bug fixes / Improvements
 
@@ -1332,22 +1336,22 @@
 * [[`ac93ee32b9`](https://github.com/alrra/browser-logos/commit/ac93ee32b97c460de3517d619a04c63e0264d378)] - ✨ Publish `Electron` logo on `npm`.
 * [[`5b93c7b77b`](https://github.com/alrra/browser-logos/commit/5b93c7b77b1bd13873a2716dec2bdb4b0dbca735)] - ✨ Add `Electron` logo.
 
-
-## 42.4.2 (June 10, 2017)
+42.4.2 (June 10, 2017)
+----------------------
 
 ### Bug fixes / Improvements
 
 * [[`bde8c2c702`](https://github.com/alrra/browser-logos/commit/bde8c2c702b72e72275f566598fafc82af1c5b11)] - 🗜 Further optimize `v8-turbofan.svg`.
 
-
-## 42.4.1 (June 10, 2017)
+42.4.1 (June 10, 2017)
+----------------------
 
 ### Bug fixes / Improvements
 
 * [[`da6378af2d`](https://github.com/alrra/browser-logos/commit/da6378af2d7835cdb14aea9b629bf3521a6e47ec)] - 📚 Make minor changes in `src/README.md`.
 
-
-## 42.4.0 (June 10, 2017)
+42.4.0 (June 10, 2017)
+----------------------
 
 ### New features
 
@@ -1362,15 +1366,15 @@
 * [[`66964da370`](https://github.com/alrra/browser-logos/commit/66964da3701db808e3fcbbc726ec0a44085a2a87)] - 🔧 Tweak and further optimize `v8-ignition.svg`.
 * [[`453ba66093`](https://github.com/alrra/browser-logos/commit/453ba66093185ea5ce17328f21ba01629a75ef2e)] - 🔧 Tweak and further optimize `v8-turbofan.svg`.
 
-
-## 42.3.1 (June 4, 2017)
+42.3.1 (June 4, 2017)
+---------------------
 
 ### Bug fixes / Improvements
 
 * [[`e5c7593a3b`](https://github.com/alrra/browser-logos/commit/e5c7593a3b74233c379f31030b4ca6c49e03002c)] - 🗜 Further losslessly optimize images.
 
-
-## 42.3.0 (June 3, 2017)
+42.3.0 (June 3, 2017)
+---------------------
 
 ### Bug fixes / Improvements
 
@@ -1380,15 +1384,15 @@
 
 * [[`1d4d2e4b01`](https://github.com/alrra/browser-logos/commit/1d4d2e4b013232efd344e462ef08fa1038217624)] - ✨ Publish `Cờ-Rôm+` logo on `npm`.
 
-
-## 42.2.1 (May 27, 2017)
+42.2.1 (May 27, 2017)
+---------------------
 
 ### Bug fixes / Improvements
 
 * [[`e8d37969cb`](https://github.com/alrra/browser-logos/commit/e8d37969cb7f8a30f59f85805efaf89a0141cc28)] - 🗜 Further losslessly optimize images.
 
-
-## 42.2.0 (May 26, 2017)
+42.2.0 (May 26, 2017)
+---------------------
 
 ### Bug fixes / Improvements
 
@@ -1402,15 +1406,15 @@
 * [[`eafb11496e`](https://github.com/alrra/browser-logos/commit/eafb11496ed9518aaa222e038de1c2a430a929a7)] - ✨ Add `internet-explorer-developer-channel.svg`.
 * [[`e507703257`](https://github.com/alrra/browser-logos/commit/e5077032574e6d3389677d343c9ea7b324e58994)] - ✨ Add `opera.svg` logo.
 
-
-## 42.1.1 (May 5, 2017)
+42.1.1 (May 5, 2017)
+--------------------
 
 ### Bug fixes / Improvements
 
 * [[`eb150fa910`](https://github.com/alrra/browser-logos/commit/eb150fa91046981661c3217160b0f61b3ac1bbde)] - 🗜 Further losslessly optimize images.
 
-
-## 42.1.0 (April 23, 2017)
+42.1.0 (April 23, 2017)
+-----------------------
 
 ### Bug fixes / Improvements
 
@@ -1420,45 +1424,45 @@
 
 * [[`0362e326c7`](https://github.com/alrra/browser-logos/commit/0362e326c709f5c8a374628766b88478cd41965a)] - ✨ Add `AOL Explorer` logo.
 
-
-## 42.0.0 (April 22, 2017)
+42.0.0 (April 22, 2017)
+-----------------------
 
 ### Breaking changes
 
 * [[`464e890157`](https://github.com/alrra/browser-logos/commit/464e8901579ca54ad4c2a053310bfbd8f3c22f6a)] - 💥 Move `PhantomJS` into the `archive`.
 
-
-## 41.2.1 (April 21, 2017)
+41.2.1 (April 21, 2017)
+-----------------------
 
 ### Bug fixes / Improvements
 
 * [[`bcd74ddb8b`](https://github.com/alrra/browser-logos/commit/bcd74ddb8b90ec16726b57982853027d6af6b37a)] - 🗜 Further losslessly optimize images.
 
-
-## 41.2.0 (April 15, 2017)
+41.2.0 (April 15, 2017)
+-----------------------
 
 ### New features
 
 * [[`184b25a909`](https://github.com/alrra/browser-logos/commit/184b25a90961c9c33984b91fe672d42facbfb7fe)] - ✨ Add `Streamy` logo.
 * [[`14bb9c4319`](https://github.com/alrra/browser-logos/commit/14bb9c4319e610176e130c360262ae329d0638fe)] - ✨ Add `Vivaldi Snapshot` logo.
 
-
-## 41.1.0 (April 7, 2017)
+41.1.0 (April 7, 2017)
+----------------------
 
 ### New features
 
 * [[`07b9b26a00`](https://github.com/alrra/browser-logos/commit/07b9b26a00cf296f4ad7020c7c84a028072b1ee5)] - ✨ Publish `Samsung Internet v5` logo on `npm`.
 * [[`05dd99f391`](https://github.com/alrra/browser-logos/commit/05dd99f3916bad19202221995f05d825f0eaa1a6)] - ✨ Update `Samsung Internet` logo.
 
-
-## 41.0.1 (April 1, 2017)
+41.0.1 (April 1, 2017)
+----------------------
 
 ### Bug fixes / Improvements
 
 * [[`0a8c35b31b`](https://github.com/alrra/browser-logos/commit/0a8c35b31b745aac15a45d700ceba2797ca0257f)] - 🗜 Further losslessly optimize images.
 
-
-## 41.0.0 (March 20, 2017)
+41.0.0 (March 20, 2017)
+-----------------------
 
 ### Breaking changes
 
@@ -1474,8 +1478,8 @@
 * [[`337fde6cd0`](https://github.com/alrra/browser-logos/commit/337fde6cd08db5178825f41cc37e40cd69d9841e)] - ✨ Publish `Samsung Internet v3-4.2` logo on `npm`.
 * [[`a23c6f66b0`](https://github.com/alrra/browser-logos/commit/a23c6f66b0c9d13c6e43c83a24a3db06f4fc5e96)] - ✨ Add SVG version of the `Samsung Internet Beta` logo.
 
-
-## 40.3.0 (March 10, 2017)
+40.3.0 (March 10, 2017)
+-----------------------
 
 ### New features
 
@@ -1483,64 +1487,64 @@
 * [[`fe284c2133`](https://github.com/alrra/browser-logos/commit/fe284c21339b73f2e6b579df4ca0b340e5f96200)] - ✨ Publish `Samsung Internet Beta` logo on `npm`.
 * [[`96b6112989`](https://github.com/alrra/browser-logos/commit/96b6112989f5fd9a9e2eb4e4b94e1a642ccbfa2b)] - ✨ Add `Samsung Internet Beta` logo.
 
-
-## 40.2.1 (February 23, 2017)
+40.2.1 (February 23, 2017)
+--------------------------
 
 ### Bug fixes / Improvements
 
 * [[`c1e493b12a`](https://github.com/alrra/browser-logos/commit/c1e493b12a0dbdf4ec1f86ec116cc8b86a691fb3)] - 🗜 Further losslessly optimize images.
 
-
-## 40.2.0 (February 18, 2017)
+40.2.0 (February 18, 2017)
+--------------------------
 
 ### New features
 
 * [[`74ab715897`](https://github.com/alrra/browser-logos/commit/74ab71589709758671b212ed681c38a503115f22)] - ✨ Add `CLIQZ` logo.
 
-
-## 40.1.1 (February 12, 2017)
+40.1.1 (February 12, 2017)
+--------------------------
 
 ### Bug fixes / Improvements
 
 * [[`730bb0b836`](https://github.com/alrra/browser-logos/commit/730bb0b83657710aaa7f9b1477a6d7703233af6e)] - 🗜 Further losslessly optimize images.
 
-
-## 40.1.0 (February 11, 2017)
+40.1.0 (February 11, 2017)
+--------------------------
 
 ### New features
 
 * [[`b9577f049a`](https://github.com/alrra/browser-logos/commit/b9577f049a1b5963d95f04798d0a55d186af7082)] - ✨ Update `Web` logo.
 
-
-## 40.0.0 (February 11, 2017)
+40.0.0 (February 11, 2017)
+--------------------------
 
 ### Breaking changes
 
 * [[`6420c1e819`](https://github.com/alrra/browser-logos/commit/6420c1e81906d17e94b4dd34009829f20a8dca93)] - 💥 Move `Iceweasel` into the `archive`.
 
-
-## 39.3.1 (February 9, 2017)
+39.3.1 (February 9, 2017)
+-------------------------
 
 ### Bug fixes / Improvements
 
 * [[`5fb5bfd509`](https://github.com/alrra/browser-logos/commit/5fb5bfd509d4bdb0f52cf859f0242d04f32a7d6d)] - 🗜 Further losslessly optimize images.
 
-
-## 39.3.0 (February 8, 2017)
+39.3.0 (February 8, 2017)
+-------------------------
 
 ### New features
 
 * [[`682093f3db`](https://github.com/alrra/browser-logos/commit/682093f3db192f87ad3b14d757d12cd63954a51b)] - ✨ Add `Beaker` logo.
 
-
-## 39.2.5 (January 28, 2017)
+39.2.5 (January 28, 2017)
+-------------------------
 
 ### Bug fixes / Improvements
 
 * [[`aa62305826`](https://github.com/alrra/browser-logos/commit/aa62305826c9a27c9e508bea82d8cce5d5360f41)] - 📚 Change `Android WebView Beta` URL from `src/README.md`.
 
-
-## 39.2.4 (January 28, 2017)
+39.2.4 (January 28, 2017)
+-------------------------
 
 ### Bug fixes / Improvements
 
@@ -1557,45 +1561,45 @@
 * [[`275e161fba`](https://github.com/alrra/browser-logos/commit/275e161fbaf6c61cc519bf8b93f93bd016ac04c9)] - 🗜 Further optimize `qutebrowser.svg`.
 * [[`c713a4965b`](https://github.com/alrra/browser-logos/commit/c713a4965b6ac062250c7a42d6e1526790c0d8c7)] - 🗜 Further optimize `web.svg`.
 
-
-## 39.2.3 (January 28, 2017)
+39.2.3 (January 28, 2017)
+-------------------------
 
 ### Bug fixes / Improvements
 
 * [[`636493849b`](https://github.com/alrra/browser-logos/commit/636493849b1571d56f902888eb564b4491e2b658)] - 🗜 Further losslessly optimize images.
 
-
-## 39.2.2 (January 14, 2017)
+39.2.2 (January 14, 2017)
+-------------------------
 
 ### Bug fixes / Improvements
 
 * [[`6f32862885`](https://github.com/alrra/browser-logos/commit/6f328628858bc9f9ff4cb19f09365a84b70c55e8)] - 🗜 Further losslessly optimize images.
 
-
-## 39.2.1 (January 12, 2017)
+39.2.1 (January 12, 2017)
+-------------------------
 
 ### Bug fixes / Improvements
 
 * [[`f8dbca79d8`](https://github.com/alrra/browser-logos/commit/f8dbca79d854d993e4e08fdb4545a54c8628de2b)] - 🗜 Further losslessly optimize images.
 
-
-## 39.2.0 (January 12, 2017)
+39.2.0 (January 12, 2017)
+-------------------------
 
 ### New features
 
 * [[`4b914db9c4`](https://github.com/alrra/browser-logos/commit/4b914db9c424e1a744d7429278c7006f1be44cde)] - ✨ Publish `Opera Neon` logo on `npm`.
 * [[`b3e9374cca`](https://github.com/alrra/browser-logos/commit/b3e9374cca4af9b812ba58d6e9f6ca2c703685e4)] - ✨ Add `Opera Neon` logo.
 
-
-## 39.1.1 (January 10, 2017)
+39.1.1 (January 10, 2017)
+-------------------------
 
 ### Bug fixes / Improvements
 
 * [[`050adc428f`](https://github.com/alrra/browser-logos/commit/050adc428f38214459ab454c21a24447bc08eda5)] - 🔧 Use official version of blue in `edge` logo.
 * [[`6474c865e7`](https://github.com/alrra/browser-logos/commit/6474c865e7883965e20198a886e29c6e7c1add6b)] - 🔧 Use official version of blue in `edge-tile` logo.
 
-
-## 39.1.0 (December 30, 2016)
+39.1.0 (December 30, 2016)
+--------------------------
 
 ### Bug fixes / Improvements
 
@@ -1605,8 +1609,8 @@
 
 * [[`3c87a3d63e`](https://github.com/alrra/browser-logos/commit/3c87a3d63e0413320dcb38481c4aa04a7cffc1e2)] - ✨ Add `Maxthon` logo.
 
-
-## 39.0.0 (December 27, 2016)
+39.0.0 (December 27, 2016)
+--------------------------
 
 ### Breaking changes
 
@@ -1632,8 +1636,8 @@
 * [[`973cbee125`](https://github.com/alrra/browser-logos/commit/973cbee1251f33f1fb10ac47098b2b63da72cbb3)] - ✨ Publish `Fake` logo on `npm`.
 * [[`23325263f6`](https://github.com/alrra/browser-logos/commit/23325263f6dc85bdc18cc15b69a4c7b5698d7e9e)] - ✨ Publish `Cruz` logo on `npm`.
 
-
-## 38.0.0 (December 24, 2016)
+38.0.0 (December 24, 2016)
+--------------------------
 
 ### Breaking changes
 
@@ -1741,29 +1745,29 @@
 * [[`8a8fa7e18b`](https://github.com/alrra/browser-logos/commit/8a8fa7e18b45a49726dc4f079b11d72fd3a29b63)] - ✨ Publish `Android WebView Beta` logo on `npm`.
 * [[`fa11225e81`](https://github.com/alrra/browser-logos/commit/fa11225e81183bf902c37e8a08c686826386df22)] - ✨ Publish `Android` browser logo on `npm`.
 
-
-## 37.2.1 (November 18, 2016)
+37.2.1 (November 18, 2016)
+--------------------------
 
 ### Bug fixes / Improvements
 
 * [[`0467a42020`](https://github.com/alrra/browser-logos/commit/0467a420208f631d045c6c1998c8f1b31b2886f2)] - ✨ Update `Focus` logo to match the official one.
 
-
-## 37.2.0 (November 6, 2016)
+37.2.0 (November 6, 2016)
+-------------------------
 
 ### New features
 
 * [[`a77d8872ff`](https://github.com/alrra/browser-logos/commit/a77d8872fff9073d1a28d534dab9c1e07b8b5b6b)] - ✨ Add `NW.js` logo.
 
-
-## 37.1.10 (November 1, 2016)
+37.1.10 (November 1, 2016)
+--------------------------
 
 ### Bug fixes / Improvements
 
 * [[`d3ae4716c4`](https://github.com/alrra/browser-logos/commit/d3ae4716c4d94cfc6affc6734ced87bc41cb4045)] - 🗜 Further losslessly optimize images.
 
-
-## 37.1.9 (October 31, 2016)
+37.1.9 (October 31, 2016)
+-------------------------
 
 ### Bug fixes / Improvements
 
@@ -1773,16 +1777,16 @@
 * [[`8c184b894f`](https://github.com/alrra/browser-logos/commit/8c184b894f002efab46a8365696fbafbee2147f3)] - 🗜 Further optimize `epiphany.svg`.
 * [[`7d92a58d48`](https://github.com/alrra/browser-logos/commit/7d92a58d4826802afead4bf537d4bb8f55fd29d8)] - 🗜 Further optimize `arora.svg`.
 
-
-## 37.1.8 (October 31, 2016)
+37.1.8 (October 31, 2016)
+-------------------------
 
 ### Bug fixes / Improvements
 
 * [[`9e660a9563`](https://github.com/alrra/browser-logos/commit/9e660a95630b55d3dc7ea92be6145194d2a394f0)] - 🗜 Further optimize `rekonq.svg`.
 * [[`17241ffd32`](https://github.com/alrra/browser-logos/commit/17241ffd32d7d99ae6abbb5c2f41bc73c5ecf987)] - 🗜 Further optimize `web.svg`.
 
-
-## 37.1.7 (October 29, 2016)
+37.1.7 (October 29, 2016)
+-------------------------
 
 ### Bug fixes / Improvements
 
@@ -1791,29 +1795,29 @@
 * [[`7d7d2a0c1f`](https://github.com/alrra/browser-logos/commit/7d7d2a0c1f3be9c4ad84da6791958ae22d578574)] - 🗜 Further optimize `maxthon-beta_1.svg`.
 * [[`0c9003e060`](https://github.com/alrra/browser-logos/commit/0c9003e06031ffa7f4063fe42d0a83385fd4c6d8)] - 🗜 Further optimize `maxthon_1.svg`.
 
-
-## 37.1.6 (October 28, 2016)
+37.1.6 (October 28, 2016)
+-------------------------
 
 ### Bug fixes / Improvements
 
 * [[`4a181d52a3`](https://github.com/alrra/browser-logos/commit/4a181d52a34ba85661698a36089caa4feb05208f)] - 🗜 Further losslessly optimize images.
 
-
-## 37.1.5 (October 26, 2016)
+37.1.5 (October 26, 2016)
+-------------------------
 
 ### Bug fixes / Improvements
 
 * [[`c61a5dd737`](https://github.com/alrra/browser-logos/commit/c61a5dd7371ab5171c92c9dc97e0bc3b6bc1d03e)] - 🗜 Further losslessly optimize images.
 
-
-## 37.1.4 (October 22, 2016)
+37.1.4 (October 22, 2016)
+-------------------------
 
 ### Bug fixes / Improvements
 
 * [[`e973e232f2`](https://github.com/alrra/browser-logos/commit/e973e232f209dc19aaf8c1a56ded5ff16bfc7b63)] - 🗜 Further losslessly optimize images.
 
-
-## 37.1.3 (October 22, 2016)
+37.1.3 (October 22, 2016)
+-------------------------
 
 ### Bug fixes / Improvements
 
@@ -1821,22 +1825,22 @@
 * [[`c6e647de3c`](https://github.com/alrra/browser-logos/commit/c6e647de3c5c5f15ea96a25b0f5483bc050b2e20)] - 🗜 Further optimize `netscape_4-6.svg`.
 * [[`cd7144537f`](https://github.com/alrra/browser-logos/commit/cd7144537fd9723004f97672d1c9048d0e0977b0)] - 🗜 Further optimize `brave.svg`.
 
-
-## 37.1.2 (October 22, 2016)
+37.1.2 (October 22, 2016)
+-------------------------
 
 ### Bug fixes / Improvements
 
 * [[`caf9e2c244`](https://github.com/alrra/browser-logos/commit/caf9e2c244cd99b30a5c6865858444e52a539d6e)] - 🗜 Further losslessly optimize images.
 
-
-## 37.1.1 (October 20, 2016)
+37.1.1 (October 20, 2016)
+-------------------------
 
 ### Bug fixes / Improvements
 
 * [[`2555ef875c`](https://github.com/alrra/browser-logos/commit/2555ef875c4b0a4e07b12380c791122838b22b89)] - 📚 Fix `Cờ Rôm+` links from `archive/README.md`.
 
-
-## 37.1.0 (October 20, 2016)
+37.1.0 (October 20, 2016)
+-------------------------
 
 ### Bug fixes / Improvements
 
@@ -1849,8 +1853,8 @@
 * [[`865ab36a33`](https://github.com/alrra/browser-logos/commit/865ab36a3342fbce90fcf99c0d616229848d8462)] - ✨ Add `Yandex Alpha` logo.
 * [[`188c662806`](https://github.com/alrra/browser-logos/commit/188c66280689078aa60f018dc2b9c1135bb6b16d)] - ✨ Add `Cờ Rôm+` logo.
 
-
-## 37.0.0 (October 18, 2016)
+37.0.0 (October 18, 2016)
+-------------------------
 
 ### Breaking changes
 
@@ -1864,8 +1868,8 @@
 
 * [[`20136b4373`](https://github.com/alrra/browser-logos/commit/20136b4373a19cfef989f3c1e9b7cce1b069815f)] - ✨ Add support for `Yarn`.
 
-
-## 36.3.0 (October 17, 2016)
+36.3.0 (October 17, 2016)
+-------------------------
 
 ### Bug fixes / Improvements
 
@@ -1879,23 +1883,23 @@
 * [[`1322f0e906`](https://github.com/alrra/browser-logos/commit/1322f0e906b17d6dfff2d32caaea94ffd533e6a9)] - ✨ Add `Otter` logo (see also: [`#98`](https://github.com/alrra/browser-logos/pull/98)).
 * [[`daff3bfa0b`](https://github.com/alrra/browser-logos/commit/daff3bfa0bf9fa347641e2a60af3e4edd135eab1)] - ✨ Add `Xombrero` logo (see also: [`#96`](https://github.com/alrra/browser-logos/pull/96)).
 
-
-## 36.2.0 (October 17, 2016)
+36.2.0 (October 17, 2016)
+-------------------------
 
 ### New features
 
 * [[`36b3a39d6f`](https://github.com/alrra/browser-logos/commit/36b3a39d6f2fe82cc33d3c16438f4795a1b49db7)] - ✨ Update `Dolphin Zero` logo.
 * [[`ef97660d17`](https://github.com/alrra/browser-logos/commit/ef97660d17949238f246dbd9b4b309165af5f4c0)] - ✨ Add `UC Mini` logo.
 
-
-## 36.1.2 (October 15, 2016)
+36.1.2 (October 15, 2016)
+-------------------------
 
 ### Bug fixes / Improvements
 
 * [[`f265763e41`](https://github.com/alrra/browser-logos/commit/f265763e41e61e456806adbfcdab9d4667060d06)] - 📚 Fix `Iridium` link from `README.md`.
 
-
-## 36.1.1 (October 15, 2016)
+36.1.1 (October 15, 2016)
+-------------------------
 
 ### Bug fixes / Improvements
 
@@ -1908,15 +1912,15 @@
 * [[`a1926003b0`](https://github.com/alrra/browser-logos/commit/a1926003b090f316a13d36b12628295419aae7c6)] - 🗜 Further optimize `chrome.svg`.
 * [[`b04abd639f`](https://github.com/alrra/browser-logos/commit/b04abd639f49c732731f7fb6d5fad171b0380c8c)] - 🗜 Further optimize `arora.svg`.
 
-
-## 36.1.0 (October 11, 2016)
+36.1.0 (October 11, 2016)
+-------------------------
 
 ### New features
 
 * [[`688d0012af`](https://github.com/alrra/browser-logos/commit/688d0012af0bc9861755b0eafedc95fd45a20010)] - ✨ Add `PhantomJS` logo.
 
-
-## 36.0.0 (October 10, 2016)
+36.0.0 (October 10, 2016)
+-------------------------
 
 ### Breaking changes
 
@@ -1931,29 +1935,29 @@
 * [[`3649529e10`](https://github.com/alrra/browser-logos/commit/3649529e10e228804ea6073b7b47536f6a85d615)] - ✨ Add `Endless` logo (see also: [`#94`](https://github.com/alrra/browser-logos/pull/94)).
 * [[`f280122464`](https://github.com/alrra/browser-logos/commit/f280122464405e082007df2f26370d7f0496e789)] - ✨ Add `Tob` logo (see also: [`#93`](https://github.com/alrra/browser-logos/pull/93)).
 
-
-## 35.4.0 (October 9, 2016)
+35.4.0 (October 9, 2016)
+------------------------
 
 ### New features
 
 * [[`9a79dbf7ff`](https://github.com/alrra/browser-logos/commit/9a79dbf7ff9041320b10af01dd0341daa4dbcd31)] - ✨ Add `Focus` logo (see also: [`#92`](https://github.com/alrra/browser-logos/issues/92)).
 
-
-## 35.3.0 (October 6, 2016)
+35.3.0 (October 6, 2016)
+------------------------
 
 ### New features
 
 * [[`3e527d66d6`](https://github.com/alrra/browser-logos/commit/3e527d66d651df8f753f7a273d92b235656ac62d)] - ✨ Update `Puffin` logo.
 
-
-## 35.2.1 (October 3, 2016)
+35.2.1 (October 3, 2016)
+------------------------
 
 ### Bug fixes / Improvements
 
 * [[`09bc...57eb`](https://github.com/alrra/browser-logos/compare/09bc9f7cc663c7231ede0f5ac0df53be6c136af4...57ead7bda7d479c3370362d4d7ac81971383550b)] - 📚 Make minor consistency changes in `README.md`.
 
-
-## 35.2.0 (September 15, 2016)
+35.2.0 (September 15, 2016)
+---------------------------
 
 ### Bug fixes / Improvements
 
@@ -1963,15 +1967,15 @@
 
 * [[`507b2bcc77`](https://github.com/alrra/browser-logos/commit/507b2bcc771bb2b33d5fc3c61fde4d3b237ac539)] - ✨ Add `Cent` logo.
 
-
-## 35.1.1 (September 15, 2016)
+35.1.1 (September 15, 2016)
+---------------------------
 
 ### Bug fixes / Improvements
 
 * [[`c4f21989d5`](https://github.com/alrra/browser-logos/commit/c4f21989d55674e95ea8648cd9b64d5e2b53c7db)] - 🗜 Further losslessly optimize images.
 
-
-## 35.1.0 (September 13, 2016)
+35.1.0 (September 13, 2016)
+---------------------------
 
 ### Bug fixes / Improvements
 
@@ -1981,15 +1985,15 @@
 
 * [[`aabb4aa628`](https://github.com/alrra/browser-logos/commit/aabb4aa628a53383fee0078ab360fc1b90183b33)] - ✨ Add `Amigo` (`Амиго`) logo.
 
-
-### 35.0.2 (September 7, 2016)
+35.0.2 (September 7, 2016)
+--------------------------
 
 ### Bug fixes / Improvements
 
 * [[`f0bf8abc7f`](https://github.com/alrra/browser-logos/commit/f0bf8abc7fdaf75c76147632a48abb7313e564e7)] - 🗜 Further losslessly optimize images.
 
-
-## 35.0.1 (September 4, 2016)
+35.0.1 (September 4, 2016)
+--------------------------
 
 ### Bug fixes / Improvements
 
@@ -1997,8 +2001,8 @@
 * [[`398b1c91f5`](https://github.com/alrra/browser-logos/commit/398b1c91f5e3f4dd3cb157ee25ae953f56a31558)] - 🔧 Exclude `.editorconfig` from the `Bower`/`npm` installs.
 * [[`819f1578d6`](https://github.com/alrra/browser-logos/commit/819f1578d6c8b6f594dfa10242f5d9441c42a4ea)] - 🗜 Further losslessly optimize images.
 
-
-## 35.0.0 (September 4, 2016)
+35.0.0 (September 4, 2016)
+--------------------------
 
 ### Breaking changes
 
@@ -2015,8 +2019,8 @@
 * [[`b8da51f64d`](https://github.com/alrra/browser-logos/commit/b8da51f64dbb16500db69cccf8332b3e84b053ff)] - 🔧 Add better version of the `NetSurf` logo.
 * [[`08cd413de7`](https://github.com/alrra/browser-logos/commit/08cd413de71567ddf5d4ce1b1e5533270def11ca)] - 🗜 Further optimize `chromium_1-11.svg`.
 
-
-## 34.1.5 (September 3, 2016)
+34.1.5 (September 3, 2016)
+--------------------------
 
 ### Bug fixes / Improvements
 
@@ -2028,8 +2032,8 @@
 * [[`f2bf3cece2`](https://github.com/alrra/browser-logos/commit/f2bf3cece299d68a9f93795d75c991a3d70557c4)] - 🗜 Further optimize `opera-next_15-24.svg`.
 * [[`1e6c001a90`](https://github.com/alrra/browser-logos/commit/1e6c001a90c665ef384bb13f80d159fb4001faa1)] - 🗜 Further optimize `iceape.svg`.
 
-
-## 34.1.4 (September 2, 2016)
+34.1.4 (September 2, 2016)
+--------------------------
 
 ### Bug fixes / Improvements
 
@@ -2037,23 +2041,23 @@
 * [[`15e24d24ed`](https://github.com/alrra/browser-logos/commit/15e24d24ed30fb9ee51147a16e2543cd0f49bd42)] - 🗜 Further optimize `opera_10-14.svg`.
 * [[`8537fedf09`](https://github.com/alrra/browser-logos/commit/8537fedf09776b29f3dae2342fdc49fd07eb3f22)] - 🗜 Further optimize `netsurf.svg`.
 
-
-## 34.1.3 (September 2, 2016)
+34.1.3 (September 2, 2016)
+--------------------------
 
 ### Bug fixes / Improvements
 
 * [[`e5bad62ddc`](https://github.com/alrra/browser-logos/commit/e5bad62ddcd183eac7b23e75d3ff83455bdbcf02)] - 🔧 Exclude `README.md`s from the `zip` archive.
 * [[`1617d88f02`](https://github.com/alrra/browser-logos/commit/1617d88f02635e63d60084a306f33becb5a3caec)] - 🔧 Exclude `.editorconfig` from the `zip` archive.
 
-
-## 34.1.2 (September 1, 2016)
+34.1.2 (September 1, 2016)
+--------------------------
 
 ### Bug fixes / Improvements
 
 * [[`dfcecb4626`](https://github.com/alrra/browser-logos/commit/dfcecb4626ededa719c53375769c200cdb698780)] - 📚 Update and fix various links.
 
-
-## 34.1.1 (August 28, 2016)
+34.1.1 (August 28, 2016)
+------------------------
 
 ### Bug fixes / Improvements
 
@@ -2080,8 +2084,8 @@
 * [[`77b8404a94`](https://github.com/alrra/browser-logos/commit/77b8404a94ab5c9fe53c48b6cc324aab28206ee1)] - 🗜 Further optimize `chrome_1-11.svg`.
 * [[`b92cd3868a`](https://github.com/alrra/browser-logos/commit/b92cd3868a06b5d890ab13e8178097a26d9b2aa7)] - 🗜 Further optimize `arora.svg`.
 
-
-## 34.1.0 (August 24, 2016)
+34.1.0 (August 24, 2016)
+------------------------
 
 ### Bug fixes / Improvements
 
@@ -2091,30 +2095,30 @@
 
 * [[`f70ec979df`](https://github.com/alrra/browser-logos/commit/f70ec979df3bcd28fe94f7d1a8b7f8fd3c3f3f50)] - ✨ Add `SRWare Iron` logo.
 
-
-## 34.0.1 (August 24, 2016)
+34.0.1 (August 24, 2016)
+------------------------
 
 ### Bug fixes / Improvements
 
 * [[`719beb113a`](https://github.com/alrra/browser-logos/commit/719beb113ae4f79820003ed3966498236954962c)] - 🗜 Further losslessly optimize images.
 
-
-## 34.0.0 (August 17, 2016)
+34.0.0 (August 17, 2016)
+------------------------
 
 ### Breaking changes
 
 * [[`accf35d64f`](https://github.com/alrra/browser-logos/commit/accf35d64f14745a83fbe482c5e94b612fb34822)] - 💥 Move `Midori` into the `archive`.
 
-
-## 33.0.0 (August 15, 2016)
+33.0.0 (August 15, 2016)
+------------------------
 
 ### Breaking changes
 
 * [[`a5bdb26aa4`](https://github.com/alrra/browser-logos/commit/a5bdb26aa4722749402186f36acc7fbab268042c)] - 💥 Move `K-Meleon` into the `archive`.
 * [[`3c1ba27bbc`](https://github.com/alrra/browser-logos/commit/3c1ba27bbcc0f55155e6dd12b1fc01a6fb4bca16)] - 💥 Move `Roccat` into the `archive`.
 
-
-## 32.0.1 (August 11, 2016)
+32.0.1 (August 11, 2016)
+------------------------
 
 ### Bug fixes / Improvements
 
@@ -2128,37 +2132,37 @@
 * [[`14933ade77`](https://github.com/alrra/browser-logos/commit/14933ade77e91287a29f5600a0a9d7ecf6d79c30)] - 🗜 Further optimize `firefox.svg`.
 * [[`32ca963d7f`](https://github.com/alrra/browser-logos/commit/32ca963d7f3da5e791fbf549df30fb7e299497cd)] - 🗜 Further optimize `chrome.svg`.
 
-
-## 32.0.0 (August 1, 2016)
+32.0.0 (August 1, 2016)
+-----------------------
 
 ### Breaking changes
 
 * [[`333a3bcdf0`](https://github.com/alrra/browser-logos/commit/333a3bcdf02aa602dadadd2706f749547ab3b342)] - 💥 Move `Konqueror` into the `archive`.
 * [[`b850328052`](https://github.com/alrra/browser-logos/commit/b850328052ea76156ab02ea7e1c98774edc9ffec)] - 💥 Move `Liri` into the `archive`.
 
-
-## 31.0.0 (July 21, 2016)
+31.0.0 (July 21, 2016)
+----------------------
 
 ### Breaking changes
 
 * [[`0d01e477aa`](https://github.com/alrra/browser-logos/commit/0d01e477aa8b3dd70e08e9d5604139a24f03edbc)] - 💥 Remove `Firefox` from `main-mobile.png`.
 
-
-## 30.1.0 (June 30, 2016)
+30.1.0 (June 30, 2016)
+----------------------
 
 ### New features
 
 * [[`7ea3c94f36`](https://github.com/alrra/browser-logos/commit/7ea3c94f36b51cb6bf4e6b4c75d4337d91e84290)] - ✨ Add `Browser.html` logo.
 
-
-## 30.0.0 (June 27, 2016)
+30.0.0 (June 27, 2016)
+----------------------
 
 ### Breaking changes
 
 * [[`7257002a5e`](https://github.com/alrra/browser-logos/commit/7257002a5e596ff31f358fdb18a4d0f65baa450e)] - 💥 Remove latest `Opera Mini Beta` logo from the `archive`.
 
-
-## 29.0.0 (June 18, 2016)
+29.0.0 (June 18, 2016)
+----------------------
 
 ### Breaking changes
 
@@ -2168,66 +2172,66 @@
 
 * [[`ecbebdbb65`](https://github.com/alrra/browser-logos/commit/ecbebdbb65898087784b38996e3a3e4e7977fd63)] - 🗜 Further losslessly optimize images.
 
-
-## 28.2.1 (June 12, 2016)
+28.2.1 (June 12, 2016)
+----------------------
 
 ### Bug fixes / Improvements
 
 * [[`83e6c01e21`](https://github.com/alrra/browser-logos/commit/83e6c01e21207fc48df80888728a0ab82dc6678c)] - 🗜 Further losslessly optimize images.
 
-
-## 28.2.0 (June 4, 2016)
+28.2.0 (June 4, 2016)
+---------------------
 
 ### New features
 
 * [[`5687598148`](https://github.com/alrra/browser-logos/commit/56875981485276e0ee2f7614dec63b715406264c)] - ✨ Add `Liri` logo.
 * [[`3e47f1abf2`](https://github.com/alrra/browser-logos/commit/3e47f1abf220adb8749bd863af27b7303ca3be2a)] - ✨ Add `Polarity` logo (see also: [`#84`](https://github.com/alrra/browser-logos/issues/84)).
 
-
-## 28.1.2 (June 3, 2016)
+28.1.2 (June 3, 2016)
+---------------------
 
 ### Bug fixes / Improvements
 
 * [[`54ae2c1890`](https://github.com/alrra/browser-logos/commit/54ae2c1890e2778ea918b06595637ce6e6877874)] - 🗜 Further losslessly optimize images.
 
-
-## 28.1.1 (June 2, 2016)
+28.1.1 (June 2, 2016)
+---------------------
 
 ### Bug fixes / Improvements
 
 * [[`fb18545a6d`](https://github.com/alrra/browser-logos/commit/fb18545a6dc2da3ab77edd6f765004e4fffc37a1)] - 🗜 Further losslessly optimize images.
 
-
-## 28.1.0 (May 13, 2016)
+28.1.0 (May 13, 2016)
+---------------------
 
 ### New features
 
 * [[`781de3333d`](https://github.com/alrra/browser-logos/commit/781de3333d55bd8caa9ec918510521f48baa2554)] - ✨ Add `Blisk` logo.
 
-
-## 28.0.1 (May 10, 2016)
+28.0.1 (May 10, 2016)
+---------------------
 
 ### Bug fixes / Improvements
 
 * [[`f06c44ec55`](https://github.com/alrra/browser-logos/commit/f06c44ec55100a160fe4a37b4e5b666e0f5bf822)] - 🔧 Add better version of the `Tofino` logo.
 
-
-## 28.0.0 (April 30, 2016)
+28.0.0 (April 30, 2016)
+-----------------------
 
 ### Breaking changes
 
 * [[`079425fcaf`](https://github.com/alrra/browser-logos/commit/079425fcafb0379b835b73d8f1c8b64d428c4378)] - 💥 Use same logo for the desktop versions of `Sleipnir`.
 * [[`7eaf042de2`](https://github.com/alrra/browser-logos/commit/7eaf042de2157e8b295803a305adb14255df777d)] - 💥 Move `rekonq` into the `archive`.
 
-
-## 27.0.1 (April 28, 2016)
+27.0.1 (April 28, 2016)
+-----------------------
 
 ### Bug fixes / Improvements
 
 * [[`7a4522ccc2`](https://github.com/alrra/browser-logos/commit/7a4522ccc29c8f49f3850d6052161a542c98c25e)] - 🗜 Further losslessly optimize images.
 
-
-## 27.0.0 (April 23, 2016)
+27.0.0 (April 23, 2016)
+-----------------------
 
 ### Breaking changes
 
@@ -2237,37 +2241,37 @@
 
 * [[`c07c7beadc`](https://github.com/alrra/browser-logos/commit/c07c7beadc19dd1f5eaa25d3cf8f6d42838f0413)] - 🔧 Update `Chrome` logo to better match the official one.
 
-
-## 26.2.2 (April 22, 2016)
+26.2.2 (April 22, 2016)
+-----------------------
 
 ### Bug fixes / Improvements
 
 * [[`65fc7376cf`](https://github.com/alrra/browser-logos/commit/65fc7376cf3280c3b850eceba9ef4d42296ac7f0)] - 🔧 Update `Edge` tile logo to better match the official one.
 * [[`f999cf9db0`](https://github.com/alrra/browser-logos/commit/f999cf9db0d89ab1b66e9487f2a5e3c592a76157)] - 🔧 Update `Edge` logo to better match the official one.
 
-
-## 26.2.1 (April 19, 2016)
+26.2.1 (April 19, 2016)
+-----------------------
 
 ### Bug fixes / Improvements
 
 * [[`a6b7daa49d`](https://github.com/alrra/browser-logos/commit/a6b7daa49da7ec3c2feb792ca7b34ba1deb0f251)] - 📚 Remove `--save-dev` recommendation from `README.md`.
 
-
-## 26.2.0 (April 16, 2016)
+26.2.0 (April 16, 2016)
+-----------------------
 
 ### New features
 
 * [[`3761776a85`](https://github.com/alrra/browser-logos/commit/3761776a8582ab3501a9ca09238bc9d715e65aa8)] - ✨ Add `Min` logo.
 
-
-## 26.1.0 (April 13, 2016)
+26.1.0 (April 13, 2016)
+-----------------------
 
 ### New features
 
 * [[`1391d99497`](https://github.com/alrra/browser-logos/commit/1391d994972d59b76082b9cf57944db9e05ee3db)] - ✨ Update `WebKit Nightly` logo (see also: [`#82`](https://github.com/alrra/browser-logos/issues/82)).
 
-
-## 26.0.0 (April 12, 2016)
+26.0.0 (April 12, 2016)
+-----------------------
 
 ### Breaking changes
 
@@ -2275,15 +2279,15 @@
 * [[`28d6d51b12`](https://github.com/alrra/browser-logos/commit/28d6d51b12a43eb46c3e31cb09287cfaecfc4982)] - 💥 Move `Mercury` into the `archive`.
 * [[`585964df58`](https://github.com/alrra/browser-logos/commit/585964df58f65a5132bec42d525b1400494f7b40)] - 💥 Move `Diigo` into the `archive`.
 
-
-## 25.4.0 (April 10, 2016)
+25.4.0 (April 10, 2016)
+-----------------------
 
 ### New features
 
 * [[`a376fd2e7e`](https://github.com/alrra/browser-logos/commit/a376fd2e7ec6dfdb209c5e2afe17989590508927)] - ✨ Add SVG version of the `Brave` logo.
 
-
-## 25.3.0 (April 8, 2016)
+25.3.0 (April 8, 2016)
+----------------------
 
 ### New features
 
@@ -2293,60 +2297,60 @@
 
 * [[`ae2a3baadd`](https://github.com/alrra/browser-logos/commit/ae2a3baadd59c09f60324ec1d33efb33bf37ed2a)] - 🗜 Further losslessly optimize images.
 
-
-## 25.2.0 (April 2, 2016)
+25.2.0 (April 2, 2016)
+----------------------
 
 ### New features
 
 * [[`e6cbbd8928`](https://github.com/alrra/browser-logos/commit/e6cbbd8928ef3c2abd4f89abe558fa58b32ae897)] - ✨ Add `Samsung Internet` logo.
 
-
-## 25.1.1 (March 31, 2016)
+25.1.1 (March 31, 2016)
+-----------------------
 
 ### Bug fixes / Improvements
 
 * [[`e9700fcc37`](https://github.com/alrra/browser-logos/commit/e9700fcc3786132c26e56606991308a592c4f8a4)] - 📚 Make minor consistency changes `README.md`.
 * [[`365d3d8095`](https://github.com/alrra/browser-logos/commit/365d3d80955d6787a544811b80290022b9864b7c)] - 🗜 Further losslessly optimize images.
 
-
-## 25.1.0 (March 30, 2016)
+25.1.0 (March 30, 2016)
+-----------------------
 
 ### New features
 
 * [[`748954e521`](https://github.com/alrra/browser-logos/commit/748954e521cb25f4f8c3b0f09339031087cfb55a)] - ✨ Add `Safari Technology Preview` logo.
 
-
-## 25.0.2 (March 29, 2016)
+25.0.2 (March 29, 2016)
+-----------------------
 
 ### Bug fixes / Improvements
 
 * [[`aeb4dd0cf9`](https://github.com/alrra/browser-logos/commit/aeb4dd0cf92e1332677899cc3891a9afb6fe7788)] - 🗜 Further losslessly optimize images.
 * [[`ddb7d859f1`](https://github.com/alrra/browser-logos/commit/ddb7d859f1c4988b52e9b9f4dc3b913ac50cb4cb)] - 📚 Make minor consistency changes in the `README.md` files.
 
-
-## 25.0.1 (March 27, 2016)
+25.0.1 (March 27, 2016)
+-----------------------
 
 ### Bug fixes / Improvements
 
 * [[`e47edb96f4`](https://github.com/alrra/browser-logos/commit/e47edb96f46d9ff4f40322f99e3c2497261998fa)] - 📚 Make minor improvements.
 
-
-## 25.0.0 (March 27, 2016)
+25.0.0 (March 27, 2016)
+-----------------------
 
 ### Breaking changes
 
 * [[`4245f823b7`](https://github.com/alrra/browser-logos/commit/4245f823b70777568d1cbd44db300744beaa4142)] - 💥 Drop `Chrome for Android` logos.
 
-
-## 24.0.1 (March 22, 2016)
+24.0.1 (March 22, 2016)
+-----------------------
 
 ### Bug fixes / Improvements
 
 * [[`da82662c77`](https://github.com/alrra/browser-logos/commit/da82662c774560479eaa8190c7552c4295888d6a)] - 📚 Readd `11` in the `Internet Explorer` logo description from
   `README.md`.
 
-
-## 24.0.0 (March 20, 2016)
+24.0.0 (March 20, 2016)
+-----------------------
 
 ### Breaking changes
 
@@ -2356,8 +2360,8 @@
 
 * [[`c97624fdde`](https://github.com/alrra/browser-logos/commit/c97624fddebbaeb375725c9864174502532b38bd)] - 🗜 Further losslessly optimize images.
 
-
-## 23.0.0 (March 15, 2016)
+23.0.0 (March 15, 2016)
+-----------------------
 
 ### Breaking changes
 
@@ -2367,29 +2371,29 @@
 
 * [[`e7f8ccacbc`](https://github.com/alrra/browser-logos/commit/e7f8ccacbcb0f0c28ab6554b3be9e253c99d0e71)] - ✨ Update `Opera Mini Beta` logo.
 
-
-## 22.7.0 (March 14, 2016)
+22.7.0 (March 14, 2016)
+-----------------------
 
 ### New features
 
 * [[`2d59d3e835`](https://github.com/alrra/browser-logos/commit/2d59d3e8358c1cc35dc7c0f32a291a8f0a3f479f)] - ✨ Add `Iridium` logo.
 
-
-## 22.6.1 (March 9, 2016)
+22.6.1 (March 9, 2016)
+----------------------
 
 ### Bug fixes / Improvements
 
 * [[`f9029bdad8`](https://github.com/alrra/browser-logos/commit/f9029bdad888f57d1fe2a3f58c870336d89fb672)] - 🐛 Fix `chrome/chrome.svg`.
 
-
-## 22.6.0 (March 7, 2016)
+22.6.0 (March 7, 2016)
+----------------------
 
 ### New features
 
 * [[`03ded7c383`](https://github.com/alrra/browser-logos/commit/03ded7c383385bc564a8929e162968d0fa953674)] - ✨ Update `Chrome` logo.
 
-
-## 22.5.0 (March 1, 2016)
+22.5.0 (March 1, 2016)
+----------------------
 
 ### Bug fixes / Improvements
 
@@ -2399,23 +2403,23 @@
 
 * [[`e5956ad3e6`](https://github.com/alrra/browser-logos/commit/e5956ad3e6da64e6b2c34933d3af5e4eb5535e81)] - ✨ Add `Edge` tile logo.
 
-
-## 22.4.1 (February 26, 2016)
+22.4.1 (February 26, 2016)
+--------------------------
 
 ### Bug fixes / Improvements
 
 * [[`e75e66cf03`](https://github.com/alrra/browser-logos/commit/e75e66cf036c86e12cb5e3139bb535808abc3bed)] - 📚 Make minor consistency changes in the `README.md` files.
 
-
-## 22.4.0 (February 24, 2016)
+22.4.0 (February 24, 2016)
+--------------------------
 
 ### New features
 
 * [[`e2f08eb89a`](https://github.com/alrra/browser-logos/commit/e2f08eb89ad56ad8410f16067c8b8697f130b458)] - ✨ Add `Orca` logo.
 * [[`2471f9c556`](https://github.com/alrra/browser-logos/commit/2471f9c556aa0edbd299bab0e3954e9c855ac26f)] - ✨ Add `Moznet Fire` logo.
 
-
-## 22.3.0 (February 15, 2016)
+22.3.0 (February 15, 2016)
+--------------------------
 
 ### New features
 
@@ -2423,43 +2427,43 @@
 * [[`49ecd4fc5a`](https://github.com/alrra/browser-logos/commit/49ecd4fc5a1b61c966a15cddbfe091a915c32d36)] - ✨ Add `Links` logo.
 * [[`908f990f4a`](https://github.com/alrra/browser-logos/commit/908f990f4ab9edf9d455cabce99077c94fe09e43)] - ✨ Add `QupZilla` logo.
 
-
-## 22.2.1 (February 10, 2016)
+22.2.1 (February 10, 2016)
+--------------------------
 
 ### Bug fixes / Improvements
 
 * [[`49e362d392`](https://github.com/alrra/browser-logos/commit/49e362d39248e6d7a1419fed249749c97cb6be3a)] - 🗜 Further losslessly optimize images.
 
-
-## 22.2.0 (February 8, 2016)
+22.2.0 (February 8, 2016)
+-------------------------
 
 ### New features
 
 * [[`905dc4d6a4`](https://github.com/alrra/browser-logos/commit/905dc4d6a419fc31c7d3aefb53a99ae4496dc77f)] - ✨ Add `Roccat` logo.
 
-
-## 22.1.0 (February 7, 2016)
+22.1.0 (February 7, 2016)
+-------------------------
 
 ### New features
 
 * [[`0d5f662a53`](https://github.com/alrra/browser-logos/commit/0d5f662a5375f2b484d9add9eece29214bdf218c)] - ✨ Add `Cốc Cốc` logo.
 
-
-## 22.0.0 (February 1, 2016)
+22.0.0 (February 1, 2016)
+-------------------------
 
 ### Breaking changes
 
 * [[`1327d3d23b`](https://github.com/alrra/browser-logos/commit/1327d3d23b9d0c86235c4ee6e736c78429ca1510)] - 💥 Update `Opera Mini Beta` logo.
 
-
-## 21.1.0 (January 21, 2016)
+21.1.0 (January 21, 2016)
+-------------------------
 
 ### New features
 
 * [[`3c70365e3f`](https://github.com/alrra/browser-logos/commit/3c70365e3f608bbed6f9b0695dc5b95002667397)] - ✨Add `Brave` logo.
 
-
-## 21.0.0 (January 18, 2016)
+21.0.0 (January 18, 2016)
+-------------------------
 
 ### Breaking changes
 
@@ -2471,66 +2475,66 @@
 
 * [[`878a9d1e08`](https://github.com/alrra/browser-logos/commit/878a9d1e0852484cfde16fb7162170bae7a4afa9)] - ✨ Update `Diigo` logo.
 
-
-## 20.4.1 (January 14, 2016)
+20.4.1 (January 14, 2016)
+-------------------------
 
 ### Bug fixes / Improvements
 
 * [[`b449d4149c`](https://github.com/alrra/browser-logos/commit/b449d4149c4702691a0de0e62a258f931a8afd91)] - 🗜 Further losslessly optimize `main-desktop.png`.
 
-
-## 20.4.0 (January 14, 2016)
+20.4.0 (January 14, 2016)
+-------------------------
 
 ### Bug fixes / Improvements
 
 * [[`403ddf8e60`](https://github.com/alrra/browser-logos/commit/403ddf8e60898660b4d7d049ef643bacee8b1456)] - 🔧 Update `Opera` logo to better match the official one (see also: [`#75`](https://github.com/alrra/browser-logos/issues/75)).
 
-
-## 20.3.0 (January 12, 2016)
+20.3.0 (January 12, 2016)
+-------------------------
 
 ### New features
 
 * [[`672bc08e09`](https://github.com/alrra/browser-logos/commit/672bc08e096c1fe94f03477f0f38214651a602bc)] - ✨ Update `Chromium` logo.
 * [[`5c0eea1c40`](https://github.com/alrra/browser-logos/commit/5c0eea1c407576ba36a75f9fa4647bf789f8c5a4)] - ✨ Update `Chrome Canary` logo.
 
-
-## 20.2.0 (January 7, 2016)
+20.2.0 (January 7, 2016)
+------------------------
 
 ### Bug fixes / Improvements
 
 * [[`84829f1cd6`](https://github.com/alrra/browser-logos/commit/84829f1cd6f9deade0b0830d6a611356b848dc64)] - 🔧 Update `Opera` logo to better match the official one (see also: [`#75`](https://github.com/alrra/browser-logos/issues/75)).
 
-
-## 20.1.0 (January 4, 2016)
+20.1.0 (January 4, 2016)
+------------------------
 
 ### Bug fixes / Improvements
 
 * [[`6846ecfac0`](https://github.com/alrra/browser-logos/commit/6846ecfac0949e2a740bb59e889c5a3e909c2176)] - 🔧 Add better version of the `Vivaldi` logo.
 * [[`86118b816c`](https://github.com/alrra/browser-logos/commit/86118b816c656aa742cdc0e0d5d80ea888fb2d34)] - 🗜 Further losslessly optimize `edge.svg`.
 
-
-## 20.0.0 (December 29, 2015)
+20.0.0 (December 29, 2015)
+--------------------------
 
 ### Breaking changes
 
 * [[`f8b78c62a5`](https://github.com/alrra/browser-logos/commit/f8b78c62a5c3a1e45a51ecad76930f104df04032)] - 💥 Move `360 Secure` logo into the `archive`.
 
-
-## 19.0.0 (December 4, 2015)
+19.0.0 (December 4, 2015)
+-------------------------
 
 ### Breaking changes
 
 * [[`af3104a953`](https://github.com/alrra/browser-logos/commit/af3104a953da3c6c2b3381bbdbb29d1bc2625fed)] - 💥 Use `Edge` logo in `main-desktop.png` and `main-mobile.png`.
 
-
-## 18.0.1 (November 20, 2015)
+18.0.1 (November 20, 2015)
+--------------------------
 
 ### Bug fixes / Improvements
 
 * [[`60ff139e9b`](https://github.com/alrra/browser-logos/commit/60ff139e9bf906b556c135df516255324e938815)] - 🗜 Further losslessly optimize images.
 
-
-## 18.0.0 (November 17, 2015)
+18.0.0 (November 17, 2015)
+--------------------------
 
 ### Breaking changes
 
@@ -2542,16 +2546,16 @@
 * [[`f5ff9d2b49`](https://github.com/alrra/browser-logos/commit/f5ff9d2b493ab4e350553480bfde1ca5492675e8)] - ✨ Update `Opera Mini Beta` logo.
 * [[`b5213e4120`](https://github.com/alrra/browser-logos/commit/b5213e4120335c2badf0a218d0290e192ad5a82f)] - ✨ Update `Opera Mini` logo.
 
-
-## 17.1.0 (November 1, 2015)
+17.1.0 (November 1, 2015)
+-------------------------
 
 ### New features
 
 * [[`9bc8f3c908`](https://github.com/alrra/browser-logos/commit/9bc8f3c908424837680a05a4eead0a9ece1d5907)] - ✨ Update `Opera Developer` logo (see also: [`#72`](https://github.com/alrra/browser-logos/issues/72)).
 * [[`3e3753a467`](https://github.com/alrra/browser-logos/commit/3e3753a467f86f693acfcf9acf80c84ccb35680d)] - ✨ Update `Opera Beta` logo (see also: [`#72`](https://github.com/alrra/browser-logos/issues/72)).
 
-
-## 17.0.0 (September 22, 2015)
+17.0.0 (September 22, 2015)
+---------------------------
 
 ### Breaking changes
 
@@ -2561,15 +2565,15 @@
 
 * [[`c79ca1a783`](https://github.com/alrra/browser-logos/commit/c79ca1a7836b1da16188d53cf816f14c27cb8553)] - ✨ Update `Opera` logo.
 
-
-## 16.0.0 (September 12, 2015)
+16.0.0 (September 12, 2015)
+---------------------------
 
 ### Breaking changes
 
 * [[`be044d5a41`](https://github.com/alrra/browser-logos/commit/be044d5a41975b6a27950d68136f105ee3fae81c)] - 💥 Move `Internet Explorer Developer Channel` logo into the `archive`.
 
-
-## 15.0.0 (September 12, 2015)
+15.0.0 (September 12, 2015)
+---------------------------
 
 ### Breaking changes
 
@@ -2579,22 +2583,22 @@
 
 * [[`9c7d77e0f6`](https://github.com/alrra/browser-logos/commit/9c7d77e0f65406515bfe8e730dc94403ff31a540)] - ✨ Update `Dolphin` logo.
 
-
-## 14.1.0 (September 8, 2015)
+14.1.0 (September 8, 2015)
+--------------------------
 
 ### New features
 
 * [[`56d5f27b59`](https://github.com/alrra/browser-logos/commit/56d5f27b59abe0fb28208ca14cb67416c043c0eb)] - ✨ Add `Adblock` logo.
 
-
-## 14.0.1 (September 4, 2015)
+14.0.1 (September 4, 2015)
+--------------------------
 
 ### Bug fixes / Improvements
 
 * [[`bc37738f9c`](https://github.com/alrra/browser-logos/commit/bc37738f9c1e12124a2235acf64b77fd40db718f)] - 🔧 Add `newline` at the end of the SVG files.
 
-
-## 14.0.0 (September 4, 2015)
+14.0.0 (September 4, 2015)
+--------------------------
 
 ### Breaking changes
 
@@ -2604,15 +2608,15 @@
 
 * [[`c0689d46ac`](https://github.com/alrra/browser-logos/commit/c0689d46ac971e678cf33f1041f0e542fea24970)] - 🔧 Add better version of the `IceCat` logo.
 
-
-## 13.1.0 (August 27, 2015)
+13.1.0 (August 27, 2015)
+------------------------
 
 ### New features
 
 * [[`8b2a49d6a8`](https://github.com/alrra/browser-logos/commit/8b2a49d6a8f4feb60f323c0d4f1de9b7d67c5801)] - ✨ Update `WaterFox` logo.
 
-
-## 13.0.0 (August 10, 2015)
+13.0.0 (August 10, 2015)
+------------------------
 
 ### Breaking changes
 
@@ -2624,15 +2628,15 @@
 * [[`70d49c97d7`](https://github.com/alrra/browser-logos/commit/70d49c97d79f228c6e0c9f03b43964599f81c2d2)] - ✨ Update `Sogou Mobile` logo.
 * [[`04334669a8`](https://github.com/alrra/browser-logos/commit/04334669a8eed5bba4cefc337fc32621bdaa2ef0)] - ✨ Update `Baidu` logo.
 
-
-## 12.0.1 (August 7, 2015)
+12.0.1 (August 7, 2015)
+-----------------------
 
 ### Bug fixes / Improvements
 
 * [[`1ec2af8325`](https://github.com/alrra/browser-logos/commit/1ec2af8325ffb8b3f2c2834da84870341a376efd)] - 🗜 Further losslessly optimize images.
 
-
-## 12.0.0 (August 6, 2015)
+12.0.0 (August 6, 2015)
+-----------------------
 
 ### Breaking changes
 
@@ -2642,36 +2646,36 @@
 
 * [[`d37361b0e7`](https://github.com/alrra/browser-logos/commit/d37361b0e7346dd22dab4c91a43072e3f04650af)] - ✨ Update `WebKit` logo (see also: [`#68`](https://github.com/alrra/browser-logos/issues/68)).
 
-
-## 11.0.1 (July 12, 2015)
+11.0.1 (July 12, 2015)
+----------------------
 
 ### Bug fixes / Improvements
 
 * [[`3ebe04704c`](https://github.com/alrra/browser-logos/commit/3ebe04704c372debfe9fc80877033e32a3a549cd)] - 📚 Make minor improvements.
 
-
-## 11.0.0 (June 22, 2015)
+11.0.0 (June 22, 2015)
+----------------------
 
 ### Breaking changes
 
 * [[`096d3b750d`](https://github.com/alrra/browser-logos/commit/096d3b750d6c5806ed0449df7ad7d650c4614421)] - ✨ Update `Yandex` logo.
 
-
-## 10.0.2 (June 4, 2015)
+10.0.2 (June 4, 2015)
+---------------------
 
 ### Bug fixes / Improvements
 
 * [[`fe8cb42c07`](https://github.com/alrra/browser-logos/commit/fe8cb42c07c242c8ea3bba2a1568bf7a8927b830)] - 📚 Make minor improvements.
 
-
-## 10.0.1 (May 18, 2015)
+10.0.1 (May 18, 2015)
+---------------------
 
 ### Bug fixes / Improvements
 
 * [[`0b43e5a249`](https://github.com/alrra/browser-logos/commit/0b43e5a24917c52329073ff36878de96338b9843)] - 📚 Make minor improvements.
 
-
-## 10.0.0 (May 16, 2015)
+10.0.0 (May 16, 2015)
+---------------------
 
 ### Breaking changes
 
@@ -2681,43 +2685,43 @@
 
 * [[`3688e98abb`](https://github.com/alrra/browser-logos/commit/3688e98abb6bca04c7dd08a42d5b66c2d18aa76c)] - ✨ Update `Opera Mini` logo.
 
-
-## 9.2.2 (May 7, 2015)
+9.2.2 (May 7, 2015)
+-------------------
 
 ### Bug fixes / Improvements
 
 * [[`27db352c1b`](https://github.com/alrra/browser-logos/commit/27db352c1bf3af70b18982696c62be850831c745)] - 📚 Make minor improvements.
 
-
-## 9.2.1 (May 6, 2015)
+9.2.1 (May 6, 2015)
+-------------------
 
 ### Bug fixes / Improvements
 
 * [[`90272964a3`](https://github.com/alrra/browser-logos/commit/90272964a3ff4e7719c47d6f787e30270082f654)] - 📚 Make minor improvements.
 
-
-## 9.2.0 (April 29, 2015)
+9.2.0 (April 29, 2015)
+----------------------
 
 ### New features
 
 * [[`08a177d3fa`](https://github.com/alrra/browser-logos/commit/08a177d3fa8714e463795e9c70ff11def08780fc)] - ✨ Add `Microsoft Edge` logo (see also: [`#59`](https://github.com/alrra/browser-logos/issues/59)).
 
-
-## 9.1.0 (April 29, 2015)
+9.1.0 (April 29, 2015)
+----------------------
 
 ### New features
 
 * [[`dfce5b4974`](https://github.com/alrra/browser-logos/commit/dfce5b4974d934647218482017f94547f349a143)] - ✨ Add `Chrome Dev for Android` logo.
 
-
-## 9.0.0 (March 25, 2015)
+9.0.0 (March 25, 2015)
+----------------------
 
 ### Breaking changes
 
 * [[`7df0961540`](https://github.com/alrra/browser-logos/commit/7df0961540df82352b3cc4656e46fadf3c86b324)] - 💥 Rename `Cheetah` to `CM`, and update the logo.
 
-
-## 8.8.0 (March 24, 2015)
+8.8.0 (March 24, 2015)
+----------------------
 
 ### New features
 
@@ -2725,66 +2729,66 @@
 * [[`4ff5f86255`](https://github.com/alrra/browser-logos/commit/4ff5f862552c603b663f3ed71df332671aa64aac)] - ✨ Update `Chrome Canary` logo.
 * [[`ba858d0a57`](https://github.com/alrra/browser-logos/commit/ba858d0a577c6490962072994c59987b86a89e9c)] - ✨ Update `Chrome` logo.
 
-
-## 8.7.0 (March 16, 2015)
+8.7.0 (March 16, 2015)
+----------------------
 
 ### New features
 
 * [[`a757862482`](https://github.com/alrra/browser-logos/commit/a75786248210ada7dfc3ee97e1a5165867b30b26)] - ✨ Add `WaterFox` logo (see also: [`#65`](https://github.com/alrra/browser-logos/issues/65)).
 * [[`1550463f1c`](https://github.com/alrra/browser-logos/commit/1550463f1cca526a4193a1216cf5de4daa0be0c8)] - ✨ Add SVG version of the `Chrome for Android` logo.
 
-
-## 8.6.0 (March 14, 2015)
+8.6.0 (March 14, 2015)
+----------------------
 
 ### New features
 
 * [[`3e7b20b93a`](https://github.com/alrra/browser-logos/commit/3e7b20b93a1b2cd0c98aeb3827d7c2df73ac6a8d)] - ✨ Add `Opera Mini Beta` logo.
 
-
-## 8.5.0 (February 23, 2015)
+8.5.0 (February 23, 2015)
+-------------------------
 
 ### New features
 
 * [[`ca303a5945`](https://github.com/alrra/browser-logos/commit/ca303a59454cc7f13469b83ce7c0877f17d77366)] - ✨ Update `Dolphin` logo.
 
-
-## 8.4.0 (February 13, 2015)
+8.4.0 (February 13, 2015)
+-------------------------
 
 ### New features
 
 * [[`3538cab3a0`](https://github.com/alrra/browser-logos/commit/3538cab3a01aaf33aa618948da164c2c048ac35f)] - ✨ Add `Android WebView Beta` logo.
 
-
-## 8.3.0 (February 5, 2015)
+8.3.0 (February 5, 2015)
+------------------------
 
 ### New features
 
 * [[`0af59c89bd`](https://github.com/alrra/browser-logos/commit/0af59c89bd96acb64d16a83a0c13911b74a62c6e)] - ✨ Add `OmniWeb Test Build` logo.
 * [[`f7fc7d6b21`](https://github.com/alrra/browser-logos/commit/f7fc7d6b21422698353a38881a0334caa3483bf6)] - ✨ Update `UC` logo.
 
-
-## 8.2.0 (January 27, 2015)
+8.2.0 (January 27, 2015)
+------------------------
 
 ### New features
 
 * [[`989786351f`](https://github.com/alrra/browser-logos/commit/989786351ff672a85b69a691ce981461d8b49cd9)] - ✨ Add `Breach` logo.
 
-
-## 8.1.0 (January 27, 2015)
+8.1.0 (January 27, 2015)
+------------------------
 
 ### New features
 
 * [[`94b00848b5`](https://github.com/alrra/browser-logos/commit/94b00848b5730245b47f7d0aaae90ff3a5352111)] - ✨ Add `Vivaldi` logo.
 
-
-## 8.0.0 (January 18, 2015)
+8.0.0 (January 18, 2015)
+------------------------
 
 ### Breaking changes
 
 * [[`2365277b08`](https://github.com/alrra/browser-logos/commit/2365277b081ae200269f74a24cfb3416e216669b)] - 💥 Move the `K-Meleon` logo outside of the `archive`.
 
-
-## 7.2.0 (January 18, 2015)
+7.2.0 (January 18, 2015)
+------------------------
 
 ### Bug fixes / Improvements
 
@@ -2799,15 +2803,15 @@
 * [[`de9d6c3679`](https://github.com/alrra/browser-logos/commit/de9d6c36793745ff21ea0e5b55f5bd2abdf88f44)] - ✨ Add SVG version of the `K-Meleon` logo.
 * [[`dca8706261`](https://github.com/alrra/browser-logos/commit/dca8706261c655d3924eeb6f3352416c67f48d43)] - ✨ Add `Swiftfox` logo.
 
-
-## 7.1.0 (January 10, 2015)
+7.1.0 (January 10, 2015)
+------------------------
 
 ### New features
 
 * [[`cec0a094cb`](https://github.com/alrra/browser-logos/commit/cec0a094cb12843846e5ec3c82704b9a6967b368)] - ✨ Add `Orbitum` logo.
 
-
-## 7.0.0 (December 29, 2014)
+7.0.0 (December 29, 2014)
+-------------------------
 
 ### Breaking changes
 
@@ -2821,51 +2825,52 @@
 
 * [[`6fbc1c503b`](https://github.com/alrra/browser-logos/commit/6fbc1c503b9d171a1148b2196e18d7950f68b81a)] - ✨ Add old `Diigo` logo.
 
-
-## 6.1.0 (December 28, 2014)
+6.1.0 (December 28, 2014)
+-------------------------
 
 ### New features
 
 * [[`c42be68bba`](https://github.com/alrra/browser-logos/commit/c42be68bba24de87046cf6276547e9ef1dc31611)] - ✨ Update `Silk` logo.
 
-
-## 6.0.0 (December 28, 2014)
+6.0.0 (December 28, 2014)
+-------------------------
 
 ### Breaking changes
 
 * [[`1870488d14`](https://github.com/alrra/browser-logos/commit/1870488d1474a6399d1660bdd23ec81534d23c75)] - 💥 Use the same logo for both `Sleipnir` for `Android` and `iOS`.
 
-
-## 5.0.3 (December 18, 2014)
+5.0.3 (December 18, 2014)
+-------------------------
 
 ### Bug fixes / Improvements
 
 * [[`2b9d28209c`](https://github.com/alrra/browser-logos/commit/2b9d28209c2f1356bb5fe5e99ae7e8b5401e7579)] - 🔧 Add better version of the `Android browser` logo.
 * [[`fc8ec4e093`](https://github.com/alrra/browser-logos/commit/fc8ec4e09358213b1c71ae56b9863c46189d5fc4)] - 🗜 Further optimize `SVG`s.
 
-
-## 5.0.2 (December 17, 2014)
+5.0.2 (December 17, 2014)
+-------------------------
 
 ### Bug fixes / Improvements
 
 * [[`953c0a0c39`](https://github.com/alrra/browser-logos/commit/953c0a0c39fb793ebdeea211314cc6c8fd8bb4c4)] - 🔧 Add better version of the `Android browser` logo.
 
-
-## 5.0.1 (December 17, 2014)
+5.0.1 (December 17, 2014)
+-------------------------
 
 ### Bug fixes / Improvements
+
 * [[`a6e0460f1c`](https://github.com/alrra/browser-logos/commit/a6e0460f1c6d37770bcc5e2027bb4572058bcb24)] - 📚 Show `main-mobile.png` in the `README.md` (see also: [`#57`](https://github.com/alrra/browser-logos/pull/57)).
 
-
-## 5.0.0 (December 16, 2014)
+5.0.0 (December 16, 2014)
+-------------------------
 
 ### Breaking changes
 
 * [[`7ec5312027`](https://github.com/alrra/browser-logos/commit/7ec53120278fcf623b1be2b408e05c8f6942c8e5)] - 💥 Include `UC` logo in `main-mobile.png`.
 * [[`af867d4805`](https://github.com/alrra/browser-logos/commit/af867d4805ff9b5e81f606813115ac511a5d5f5b)] - 💥 Include `Firefox` logo in `main-mobile.png`.
 
-
-## 4.3.0 (December 16, 2014)
+4.3.0 (December 16, 2014)
+-------------------------
 
 ### New features
 
@@ -2873,22 +2878,22 @@
 * [[`8dda27fbf2`](https://github.com/alrra/browser-logos/commit/8dda27fbf2dce1c2870ea4115fa198c2bf64233a)] - ✨ Add `Opera Mini` logo.
 * [[`a59832feff`](https://github.com/alrra/browser-logos/commit/a59832feff814edd7337959073366f44d55a95b2)] - ✨ Add `Android browser` logo (see also: [`#55`](https://github.com/alrra/browser-logos/pull/55)).
 
-
-## 4.2.1 (December 15, 2014)
+4.2.1 (December 15, 2014)
+-------------------------
 
 ### Bug fixes / Improvements
 
 * [[`7c3e9d6b25`](https://github.com/alrra/browser-logos/commit/7c3e9d6b2540453469d5128978a3da95c23adf73)] - 🔧 Add better version of the old `Nokia Xpress` logo.
 
-
-## 4.2.0 (December 12, 2014)
+4.2.0 (December 12, 2014)
+-------------------------
 
 ### New features
 
 * [[`543c361869`](https://github.com/alrra/browser-logos/commit/543c361869b2e0a2c0da91204c528d2886a415e0)] - ✨ Add old `Nokia Xpress` logo.
 
-
-## 4.1.0 (December 5, 2014)
+4.1.0 (December 5, 2014)
+------------------------
 
 ### Bug fixes / Improvements
 
@@ -2899,50 +2904,50 @@
 * [[`d5f2553231`](https://github.com/alrra/browser-logos/commit/d5f25532319ebb86b4075aaa5b98e4058869cc98)] - ✨ Add `Uzbl` logo.
 * [[`19290d7838`](https://github.com/alrra/browser-logos/commit/19290d78381da4a0cccd0acf7fe5dd513adb47b2)] - ✨ Add `surf` logo.
 
-
-## 4.0.1 (December 5, 2014)
+4.0.1 (December 5, 2014)
+------------------------
 
 ### Bug fixes / Improvements
 
 * [[`4680a30b8e`](https://github.com/alrra/browser-logos/commit/4680a30b8e93ccd7cb91f29f5d3c9aed1644bdd2)] - 🐛 Exclude `bower.json` and `package.json` from `zip` archive.
 
-
-## 4.0.0 (December 4, 2014)
+4.0.0 (December 4, 2014)
+------------------------
 
 ### Breaking changes
 
 * [[`7386e2eb12`](https://github.com/alrra/browser-logos/commit/7386e2eb12b7ebd6583bc04f77256094a918f69d)] - 💥 Rename `Opera Next` to `Opera Beta` (see also: [`#53`](https://github.com/alrra/browser-logos/pull/53)).
 
-
-## 3.2.0 (December 4, 2014)
+3.2.0 (December 4, 2014)
+------------------------
 
 ### New features
 
 * [[`5553db824f`](https://github.com/alrra/browser-logos/commit/5553db824fd1ac27af4fc62df2ff93f3fa1ba047)] - ✨ Add `Yandex Alpha` logo.
 
-
-## 3.1.3 (December 1, 2014)
+3.1.3 (December 1, 2014)
+------------------------
 
 ### Bug fixes / Improvements
 
 * [[`da3bc98d7b`](https://github.com/alrra/browser-logos/commit/da3bc98d7b79a6f7f3811b1c018a051b925f0989)] - 🔧 Add `bower.json` and publish on `Bower` (see also: [`#52`](https://github.com/alrra/browser-logos/issues/52)).
 
-
-## 3.1.2 (November 26, 2014)
+3.1.2 (November 26, 2014)
+-------------------------
 
 ### Bug fixes / Improvements
 
 * [[`54756efbaa`](https://github.com/alrra/browser-logos/commit/54756efbaac0c66bfe83fbf5558bd82cd34f6606)] - 🔧 Add better version of the `Atomic` logo.
 
-
-## 3.1.1 (November 26, 2014)
+3.1.1 (November 26, 2014)
+-------------------------
 
 ### Bug fixes / Improvements
 
 * [[`329c7bf5a4`](https://github.com/alrra/browser-logos/commit/329c7bf5a4f3e06e2f4b5c51857bb5817ce702c7)] - 📚 Make minor improvements.
 
-
-## 3.1.0 (November 26, 2014)
+3.1.0 (November 26, 2014)
+-------------------------
 
 ### Bug fixes / Improvements
 
@@ -2953,41 +2958,42 @@
 * [[`579f69fb6d`](https://github.com/alrra/browser-logos/commit/579f69fb6db2539c89eb7edf6eee075cbaf07bc2)] - ✨ Add SVG version of the `Netscape 9` logo.
 * [[`e890df5f68`](https://github.com/alrra/browser-logos/commit/e890df5f68cdd71ee07847d4ccda4ffb0e900932)] - ✨ Add SVG version of the `Phoenix/Firebird` logo.
 
-
-## 3.0.0 (November 10, 2014)
+3.0.0 (November 10, 2014)
+-------------------------
 
 ### Breaking changes
 
 * [[`5ca7ec1a23`](https://github.com/alrra/browser-logos/commit/5ca7ec1a23b174795c849a1d16f407ef23fcb3c3)] - 💥 Move `Firefox Aurora` logo into the `archive`.
 
-
-## 2.1.0 (November 10, 2014)
+2.1.0 (November 10, 2014)
+-------------------------
 
 ### New features
 
 * [[`7b128f5b2b`](https://github.com/alrra/browser-logos/commit/7b128f5b2bdfa7867b3ca6d21d3270831b15b257)] - ✨ Add `Firefox Developer Edition` logo.
 
-
-## 2.0.0 (October 16, 2014)
+2.0.0 (October 16, 2014)
+------------------------
 
 ### Breaking changes
+
 * [[`37ad91e4c7`](https://github.com/alrra/browser-logos/commit/37ad91e4c7a7dae149ced874c630e6f5d4447029)] - 💥  Update `Safari` logo (see also: [`#51`](https://github.com/alrra/browser-logos/pull/51)).
 
-
-## 1.1.1 (September 15, 2014)
+1.1.1 (September 15, 2014)
+--------------------------
 
 ### Bug fixes / Improvements
 
 * [[`ca6089f264`](https://github.com/alrra/browser-logos/commit/ca6089f2649db46d18e58883f91dac4e4581c86f)] - 🗜 Further losslessly optimize images.
 
-
-## 1.1.0 (September 5, 2014)
+1.1.0 (September 5, 2014)
+-------------------------
 
 ### New features
 
 * [[`4fb1ea39ce`](https://github.com/alrra/browser-logos/commit/4fb1ea39cec319099720ac9ca717661b9fe7466b)] - ✨ Update `Chrome for Android` logo.
 
-
-## 1.0.0 (September 4, 2014)
+1.0.0 (September 4, 2014)
+-------------------------
 
 ✨

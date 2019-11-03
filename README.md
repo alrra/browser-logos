@@ -1,4 +1,7 @@
-# Browser Logos [![Build Status](https://travis-ci.org/alrra/browser-logos.svg?branch=master)](https://travis-ci.org/alrra/browser-logos)
+Browser Logos
+=============
+
+[![Build Status](https://travis-ci.org/alrra/browser-logos.svg?branch=master)](https://travis-ci.org/alrra/browser-logos)
 
 <table>
     <tbody>
@@ -8,7 +11,7 @@
                     <img src="src/main-desktop-browser-logos.png" alt="Main desktop browsers">
                 </a>
                 <a href="https://raw.githubusercontent.com/alrra/browser-logos/master/src/main-mobile-browser-logos.png">
-                   <img src="src/main-mobile-browser-logos.png" alt="Main mobile browsers">
+                    <img src="src/main-mobile-browser-logos.png" alt="Main mobile browsers">
                 </a>
             </td>
         </tr>
@@ -21,7 +24,8 @@ logos are high resolution with transparent backgrounds.
 
 ---
 
-## Current browser logos
+Current browser logos
+---------------------
 
 For logos of browsers that are currently active, check the [`src/`][src
 readme] directory.
@@ -34,7 +38,8 @@ readme] directory.
     </tbody>
 </table>
 
-## Old browser logos
+Old browser logos
+-----------------
 
 For older logos, or logos of browsers that are no longer active, check
 the [`src/archive/`][archive readme] directory.
@@ -49,26 +54,28 @@ the [`src/archive/`][archive readme] directory.
 
 ---
 
-## Getting the browser logos
+Getting the browser logos
+-------------------------
 
 There are a few options for getting the browser logos:
 
-#### 1) Get individual logos:
+### 1) Get individual logos
 
-   * Install using:
-     * [`npm`][npm]: `npm install --save-dev @browser-logos/`[`<logo>`][packages]
-     * [`Yarn`][yarn]: `yarn add --dev @browser-logos/`[`<logo>`][packages]
-   * Use [`cdnjs`][cdnjs].
+* Install using:
+  * [`npm`][npm]: `npm install --save-dev @browser-logos/`[`<logo>`][packages]
+  * [`Yarn`][yarn]: `yarn add --dev @browser-logos/`[`<logo>`][packages]
+* Use [`cdnjs`][cdnjs].
 
-#### 2) Get all logos:
+### 2) Get all logos
 
-   * Use [`cdnjs`][cdnjs].
-   * Download the [`zip` archive][archive].
-   * Install using:
-     * [`npm`][npm]: `npm install alrra/browser-logos#60.2.0`
-     * [`Yarn`][yarn]: `yarn add browser-logos#60.2.0`
+* Use [`cdnjs`][cdnjs].
+* Download the [`zip` archive][archive].
+* Install using:
+  * [`npm`][npm]: `npm install alrra/browser-logos#60.2.0`
+  * [`Yarn`][yarn]: `yarn add browser-logos#60.2.0`
 
-## Contributing
+Contributing
+------------
 
 Anyone and everyone is welcome to contribute, but before you do, please
 take a moment to review the [guidelines](.github/CONTRIBUTING.md).
@@ -77,23 +84,21 @@ take a moment to review the [guidelines](.github/CONTRIBUTING.md).
 * [Feature requests](.github/CONTRIBUTING.md#features)
 * [Pull requests](.github/CONTRIBUTING.md#pull-requests)
 
-## Acknowledgements
+Acknowledgements
+----------------
 
 [Browser Logos][repo] is only possible thanks to all the awesome
 [contributors][contributors]!
 
-## Legal
+Legal
+-----
 
-#### __All logos and trademarks are the property of their respective owners!__
-
-If you represent the entity that has the rights over a logo and
-you want, for whatever reason, that logo removed from this project,
-[open an issue][issues] requesting its takedown and we will remove
-it as soon as possible.
+All logos and trademarks are the property of their respective owners.
 
 Everything else is available under the [MIT license][license].
 
-## Project origin and history
+Project origin and history
+--------------------------
 
 Read [Paul Irish][github paul]'s [*"High-res Browser Logos"*][article
 paul] blog post.

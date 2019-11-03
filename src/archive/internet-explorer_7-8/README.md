@@ -1,4 +1,5 @@
-# Internet Explorer v7-8
+Internet Explorer v7-8
+======================
 
 <table>
     <tr height=230>
@@ -10,7 +11,8 @@
     </tr>
 </table>
 
-## How do I get this logo?
+How to get the logo
+-------------------
 
 You can either:
 

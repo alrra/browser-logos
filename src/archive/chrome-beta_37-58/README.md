@@ -1,4 +1,5 @@
-# Chrome Beta v37-58
+Chrome Beta v37-58
+==================
 
 <table>
     <tr height=240>
@@ -10,7 +11,8 @@
     </tr>
 </table>
 
-## How do I get this logo?
+How to get the logo
+-------------------
 
 You can either:
 

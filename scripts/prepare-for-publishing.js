@@ -55,7 +55,8 @@ const createPackageJSON = (data) => {
 
 const createReadme = (data) => {
 
-    const content =`# ${data.prettifiedName}
+    const content =`${data.prettifiedName}
+${'='.repeat(data.prettifiedName.length)}
 
 <table>
     <tr height=240>
@@ -67,7 +68,8 @@ const createReadme = (data) => {
     </tr>
 </table>
 
-## How do I get this logo?
+How to get the logo
+-------------------
 
 You can either:
 

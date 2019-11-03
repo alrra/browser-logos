@@ -1,4 +1,5 @@
-# Firefox Developer Edition v57-70
+Firefox Developer Edition v57-70
+================================
 
 <table>
     <tr height=240>
@@ -10,7 +11,8 @@
     </tr>
 </table>
 
-## How do I get this logo?
+How to get the logo
+-------------------
 
 You can either:
 

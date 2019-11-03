@@ -1,4 +1,5 @@
-# Samsung Internet Beta v5.4-9.1
+Samsung Internet Beta v5.4-9.1
+==============================
 
 <table>
     <tr height=240>
@@ -10,7 +11,8 @@
     </tr>
 </table>
 
-## How do I get this logo?
+How to get the logo
+-------------------
 
 You can either:
 

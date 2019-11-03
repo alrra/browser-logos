@@ -1,4 +1,8 @@
-### Android
+Current browser logos
+=====================
+
+Android
+-------
 
 <table>
     <thead>
@@ -19,7 +23,8 @@
     </tbody>
 </table>
 
-### Avant
+Avant
+-----
 
 <table>
     <thead>
@@ -40,7 +45,8 @@
     </tbody>
 </table>
 
-### Basilisk
+Basilisk
+--------
 
 <table>
     <thead>
@@ -61,7 +67,8 @@
     </tbody>
 </table>
 
-### Brave
+Brave
+-----
 
 <table>
     <thead>
@@ -106,7 +113,8 @@
     </tbody>
 </table>
 
-### browsh
+browsh
+------
 
 <table>
     <thead>
@@ -127,7 +135,8 @@
     </tbody>
 </table>
 
-### Chrome
+Chrome
+------
 
 <table>
     <thead>
@@ -172,7 +181,8 @@
     </tbody>
 </table>
 
-#### Chrome DevTools
+Chrome DevTools
+---------------
 
 <table>
     <thead>
@@ -193,7 +203,8 @@
     </tbody>
 </table>
 
-### Chromium
+Chromium
+--------
 
 <table>
     <thead>
@@ -214,7 +225,8 @@
     </tbody>
 </table>
 
-### Cốc Cốc
+Cốc Cốc
+-------
 
 <table>
     <thead>
@@ -235,7 +247,8 @@
     </tbody>
 </table>
 
-### Dolphin
+Dolphin
+-------
 
 <table>
     <thead>
@@ -256,7 +269,8 @@
     </tbody>
 </table>
 
-### Edge
+Edge
+----
 
 <table>
     <thead>
@@ -309,7 +323,8 @@
     </tbody>
 </table>
 
-### Electron
+Electron
+--------
 
 <table>
     <thead>
@@ -330,7 +345,8 @@
     </tbody>
 </table>
 
-### Epic
+Epic
+----
 
 <table>
     <thead>
@@ -351,7 +367,8 @@
     </tbody>
 </table>
 
-### Falkon
+Falkon
+------
 
 <table>
     <thead>
@@ -372,7 +389,8 @@
     </tbody>
 </table>
 
-### Firefox
+Firefox
+-------
 
 <table>
     <thead>
@@ -425,7 +443,8 @@
     </tbody>
 </table>
 
-### Firefox Focus
+Firefox Focus
+-------------
 
 <table>
     <thead>
@@ -446,7 +465,8 @@
     </tbody>
 </table>
 
-### Firefox Preview
+Firefox Preview
+---------------
 
 <table>
     <thead>
@@ -483,7 +503,8 @@
     </tbody>
 </table>
 
-### Firefox Reality
+Firefox Reality
+---------------
 
 <table>
     <thead>
@@ -504,7 +525,8 @@
     </tbody>
 </table>
 
-### GeckoView
+GeckoView
+---------
 
 <table>
     <thead>
@@ -525,7 +547,8 @@
     </tbody>
 </table>
 
-### Hermes
+Hermes
+------
 
 <table>
     <thead>
@@ -546,7 +569,8 @@
     </tbody>
 </table>
 
-### IceCat
+IceCat
+------
 
 <table>
     <thead>
@@ -567,7 +591,8 @@
     </tbody>
 </table>
 
-### jsdom
+jsdom
+-----
 
 <table>
     <thead>
@@ -588,7 +613,8 @@
     </tbody>
 </table>
 
-### Maxthon
+Maxthon
+-------
 
 <table>
     <thead>
@@ -609,7 +635,8 @@
     </tbody>
 </table>
 
-### Midori
+Midori
+------
 
 <table>
     <thead>
@@ -630,7 +657,8 @@
     </tbody>
 </table>
 
-### NetSurf
+NetSurf
+-------
 
 <table>
     <thead>
@@ -651,7 +679,8 @@
     </tbody>
 </table>
 
-### NW.js
+NW.js
+-----
 
 <table>
     <thead>
@@ -672,7 +701,8 @@
     </tbody>
 </table>
 
-### Opera
+Opera
+-----
 
 <table>
     <thead>
@@ -709,7 +739,8 @@
     </tbody>
 </table>
 
-### Opera GX
+Opera GX
+--------
 
 <table>
     <thead>
@@ -730,7 +761,8 @@
     </tbody>
 </table>
 
-### Opera Mini
+Opera Mini
+----------
 
 <table>
     <thead>
@@ -759,7 +791,8 @@
     </tbody>
 </table>
 
-### Opera Neon
+Opera Neon
+----------
 
 <table>
     <thead>
@@ -780,7 +813,8 @@
     </tbody>
 </table>
 
-### Opera Touch
+Opera Touch
+-----------
 
 <table>
     <thead>
@@ -801,7 +835,8 @@
     </tbody>
 </table>
 
-### Otter
+Otter
+-----
 
 <table>
     <thead>
@@ -822,7 +857,8 @@
     </tbody>
 </table>
 
-### Pale Moon
+Pale Moon
+---------
 
 <table>
     <thead>
@@ -843,7 +879,8 @@
     </tbody>
 </table>
 
-### Puffin
+Puffin
+------
 
 <table>
     <thead>
@@ -864,7 +901,8 @@
     </tbody>
 </table>
 
-### Safari
+Safari
+------
 
 <table>
     <thead>
@@ -893,7 +931,8 @@
     </tbody>
 </table>
 
-### Safari (iOS)
+Safari (iOS)
+------------
 
 <table>
     <thead>
@@ -914,7 +953,8 @@
     </tbody>
 </table>
 
-### Samsung Internet
+Samsung Internet
+----------------
 
 <table>
     <thead>
@@ -951,7 +991,8 @@
     </tbody>
 </table>
 
-### SeaMonkey
+SeaMonkey
+---------
 
 <table>
     <thead>
@@ -972,7 +1013,8 @@
     </tbody>
 </table>
 
-### Servo
+Servo
+-----
 
 <table>
     <thead>
@@ -993,7 +1035,8 @@
     </tbody>
 </table>
 
-### Silk
+Silk
+----
 
 <table>
     <thead>
@@ -1014,7 +1057,8 @@
     </tbody>
 </table>
 
-### Sogou (Mobile)
+Sogou (Mobile)
+--------------
 
 <table>
     <thead>
@@ -1035,7 +1079,8 @@
     </tbody>
 </table>
 
-### Tor
+Tor
+---
 
 <table>
     <thead>
@@ -1072,7 +1117,8 @@
     </tbody>
 </table>
 
-### UC
+UC
+--
 
 <table>
     <thead>
@@ -1093,7 +1139,8 @@
     </tbody>
 </table>
 
-### UC Mini
+UC Mini
+-------
 
 <table>
     <thead>
@@ -1114,7 +1161,8 @@
     </tbody>
 </table>
 
-### V8
+V8
+--
 
 <table>
     <thead>
@@ -1135,7 +1183,8 @@
     </tbody>
 </table>
 
-### V8 Ignition
+V8 Ignition
+-----------
 
 <table>
     <thead>
@@ -1156,7 +1205,8 @@
     </tbody>
 </table>
 
-### V8 Liftoff
+V8 Liftoff
+----------
 
 <table>
     <thead>
@@ -1177,7 +1227,8 @@
     </tbody>
 </table>
 
-### V8 Orinoco
+V8 Orinoco
+----------
 
 <table>
     <thead>
@@ -1198,7 +1249,8 @@
     </tbody>
 </table>
 
-### V8 TurboFan
+V8 TurboFan
+-----------
 
 <table>
     <thead>
@@ -1219,7 +1271,8 @@
     </tbody>
 </table>
 
-### Vivaldi
+Vivaldi
+-------
 
 <table>
     <thead>
@@ -1248,7 +1301,8 @@
     </tbody>
 </table>
 
-### Web
+Web
+---
 
 <table>
     <thead>
@@ -1269,7 +1323,8 @@
     </tbody>
 </table>
 
-### WebKit
+WebKit
+------
 
 <table>
     <thead>
@@ -1290,7 +1345,8 @@
     </tbody>
 </table>
 
-### Yandex
+Yandex
+------
 
 <table>
     <thead>

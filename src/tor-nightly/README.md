@@ -1,4 +1,5 @@
-# Tor Nightly
+Tor Nightly
+===========
 
 <table>
     <tr height=240>
@@ -10,7 +11,8 @@
     </tr>
 </table>
 
-## How do I get this logo?
+How to get the logo
+-------------------
 
 You can either:
 

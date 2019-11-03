@@ -2,6 +2,7 @@
 
 const fs = require('fs');
 const path = require('path');
+const os = require('os');
 
 const Listr = require('listr');
 const listrInput = require('listr-input');
@@ -184,7 +185,9 @@ const generateChangelogSection = async (title, tags, commits) => {
 };
 
 const getChangelogContent = (ctx) => {
-    return `## ${ctx.newPackageVersion} (${getDate()})\n\n${ctx.packageReleaseNotes}\n`;
+    const releaseTitle = `${ctx.newPackageVersion} (${getDate()})`;
+
+    return `${releaseTitle}\n${'-'.repeat(releaseTitle.length)}\n\n${ctx.packageReleaseNotes}`;
 };
 
 const getChangelogData = async (commits = [], isPackage = true) => {
@@ -253,22 +256,36 @@ const getReleaseData = async (ctx) => {
 const getReleaseNotes = (changelogFilePath) => {
 
     // The change log is structured as follows:
+
+    // Changelog                        ┐
+    // =========                        │
+    //                                  │ 6 lines (1)
+    // <version_number> (<date>)        │
+    // -------------------------        │
+    //                                  ┘
+    // <logs>
     //
-    // ## <version_number> (<date>)
-    // <empty_line>
-    // <version_log> <= this is what we need to extract
-    // <empty_line>
-    // <empty_line>
-    // ## <version_number> (<date>)
-    // <empty_line>
-    // <version_log>
+    // <version_number> (<date>)        (2)
+    // -------------------------
+    //
+    // <logs>
+    //
     // ...
 
+    let notes = '';
+    const versionRegex = /^(\d\.?){3}/;
+    const changelogLines = (shell.cat(changelogFilePath).stdout).split(os.EOL);
+    const lines = changelogLines.slice(6, changelogLines.length); // (1)
 
-    const eol = '\\r?\\n';
-    const regex = new RegExp(`#.*${eol}${eol}([\\s\\S]*?)${eol}${eol}${eol}`);
+    for (let line of lines) {
+        if (line.match(versionRegex)) { // (2)
+            break;
+        }
 
-    return regex.exec(shell.cat(changelogFilePath))[1];
+        notes += `${line}\n`;
+    }
+
+    return notes;
 };
 
 const gitCommitChanges = async (ctx) => {
@@ -375,11 +392,21 @@ const updateReadme = async (ctx) => {
 };
 
 const updateChangelog = (ctx) => {
+    const changelogHeader = 'Changelog\n=========\n\n';
+
     if (!ctx.isUnpublishedPackage) {
-        updateFile(ctx.changelogFilePath, `${getChangelogContent(ctx)}${shell.cat(ctx.changelogFilePath)}`);
+        const changelogLines = (shell.cat(ctx.changelogFilePath).stdout).split(os.EOL);
+
+        updateFile(
+            ctx.changelogFilePath,
+            `${changelogHeader}${getChangelogContent(ctx)}${(changelogLines.slice(3, changelogLines.length)).join(os.EOL)}`
+        );
     } else {
         ctx.packageReleaseNotes = '✨';
-        updateFile(ctx.changelogFilePath, getChangelogContent(ctx));
+        updateFile(
+            ctx.changelogFilePath,
+            `${changelogHeader}${getChangelogContent(ctx)}`
+        );
     }
 };
 

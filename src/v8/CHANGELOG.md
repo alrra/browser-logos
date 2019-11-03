@@ -1,48 +1,52 @@
-## 2.0.3 (October 13, 2019)
+Changelog
+=========
+
+2.0.3 (October 13, 2019)
+------------------------
 
 ### Bug fixes / Improvements
 
 * [[`8fab53c254`](https://github.com/alrra/browser-logos/commit/8fab53c2544fe45642f4b330f21c426a07c63367)] - 📚 Add instructions on how to install packages via `Yarn` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 2.0.2 (August 27, 2019)
+2.0.2 (August 27, 2019)
+-----------------------
 
 ### Bug fixes / Improvements
 
 * [[`3799655cbd`](https://github.com/alrra/browser-logos/commit/3799655cbde62ea2de2a8a2b12a6123edae087b1)] - 🔧 Specify the directory of the package in the `package.json` file (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 2.0.1 (August 24, 2019)
+2.0.1 (August 24, 2019)
+-----------------------
 
 ### Bug fixes / Improvements
 
 * [[`60e962df5d`](https://github.com/alrra/browser-logos/commit/60e962df5d3233e7d8a7a2e3943c52ba0189487c)] - 🗜 Further optimize `v8.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 2.0.0 (July 6, 2019)
+2.0.0 (July 6, 2019)
+--------------------
 
 ### Breaking Changes
 
 * [[`2f2856da7c`](https://github.com/alrra/browser-logos/commit/2f2856da7c13bc971c32afd8ddc739e99b64ccab)] - 💥 Remove the V8 logos that have the outline (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 1.1.3 (May 4, 2019)
+1.1.3 (May 4, 2019)
+-------------------
 
 ### Bug fixes / Improvements
 
 * [[`ca0c2b0d29`](https://github.com/alrra/browser-logos/commit/ca0c2b0d2938706f4d3a4e17174da9a8c6b488c5)] - 🗜 Further optimize `v8.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 * [[`79382836d3`](https://github.com/alrra/browser-logos/commit/79382836d304443d2e89f919e5f68d27d9341a1a)] - 🗜 Further optimize `v8-outline.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 1.1.2 (March 15, 2019)
+1.1.2 (March 15, 2019)
+----------------------
 
 ### Bug fixes / Improvements
 
 * [[`fe67c07fd3`](https://github.com/alrra/browser-logos/commit/fe67c07fd39322ac5378f63f9f9d50422d7658b7)] - 📚 Improve `README.md`s (by [`Cătălin Mariș`](https://github.com/alrra)).
 * [[`36f6545134`](https://github.com/alrra/browser-logos/commit/36f65451346e2a5b4cb711b73665bafcd9ddacda)] - 📚 Remove `yarn` install instructions (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 1.1.1 (March 8, 2019)
+1.1.1 (March 8, 2019)
+---------------------
 
 ### Bug fixes / Improvements
 
@@ -53,27 +57,28 @@
 * [[`7fdd4869de`](https://github.com/alrra/browser-logos/commit/7fdd4869de028dcd8c3a4481f96d92f84a85fa77)] - 🗜️ Further losslessly optimize `v8.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
 * [[`3bb40f69b0`](https://github.com/alrra/browser-logos/commit/3bb40f69b0cce0795655e43d42f802b8f9393cc0)] - 📚 Improve READMEs (by [`Cătălin Mariș`](https://github.com/alrra)).
 
-
-## 1.1.0 (October 12, 2018)
+1.1.0 (October 12, 2018)
+------------------------
 
 ### New features
 
 * [[`7880d07b0d`](https://github.com/alrra/browser-logos/commit/7880d07b0de259019d25e00b10bbd88256a1ca37)] - ✨ Add logo with outline.
 
-
-## 1.0.2 (September 27, 2018)
+1.0.2 (September 27, 2018)
+--------------------------
 
 ### Bug fixes / Improvements
 
 * [[`37bbc400f8`](https://github.com/alrra/browser-logos/commit/37bbc400f85a058d1baa9fbb120ee85ef9c08762)] - 🗜 Further losslessly optimize `v8.svg`
 
-## 1.0.1 (June 10, 2017)
+1.0.1 (June 10, 2017)
+---------------------
 
 ### Bug fixes / Improvements
 
 * [[`2d1e3279b1`](https://github.com/alrra/browser-logos/commit/2d1e3279b184ab239dfa68365ef3b2cd6f35d480)] - 🔧 Tweak and further optimize `v8.svg`.
 
-
-## 1.0.0 (June 10, 2017)
+1.0.0 (June 10, 2017)
+---------------------
 
 ✨

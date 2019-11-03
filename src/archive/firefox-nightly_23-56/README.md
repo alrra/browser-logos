@@ -1,4 +1,5 @@
-# Firefox Nightly v23-56
+Firefox Nightly v23-56
+======================
 
 <table>
     <tr height=230>
@@ -10,7 +11,8 @@
     </tr>
 </table>
 
-## How do I get this logo?
+How to get the logo
+-------------------
 
 You can either:
 

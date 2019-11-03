@@ -1,4 +1,5 @@
-# Samsung Internet v3-4.2
+Samsung Internet v3-4.2
+=======================
 
 <table>
     <tr height=230>
@@ -10,7 +11,8 @@
     </tr>
 </table>
 
-## How do I get this logo?
+How to get the logo
+-------------------
 
 You can either:
 
