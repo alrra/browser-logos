@@ -1,3 +1,10 @@
+## 4.1.0 (November 2, 2019)
+
+### New features
+
+* [[`ca34866476`](https://github.com/alrra/browser-logos/commit/ca3486647605b5113df9fd9e8e6a9127db9b4e73)] - ✨ Add `firefox-beta.svg` logo (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 4.0.2 (October 13, 2019)
 
 ### Bug fixes / Improvements
