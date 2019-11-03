@@ -1,3 +1,11 @@
+## 3.0.3 (November 2, 2019)
+
+### Bug fixes / Improvements
+
+* [[`f2f7ddf00f`](https://github.com/alrra/browser-logos/commit/f2f7ddf00fd31544e4d967ea512027d8fce29938)] - 🔧 Tweak `firefox-developer-edition.svg` logo (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`878a632246`](https://github.com/alrra/browser-logos/commit/878a632246f50c59a1cce99142fe2b41b35d5835)] - 🗜 Further losslessly optimize `firefox-developer-edition.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 3.0.2 (October 13, 2019)
 
 ### Bug fixes / Improvements
