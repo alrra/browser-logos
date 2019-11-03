@@ -19,7 +19,7 @@ trim_trailing_whitespace = true
 
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-[{.travis.yml,package.json}]
+[*.{json,yml}]
 
 indent_size = 2
 indent_style = space

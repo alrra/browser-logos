@@ -1,7 +1,7 @@
 Browser Logos
 =============
 
-[![Build Status](https://travis-ci.org/alrra/browser-logos.svg?branch=master)](https://travis-ci.org/alrra/browser-logos)
+[![Build Status](https://github.com/alrra/browser-logos/workflows/test/badge.svg)](https://github.com/alrra/browser-logos/actions)
 
 <table>
     <tbody>
