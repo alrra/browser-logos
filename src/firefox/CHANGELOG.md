@@ -1,3 +1,10 @@
+## 3.0.5 (November 2, 2019)
+
+### Bug fixes / Improvements
+
+* [[`bd90dba9aa`](https://github.com/alrra/browser-logos/commit/bd90dba9aac7d9eb03aa35d636b566cb6b214896)] - 🔧 Tweak `firefox.svg` logo (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 ## 3.0.4 (October 24, 2019)
 
 ### Bug fixes / Improvements
