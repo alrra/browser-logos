@@ -4,8 +4,8 @@ Phoenix/Firebird
 <table>
     <tr height=230>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/8fab53c2544fe45642f4b330f21c426a07c63367/src/archive/phoenix-firebird">
-                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/8fab53c2544fe45642f4b330f21c426a07c63367/src/archive/phoenix-firebird/phoenix-firebird.svg?sanitize=true" alt="Phoenix/Firebird browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/0c166d9c3f136e54858112c1d53f89356ad9d3db/src/archive/phoenix-firebird">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/0c166d9c3f136e54858112c1d53f89356ad9d3db/src/archive/phoenix-firebird/phoenix-firebird.svg?sanitize=true" alt="Phoenix/Firebird browser logo">
             </a>
         </td>
     </tr>
