@@ -1,6 +1,14 @@
 Changelog
 =========
 
+60.2.2 (November 3, 2019)
+-------------------------
+
+### Bug fixes / Improvements
+
+* [[`d6bc197b8b`](https://github.com/alrra/browser-logos/commit/d6bc197b8bc727b2c2e5c0223e2643e368fd1b16)] - 🗜️ Further optimize images (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`ac58b6266d`](https://github.com/alrra/browser-logos/commit/ac58b6266d9a7a318c7efc39d1ee16898802ee3f)] - 🗜 Further losslessly optimize `chrome-dev.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 60.2.1 (November 3, 2019)
 -------------------------
 
