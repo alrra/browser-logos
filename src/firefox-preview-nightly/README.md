@@ -4,8 +4,8 @@ Firefox Preview Nightly
 <table>
     <tr height=240>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/849055757c8894c8c9f7527a4aad6456526dc146/src/firefox-preview-nightly">
-                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/849055757c8894c8c9f7527a4aad6456526dc146/src/firefox-preview-nightly/firefox-preview-nightly.svg?sanitize=true" alt="Firefox Preview Nightly browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/d6bc197b8bc727b2c2e5c0223e2643e368fd1b16/src/firefox-preview-nightly">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/d6bc197b8bc727b2c2e5c0223e2643e368fd1b16/src/firefox-preview-nightly/firefox-preview-nightly.svg?sanitize=true" alt="Firefox Preview Nightly browser logo">
             </a>
         </td>
     </tr>
