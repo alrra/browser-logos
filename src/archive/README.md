@@ -544,6 +544,28 @@ Dolphin Zero
     </tbody>
 </table>
 
+Edge
+----
+
+<table>
+    <thead>
+        <tr>
+            <th>
+                <a href="https://en.wikipedia.org/wiki/Microsoft_Edge">Edge<br>12-18</a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=170>
+            <td>
+                <a href="edge">
+                    <img width=150 src="edge_12-18/edge_12-18_256x256.png" alt="Microsoft Edge v12-18 browser logo">
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 Epic
 ----
 
