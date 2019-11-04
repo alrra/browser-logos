@@ -8,7 +8,6 @@
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
 
       - name: Checkout repository
@@ -19,7 +18,7 @@ jobs:
         with:
           node-version: 12.x
 
-      - name: Install Dependencies
+      - name: Install dependencies
         run: npm install
 
       - name: Validate Markdown
@@ -35,4 +34,5 @@ name: test
 on:
   push:
   schedule:
+    # Schedule workflow to run every week on Friday at 8pm.
     - cron: "0 20 * * FRI"
