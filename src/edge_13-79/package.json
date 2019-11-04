@@ -1,6 +1,6 @@
 {
   "bugs": "https://github.com/alrra/browser-logos/issues",
-  "description": "Microsoft Edge browser logo",
+  "description": "Microsoft Edge v13-79 browser logo",
   "homepage": "https://github.com/alrra/browser-logos",
   "keywords": [
     "browser-logos",
@@ -8,9 +8,9 @@
     "microsoft-edge",
     "microsoft-edge-logo"
   ],
-  "name": "@browser-logos/edge",
+  "name": "@browser-logos/edge_13-79",
   "repository": {
-    "directory": "src/edge",
+    "directory": "src/edge_13-79",
     "type": "git",
     "url": "https://github.com/alrra/browser-logos.git"
   },
