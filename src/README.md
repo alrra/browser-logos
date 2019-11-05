@@ -279,9 +279,6 @@ Edge
                 <a href="https://www.microsoft.com/en-us/windows/microsoft-edge">Edge</a>
             </th>
             <th>
-                <a href="https://www.microsoft.com/en-us/windows/microsoft-edge">Edge<br>Tile</a>
-            </th>
-            <th>
                 <a href="https://www.microsoftedgeinsider.com/en-us/download/">Edge<br>Beta</a>
             </th>
             <th>
@@ -297,11 +294,6 @@ Edge
             <td>
                 <a href="edge">
                     <img width=150 src="edge/edge_256x256.png" alt="Microsoft Edge browser logo">
-                </a>
-            </td>
-            <td>
-                <a href="edge-tile">
-                    <img width=150 src="edge-tile/edge-tile_256x256.png" alt="Microsoft Edge tile browser logo">
                 </a>
             </td>
             <td>
