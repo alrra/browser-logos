@@ -588,6 +588,28 @@ Edge Beta
     </tbody>
 </table>
 
+Edge Dev
+--------
+
+<table>
+    <thead>
+        <tr>
+            <th>
+                <a href="https://en.wikipedia.org/wiki/Microsoft_Edge">Edge<br>Dev<br>12-18</a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=170>
+            <td>
+                <a href="edge-dev">
+                    <img width=150 src="edge-dev_12-18/edge-dev_12-18_256x256.png" alt="Microsoft Edge Dev v12-18 browser logo">
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 Epic
 ----
 
