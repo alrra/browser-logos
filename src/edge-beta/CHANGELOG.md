@@ -1,6 +1,13 @@
 Changelog
 =========
 
+2.0.0 (November 5, 2019)
+------------------------
+
+### Breaking Changes
+
+* [[`1bf5352426`](https://github.com/alrra/browser-logos/commit/1bf5352426f6a1784eaa6af706d89aee01668cb7)] - 💥 Update `Edge Beta` logo (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 1.0.11 (October 13, 2019)
 -------------------------
 
