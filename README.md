@@ -106,7 +106,7 @@ paul] blog post.
 <!-- Link labels: -->
 
 [archive readme]: src/archive/README.md#readme
-[archive]: https://github.com/alrra/browser-logos/archive/46.1.0.zip
+[archive]: https://github.com/alrra/browser-logos/archive/61.0.0.zip
 [article paul]: https://www.paulirish.com/2010/high-res-browser-icons/
 [cdnjs]: https://cdnjs.com/libraries/browser-logos
 [contributors]: https://github.com/alrra/browser-logos/graphs/contributors

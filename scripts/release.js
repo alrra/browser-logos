@@ -386,7 +386,7 @@ const updateReadme = async (ctx) => {
     if (ctx.packagePath !== '.') {
         shell.sed('-i', '[0-9a-f]{40}', lastCommitSha, `${ctx.packagePath}/README.md`);
     } else {
-        shell.sed('-i', '#[0-9]+\.[0-9]+\.[0-9]+', `#${ctx.newPackageVersion}` , `${ctx.packagePath}/README.md`);
+        shell.sed('-i', '[0-9]+\.[0-9]+\.[0-9]+', `#${ctx.newPackageVersion}` , `${ctx.packagePath}/README.md`);
         console.log(`${ctx.newPackageVersion}, ${ctx.packagePath}/README.md`);
     }
 };
