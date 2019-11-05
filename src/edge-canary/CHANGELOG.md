@@ -1,6 +1,13 @@
 Changelog
 =========
 
+2.0.0 (November 5, 2019)
+------------------------
+
+### Breaking Changes
+
+* [[`b528ce0f92`](https://github.com/alrra/browser-logos/commit/b528ce0f925372251f68795498f85ead08216cb8)] - 💥 Update `Edge Canary` logo (by [`Cătălin Mariș`](https://github.com/alrra) / see also: [`#179`](https://github.com/alrra/browser-logos/issues/179)).
+
 1.0.9 (October 13, 2019)
 ------------------------
 
