@@ -1,6 +1,21 @@
 Changelog
 =========
 
+61.0.0 (November 5, 2019)
+-------------------------
+
+### Breaking Changes
+
+* [[`b528ce0f92`](https://github.com/alrra/browser-logos/commit/b528ce0f925372251f68795498f85ead08216cb8)] - 💥 Update `Edge Canary` logo (by [`Cătălin Mariș`](https://github.com/alrra) / see also: [`#179`](https://github.com/alrra/browser-logos/issues/179)).
+* [[`1aa882acec`](https://github.com/alrra/browser-logos/commit/1aa882acec6e9ec7b72af89384e98e3cf811f1cd)] - 💥 Update `Edge Dev` logo (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`1bf5352426`](https://github.com/alrra/browser-logos/commit/1bf5352426f6a1784eaa6af706d89aee01668cb7)] - 💥 Update `Edge Beta` logo (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`82c7d89bf5`](https://github.com/alrra/browser-logos/commit/82c7d89bf57570b6daa82f967908e344161e38fa)] - 💥 Update `Edge` logo (by [`Jonathan Neal`](https://github.com/jonathantneal) / see also: [`#180`](https://github.com/alrra/browser-logos/issues/180)).
+
+### Bug fixes / Improvements
+
+* [[`57db1b6ad1`](https://github.com/alrra/browser-logos/commit/57db1b6ad19256d186fc7c7b0eaf8d7eedfa53a6)] - 📚 Fix broken links (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`a36bf55999`](https://github.com/alrra/browser-logos/commit/a36bf55999581ef93c27ef7d701a428b03f3acbe)] - 🔧 Tweak and further optimize `edge.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 60.2.2 (November 3, 2019)
 -------------------------
 
