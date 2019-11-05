@@ -558,7 +558,7 @@ Edge
     <tbody>
         <tr height=170>
             <td>
-                <a href="edge">
+                <a href="edge_12-18">
                     <img width=150 src="edge_12-18/edge_12-18_256x256.png" alt="Microsoft Edge v12-18 browser logo">
                 </a>
             </td>
@@ -580,7 +580,7 @@ Edge Beta
     <tbody>
         <tr height=170>
             <td>
-                <a href="edge-beta">
+                <a href="edge-beta_12-18">
                     <img width=150 src="edge-beta_12-18/edge-beta_12-18_256x256.png" alt="Microsoft Edge Beta v12-18 browser logo">
                 </a>
             </td>
@@ -602,7 +602,7 @@ Edge Canary
     <tbody>
         <tr height=170>
             <td>
-                <a href="edge-canary">
+                <a href="edge-canary_12-18">
                     <img width=150 src="edge-canary_12-18/edge-canary_12-18_256x256.png" alt="Microsoft Edge Canary v12-18 browser logo">
                 </a>
             </td>
@@ -624,7 +624,7 @@ Edge Dev
     <tbody>
         <tr height=170>
             <td>
-                <a href="edge-dev">
+                <a href="edge-dev_12-18">
                     <img width=150 src="edge-dev_12-18/edge-dev_12-18_256x256.png" alt="Microsoft Edge Dev v12-18 browser logo">
                 </a>
             </td>
