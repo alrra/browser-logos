@@ -1,6 +1,17 @@
 Changelog
 =========
 
+2.0.0 (November 5, 2019)
+------------------------
+
+### Breaking Changes
+
+* [[`82c7d89bf5`](https://github.com/alrra/browser-logos/commit/82c7d89bf57570b6daa82f967908e344161e38fa)] - 💥 Update `Edge` logo (by [`Jonathan Neal`](https://github.com/jonathantneal) / see also: [`#180`](https://github.com/alrra/browser-logos/issues/180)).
+
+### Bug fixes / Improvements
+
+* [[`a36bf55999`](https://github.com/alrra/browser-logos/commit/a36bf55999581ef93c27ef7d701a428b03f3acbe)] - 🔧 Tweak and further optimize `edge.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 1.0.10 (October 13, 2019)
 -------------------------
 
