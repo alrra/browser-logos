@@ -1,6 +1,13 @@
 Changelog
 =========
 
+2.0.0 (November 5, 2019)
+------------------------
+
+### Breaking Changes
+
+* [[`1aa882acec`](https://github.com/alrra/browser-logos/commit/1aa882acec6e9ec7b72af89384e98e3cf811f1cd)] - 💥 Update `Edge Dev` logo (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 1.0.9 (October 13, 2019)
 ------------------------
 

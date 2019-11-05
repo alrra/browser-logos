@@ -4,8 +4,8 @@ Microsoft Edge Dev
 <table>
     <tr height=240>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/8fab53c2544fe45642f4b330f21c426a07c63367/src/edge-dev">
-                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/8fab53c2544fe45642f4b330f21c426a07c63367/src/edge-dev/edge-dev_512x512.png" alt="Microsoft Edge Dev browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/1aa882acec6e9ec7b72af89384e98e3cf811f1cd/src/edge-dev">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/1aa882acec6e9ec7b72af89384e98e3cf811f1cd/src/edge-dev/edge-dev_512x512.png" alt="Microsoft Edge Dev browser logo">
             </a>
         </td>
     </tr>
