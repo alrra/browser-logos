@@ -588,6 +588,28 @@ Edge Beta
     </tbody>
 </table>
 
+Edge Canary
+-----------
+
+<table>
+    <thead>
+        <tr>
+            <th>
+                <a href="https://en.wikipedia.org/wiki/Microsoft_Edge">Edge<br>Canary<br>12-18</a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=170>
+            <td>
+                <a href="edge-canary">
+                    <img width=150 src="edge-canary_12-18/edge-canary_12-18_256x256.png" alt="Microsoft Edge Canary v12-18 browser logo">
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 Edge Dev
 --------
 
