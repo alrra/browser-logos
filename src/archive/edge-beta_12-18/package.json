@@ -8,7 +8,6 @@
     "edge-beta",
     "edge-beta-logo"
   ],
-  "private": true,
   "name": "@browser-logos/edge-beta_12-18",
   "repository": {
     "directory": "src/archive/edge-beta_12-18",
