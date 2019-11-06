@@ -8,7 +8,6 @@
     "edge-canary",
     "edge-canary-logo"
   ],
-  "private": true,
   "name": "@browser-logos/edge-canary_12-18",
   "repository": {
     "directory": "src/archive/edge-canary_12-18",
