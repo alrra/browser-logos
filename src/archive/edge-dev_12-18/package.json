@@ -8,7 +8,6 @@
     "edge-dev",
     "edge-dev-logo"
   ],
-  "private": true,
   "name": "@browser-logos/edge-dev_12-18",
   "repository": {
     "directory": "src/archive/edge-dev_12-18",
