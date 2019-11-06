@@ -1,6 +1,16 @@
 Changelog
 =========
 
+61.1.0 (November 5, 2019)
+-------------------------
+
+### New features
+
+* [[`06653cebb2`](https://github.com/alrra/browser-logos/commit/06653cebb217cf92a228e537c9d34b17c6b746be)] - ✨ Publish `Edge Dev` `v12-18` logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`27c6fcc35a`](https://github.com/alrra/browser-logos/commit/27c6fcc35aaee49d442720a18ced6b92843ad87f)] - ✨ Publish `Edge Canary` `v12-18` logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`5a559df9a3`](https://github.com/alrra/browser-logos/commit/5a559df9a38403e67a604f9c0168ded1e40ce972)] - ✨ Publish `Edge Beta` `v12-18` logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`a608ccbc01`](https://github.com/alrra/browser-logos/commit/a608ccbc011c66e23cc14d499156a03babab4677)] - ✨ Publish `Edge` `v12-18` logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 61.0.0 (November 5, 2019)
 -------------------------
 
