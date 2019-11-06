@@ -187,7 +187,7 @@ const generateChangelogSection = async (title, tags, commits) => {
 const getChangelogContent = (ctx) => {
     const releaseTitle = `${ctx.newPackageVersion} (${getDate()})`;
 
-    return `${releaseTitle}\n${'-'.repeat(releaseTitle.length)}\n\n${ctx.packageReleaseNotes}`;
+    return `${releaseTitle}\n${'-'.repeat(releaseTitle.length)}\n\n${ctx.packageReleaseNotes}\n`;
 };
 
 const getChangelogData = async (commits = [], isPackage = true) => {
