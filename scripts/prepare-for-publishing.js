@@ -44,7 +44,11 @@ const createPackageJSON = (data) => {
   ],
   "private": true,
   "name": "@browser-logos/${data.packageName}",
-  "repository": "alrra/browser-logos",
+  "repository": {
+    "directory": "${data.packagePath}",
+    "type": "git",
+    "url": "https://github.com/alrra/browser-logos.git"
+  },
   "version": "1.0.0"
 }
 `;
