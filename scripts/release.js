@@ -187,7 +187,7 @@ const generateChangelogSection = async (title, tags, commits) => {
 const getChangelogContent = (ctx) => {
     const releaseTitle = `${ctx.newPackageVersion} (${getDate()})`;
 
-    return `${releaseTitle}\n${'-'.repeat(releaseTitle.length)}\n\n${ctx.packageReleaseNotes}\n`;
+    return `${releaseTitle}\n${'-'.repeat(releaseTitle.length)}\n\n${ctx.packageReleaseNotes}`;
 };
 
 const getChangelogData = async (commits = [], isPackage = true) => {
@@ -386,7 +386,7 @@ const updateReadme = async (ctx) => {
     if (ctx.packagePath !== '.') {
         shell.sed('-i', '[0-9a-f]{40}', lastCommitSha, `${ctx.packagePath}/README.md`);
     } else {
-        shell.sed('-i', '[0-9]+\.[0-9]+\.[0-9]+', `#${ctx.newPackageVersion}` , `${ctx.packagePath}/README.md`);
+        shell.sed('-i', '[0-9]+\.[0-9]+\.[0-9]+', `${ctx.newPackageVersion}` , `${ctx.packagePath}/README.md`);
         console.log(`${ctx.newPackageVersion}, ${ctx.packagePath}/README.md`);
     }
 };
@@ -405,7 +405,7 @@ const updateChangelog = (ctx) => {
         ctx.packageReleaseNotes = '✨';
         updateFile(
             ctx.changelogFilePath,
-            `${changelogHeader}${getChangelogContent(ctx)}`
+            `${changelogHeader}${getChangelogContent(ctx)}\n`
         );
     }
 };
