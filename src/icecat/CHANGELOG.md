@@ -1,6 +1,13 @@
 Changelog
 =========
 
+1.0.9 (November 8, 2019)
+------------------------
+
+### Bug fixes / Improvements
+
+* [[`858ed41a98`](https://github.com/alrra/browser-logos/commit/858ed41a980f84a28589fd7948c098a9838a80fc)] - 🗜️ Further optimize images (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 1.0.8 (October 13, 2019)
 ------------------------
 
