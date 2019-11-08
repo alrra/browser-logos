@@ -1,6 +1,13 @@
 Changelog
 =========
 
+2.0.4 (November 8, 2019)
+------------------------
+
+### Bug fixes / Improvements
+
+* [[`a9c4b91cd0`](https://github.com/alrra/browser-logos/commit/a9c4b91cd080c29ee78611b97d634fe923d3735d)] - 🗜 Further losslessly optimize `v8-liftoff.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 2.0.3 (November 3, 2019)
 ------------------------
 
