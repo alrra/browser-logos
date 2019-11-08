@@ -4,8 +4,8 @@ NetSurf
 <table>
     <tr height=230>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/8fab53c2544fe45642f4b330f21c426a07c63367/src/netsurf">
-                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/8fab53c2544fe45642f4b330f21c426a07c63367/src/netsurf/netsurf.svg?sanitize=true" alt="NetSurf browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/858ed41a980f84a28589fd7948c098a9838a80fc/src/netsurf">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/858ed41a980f84a28589fd7948c098a9838a80fc/src/netsurf/netsurf.svg?sanitize=true" alt="NetSurf browser logo">
             </a>
         </td>
     </tr>
