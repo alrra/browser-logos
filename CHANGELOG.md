@@ -1,6 +1,14 @@
 Changelog
 =========
 
+61.1.1 (November 8, 2019)
+-------------------------
+
+### Bug fixes / Improvements
+
+* [[`858ed41a98`](https://github.com/alrra/browser-logos/commit/858ed41a980f84a28589fd7948c098a9838a80fc)] - 🗜️ Further optimize images (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`a9c4b91cd0`](https://github.com/alrra/browser-logos/commit/a9c4b91cd080c29ee78611b97d634fe923d3735d)] - 🗜 Further losslessly optimize `v8-liftoff.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 61.1.0 (November 5, 2019)
 -------------------------
 
