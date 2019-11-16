@@ -1,6 +1,13 @@
 Changelog
 =========
 
+1.0.7 (November 15, 2019)
+-------------------------
+
+### Bug fixes / Improvements
+
+* [[`779ab32b44`](https://github.com/alrra/browser-logos/commit/779ab32b4446e6ebb1f206cf1281a26eb8307957)] - 🗜 Further losslessly optimize `webkit.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 1.0.6 (November 3, 2019)
 ------------------------
 
