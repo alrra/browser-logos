@@ -1,7 +1,9 @@
 Browser Logos
 =============
 
+<!-- markdown-link-check-disable -->
 [![Build Status](https://github.com/alrra/browser-logos/workflows/test/badge.svg)](https://github.com/alrra/browser-logos/actions)
+<!-- markdown-link-check-enable -->
 
 <table>
     <tbody>
