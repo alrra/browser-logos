@@ -4,8 +4,8 @@ V8
 <table>
     <tr height=230>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/8fab53c2544fe45642f4b330f21c426a07c63367/src/v8">
-                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/8fab53c2544fe45642f4b330f21c426a07c63367/src/v8/v8.svg?sanitize=true" alt="V8 browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/ed5b24d8a66365416f1e69d1979a55c9324b2367/src/v8">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/ed5b24d8a66365416f1e69d1979a55c9324b2367/src/v8/v8.svg?sanitize=true" alt="V8 browser logo">
             </a>
         </td>
     </tr>

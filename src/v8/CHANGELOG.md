@@ -1,6 +1,13 @@
 Changelog
 =========
 
+2.0.4 (November 15, 2019)
+-------------------------
+
+### Bug fixes / Improvements
+
+* [[`ed5b24d8a6`](https://github.com/alrra/browser-logos/commit/ed5b24d8a66365416f1e69d1979a55c9324b2367)] - 🗜 Further losslessly optimize `v8.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 2.0.3 (October 13, 2019)
 ------------------------
 
