@@ -1,6 +1,17 @@
 Changelog
 =========
 
+61.1.2 (November 15, 2019)
+--------------------------
+
+### Bug fixes / Improvements
+
+* [[`9fbca1f7ff`](https://github.com/alrra/browser-logos/commit/9fbca1f7ff0761a9a8c7511ae43535b1a16a2c4d)] - 🗜 Further losslessly `edge-tile.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`7e5fd5139a`](https://github.com/alrra/browser-logos/commit/7e5fd5139ab9460baee6d1685df6abe3c12c8804)] - 🗜 Further losslessly optimize `v8-turbofan.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`ed5b24d8a6`](https://github.com/alrra/browser-logos/commit/ed5b24d8a66365416f1e69d1979a55c9324b2367)] - 🗜 Further losslessly optimize `v8.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`ceee9a5c3e`](https://github.com/alrra/browser-logos/commit/ceee9a5c3e6e48d6810f98671a0a7a978b63d459)] - 🗜 Further losslessly optimize `opera-gx.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`779ab32b44`](https://github.com/alrra/browser-logos/commit/779ab32b4446e6ebb1f206cf1281a26eb8307957)] - 🗜 Further losslessly optimize `webkit.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 61.1.1 (November 8, 2019)
 -------------------------
 
