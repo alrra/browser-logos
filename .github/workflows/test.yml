@@ -35,4 +35,4 @@ on:
   push:
   schedule:
     # Schedule workflow to run every week on Friday at 8pm.
-    - cron: "0 20 * * FRI"
+    - cron: "0 0 * * SAT"
