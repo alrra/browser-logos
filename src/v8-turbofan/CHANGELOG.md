@@ -1,6 +1,13 @@
 Changelog
 =========
 
+2.0.4 (November 15, 2019)
+-------------------------
+
+### Bug fixes / Improvements
+
+* [[`7e5fd5139a`](https://github.com/alrra/browser-logos/commit/7e5fd5139ab9460baee6d1685df6abe3c12c8804)] - 🗜 Further losslessly optimize `v8-turbofan.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 2.0.3 (October 13, 2019)
 ------------------------
 
