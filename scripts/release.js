@@ -257,12 +257,14 @@ const getReleaseNotes = (changelogFilePath) => {
 
     // The change log is structured as follows:
 
-    // Changelog                        ┐
-    // =========                        │
-    //                                  │ 6 lines (1)
-    // <version_number> (<date>)        │
-    // -------------------------        │
-    //                                  ┘
+    // <!-- markdownlint-disable line-length -->    ┐
+    //                                              │
+    // Changelog                                    │
+    // =========                                    │ 8 lines (1)
+    //                                              │
+    // <version_number> (<date>)                    │
+    // -------------------------                    │
+    //                                              ┘
     // <logs>
     //
     // <version_number> (<date>)        (2)
@@ -275,7 +277,7 @@ const getReleaseNotes = (changelogFilePath) => {
     let notes = '';
     const versionRegex = /^(\d\.?){3}/;
     const changelogLines = (shell.cat(changelogFilePath).stdout).split(os.EOL);
-    const lines = changelogLines.slice(6, changelogLines.length); // (1)
+    const lines = changelogLines.slice(8, changelogLines.length); // (1)
 
     for (let line of lines) {
         if (line.match(versionRegex)) { // (2)
@@ -392,14 +394,14 @@ const updateReadme = async (ctx) => {
 };
 
 const updateChangelog = (ctx) => {
-    const changelogHeader = 'Changelog\n=========\n\n';
+    const changelogHeader = '<!-- markdownlint-disable line-length -->\n\nChangelog\n=========\n\n';
 
     if (!ctx.isUnpublishedPackage) {
         const changelogLines = (shell.cat(ctx.changelogFilePath).stdout).split(os.EOL);
 
         updateFile(
             ctx.changelogFilePath,
-            `${changelogHeader}${getChangelogContent(ctx)}${(changelogLines.slice(3, changelogLines.length)).join(os.EOL)}`
+            `${changelogHeader}${getChangelogContent(ctx)}${(changelogLines.slice(5, changelogLines.length)).join(os.EOL)}`
         );
     } else {
         ctx.packageReleaseNotes = '✨';

@@ -1,6 +1,7 @@
 Firefox Developer Edition v57-70
 ================================
 
+<!-- markdownlint-disable line-length no-inline-html -->
 <table>
     <tr height=240>
         <td>
@@ -10,6 +11,7 @@ Firefox Developer Edition v57-70
         </td>
     </tr>
 </table>
+<!-- markdownlint-enable line-length no-inline-html -->
 
 How to get the logo
 -------------------

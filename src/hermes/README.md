@@ -1,6 +1,7 @@
 Hermes
 ======
 
+<!-- markdownlint-disable line-length no-inline-html -->
 <table>
     <tr height=240>
         <td>
@@ -10,6 +11,7 @@ Hermes
         </td>
     </tr>
 </table>
+<!-- markdownlint-enable line-length no-inline-html -->
 
 How to get the logo
 -------------------

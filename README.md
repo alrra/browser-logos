@@ -5,6 +5,7 @@ Browser Logos
 [![Build Status](https://github.com/alrra/browser-logos/workflows/test/badge.svg)](https://github.com/alrra/browser-logos/actions)
 <!-- markdown-link-check-enable -->
 
+<!-- markdownlint-disable line-length no-inline-html -->
 <table>
     <tbody>
         <tr>
@@ -19,6 +20,7 @@ Browser Logos
         </tr>
     </tbody>
 </table>
+<!-- markdownlint-enable line-length no-inline-html -->
 
 You may want these for a presentation, a blog post or for the site
 featuring your brand new awesome lightbox script (please no!). All
@@ -32,6 +34,7 @@ Current browser logos
 For logos of browsers that are currently active, check the [`src/`][src
 readme] directory.
 
+<!-- markdownlint-disable line-length no-inline-html -->
 <table>
     <tbody>
         <tr height=160>
@@ -39,6 +42,7 @@ readme] directory.
         </tr>
     </tbody>
 </table>
+<!-- markdownlint-enable line-length no-inline-html -->
 
 Old browser logos
 -----------------
@@ -46,6 +50,7 @@ Old browser logos
 For older logos, or logos of browsers that are no longer active, check
 the [`src/archive/`][archive readme] directory.
 
+<!-- markdownlint-disable line-length no-inline-html -->
 <table>
     <tbody>
         <tr height=160>
@@ -53,6 +58,7 @@ the [`src/archive/`][archive readme] directory.
         </tr>
     </tbody>
 </table>
+<!-- markdownlint-enable line-length no-inline-html -->
 
 ---
 

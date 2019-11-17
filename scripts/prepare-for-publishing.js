@@ -48,7 +48,7 @@ const createPackageJSON = (data) => {
     "directory": "${data.packagePath}",
     "type": "git",
     "url": "https://github.com/alrra/browser-logos.git"
-  },
+  }
   "version": "1.0.0"
 }
 `;
@@ -62,6 +62,7 @@ const createReadme = (data) => {
     const content =`${data.prettifiedName}
 ${'='.repeat(data.prettifiedName.length)}
 
+<!-- markdownlint-disable line-length no-inline-html -->
 <table>
     <tr height=240>
         <td>
@@ -71,6 +72,7 @@ ${'='.repeat(data.prettifiedName.length)}
         </td>
     </tr>
 </table>
+<!-- markdownlint-enable line-length no-inline-html -->
 
 How to get the logo
 -------------------

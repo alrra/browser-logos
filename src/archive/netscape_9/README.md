@@ -1,6 +1,7 @@
 Netscape v9
 ===========
 
+<!-- markdownlint-disable line-length no-inline-html -->
 <table>
     <tr height=230>
         <td>
@@ -10,6 +11,7 @@ Netscape v9
         </td>
     </tr>
 </table>
+<!-- markdownlint-enable line-length no-inline-html -->
 
 How to get the logo
 -------------------

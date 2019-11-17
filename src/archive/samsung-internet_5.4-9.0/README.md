@@ -1,6 +1,7 @@
 Samsung Internet v5.4-9.0
 =========================
 
+<!-- markdownlint-disable line-length no-inline-html -->
 <table>
     <tr height=240>
         <td>
@@ -10,6 +11,7 @@ Samsung Internet v5.4-9.0
         </td>
     </tr>
 </table>
+<!-- markdownlint-enable line-length no-inline-html -->
 
 How to get the logo
 -------------------

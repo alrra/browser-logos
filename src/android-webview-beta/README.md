@@ -1,6 +1,7 @@
 Android WebView Beta
 ====================
 
+<!-- markdownlint-disable line-length no-inline-html -->
 <table>
     <tr height=230>
         <td>
@@ -10,6 +11,7 @@ Android WebView Beta
         </td>
     </tr>
 </table>
+<!-- markdownlint-enable line-length no-inline-html -->
 
 How to get the logo
 -------------------

@@ -1,6 +1,7 @@
 Samsung Internet Beta v9.2-9.4
 ==============================
 
+<!-- markdownlint-disable line-length no-inline-html -->
 <table>
     <tr height=240>
         <td>
@@ -10,6 +11,7 @@ Samsung Internet Beta v9.2-9.4
         </td>
     </tr>
 </table>
+<!-- markdownlint-enable line-length no-inline-html -->
 
 How to get the logo
 -------------------
