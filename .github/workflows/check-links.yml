@@ -21,10 +21,11 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Validate Markdown
-        run: npm run lint-markdown
+      - name: Check links
+        run: npm run check-links
 
-name: Test
+name: Check links
 
 on:
-  push:
+  schedule:
+    - cron: "0 0 * * SAT"
