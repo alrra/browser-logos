@@ -426,7 +426,7 @@ Firefox
                 <a href="https://play.google.com/store/apps/details?id=org.mozilla.rocket">Firefox<br>Lite</a>
             </th>
             <th>
-                <a href="https://www.mozilla.org/en-US/firefox/channel/#developer">Firefox<br>Developer Edition</a>
+                <a href="https://www.mozilla.org/en-US/firefox/channel/#developer">Firefox<br>Developer<br>Edition</a>
             </th>
             <th>
                 <a href="https://www.mozilla.org/en-US/firefox/channel/desktop/#nightly">Firefox<br>Nightly</a>

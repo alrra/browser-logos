@@ -992,6 +992,31 @@ Firefox Focus
 </table>
 <!-- markdownlint-enable line-length no-inline-html -->
 
+Firefox Lite
+------------
+
+<!-- markdownlint-disable line-length no-inline-html -->
+<table>
+    <thead>
+        <tr>
+            <th>
+                <a href="https://en.wikipedia.org/wiki/Firefox#Versions">Firefox<br>Lite</a>
+                <a href="#note"><code>*</code></a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=170>
+            <td>
+                <a href="firefox-lite">
+                    <img width=150 src="firefox-lite/firefox-lite_256x256.png" alt="Firefox Lite browser logo">
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<!-- markdownlint-enable line-length no-inline-html -->
+
 Firefox Nightly
 ---------------
 
