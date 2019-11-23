@@ -21,7 +21,7 @@ Changelog
 ### New features
 
 * [[`a8e20685a2`](https://github.com/alrra/browser-logos/commit/a8e20685a2603ab49cef65a7f570d5ebce21766b)] - ✨ Publish `Konqueror` logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
-* [[`b01b13df50`](https://github.com/alrra/browser-logos/commit/b01b13df501edf5bc1772b35f9e28bbd3a092277)] - ✨ Publish `Firefox Beta_57 70` logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`b01b13df50`](https://github.com/alrra/browser-logos/commit/b01b13df501edf5bc1772b35f9e28bbd3a092277)] - ✨ Publish `Firefox Beta` `v57-70` logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
 * [[`2a617aaa06`](https://github.com/alrra/browser-logos/commit/2a617aaa062ea59dc6a02af2511fa9f2a962430d)] - ✨ Add new `Konqueror` logo (by [`Cătălin Mariș`](https://github.com/alrra)).
 
 61.1.3 (November 17, 2019)
