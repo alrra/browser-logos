@@ -3,6 +3,13 @@
 Changelog
 =========
 
+1.0.5 (November 22, 2019)
+-------------------------
+
+### Bug fixes / Improvements
+
+* [[`637c59d419`](https://github.com/alrra/browser-logos/commit/637c59d419c78374d22eec9c3f841daeb4297777)] - 🗜 Further losslessly optimize `bezillabrowser.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 1.0.4 (November 3, 2019)
 ------------------------
 
