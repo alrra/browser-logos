@@ -5,8 +5,8 @@ Cờ Rôm+
 <table>
     <tr height=230>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/1efe43e7de9666f3e0c2b013456bcc4e5d6749aa/src/archive/c%E1%BB%9D-r%C3%B4m%2B">
-                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/1efe43e7de9666f3e0c2b013456bcc4e5d6749aa/src/archive/c%E1%BB%9D-r%C3%B4m%2B/c%E1%BB%9D-r%C3%B4m%2B_512x512.png" alt="Cờ Rôm+ browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/0083058f4ecec983ed332de2a4b8c91af0084e90/src/archive/c%E1%BB%9D-r%C3%B4m%2B">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/0083058f4ecec983ed332de2a4b8c91af0084e90/src/archive/c%E1%BB%9D-r%C3%B4m%2B/c%E1%BB%9D-r%C3%B4m%2B_512x512.png" alt="Cờ Rôm+ browser logo">
             </a>
         </td>
     </tr>
