@@ -8,7 +8,6 @@
     "firefox-beta",
     "firefox-beta-logo"
   ],
-  "private": true,
   "name": "@browser-logos/firefox-beta_57-70",
   "repository": {
     "directory": "src/archive/firefox-beta_57-70",
