@@ -3,6 +3,27 @@
 Changelog
 =========
 
+62.0.0 (November 22, 2019)
+--------------------------
+
+### Breaking Changes
+
+* [[`525d1a9427`](https://github.com/alrra/browser-logos/commit/525d1a9427e3cc7bc6bd5602e7da6311558a5dce)] - 💥 Add version numbers for old `Firefox Beta` logo (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`ce6fa3edf4`](https://github.com/alrra/browser-logos/commit/ce6fa3edf410938376de49a94cd4330fd4d2eb74)] - 💥 Update `Firefox Lite` logo (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+### Bug fixes / Improvements
+
+* [[`94c39dec37`](https://github.com/alrra/browser-logos/commit/94c39dec37e941a213b6bc13acefdf1a47529c45)] - 🗜 Further losslessly optimize `samsung-internet_5.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`637c59d419`](https://github.com/alrra/browser-logos/commit/637c59d419c78374d22eec9c3f841daeb4297777)] - 🗜 Further losslessly optimize `bezillabrowser.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`c955982849`](https://github.com/alrra/browser-logos/commit/c95598284948792d7f67e84f966627dc15f7757e)] - 🗜 Further losslessly optimize `vivaldi.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`2af11193fd`](https://github.com/alrra/browser-logos/commit/2af11193fd1ae6436b1b0a77885b4c118dcb2a6e)] - 🗜 Further losslessly optimize `aol-explorer.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+### New features
+
+* [[`a8e20685a2`](https://github.com/alrra/browser-logos/commit/a8e20685a2603ab49cef65a7f570d5ebce21766b)] - ✨ Publish `Konqueror` logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`b01b13df50`](https://github.com/alrra/browser-logos/commit/b01b13df501edf5bc1772b35f9e28bbd3a092277)] - ✨ Publish `Firefox Beta_57 70` logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`2a617aaa06`](https://github.com/alrra/browser-logos/commit/2a617aaa062ea59dc6a02af2511fa9f2a962430d)] - ✨ Add new `Konqueror` logo (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 61.1.3 (November 17, 2019)
 --------------------------
 
