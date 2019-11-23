@@ -48,7 +48,7 @@ const createPackageJSON = (data) => {
     "directory": "${data.packagePath}",
     "type": "git",
     "url": "https://github.com/alrra/browser-logos.git"
-  }
+  },
   "version": "1.0.0"
 }
 `;
@@ -79,9 +79,10 @@ How to get the logo
 
 You can either:
 
-* Install it using [\`npm\`][npm]:
+* Install it using:
 
-  \`npm install --save-dev @browser-logos/${data.packageName}\`
+  * [\`npm\`][npm]: \`npm install --save-dev @browser-logos/${data.packageName}\`
+  * [\`yarn\`][yarn]: \`yarn add --dev @browser-logos/${data.packageName}\`
 
 * Use [\`cdnjs\`][cdnjs].
 
@@ -89,6 +90,7 @@ You can either:
 
 [cdnjs]: https://cdnjs.com/libraries/browser-logos
 [npm]: https://www.npmjs.com/
+[yarn]: https://yarnpkg.com/
 `;
 
     fs.writeFileSync(path.join(data.packagePath, 'README.md'),  content, 'utf-8');
