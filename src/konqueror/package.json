@@ -8,7 +8,6 @@
     "konqueror",
     "konqueror-logo"
   ],
-  "private": true,
   "name": "@browser-logos/konqueror",
   "repository": {
     "directory": "src/konqueror",
