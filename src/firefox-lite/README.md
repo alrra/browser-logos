@@ -5,8 +5,8 @@ Firefox Lite
 <table>
     <tr height=240>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/8fab53c2544fe45642f4b330f21c426a07c63367/src/firefox-lite">
-                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/8fab53c2544fe45642f4b330f21c426a07c63367/src/firefox-lite/firefox-lite_512x512.png" alt="Firefox Lite browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/ce6fa3edf410938376de49a94cd4330fd4d2eb74/src/firefox-lite">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/ce6fa3edf410938376de49a94cd4330fd4d2eb74/src/firefox-lite/firefox-lite_512x512.png" alt="Firefox Lite browser logo">
             </a>
         </td>
     </tr>

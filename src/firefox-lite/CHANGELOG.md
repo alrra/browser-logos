@@ -3,6 +3,13 @@
 Changelog
 =========
 
+2.0.0 (November 22, 2019)
+-------------------------
+
+### Breaking Changes
+
+* [[`ce6fa3edf4`](https://github.com/alrra/browser-logos/commit/ce6fa3edf410938376de49a94cd4330fd4d2eb74)] - 💥 Update `Firefox Lite` logo (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 1.0.3 (October 13, 2019)
 ------------------------
 
