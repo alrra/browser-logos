@@ -5,8 +5,8 @@ Vivaldi
 <table>
     <tr height=230>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/8fab53c2544fe45642f4b330f21c426a07c63367/src/vivaldi">
-                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/8fab53c2544fe45642f4b330f21c426a07c63367/src/vivaldi/vivaldi.svg?sanitize=true" alt="Vivaldi browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/c95598284948792d7f67e84f966627dc15f7757e/src/vivaldi">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/c95598284948792d7f67e84f966627dc15f7757e/src/vivaldi/vivaldi.svg?sanitize=true" alt="Vivaldi browser logo">
             </a>
         </td>
     </tr>
