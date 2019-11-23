@@ -649,6 +649,30 @@ jsdom
 </table>
 <!-- markdownlint-enable line-length no-inline-html -->
 
+Konqueror
+---------
+
+<!-- markdownlint-disable line-length no-inline-html -->
+<table>
+    <thead>
+        <tr>
+            <th>
+                <a href="https://kde.org/applications/internet/org.kde.konqueror">Konqueror</a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=170>
+            <td>
+                <a href="konqueror">
+                    <img width=150 src="konqueror/konqueror_256x256.png" alt="Konqueror browser logo">
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<!-- markdownlint-enable line-length no-inline-html -->
+
 Maxthon
 -------
 
