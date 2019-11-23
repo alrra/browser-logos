@@ -3,6 +3,13 @@
 Changelog
 =========
 
+1.0.7 (November 22, 2019)
+-------------------------
+
+### Bug fixes / Improvements
+
+* [[`2af11193fd`](https://github.com/alrra/browser-logos/commit/2af11193fd1ae6436b1b0a77885b4c118dcb2a6e)] - 🗜 Further losslessly optimize `aol-explorer.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 1.0.6 (October 13, 2019)
 ------------------------
 
