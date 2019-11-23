@@ -913,8 +913,7 @@ Firefox Beta
                 <a href="#note"><code>*</code></a>
             </th>
             <th>
-                <a href="https://en.wikipedia.org/wiki/Firefox#Versions">Firefox<br>Beta</a>
-                <a href="#note"><code>*</code></a>
+                <a href="https://en.wikipedia.org/wiki/Firefox#Versions">Firefox<br>Beta<br>57-70</a>
             </th>
         </tr>
     </thead>
@@ -926,8 +925,8 @@ Firefox Beta
                 </a>
             </td>
             <td>
-                <a href="firefox-beta_2">
-                    <img width=150 src="firefox-beta_2/firefox-beta_2_256x256.png" alt="Firefox Beta browser logo">
+                <a href="firefox-beta_57-70">
+                    <img width=150 src="firefox-beta_57-70/firefox-beta_57-70_256x256.png" alt="Firefox Beta 57-70 browser logo">
                 </a>
             </td>
         </tr>
