@@ -5,8 +5,8 @@ Samsung Internet v5
 <table>
     <tr height=230>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/8fab53c2544fe45642f4b330f21c426a07c63367/src/archive/samsung-internet_5">
-                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/8fab53c2544fe45642f4b330f21c426a07c63367/src/archive/samsung-internet_5/samsung-internet_5.svg?sanitize=true" alt="Samsung Internet v5 browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/94c39dec37e941a213b6bc13acefdf1a47529c45/src/archive/samsung-internet_5">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/94c39dec37e941a213b6bc13acefdf1a47529c45/src/archive/samsung-internet_5/samsung-internet_5.svg?sanitize=true" alt="Samsung Internet v5 browser logo">
             </a>
         </td>
     </tr>
