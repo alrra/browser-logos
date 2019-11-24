@@ -3,6 +3,14 @@
 Changelog
 =========
 
+62.0.2 (November 24, 2019)
+--------------------------
+
+### Bug fixes / Improvements
+
+* [[`ce27447343`](https://github.com/alrra/browser-logos/commit/ce274473432320e0733a66fa9e97f659b300ee4c)] - 🗜 Further losslessly optimize `internet-explorer-tile_10-11.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`f8e35803d6`](https://github.com/alrra/browser-logos/commit/f8e35803d67d255d17918260813cc0475e9b4d5b)] - 🗜 Further losslessly optimize `firefox-lite.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 62.0.1 (November 23, 2019)
 --------------------------
 
