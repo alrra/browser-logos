@@ -3,6 +3,13 @@
 Changelog
 =========
 
+2.0.1 (November 24, 2019)
+-------------------------
+
+### Bug fixes / Improvements
+
+* [[`f8e35803d6`](https://github.com/alrra/browser-logos/commit/f8e35803d67d255d17918260813cc0475e9b4d5b)] - 🗜 Further losslessly optimize `firefox-lite.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 2.0.0 (November 22, 2019)
 -------------------------
 
