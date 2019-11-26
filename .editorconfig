@@ -19,7 +19,7 @@ trim_trailing_whitespace = true
 
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-[*.{json,yml}]
+[*.json]
 
 indent_size = 2
 indent_style = space
