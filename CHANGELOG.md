@@ -3,6 +3,18 @@
 Changelog
 =========
 
+62.0.3 (November 27, 2019)
+--------------------------
+
+### Bug fixes / Improvements
+
+* [[`5da6c3cf4f`](https://github.com/alrra/browser-logos/commit/5da6c3cf4f1b4ed4ec863e902df0d6b47d5b7355)] - 🗜 Further losslessly optimize `firefox-nightly_57-70.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`458dd3db9c`](https://github.com/alrra/browser-logos/commit/458dd3db9c4f5c451e0434006ba634f54cec030d)] - 🗜 Further optimize `firefox-lite.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`d780c7e4ea`](https://github.com/alrra/browser-logos/commit/d780c7e4ea78afab4e5558382e2f951b5b113fbc)] - 🗜️ Further optimize images (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`3109c24f72`](https://github.com/alrra/browser-logos/commit/3109c24f72d530734f3c54fbf81b579d0216577c)] - 🗜 Further optimize `firefox-focus.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`426953cc54`](https://github.com/alrra/browser-logos/commit/426953cc545abb5763ee9ccb62e8165c6ae8adef)] - 🗜 Further optimize `web.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`77e11ef843`](https://github.com/alrra/browser-logos/commit/77e11ef84358515180c04581ac36d435d7d57088)] - 🗜 Further losslessly optimize `firefox_23-56.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 62.0.2 (November 24, 2019)
 --------------------------
 
