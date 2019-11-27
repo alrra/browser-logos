@@ -5,8 +5,8 @@ Konqueror
 <table>
     <tr height=240>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/c893a8344f6a4af9f93a2c676f6dc654097585c8/src/konqueror">
-                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/c893a8344f6a4af9f93a2c676f6dc654097585c8/src/konqueror/konqueror.svg?sanitize=true" alt="Konqueror browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/d780c7e4ea78afab4e5558382e2f951b5b113fbc/src/konqueror">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/d780c7e4ea78afab4e5558382e2f951b5b113fbc/src/konqueror/konqueror.svg?sanitize=true" alt="Konqueror browser logo">
             </a>
         </td>
     </tr>
