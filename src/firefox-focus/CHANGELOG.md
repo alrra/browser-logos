@@ -3,6 +3,13 @@
 Changelog
 =========
 
+1.0.10 (November 27, 2019)
+--------------------------
+
+### Bug fixes / Improvements
+
+* [[`3109c24f72`](https://github.com/alrra/browser-logos/commit/3109c24f72d530734f3c54fbf81b579d0216577c)] - 🗜 Further optimize `firefox-focus.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 1.0.9 (October 13, 2019)
 ------------------------
 
