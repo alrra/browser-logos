@@ -5,8 +5,8 @@ Netscape v9
 <table>
     <tr height=230>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/8fab53c2544fe45642f4b330f21c426a07c63367/src/archive/netscape_9">
-                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/8fab53c2544fe45642f4b330f21c426a07c63367/src/archive/netscape_9/netscape_9.svg?sanitize=true" alt="Netscape v9 browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/896ab303b43decd25c518ea5dc0081e6974d344a/src/archive/netscape_9">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/896ab303b43decd25c518ea5dc0081e6974d344a/src/archive/netscape_9/netscape_9.svg?sanitize=true" alt="Netscape v9 browser logo">
             </a>
         </td>
     </tr>
