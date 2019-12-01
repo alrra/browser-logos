@@ -16,17 +16,12 @@ Amigo
 How to get the logo
 -------------------
 
-You can either:
+Get it using:
 
-* Install it using:
-
-  * [`npm`][npm]: `npm install --save-dev @browser-logos/amigo`
-  * [`Yarn`][yarn]: `yarn add --dev @browser-logos/amigo`
-
-* Use [`cdnjs`][cdnjs].
+* [`npm`][npm]: `npm install --save-dev @browser-logos/amigo`
+* [`Yarn`][yarn]: `yarn add --dev @browser-logos/amigo`
 
 <!-- Link labels: -->
 
-[cdnjs]: https://cdnjs.com/libraries/browser-logos
 [npm]: https://www.npmjs.com/
 [yarn]: https://yarnpkg.com/

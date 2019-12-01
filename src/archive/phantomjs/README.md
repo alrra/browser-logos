@@ -16,17 +16,12 @@ PhantomJS
 How to get the logo
 -------------------
 
-You can either:
+Get it using:
 
-* Install it using:
-
-  * [`npm`][npm]: `npm install --save-dev @browser-logos/phantomjs`
-  * [`Yarn`][yarn]: `yarn add --dev @browser-logos/phantomjs`
-
-* Use [`cdnjs`][cdnjs].
+* [`npm`][npm]: `npm install --save-dev @browser-logos/phantomjs`
+* [`Yarn`][yarn]: `yarn add --dev @browser-logos/phantomjs`
 
 <!-- Link labels: -->
 
-[cdnjs]: https://cdnjs.com/libraries/browser-logos
 [npm]: https://www.npmjs.com/
 [yarn]: https://yarnpkg.com/

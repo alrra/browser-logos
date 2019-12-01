@@ -16,17 +16,12 @@ Safari v1-7
 How to get the logo
 -------------------
 
-You can either:
+Get it using:
 
-* Install it using:
-
-  * [`npm`][npm]: `npm install --save-dev @browser-logos/safari_1-7`
-  * [`Yarn`][yarn]: `yarn add --dev @browser-logos/safari_1-7`
-
-* Use [`cdnjs`][cdnjs].
+* [`npm`][npm]: `npm install --save-dev @browser-logos/safari_1-7`
+* [`Yarn`][yarn]: `yarn add --dev @browser-logos/safari_1-7`
 
 <!-- Link labels: -->
 
-[cdnjs]: https://cdnjs.com/libraries/browser-logos
 [npm]: https://www.npmjs.com/
 [yarn]: https://yarnpkg.com/

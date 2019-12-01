@@ -16,17 +16,12 @@ Firefox v57-70
 How to get the logo
 -------------------
 
-You can either:
+Get it using:
 
-* Install it using:
-
-  * [`npm`][npm]: `npm install --save-dev @browser-logos/firefox_57-70`
-  * [`Yarn`][yarn]: `yarn add --dev @browser-logos/firefox_57-70`
-
-* Use [`cdnjs`][cdnjs].
+* [`npm`][npm]: `npm install --save-dev @browser-logos/firefox_57-70`
+* [`Yarn`][yarn]: `yarn add --dev @browser-logos/firefox_57-70`
 
 <!-- Link labels: -->
 
-[cdnjs]: https://cdnjs.com/libraries/browser-logos
 [npm]: https://www.npmjs.com/
 [yarn]: https://yarnpkg.com/

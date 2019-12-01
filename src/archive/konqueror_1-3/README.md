@@ -16,17 +16,12 @@ Konqueror v1-3
 How to get the logo
 -------------------
 
-You can either:
+Get it using:
 
-* Install it using:
-
-  * [`npm`][npm]: `npm install --save-dev @browser-logos/konqueror_1-3`
-  * [`Yarn`][yarn]: `yarn add --dev @browser-logos/konqueror_1-3`
-
-* Use [`cdnjs`][cdnjs].
+* [`npm`][npm]: `npm install --save-dev @browser-logos/konqueror_1-3`
+* [`Yarn`][yarn]: `yarn add --dev @browser-logos/konqueror_1-3`
 
 <!-- Link labels: -->
 
-[cdnjs]: https://cdnjs.com/libraries/browser-logos
 [npm]: https://www.npmjs.com/
 [yarn]: https://yarnpkg.com/

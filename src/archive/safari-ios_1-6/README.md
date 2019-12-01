@@ -16,17 +16,12 @@ Safari v1-6 for iOS
 How to get the logo
 -------------------
 
-You can either:
+Get it using:
 
-* Install it using:
-
-  * [`npm`][npm]: `npm install --save-dev @browser-logos/safari-ios_1-6`
-  * [`Yarn`][yarn]: `yarn add --dev @browser-logos/safari-ios_1-6`
-
-* Use [`cdnjs`][cdnjs].
+* [`npm`][npm]: `npm install --save-dev @browser-logos/safari-ios_1-6`
+* [`Yarn`][yarn]: `yarn add --dev @browser-logos/safari-ios_1-6`
 
 <!-- Link labels: -->
 
-[cdnjs]: https://cdnjs.com/libraries/browser-logos
 [npm]: https://www.npmjs.com/
 [yarn]: https://yarnpkg.com/

@@ -16,17 +16,12 @@ Orca
 How to get the logo
 -------------------
 
-You can either:
+Get it using:
 
-* Install it using:
-
-  * [`npm`][npm]: `npm install --save-dev @browser-logos/orca`
-  * [`Yarn`][yarn]: `yarn add --dev @browser-logos/orca`
-
-* Use [`cdnjs`][cdnjs].
+* [`npm`][npm]: `npm install --save-dev @browser-logos/orca`
+* [`Yarn`][yarn]: `yarn add --dev @browser-logos/orca`
 
 <!-- Link labels: -->
 
-[cdnjs]: https://cdnjs.com/libraries/browser-logos
 [npm]: https://www.npmjs.com/
 [yarn]: https://yarnpkg.com/

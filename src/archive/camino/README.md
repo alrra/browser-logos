@@ -16,17 +16,12 @@ Camino
 How to get the logo
 -------------------
 
-You can either:
+Get it using:
 
-* Install it using:
-
-  * [`npm`][npm]: `npm install --save-dev @browser-logos/camino`
-  * [`Yarn`][yarn]: `yarn add --dev @browser-logos/camino`
-
-* Use [`cdnjs`][cdnjs].
+* [`npm`][npm]: `npm install --save-dev @browser-logos/camino`
+* [`Yarn`][yarn]: `yarn add --dev @browser-logos/camino`
 
 <!-- Link labels: -->
 
-[cdnjs]: https://cdnjs.com/libraries/browser-logos
 [npm]: https://www.npmjs.com/
 [yarn]: https://yarnpkg.com/

@@ -16,17 +16,12 @@ Firefox Nightly v23-56
 How to get the logo
 -------------------
 
-You can either:
+Get it using:
 
-* Install it using:
-
-  * [`npm`][npm]: `npm install --save-dev @browser-logos/firefox-nightly_23-56`
-  * [`Yarn`][yarn]: `yarn add --dev @browser-logos/firefox-nightly_23-56`
-
-* Use [`cdnjs`][cdnjs].
+* [`npm`][npm]: `npm install --save-dev @browser-logos/firefox-nightly_23-56`
+* [`Yarn`][yarn]: `yarn add --dev @browser-logos/firefox-nightly_23-56`
 
 <!-- Link labels: -->
 
-[cdnjs]: https://cdnjs.com/libraries/browser-logos
 [npm]: https://www.npmjs.com/
 [yarn]: https://yarnpkg.com/

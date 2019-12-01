@@ -16,17 +16,12 @@ Opera Neon
 How to get the logo
 -------------------
 
-You can either:
+Get it using:
 
-* Install it using:
-
-  * [`npm`][npm]: `npm install --save-dev @browser-logos/opera-neon`
-  * [`Yarn`][yarn]: `yarn add --dev @browser-logos/opera-neon`
-
-* Use [`cdnjs`][cdnjs].
+* [`npm`][npm]: `npm install --save-dev @browser-logos/opera-neon`
+* [`Yarn`][yarn]: `yarn add --dev @browser-logos/opera-neon`
 
 <!-- Link labels: -->
 
-[cdnjs]: https://cdnjs.com/libraries/browser-logos
 [npm]: https://www.npmjs.com/
 [yarn]: https://yarnpkg.com/

@@ -16,17 +16,12 @@ Samsung Internet Beta v5.4-9.1
 How to get the logo
 -------------------
 
-You can either:
+Get it using:
 
-* Install it using:
-
-  * [`npm`][npm]: `npm install --save-dev @browser-logos/samsung-internet-beta_5.4-9.1`
-  * [`Yarn`][yarn]: `yarn add --dev @browser-logos/samsung-internet-beta_5.4-9.1`
-
-* Use [`cdnjs`][cdnjs].
+* [`npm`][npm]: `npm install --save-dev @browser-logos/samsung-internet-beta_5.4-9.1`
+* [`Yarn`][yarn]: `yarn add --dev @browser-logos/samsung-internet-beta_5.4-9.1`
 
 <!-- Link labels: -->
 
-[cdnjs]: https://cdnjs.com/libraries/browser-logos
 [npm]: https://www.npmjs.com/
 [yarn]: https://yarnpkg.com/
