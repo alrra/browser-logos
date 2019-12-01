@@ -5,8 +5,8 @@ Microsoft Edge Canary
 <table>
     <tr height=240>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/b528ce0f925372251f68795498f85ead08216cb8/src/edge-canary">
-                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/b528ce0f925372251f68795498f85ead08216cb8/src/edge-canary/edge-canary_512x512.png" alt="Microsoft Edge Canary browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/896ab303b43decd25c518ea5dc0081e6974d344a/src/edge-canary">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/896ab303b43decd25c518ea5dc0081e6974d344a/src/edge-canary/edge-canary_512x512.png" alt="Microsoft Edge Canary browser logo">
             </a>
         </td>
     </tr>
