@@ -5,8 +5,8 @@ Firefox Aurora v23-35
 <table>
     <tr height=230>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/8fab53c2544fe45642f4b330f21c426a07c63367/src/archive/firefox-aurora_23-35">
-                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/8fab53c2544fe45642f4b330f21c426a07c63367/src/archive/firefox-aurora_23-35/firefox-aurora_23-35_512x512.png" alt="Firefox Aurora v23-35 browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/896ab303b43decd25c518ea5dc0081e6974d344a/src/archive/firefox-aurora_23-35">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/896ab303b43decd25c518ea5dc0081e6974d344a/src/archive/firefox-aurora_23-35/firefox-aurora_23-35_512x512.png" alt="Firefox Aurora v23-35 browser logo">
             </a>
         </td>
     </tr>
