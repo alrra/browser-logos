@@ -5,8 +5,8 @@ Amigo
 <table>
     <tr height=240>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/8fab53c2544fe45642f4b330f21c426a07c63367/src/archive/amigo/">
-                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/8fab53c2544fe45642f4b330f21c426a07c63367/src/archive/amigo//amigo_512x512.png" alt="Amigo browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/896ab303b43decd25c518ea5dc0081e6974d344a/src/archive/amigo/">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/896ab303b43decd25c518ea5dc0081e6974d344a/src/archive/amigo//amigo_512x512.png" alt="Amigo browser logo">
             </a>
         </td>
     </tr>
