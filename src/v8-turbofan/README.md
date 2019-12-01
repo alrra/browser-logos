@@ -5,8 +5,8 @@ V8 TurboFan
 <table>
     <tr height=230>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/7e5fd5139ab9460baee6d1685df6abe3c12c8804/src/v8-turbofan">
-                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/7e5fd5139ab9460baee6d1685df6abe3c12c8804/src/v8-turbofan/v8-turbofan.svg?sanitize=true" alt="V8 TurboFan browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/896ab303b43decd25c518ea5dc0081e6974d344a/src/v8-turbofan">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/896ab303b43decd25c518ea5dc0081e6974d344a/src/v8-turbofan/v8-turbofan.svg?sanitize=true" alt="V8 TurboFan browser logo">
             </a>
         </td>
     </tr>
