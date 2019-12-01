@@ -5,8 +5,8 @@ Cốc Cốc
 <table>
     <tr height=240>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/0083058f4ecec983ed332de2a4b8c91af0084e90/src/c%E1%BB%91c-c%E1%BB%91c">
-                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/0083058f4ecec983ed332de2a4b8c91af0084e90/src/c%E1%BB%91c-c%E1%BB%91c/c%E1%BB%91c-c%E1%BB%91c_512x512.png" alt="Cốc Cốc browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/896ab303b43decd25c518ea5dc0081e6974d344a/src/c%E1%BB%91c-c%E1%BB%91c">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/896ab303b43decd25c518ea5dc0081e6974d344a/src/c%E1%BB%91c-c%E1%BB%91c/c%E1%BB%91c-c%E1%BB%91c_512x512.png" alt="Cốc Cốc browser logo">
             </a>
         </td>
     </tr>
