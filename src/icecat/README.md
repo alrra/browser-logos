@@ -5,8 +5,8 @@ IceCat
 <table>
     <tr height=230>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/858ed41a980f84a28589fd7948c098a9838a80fc/src/icecat">
-                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/858ed41a980f84a28589fd7948c098a9838a80fc/src/icecat/icecat_512x512.png" alt="IceCat browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/896ab303b43decd25c518ea5dc0081e6974d344a/src/icecat">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/896ab303b43decd25c518ea5dc0081e6974d344a/src/icecat/icecat_512x512.png" alt="IceCat browser logo">
             </a>
         </td>
     </tr>
