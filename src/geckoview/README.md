@@ -5,8 +5,8 @@ GeckoView
 <table>
     <tr height=240>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/3dc00c7a62934266cf744c92fa3dc0ad278b4f9b/src/geckoview">
-                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/3dc00c7a62934266cf744c92fa3dc0ad278b4f9b/src/geckoview/geckoview_512x512.png" alt="GeckoView logo">
+            <a href="https://github.com/alrra/browser-logos/tree/896ab303b43decd25c518ea5dc0081e6974d344a/src/geckoview">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/896ab303b43decd25c518ea5dc0081e6974d344a/src/geckoview/geckoview_512x512.png" alt="GeckoView logo">
             </a>
         </td>
     </tr>
