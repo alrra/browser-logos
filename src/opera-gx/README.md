@@ -5,8 +5,8 @@ Opera GX
 <table>
     <tr height=240>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/ceee9a5c3e6e48d6810f98671a0a7a978b63d459/src/opera-gx">
-                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/ceee9a5c3e6e48d6810f98671a0a7a978b63d459/src/opera-gx/opera-gx_512x512.png" alt="Opera GX browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/896ab303b43decd25c518ea5dc0081e6974d344a/src/opera-gx">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/896ab303b43decd25c518ea5dc0081e6974d344a/src/opera-gx/opera-gx_512x512.png" alt="Opera GX browser logo">
             </a>
         </td>
     </tr>
