@@ -5,8 +5,8 @@ V8 Liftoff
 <table>
     <tr height=230>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/a9c4b91cd080c29ee78611b97d634fe923d3735d/src/v8-liftoff">
-                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/a9c4b91cd080c29ee78611b97d634fe923d3735d/src/v8-liftoff/v8-liftoff.svg?sanitize=true" alt="V8 Liftoff browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/896ab303b43decd25c518ea5dc0081e6974d344a/src/v8-liftoff">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/896ab303b43decd25c518ea5dc0081e6974d344a/src/v8-liftoff/v8-liftoff.svg?sanitize=true" alt="V8 Liftoff browser logo">
             </a>
         </td>
     </tr>
