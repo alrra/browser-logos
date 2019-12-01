@@ -3,6 +3,16 @@
 Changelog
 =========
 
+62.0.4 (November 30, 2019)
+--------------------------
+
+### Bug fixes / Improvements
+
+* [[`896ab303b4`](https://github.com/alrra/browser-logos/commit/896ab303b43decd25c518ea5dc0081e6974d344a)] - 📚 Remove `cdnjs` recommendation (by [`Cătălin Mariș`](https://github.com/alrra) / see also: [`#181`](https://github.com/alrra/browser-logos/issues/181)).
+* [[`92cc47f475`](https://github.com/alrra/browser-logos/commit/92cc47f47526395b4a5dc86b8b8c3b7089685a21)] - 🗜 Further optimize `firefox-developer-edition_57-70.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`4a130e2651`](https://github.com/alrra/browser-logos/commit/4a130e2651b391b7058574dbd99cb0dd3ae92764)] - 🗜 Further optimize `opera_10-14.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`b3850bbf63`](https://github.com/alrra/browser-logos/commit/b3850bbf6357a951930c32749b1105d2dbc07392)] - 🗜 Further optimize `firefox-developer-edition.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 62.0.3 (November 27, 2019)
 --------------------------
 
