@@ -3,6 +3,15 @@
 Changelog
 =========
 
+62.0.5 (December 2, 2019)
+-------------------------
+
+### Bug fixes / Improvements
+
+* [[`4ba2341124`](https://github.com/alrra/browser-logos/commit/4ba2341124b841921678b93930c8417721470408)] - 🗜 Further losslessly optimize `surf.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`6078fe76df`](https://github.com/alrra/browser-logos/commit/6078fe76df7f40291e8838a08670ce151b4e64ab)] - 🗜 Further losslessly optimize `qutebrowser.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`bf59de5008`](https://github.com/alrra/browser-logos/commit/bf59de50084747125a2c9e7d764fbce9fccb28d2)] - 🗜 Further losslessly optimize `samsung-internet-gear-vr.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 62.0.4 (November 30, 2019)
 --------------------------
 
