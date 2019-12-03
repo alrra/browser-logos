@@ -3,6 +3,13 @@
 Changelog
 =========
 
+1.0.4 (December 2, 2019)
+------------------------
+
+### Bug fixes / Improvements
+
+* [[`6078fe76df`](https://github.com/alrra/browser-logos/commit/6078fe76df7f40291e8838a08670ce151b4e64ab)] - 🗜 Further losslessly optimize `qutebrowser.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 1.0.3 (November 30, 2019)
 -------------------------
 

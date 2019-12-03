@@ -5,8 +5,8 @@ qutebrowser
 <table>
     <tr height=240>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/896ab303b43decd25c518ea5dc0081e6974d344a/src/qutebrowser">
-                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/896ab303b43decd25c518ea5dc0081e6974d344a/src/qutebrowser/qutebrowser_512x512.png" alt="qutebrowser browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/6078fe76df7f40291e8838a08670ce151b4e64ab/src/qutebrowser">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/6078fe76df7f40291e8838a08670ce151b4e64ab/src/qutebrowser/qutebrowser_512x512.png" alt="qutebrowser browser logo">
             </a>
         </td>
     </tr>
