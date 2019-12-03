@@ -5,8 +5,8 @@ Samsung Internet Gear VR
 <table>
     <tr height=240>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/896ab303b43decd25c518ea5dc0081e6974d344a/src/samsung-internet-gear-vr">
-                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/896ab303b43decd25c518ea5dc0081e6974d344a/src/samsung-internet-gear-vr/samsung-internet-gear-vr.svg?sanitize=true" alt="Samsung Internet Gear VR browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/bf59de50084747125a2c9e7d764fbce9fccb28d2/src/samsung-internet-gear-vr">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/bf59de50084747125a2c9e7d764fbce9fccb28d2/src/samsung-internet-gear-vr/samsung-internet-gear-vr.svg?sanitize=true" alt="Samsung Internet Gear VR browser logo">
             </a>
         </td>
     </tr>
