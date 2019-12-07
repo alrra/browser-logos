@@ -3,6 +3,15 @@
 Changelog
 =========
 
+62.0.6 (December 7, 2019)
+-------------------------
+
+### Bug fixes / Improvements
+
+* [[`61a21f2a32`](https://github.com/alrra/browser-logos/commit/61a21f2a3240f220d1d9e45d7445391e1cc6b93e)] - 🗜 Further losslessly optimize `netsurf.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`4ef8b2593b`](https://github.com/alrra/browser-logos/commit/4ef8b2593b6d19c5e13f3b0d2ae76632b1fe8127)] - 🗜 Further losslessly optimize `opera.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`c27e917974`](https://github.com/alrra/browser-logos/commit/c27e91797441c0e182898a44a91590a23a0b38bd)] - 🗜 Further losslessly optimize `otter.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 62.0.5 (December 2, 2019)
 -------------------------
 
