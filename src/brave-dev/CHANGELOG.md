@@ -3,6 +3,13 @@
 Changelog
 =========
 
+1.0.10 (December 9, 2019)
+-------------------------
+
+### Bug fixes / Improvements
+
+* [[`fe0cae180c`](https://github.com/alrra/browser-logos/commit/fe0cae180cc809758c1f413b383fb895c6c3b1fa)] - 🗜 Further losslessly optimize `brave-dev.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 1.0.9 (November 30, 2019)
 -------------------------
 
