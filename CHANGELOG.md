@@ -3,6 +3,17 @@
 Changelog
 =========
 
+62.0.7 (December 9, 2019)
+-------------------------
+
+### Bug fixes / Improvements
+
+* [[`5103597698`](https://github.com/alrra/browser-logos/commit/51035976980a9d84fcf5634768e919d7060f008a)] - 🗜 Further losslessly optimize `chrome-beta.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`fe0cae180c`](https://github.com/alrra/browser-logos/commit/fe0cae180cc809758c1f413b383fb895c6c3b1fa)] - 🗜 Further losslessly optimize `brave-dev.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`d486c26230`](https://github.com/alrra/browser-logos/commit/d486c262304b9b640ffa55e61d8944295f8fb401)] - 🗜 Further losslessly optimize `brave-beta.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`d4814dd3a6`](https://github.com/alrra/browser-logos/commit/d4814dd3a6da96fb64e1d11138ae51440afe3b5e)] - 🗜 Further losslessly optimize `web_1.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`87686e23da`](https://github.com/alrra/browser-logos/commit/87686e23da5e8e16c9344d6790ddff0b7c16b815)] - 🗜 Further losslessly optimize `midori.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 62.0.6 (December 7, 2019)
 -------------------------
 
