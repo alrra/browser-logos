@@ -5,8 +5,8 @@ Midori
 <table>
     <tr height=230>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/896ab303b43decd25c518ea5dc0081e6974d344a/src/midori">
-                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/896ab303b43decd25c518ea5dc0081e6974d344a/src/midori/midori.svg?sanitize=true" alt="Midori browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/87686e23da5e8e16c9344d6790ddff0b7c16b815/src/midori">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/87686e23da5e8e16c9344d6790ddff0b7c16b815/src/midori/midori.svg?sanitize=true" alt="Midori browser logo">
             </a>
         </td>
     </tr>
