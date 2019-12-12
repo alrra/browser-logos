@@ -3,6 +3,13 @@
 Changelog
 =========
 
+1.0.7 (December 11, 2019)
+-------------------------
+
+### Bug fixes / Improvements
+
+* [[`4dbc3669f5`](https://github.com/alrra/browser-logos/commit/4dbc3669f55f54385738017d9f71ec311f14a678)] - 🗜 Further losslessly optimize `samsung-internet-beta_5.4-9.1.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 1.0.6 (November 30, 2019)
 -------------------------
 
