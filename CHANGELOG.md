@@ -3,6 +3,14 @@
 Changelog
 =========
 
+62.0.9 (December 14, 2019)
+--------------------------
+
+### Bug fixes / Improvements
+
+* [[`3c089908cc`](https://github.com/alrra/browser-logos/commit/3c089908ccf8b3b939a9e1eea123303b0b9b0389)] - 🗜 Further losslessly optimize `phantomjs.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`abfdf44a27`](https://github.com/alrra/browser-logos/commit/abfdf44a2714bf6b8009b7162ad114302731020e)] - 🗜 Further losslessly optimize `phoenix-firebird.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 62.0.8 (December 11, 2019)
 --------------------------
 
