@@ -3,6 +3,13 @@
 Changelog
 =========
 
+1.0.14 (December 14, 2019)
+--------------------------
+
+### Bug fixes / Improvements
+
+* [[`abfdf44a27`](https://github.com/alrra/browser-logos/commit/abfdf44a2714bf6b8009b7162ad114302731020e)] - 🗜 Further losslessly optimize `phoenix-firebird.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 1.0.13 (November 30, 2019)
 --------------------------
 
