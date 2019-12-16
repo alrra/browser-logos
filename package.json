@@ -1,7 +1,7 @@
 {
   "devDependencies": {
     "@octokit/rest": "^16.35.2",
-    "inquirer": "^7.0.0",
+    "inquirer": "^7.0.1",
     "listr": "^0.14.3",
     "listr-input": "^0.1.3",
     "markdown-link-check": "^3.8.0",
