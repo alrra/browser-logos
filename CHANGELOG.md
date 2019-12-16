@@ -3,6 +3,13 @@
 Changelog
 =========
 
+62.0.10 (December 15, 2019)
+---------------------------
+
+### Bug fixes / Improvements
+
+* [[`6c3c73c8fa`](https://github.com/alrra/browser-logos/commit/6c3c73c8facfa04f366c618ae2a78c636a654892)] - 🗜 Further optimize `edge.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 62.0.9 (December 14, 2019)
 --------------------------
 
