@@ -3,6 +3,13 @@
 Changelog
 =========
 
+1.0.14 (December 16, 2019)
+--------------------------
+
+### Bug fixes / Improvements
+
+* [[`f1b97575ca`](https://github.com/alrra/browser-logos/commit/f1b97575ca6aca932a6d2f0c6357b21b8a17202e)] - 🗜 Further losslessly optimize `safari-ios.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 1.0.13 (November 30, 2019)
 --------------------------
 
