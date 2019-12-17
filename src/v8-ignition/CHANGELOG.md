@@ -3,6 +3,13 @@
 Changelog
 =========
 
+2.0.5 (December 16, 2019)
+-------------------------
+
+### Bug fixes / Improvements
+
+* [[`aed7cd6660`](https://github.com/alrra/browser-logos/commit/aed7cd6660db8a12af299ae9c99f9d6a77cfe468)] - 🗜 Further losslessly optimize `v8-ignition.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 2.0.4 (November 30, 2019)
 -------------------------
 
