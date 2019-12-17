@@ -3,6 +3,19 @@
 Changelog
 =========
 
+62.0.11 (December 16, 2019)
+---------------------------
+
+### Bug fixes / Improvements
+
+* [[`a6a8e71405`](https://github.com/alrra/browser-logos/commit/a6a8e71405fa76699022ed29347ca849f53a4813)] - 🗜 Further losslessly optimize `arora.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`f1b97575ca`](https://github.com/alrra/browser-logos/commit/f1b97575ca6aca932a6d2f0c6357b21b8a17202e)] - 🗜 Further losslessly optimize `safari-ios.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`aed7cd6660`](https://github.com/alrra/browser-logos/commit/aed7cd6660db8a12af299ae9c99f9d6a77cfe468)] - 🗜 Further losslessly optimize `v8-ignition.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`634f781810`](https://github.com/alrra/browser-logos/commit/634f781810fc720af48f6548be1d3bb13ea70113)] - 🗜 Further losslessly optimize `edge-canary_12-18.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`1938150998`](https://github.com/alrra/browser-logos/commit/19381509985fa8ab66be7689db0211f7296b861f)] - 🗜 Further losslessly optimize `edge-beta_12-18.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`64a627435e`](https://github.com/alrra/browser-logos/commit/64a627435e2be27ad2539b10c639529dc04a6f8a)] - 🗜 Further losslessly optimize `chrome-devtools.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`7aa73b803e`](https://github.com/alrra/browser-logos/commit/7aa73b803e4195642bd2ba91ee01c3f41815461d)] - 🗜 Further losslessly optimize `chrome-dev.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 62.0.10 (December 15, 2019)
 ---------------------------
 
