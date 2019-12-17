@@ -111,7 +111,7 @@ const prettyPrintCommit = async (commit) => {
 
     // Handle special case, transform something such as:
     //
-    //   🚀 browser-name - v1.0.0 [skip ci]
+    //   🚀 browser-name - v1.0.0
     //
     // to
     //
@@ -291,7 +291,7 @@ const getReleaseNotes = (changelogFilePath) => {
 };
 
 const gitCommitChanges = async (ctx) => {
-    await exec(`git add . && git commit -m "🚀 ${ctx.isPackage ? `${ctx.packageName} - ` : ''}v${ctx.newPackageVersion} [skip ci]"`);
+    await exec(`git add . && git commit -m "🚀 ${ctx.isPackage ? `${ctx.packageName} - ` : ''}v${ctx.newPackageVersion}"`);
 };
 
 const gitDeleteTag = async (tag) => {
