@@ -3,6 +3,13 @@
 Changelog
 =========
 
+1.1.8 (December 16, 2019)
+-------------------------
+
+### Bug fixes / Improvements
+
+* [[`a6a8e71405`](https://github.com/alrra/browser-logos/commit/a6a8e71405fa76699022ed29347ca849f53a4813)] - 🗜 Further losslessly optimize `arora.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 1.1.7 (November 30, 2019)
 -------------------------
 
