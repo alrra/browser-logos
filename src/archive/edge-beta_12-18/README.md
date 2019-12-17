@@ -5,8 +5,8 @@ Edge Beta v12-18
 <table>
     <tr height=240>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/896ab303b43decd25c518ea5dc0081e6974d344a/src/archive/edge-beta_12-18">
-                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/896ab303b43decd25c518ea5dc0081e6974d344a/src/archive/edge-beta_12-18/edge-beta_12-18_512x512.png" alt="Edge Beta v12-18 browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/19381509985fa8ab66be7689db0211f7296b861f/src/archive/edge-beta_12-18">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/19381509985fa8ab66be7689db0211f7296b861f/src/archive/edge-beta_12-18/edge-beta_12-18_512x512.png" alt="Edge Beta v12-18 browser logo">
             </a>
         </td>
     </tr>
