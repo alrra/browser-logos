@@ -3,6 +3,13 @@
 Changelog
 =========
 
+1.0.11 (December 17, 2019)
+--------------------------
+
+### Bug fixes / Improvements
+
+* [[`1c3c9a9f84`](https://github.com/alrra/browser-logos/commit/1c3c9a9f84b2af150a767e4f6cc2535ddbbfdd7e)] - 🗜 Further losslessly optimize `src/archive/firefox_1.5-3/firefox_1.5-3.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 1.0.10 (November 30, 2019)
 --------------------------
 
