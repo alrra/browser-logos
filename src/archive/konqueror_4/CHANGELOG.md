@@ -3,6 +3,13 @@
 Changelog
 =========
 
+1.0.10 (December 17, 2019)
+--------------------------
+
+### Bug fixes / Improvements
+
+* [[`45c4ef4c3d`](https://github.com/alrra/browser-logos/commit/45c4ef4c3d9bc7f68672eee9b267c5ab13a32b0c)] - 🗜 Further losslessly optimize `konqueror_4.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 1.0.9 (November 30, 2019)
 -------------------------
 
