@@ -3,6 +3,13 @@
 Changelog
 =========
 
+1.0.12 (December 17, 2019)
+--------------------------
+
+### Bug fixes / Improvements
+
+* [[`92a5f0f771`](https://github.com/alrra/browser-logos/commit/92a5f0f771cf88fbaeb69c067f322bf5f92f724a)] - 🗜 Further losslessly optimize `src/archive/opera-next_15-24/opera-next_15-24.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 1.0.11 (November 30, 2019)
 --------------------------
 
