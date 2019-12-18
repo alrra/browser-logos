@@ -5,8 +5,8 @@ Chromium v1-11
 <table>
     <tr height=230>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/896ab303b43decd25c518ea5dc0081e6974d344a/src/archive/chromium_1-11">
-                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/896ab303b43decd25c518ea5dc0081e6974d344a/src/archive/chromium_1-11/chromium_1-11.svg?sanitize=true" alt="Chromium v1-11 browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/9078b666f8429d893772bf7abec8f859d5a9c8aa/src/archive/chromium_1-11">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/9078b666f8429d893772bf7abec8f859d5a9c8aa/src/archive/chromium_1-11/chromium_1-11.svg?sanitize=true" alt="Chromium v1-11 browser logo">
             </a>
         </td>
     </tr>
