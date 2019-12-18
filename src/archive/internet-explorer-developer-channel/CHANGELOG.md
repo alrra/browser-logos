@@ -3,6 +3,13 @@
 Changelog
 =========
 
+1.1.8 (December 17, 2019)
+-------------------------
+
+### Bug fixes / Improvements
+
+* [[`1c0a33bce8`](https://github.com/alrra/browser-logos/commit/1c0a33bce895b40670a2fa783250272fe6f7d8a4)] - 🗜 Further losslessly optimize `internet-explorer-developer-channel.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 1.1.7 (November 30, 2019)
 -------------------------
 
