@@ -3,6 +3,13 @@
 Changelog
 =========
 
+1.0.10 (December 17, 2019)
+--------------------------
+
+### Bug fixes / Improvements
+
+* [[`89cfc32e16`](https://github.com/alrra/browser-logos/commit/89cfc32e1623c96726dc6ad2d5f0ec31ec0a5f62)] - 🗜 Further losslessly optimize `src/archive/iceape/iceape.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 1.0.9 (November 30, 2019)
 -------------------------
 
