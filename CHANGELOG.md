@@ -3,6 +3,25 @@
 Changelog
 =========
 
+62.0.12 (December 17, 2019)
+---------------------------
+
+### Bug fixes / Improvements
+
+* [[`392d6280ac`](https://github.com/alrra/browser-logos/commit/392d6280ac55b69c706a57f8ce378f9fcfb554a5)] - 🗜 Further losslessly optimize `src/archive/webpositive/webpositive.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`ab4bee0fd3`](https://github.com/alrra/browser-logos/commit/ab4bee0fd35bd4a6786c3f210bd69cf33d4f4297)] - 🗜 Further losslessly optimize `src/archive/web_2/web_2.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`2f21247535`](https://github.com/alrra/browser-logos/commit/2f212475358ed84f1c46f121126a31d55928afa3)] - 🗜 Further losslessly optimize `src/archive/opera_10-14/opera_10-14.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`92a5f0f771`](https://github.com/alrra/browser-logos/commit/92a5f0f771cf88fbaeb69c067f322bf5f92f724a)] - 🗜 Further losslessly optimize `src/archive/opera-next_15-24/opera-next_15-24.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`dc5cdf2dba`](https://github.com/alrra/browser-logos/commit/dc5cdf2dba74459ba5fa0c956ead7d9f65e4fe35)] - 🗜 Further losslessly optimize `src/archive/konqueror_4/konqueror_4.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`7bc540734d`](https://github.com/alrra/browser-logos/commit/7bc540734d940e7a1ea41299c5f7ddbaf41cec76)] - 🗜 Further losslessly optimize `src/archive/konqueror_1-3/konqueror_1-3.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`e6fbad3920`](https://github.com/alrra/browser-logos/commit/e6fbad3920246600e05e7b9a66b6b0161fa5dcce)] - 🗜 Further losslessly optimize `src/archive/internet-explorer-developer-channel/internet-explorer-developer-channel.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`042f2f0abf`](https://github.com/alrra/browser-logos/commit/042f2f0abfb4843e0d9af6edf1c6d27107cb6583)] - 🗜 Further losslessly optimize `src/archive/iceweasel/iceweasel.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`89cfc32e16`](https://github.com/alrra/browser-logos/commit/89cfc32e1623c96726dc6ad2d5f0ec31ec0a5f62)] - 🗜 Further losslessly optimize `src/archive/iceape/iceape.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`1c3c9a9f84`](https://github.com/alrra/browser-logos/commit/1c3c9a9f84b2af150a767e4f6cc2535ddbbfdd7e)] - 🗜 Further losslessly optimize `src/archive/firefox_1.5-3/firefox_1.5-3.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`3ed67f9874`](https://github.com/alrra/browser-logos/commit/3ed67f98742b5420670a4cb87f58877ff4e9e9bb)] - 🗜 Further losslessly optimize `src/archive/firefox-nightly_57-70/firefox-nightly_57-70.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`9078b666f8`](https://github.com/alrra/browser-logos/commit/9078b666f8429d893772bf7abec8f859d5a9c8aa)] - 🗜 Further losslessly optimize `src/archive/chromium_1-11/chromium_1-11.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`1664fc25b7`](https://github.com/alrra/browser-logos/commit/1664fc25b765a4922e1d8843e7170849e19f274e)] - 🗜 Further losslessly optimize `src/archive/chrome_1-11/chrome_1-11.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 62.0.11 (December 16, 2019)
 ---------------------------
 
