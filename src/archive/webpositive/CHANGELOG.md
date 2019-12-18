@@ -3,6 +3,13 @@
 Changelog
 =========
 
+1.0.12 (December 17, 2019)
+--------------------------
+
+### Bug fixes / Improvements
+
+* [[`392d6280ac`](https://github.com/alrra/browser-logos/commit/392d6280ac55b69c706a57f8ce378f9fcfb554a5)] - 🗜 Further losslessly optimize `src/archive/webpositive/webpositive.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 1.0.11 (November 30, 2019)
 --------------------------
 
