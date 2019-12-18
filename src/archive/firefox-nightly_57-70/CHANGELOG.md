@@ -3,6 +3,13 @@
 Changelog
 =========
 
+1.0.5 (December 17, 2019)
+-------------------------
+
+### Bug fixes / Improvements
+
+* [[`395302149a`](https://github.com/alrra/browser-logos/commit/395302149a9c870c026fc37c00bddfc959d5b31c)] - 🗜 Further losslessly optimize `firefox-nightly_57-70.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 1.0.4 (November 30, 2019)
 -------------------------
 
