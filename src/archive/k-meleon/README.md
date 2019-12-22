@@ -5,8 +5,8 @@ K-Meleon
 <table>
     <tr height=230>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/896ab303b43decd25c518ea5dc0081e6974d344a/src/archive/k-meleon">
-                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/896ab303b43decd25c518ea5dc0081e6974d344a/src/archive/k-meleon/k-meleon.svg?sanitize=true" alt="K-Meleon browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/587a188744079d9bcb19c64a4d7534ead7d5a950/src/archive/k-meleon">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/587a188744079d9bcb19c64a4d7534ead7d5a950/src/archive/k-meleon/k-meleon.svg?sanitize=true" alt="K-Meleon browser logo">
             </a>
         </td>
     </tr>
