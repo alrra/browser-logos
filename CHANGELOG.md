@@ -3,6 +3,14 @@
 Changelog
 =========
 
+62.0.14 (December 22, 2019)
+---------------------------
+
+### Bug fixes / Improvements
+
+* [[`587a188744`](https://github.com/alrra/browser-logos/commit/587a188744079d9bcb19c64a4d7534ead7d5a950)] - 🗜 Further losslessly optimize `k-meleon.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`4319df82bf`](https://github.com/alrra/browser-logos/commit/4319df82bf5cb7313dd6e63cdb312fd818dea79a)] - 🗜 Further losslessly optimize `konqueror_1-3.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 62.0.13 (December 20, 2019)
 ---------------------------
 
