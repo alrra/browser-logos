@@ -1427,6 +1427,9 @@ Web
             <th>
                 <a href="https://wiki.gnome.org/Apps/Web">Web <br>(f.k.a. Epiphany)</a>
             </th>
+             <th>
+                <a href="https://wiki.gnome.org/Apps/Web/Development#Epiphany_Technology_Preview">Epiphany<br>Technology<br>Preview</a>
+            </th>
         </tr>
     </thead>
     <tbody>
@@ -1434,6 +1437,11 @@ Web
             <td>
                 <a href="web">
                     <img width=150 src="web/web_256x256.png" alt="Web (f.k.a. Epiphany) browser logo">
+                </a>
+            </td>
+            <td>
+                <a href="epiphany-technology-preview">
+                    <img width=150 src="epiphany-technology-preview/epiphany-technology-preview_256x256.png" alt="Epiphany Technology Preview browser logo">
                 </a>
             </td>
         </tr>
