@@ -3,6 +3,14 @@
 Changelog
 =========
 
+62.1.0 (December 25, 2019)
+--------------------------
+
+### New features
+
+* [[`57cd651cb6`](https://github.com/alrra/browser-logos/commit/57cd651cb6a2217c4e473f0b057f4483acbc5f33)] - ✨ Publish `Epiphany Technology Preview` logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`e765ca8f8f`](https://github.com/alrra/browser-logos/commit/e765ca8f8f5b8cdab21713e40b81e3c2307a5eeb)] - ✨ Add `Epiphany Technology Preview` browser logo (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 62.0.14 (December 22, 2019)
 ---------------------------
 
