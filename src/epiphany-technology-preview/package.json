@@ -8,7 +8,6 @@
     "epiphany-technology-preview",
     "epiphany-technology-preview-logo"
   ],
-  "private": true,
   "name": "@browser-logos/epiphany-technology-preview",
   "repository": {
     "directory": "src/epiphany-technology-preview",
