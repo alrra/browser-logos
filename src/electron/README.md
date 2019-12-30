@@ -5,8 +5,8 @@ Electron
 <table>
     <tr height=230>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/896ab303b43decd25c518ea5dc0081e6974d344a/src/electron">
-                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/896ab303b43decd25c518ea5dc0081e6974d344a/src/electron/electron.svg?sanitize=true" alt="Electron browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/7942cc53f44d8171b705f65fed83944032134b54/src/electron">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/7942cc53f44d8171b705f65fed83944032134b54/src/electron/electron.svg?sanitize=true" alt="Electron browser logo">
             </a>
         </td>
     </tr>

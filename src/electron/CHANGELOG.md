@@ -3,6 +3,13 @@
 Changelog
 =========
 
+1.0.12 (December 29, 2019)
+--------------------------
+
+### Bug fixes / Improvements
+
+* [[`7942cc53f4`](https://github.com/alrra/browser-logos/commit/7942cc53f44d8171b705f65fed83944032134b54)] - 🗜 Further losslessly optimize `electron.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 1.0.11 (November 30, 2019)
 --------------------------
 
