@@ -3,6 +3,14 @@
 Changelog
 =========
 
+62.1.1 (December 29, 2019)
+--------------------------
+
+### Bug fixes / Improvements
+
+* [[`b9dbb88a5c`](https://github.com/alrra/browser-logos/commit/b9dbb88a5cbecac2809b34f903eff855a28cf56e)] - 🗜 Further losslessly optimize `chrome.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`7942cc53f4`](https://github.com/alrra/browser-logos/commit/7942cc53f44d8171b705f65fed83944032134b54)] - 🗜 Further losslessly optimize `electron.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 62.1.0 (December 25, 2019)
 --------------------------
 
