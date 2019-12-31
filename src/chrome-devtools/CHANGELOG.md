@@ -3,6 +3,13 @@
 Changelog
 =========
 
+1.0.10 (December 31, 2019)
+--------------------------
+
+### Bug fixes / Improvements
+
+* [[`de8d05a339`](https://github.com/alrra/browser-logos/commit/de8d05a3390ceca805afa23bb17756f0c1becdfd)] - 🗜 Further losslessly optimize `chrome-devtools.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 1.0.9 (December 16, 2019)
 -------------------------
 
