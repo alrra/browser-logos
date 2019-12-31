@@ -2,7 +2,7 @@ Browser Logos
 =============
 
 <!-- markdown-link-check-disable -->
-[![Build Status](https://github.com/alrra/browser-logos/workflows/test/badge.svg)](https://github.com/alrra/browser-logos/actions)
+[![Build Status][build icon]][build url]
 <!-- markdown-link-check-enable -->
 
 <!-- markdownlint-disable line-length no-inline-html -->
@@ -117,6 +117,8 @@ paul] blog post.
 [archive readme]: src/archive/README.md#readme
 [archive]: https://github.com/alrra/browser-logos/archive/62.1.1.zip
 [article paul]: https://www.paulirish.com/2010/high-res-browser-icons/
+[build icon]: https://github.com/alrra/browser-logos/workflows/test/badge.svg
+[build url]: https://github.com/alrra/browser-logos/actions
 [contributors]: https://github.com/alrra/browser-logos/graphs/contributors
 [github paul]: https://github.com/paulirish/
 [issues]: https://github.com/alrra/browser-logos/issues/new
