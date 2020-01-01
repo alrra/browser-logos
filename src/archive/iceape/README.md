@@ -5,8 +5,8 @@ Iceape
 <table>
     <tr height=230>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/89cfc32e1623c96726dc6ad2d5f0ec31ec0a5f62/src/archive/iceape">
-                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/89cfc32e1623c96726dc6ad2d5f0ec31ec0a5f62/src/archive/iceape/iceape.svg?sanitize=true" alt="Iceape browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/1eb70f87c09bcf576fb5662ba2454fd6589fbd91/src/archive/iceape">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/1eb70f87c09bcf576fb5662ba2454fd6589fbd91/src/archive/iceape/iceape.svg?sanitize=true" alt="Iceape browser logo">
             </a>
         </td>
     </tr>
