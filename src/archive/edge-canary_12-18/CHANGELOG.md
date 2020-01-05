@@ -3,6 +3,13 @@
 Changelog
 =========
 
+1.0.3 (January 5, 2020)
+-----------------------
+
+### Bug fixes / Improvements
+
+* [[`5458add4fa`](https://github.com/alrra/browser-logos/commit/5458add4fa968dfd7543bfce01db7d8395a6d9b1)] - 🗜 Further losslessly optimize `edge-canary_12-18.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 1.0.2 (December 16, 2019)
 -------------------------
 
