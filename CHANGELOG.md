@@ -3,6 +3,14 @@
 Changelog
 =========
 
+62.1.4 (January 5, 2020)
+------------------------
+
+### Bug fixes / Improvements
+
+* [[`5458add4fa`](https://github.com/alrra/browser-logos/commit/5458add4fa968dfd7543bfce01db7d8395a6d9b1)] - 🗜 Further losslessly optimize `edge-canary_12-18.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`9932719dbd`](https://github.com/alrra/browser-logos/commit/9932719dbdfe8769e41875a0f46246ba766451ad)] - 🗜 Further losslessly optimize `firefox-nightly_57-70.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 62.1.3 (January 1, 2020)
 ------------------------
 
