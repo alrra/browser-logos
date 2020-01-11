@@ -3,6 +3,13 @@
 Changelog
 =========
 
+1.1.1 (January 11, 2020)
+------------------------
+
+### Bug fixes / Improvements
+
+* [[`63e1f576d0`](https://github.com/alrra/browser-logos/commit/63e1f576d0596c34c93e9e1dfcb42828b84e8063)] - 🗜️ Further losslessly optimize images (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 1.1.0 (January 11, 2020)
 ------------------------
 
