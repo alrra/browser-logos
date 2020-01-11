@@ -3,6 +3,13 @@
 Changelog
 =========
 
+62.2.0 (January 11, 2020)
+-------------------------
+
+### New features
+
+* [[`efd02ef1cd`](https://github.com/alrra/browser-logos/commit/efd02ef1cd136b10bd7885f3a139d9ddbe569ea6)] - ✨ Add `chromium.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 62.1.4 (January 5, 2020)
 ------------------------
 
