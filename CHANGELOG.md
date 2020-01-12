@@ -3,6 +3,13 @@
 Changelog
 =========
 
+62.2.2 (January 12, 2020)
+-------------------------
+
+### Bug fixes / Improvements
+
+* [[`d3932d858e`](https://github.com/alrra/browser-logos/commit/d3932d858e4e00e92972e017ec612bf1d9c09043)] - 🗜 Further losslessly optimize `edge-beta_12-18.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 62.2.1 (January 11, 2020)
 -------------------------
 
