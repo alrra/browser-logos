@@ -3,6 +3,13 @@
 Changelog
 =========
 
+1.0.12 (January 18, 2020)
+-------------------------
+
+### Bug fixes / Improvements
+
+* [[`44bdeb7598`](https://github.com/alrra/browser-logos/commit/44bdeb7598712d8b17822c75bd1d1f00f9153e79)] - 🗜 Further losslessly optimize `chrome_1-11.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 1.0.11 (December 17, 2019)
 --------------------------
 
