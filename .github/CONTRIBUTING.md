@@ -83,6 +83,11 @@ working on something that the project's developers might not want to
 merge into the project. Also, please adhere to the conventions used
 throughout the project and any other requirements.
 
+If you were to add a brand new browser to list, ensure that it meets the following criteria:
+ * Browser must have distict feature(s) that separate it from the rest. For instance, many Chromium based browsers are very similar in functionality.
+ * The browser's overall usage and download count is relatively high. 
+ * The browser has a proven track record of being maintained. This includes and is not limited to major updates, patches, community activity, etc.
+
 Follow this process if you'd like your work considered for inclusion
 in the project:
 
