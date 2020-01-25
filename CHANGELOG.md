@@ -3,6 +3,13 @@
 Changelog
 =========
 
+62.2.5 (January 25, 2020)
+-------------------------
+
+### Bug fixes / Improvements
+
+* [[`a66925016b`](https://github.com/alrra/browser-logos/commit/a66925016b1c4e5c0d5947b84144942322c01f3d)] - 🗜 Further losslessly optimize `firefox_1.5-3.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 62.2.4 (January 24, 2020)
 -------------------------
 
