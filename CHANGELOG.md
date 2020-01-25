@@ -3,6 +3,13 @@
 Changelog
 =========
 
+62.2.4 (January 24, 2020)
+-------------------------
+
+### Bug fixes / Improvements
+
+* [[`212981ede3`](https://github.com/alrra/browser-logos/commit/212981ede3ebf647bcf63462c35b51da94983403)] - 🗜 Further losslessly optimize `brave_2.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 62.2.3 (January 18, 2020)
 -------------------------
 
