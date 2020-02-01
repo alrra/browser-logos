@@ -3,6 +3,13 @@
 Changelog
 =========
 
+62.2.6 (February 1, 2020)
+-------------------------
+
+### Bug fixes / Improvements
+
+* [[`d36d6a46d8`](https://github.com/alrra/browser-logos/commit/d36d6a46d8a4d4fd8cb952cde177a6cd56a48575)] - 🗜 Further losslessly optimize `firefox-reality.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 62.2.5 (January 25, 2020)
 -------------------------
 
