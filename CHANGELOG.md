@@ -3,6 +3,15 @@
 Changelog
 =========
 
+62.2.7 (February 2, 2020)
+-------------------------
+
+### Bug fixes / Improvements
+
+* [[`80cbe469f2`](https://github.com/alrra/browser-logos/commit/80cbe469f2118f81922901342d89b0b6495c86b5)] - 🗜 Further losslessly optimize `netscape_4-6.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`2f65c7e7b8`](https://github.com/alrra/browser-logos/commit/2f65c7e7b899d8118ab82bffef1d5f0284318d1f)] - 🗜 Further losslessly optimize `netscape_9.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`d37e431203`](https://github.com/alrra/browser-logos/commit/d37e43120302d368c29029fedccb949f95137d84)] - 🗜 Further losslessly optimize `hermes.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 62.2.6 (February 1, 2020)
 -------------------------
 
