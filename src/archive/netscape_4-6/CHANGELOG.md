@@ -3,6 +3,13 @@
 Changelog
 =========
 
+1.0.11 (February 2, 2020)
+-------------------------
+
+### Bug fixes / Improvements
+
+* [[`80cbe469f2`](https://github.com/alrra/browser-logos/commit/80cbe469f2118f81922901342d89b0b6495c86b5)] - 🗜 Further losslessly optimize `netscape_4-6.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 1.0.10 (November 30, 2019)
 --------------------------
 
