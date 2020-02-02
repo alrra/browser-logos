@@ -3,6 +3,13 @@
 Changelog
 =========
 
+1.0.4 (February 2, 2020)
+------------------------
+
+### Bug fixes / Improvements
+
+* [[`d37e431203`](https://github.com/alrra/browser-logos/commit/d37e43120302d368c29029fedccb949f95137d84)] - 🗜 Further losslessly optimize `hermes.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 1.0.3 (November 30, 2019)
 -------------------------
 

@@ -5,8 +5,8 @@ Hermes
 <table>
     <tr height=240>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/896ab303b43decd25c518ea5dc0081e6974d344a/src/hermes">
-                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/896ab303b43decd25c518ea5dc0081e6974d344a/src/hermes/hermes_512x512.png" alt="Hermes JavaScript engine logo">
+            <a href="https://github.com/alrra/browser-logos/tree/d37e43120302d368c29029fedccb949f95137d84/src/hermes">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/d37e43120302d368c29029fedccb949f95137d84/src/hermes/hermes_512x512.png" alt="Hermes JavaScript engine logo">
             </a>
         </td>
     </tr>
