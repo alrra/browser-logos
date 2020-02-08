@@ -1,5 +1,5 @@
 const inquirer = require('inquirer');
-const Octokit = require('@octokit/rest')
+const { Octokit } = require("@octokit/rest");
 
 class GitHub {
 
