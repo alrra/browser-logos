@@ -3,6 +3,13 @@
 Changelog
 =========
 
+1.0.6 (February 13, 2020)
+-------------------------
+
+### Bug fixes / Improvements
+
+* [[`ccb21ab027`](https://github.com/alrra/browser-logos/commit/ccb21ab027ba93190110d2a26e4fb41929be503f)] - 🗜 Further optimize `firefox-preview-beta.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 1.0.5 (November 30, 2019)
 -------------------------
 
