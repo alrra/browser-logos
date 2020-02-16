@@ -3,6 +3,13 @@
 Changelog
 =========
 
+62.2.13 (February 16, 2020)
+---------------------------
+
+### Bug fixes / Improvements
+
+* [[`62cc9fe080`](https://github.com/alrra/browser-logos/commit/62cc9fe080aad964881f0b989002074f50a573de)] - 🗜 Further optimize `chromium_1-11.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 62.2.12 (February 15, 2020)
 ---------------------------
 
