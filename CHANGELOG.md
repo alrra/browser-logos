@@ -3,6 +3,13 @@
 Changelog
 =========
 
+62.2.14 (February 17, 2020)
+---------------------------
+
+### Bug fixes / Improvements
+
+* [[`3b3ae6e634`](https://github.com/alrra/browser-logos/commit/3b3ae6e634f4bc7fecf55f7c3821a04861910f67)] - 🗜 Further optimize `bezillabrowser.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 62.2.13 (February 16, 2020)
 ---------------------------
 
