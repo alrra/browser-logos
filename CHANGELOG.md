@@ -3,6 +3,13 @@
 Changelog
 =========
 
+62.2.16 (February 20, 2020)
+---------------------------
+
+### Bug fixes / Improvements
+
+* [[`6309aa9ce3`](https://github.com/alrra/browser-logos/commit/6309aa9ce36e479e8b7dcf43e3c4c1d9e3a43a83)] - 🗜 Further optimize `opera-next_15-24.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 62.2.15 (February 18, 2020)
 ---------------------------
 
