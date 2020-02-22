@@ -3,6 +3,13 @@
 Changelog
 =========
 
+62.2.17 (February 21, 2020)
+---------------------------
+
+### Bug fixes / Improvements
+
+* [[`a47e61ccd9`](https://github.com/alrra/browser-logos/commit/a47e61ccd95e001f47693afcfd1c66e089983d1c)] - 🗜 Further optimize `iceweasel.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 62.2.16 (February 20, 2020)
 ---------------------------
 
