@@ -3,6 +3,13 @@
 Changelog
 =========
 
+1.0.8 (March 5, 2020)
+---------------------
+
+### Bug fixes / Improvements
+
+* [[`f59e7c49aa`](https://github.com/alrra/browser-logos/commit/f59e7c49aadb72f8c7a46ec637fe911bfc8fff89)] - 🗜 Further optimize `bezillabrowser.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 1.0.7 (February 17, 2020)
 -------------------------
 
