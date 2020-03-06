@@ -3,6 +3,13 @@
 Changelog
 =========
 
+1.1.11 (March 5, 2020)
+----------------------
+
+### Bug fixes / Improvements
+
+* [[`5a9c0526bb`](https://github.com/alrra/browser-logos/commit/5a9c0526bbb984d5ed705284e3e5c31a2194a8a9)] - 🗜 Further losslessly optimize `internet-explorer_9-11.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 1.1.10 (February 12, 2020)
 --------------------------
 
