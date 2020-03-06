@@ -5,8 +5,8 @@ Firefox Preview Beta
 <table>
     <tr height=240>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/ccb21ab027ba93190110d2a26e4fb41929be503f/src/firefox-preview-beta">
-                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/ccb21ab027ba93190110d2a26e4fb41929be503f/src/firefox-preview-beta/firefox-preview-beta.svg?sanitize=true" alt="Firefox Preview Beta browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/6c0963456cf1e770f0ad0abe8a557f9c2aef0ca3/src/firefox-preview-beta">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/6c0963456cf1e770f0ad0abe8a557f9c2aef0ca3/src/firefox-preview-beta/firefox-preview-beta.svg?sanitize=true" alt="Firefox Preview Beta browser logo">
             </a>
         </td>
     </tr>
