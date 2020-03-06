@@ -3,6 +3,18 @@
 Changelog
 =========
 
+62.2.19 (March 5, 2020)
+-----------------------
+
+### Bug fixes / Improvements
+
+* [[`91d5d890c8`](https://github.com/alrra/browser-logos/commit/91d5d890c8d945d75edd558ad5967114da2fc653)] - 🗜 Further losslessly optimize `internet-explorer-developer-channel.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`5a9c0526bb`](https://github.com/alrra/browser-logos/commit/5a9c0526bbb984d5ed705284e3e5c31a2194a8a9)] - 🗜 Further losslessly optimize `internet-explorer_9-11.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`6c0963456c`](https://github.com/alrra/browser-logos/commit/6c0963456cf1e770f0ad0abe8a557f9c2aef0ca3)] - 🗜 Further losslessly optimize `firefox-preview-beta.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`9358a054dd`](https://github.com/alrra/browser-logos/commit/9358a054dda5822af658d1f16f20df4fbf3801f2)] - 🗜 Further optimize `firefox_57-70.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`0f4c39eeed`](https://github.com/alrra/browser-logos/commit/0f4c39eeedff10eb5c559bdc981780deb98b17c8)] - 🗜 Further losslessly optimize `chromium_1-11.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`f59e7c49aa`](https://github.com/alrra/browser-logos/commit/f59e7c49aadb72f8c7a46ec637fe911bfc8fff89)] - 🗜 Further optimize `bezillabrowser.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 62.2.18 (March 1, 2020)
 -----------------------
 
