@@ -5,8 +5,8 @@ Firefox v57-70
 <table>
     <tr height=240>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/b3a5662565d84931af726aaff0bdf29fe5824bf0/src/archive/firefox_57-70">
-                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/b3a5662565d84931af726aaff0bdf29fe5824bf0/src/archive/firefox_57-70/firefox_57-70_512x512.png" alt="Firefox v57-70 browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/9358a054dda5822af658d1f16f20df4fbf3801f2/src/archive/firefox_57-70">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/9358a054dda5822af658d1f16f20df4fbf3801f2/src/archive/firefox_57-70/firefox_57-70_512x512.png" alt="Firefox v57-70 browser logo">
             </a>
         </td>
     </tr>
