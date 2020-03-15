@@ -3,6 +3,13 @@
 Changelog
 =========
 
+2.0.4 (March 14, 2020)
+----------------------
+
+### Bug fixes / Improvements
+
+* [[`993a09c1d2`](https://github.com/alrra/browser-logos/commit/993a09c1d2e06ca8e5c6ea12edbec0986ee620bd)] - 🗜 Further optimize `edge.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 2.0.3 (December 15, 2019)
 -------------------------
 
