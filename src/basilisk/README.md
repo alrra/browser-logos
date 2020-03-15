@@ -5,8 +5,8 @@ Basilisk
 <table>
     <tr height=240>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/896ab303b43decd25c518ea5dc0081e6974d344a/src/basilisk/">
-                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/896ab303b43decd25c518ea5dc0081e6974d344a/src/basilisk//basilisk_512x512.png" alt="Basilisk browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/3e81a19706b9796416eb2b479c413465a6f72047/src/basilisk/">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/3e81a19706b9796416eb2b479c413465a6f72047/src/basilisk//basilisk_512x512.png" alt="Basilisk browser logo">
             </a>
         </td>
     </tr>
