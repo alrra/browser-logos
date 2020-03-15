@@ -3,6 +3,13 @@
 Changelog
 =========
 
+62.2.21 (March 14, 2020)
+------------------------
+
+### Bug fixes / Improvements
+
+* [[`3e81a19706`](https://github.com/alrra/browser-logos/commit/3e81a19706b9796416eb2b479c413465a6f72047)] - 🗜 Further losslessly optimize `basilisk.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 62.2.20 (March 7, 2020)
 -----------------------
 
