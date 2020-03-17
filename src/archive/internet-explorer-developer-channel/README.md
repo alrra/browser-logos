@@ -5,8 +5,8 @@ Internet Explorer Developer Channel
 <table>
     <tr height=230>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/91d5d890c8d945d75edd558ad5967114da2fc653/src/archive/internet-explorer-developer-channel">
-                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/91d5d890c8d945d75edd558ad5967114da2fc653/src/archive/internet-explorer-developer-channel/internet-explorer-developer-channel.svg?sanitize=true" alt="Internet Explorer Developer Channel browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/51fc520e05bb2b1c063b6c689fe74931280ca235/src/archive/internet-explorer-developer-channel">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/51fc520e05bb2b1c063b6c689fe74931280ca235/src/archive/internet-explorer-developer-channel/internet-explorer-developer-channel.svg?sanitize=true" alt="Internet Explorer Developer Channel browser logo">
             </a>
         </td>
     </tr>
