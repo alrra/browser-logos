@@ -3,6 +3,14 @@
 Changelog
 =========
 
+62.2.23 (March 16, 2020)
+------------------------
+
+### Bug fixes / Improvements
+
+* [[`51fc520e05`](https://github.com/alrra/browser-logos/commit/51fc520e05bb2b1c063b6c689fe74931280ca235)] - 🗜 Further optimize `internet-explorer-developer-channel.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`d8135b3df5`](https://github.com/alrra/browser-logos/commit/d8135b3df581cbc0f0ef4f0582f604631e6651a2)] - 🗜 Further optimize `internet-explorer_9-11.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 62.2.22 (March 14, 2020)
 ------------------------
 
