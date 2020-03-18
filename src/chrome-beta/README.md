@@ -5,8 +5,8 @@ Chrome Beta
 <table>
     <tr height=230>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/51035976980a9d84fcf5634768e919d7060f008a/src/chrome-beta">
-                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/51035976980a9d84fcf5634768e919d7060f008a/src/chrome-beta/chrome-beta.svg?sanitize=true" alt="Chrome Beta browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/51b579ddc75b36d21c5d3c1348209c25d9a4d56b/src/chrome-beta">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/51b579ddc75b36d21c5d3c1348209c25d9a4d56b/src/chrome-beta/chrome-beta.svg?sanitize=true" alt="Chrome Beta browser logo">
             </a>
         </td>
     </tr>
