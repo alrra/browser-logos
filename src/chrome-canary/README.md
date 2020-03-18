@@ -5,8 +5,8 @@ Chrome Canary
 <table>
     <tr height=230>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/896ab303b43decd25c518ea5dc0081e6974d344a/src/chrome-canary">
-                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/896ab303b43decd25c518ea5dc0081e6974d344a/src/chrome-canary/chrome-canary.svg?sanitize=true" alt="Chrome Canary browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/30bd629d3204ad07c6d521c6513f046077736a00/src/chrome-canary">
+                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/30bd629d3204ad07c6d521c6513f046077736a00/src/chrome-canary/chrome-canary.svg?sanitize=true" alt="Chrome Canary browser logo">
             </a>
         </td>
     </tr>

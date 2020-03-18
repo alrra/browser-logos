@@ -3,6 +3,13 @@
 Changelog
 =========
 
+1.1.9 (March 18, 2020)
+----------------------
+
+### Bug fixes / Improvements
+
+* [[`30bd629d32`](https://github.com/alrra/browser-logos/commit/30bd629d3204ad07c6d521c6513f046077736a00)] - 🗜 Further optimize `chrome-canary.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 1.1.8 (November 30, 2019)
 -------------------------
 
