@@ -1,8 +1,6 @@
-Browser Logos
-=============
-
 <!-- markdown-link-check-disable -->
-[![Build Status][build icon]][build url]
+Browser Logos [![Build Status][build icon]][build url]
+=============
 <!-- markdown-link-check-enable -->
 
 <!-- markdownlint-disable line-length no-inline-html -->
@@ -109,7 +107,7 @@ Everything else is available under the [MIT license][license].
 Project origin and history
 --------------------------
 
-Read [Paul Irish][github paul]'s [*"High-res Browser Logos"*][article
+Read [Paul Irish][github paul]'s [_"High-res Browser Logos"_][article
 paul] blog post.
 
 <!-- Link labels: -->
