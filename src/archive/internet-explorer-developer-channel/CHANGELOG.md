@@ -3,6 +3,13 @@
 Changelog
 =========
 
+1.1.12 (May 21, 2020)
+---------------------
+
+### Bug fixes / Improvements
+
+* [[`a727c57c38`](https://github.com/alrra/browser-logos/commit/a727c57c382a7c0633af4242e505a741334df728)] - 🗜 Further losslessly optimize `internet-explorer-developer-channel.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 1.1.11 (March 16, 2020)
 -----------------------
 
