@@ -3,6 +3,13 @@
 Changelog
 =========
 
+2.0.0 (June 13, 2020)
+---------------------
+
+### Breaking Changes
+
+* [[`34c6bb2ada`](https://github.com/alrra/browser-logos/commit/34c6bb2adab318a4a813029826774ffd95d343a8)] - 💥 Update `Servo` logo (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 1.0.4 (November 30, 2019)
 -------------------------
 
