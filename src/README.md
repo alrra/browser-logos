@@ -1,10 +1,11 @@
+<!-- markdownlint-disable line-length no-inline-html -->
+
 Current browser logos
 =====================
 
 Android
 -------
 
-<!-- markdownlint-disable line-length no-inline-html -->
 <table>
     <thead>
         <tr>
@@ -23,12 +24,10 @@ Android
         </tr>
     </tbody>
 </table>
-<!-- markdownlint-enable line-length no-inline-html -->
 
 Avant
 -----
 
-<!-- markdownlint-disable line-length no-inline-html -->
 <table>
     <thead>
         <tr>
@@ -47,12 +46,10 @@ Avant
         </tr>
     </tbody>
 </table>
-<!-- markdownlint-enable line-length no-inline-html -->
 
 Basilisk
 --------
 
-<!-- markdownlint-disable line-length no-inline-html -->
 <table>
     <thead>
         <tr>
@@ -71,12 +68,10 @@ Basilisk
         </tr>
     </tbody>
 </table>
-<!-- markdownlint-enable line-length no-inline-html -->
 
 Brave
 -----
 
-<!-- markdownlint-disable line-length no-inline-html -->
 <table>
     <thead>
         <tr>
@@ -119,12 +114,10 @@ Brave
         </tr>
     </tbody>
 </table>
-<!-- markdownlint-enable line-length no-inline-html -->
 
 browsh
 ------
 
-<!-- markdownlint-disable line-length no-inline-html -->
 <table>
     <thead>
         <tr>
@@ -143,12 +136,10 @@ browsh
         </tr>
     </tbody>
 </table>
-<!-- markdownlint-enable line-length no-inline-html -->
 
 Chrome
 ------
 
-<!-- markdownlint-disable line-length no-inline-html -->
 <table>
     <thead>
         <tr>
@@ -191,12 +182,10 @@ Chrome
         </tr>
     </tbody>
 </table>
-<!-- markdownlint-enable line-length no-inline-html -->
 
 Chrome DevTools
 ---------------
 
-<!-- markdownlint-disable line-length no-inline-html -->
 <table>
     <thead>
         <tr>
@@ -215,12 +204,10 @@ Chrome DevTools
         </tr>
     </tbody>
 </table>
-<!-- markdownlint-enable line-length no-inline-html -->
 
 Chromium
 --------
 
-<!-- markdownlint-disable line-length no-inline-html -->
 <table>
     <thead>
         <tr>
@@ -239,12 +226,10 @@ Chromium
         </tr>
     </tbody>
 </table>
-<!-- markdownlint-enable line-length no-inline-html -->
 
 Cốc Cốc
 -------
 
-<!-- markdownlint-disable line-length no-inline-html -->
 <table>
     <thead>
         <tr>
@@ -263,12 +248,10 @@ Cốc Cốc
         </tr>
     </tbody>
 </table>
-<!-- markdownlint-enable line-length no-inline-html -->
 
 Dolphin
 -------
 
-<!-- markdownlint-disable line-length no-inline-html -->
 <table>
     <thead>
         <tr>
@@ -287,12 +270,10 @@ Dolphin
         </tr>
     </tbody>
 </table>
-<!-- markdownlint-enable line-length no-inline-html -->
 
 Edge
 ----
 
-<!-- markdownlint-disable line-length no-inline-html -->
 <table>
     <thead>
         <tr>
@@ -335,12 +316,10 @@ Edge
         </tr>
     </tbody>
 </table>
-<!-- markdownlint-enable line-length no-inline-html -->
 
 Electron
 --------
 
-<!-- markdownlint-disable line-length no-inline-html -->
 <table>
     <thead>
         <tr>
@@ -359,12 +338,10 @@ Electron
         </tr>
     </tbody>
 </table>
-<!-- markdownlint-enable line-length no-inline-html -->
 
 Epic
 ----
 
-<!-- markdownlint-disable line-length no-inline-html -->
 <table>
     <thead>
         <tr>
@@ -383,12 +360,10 @@ Epic
         </tr>
     </tbody>
 </table>
-<!-- markdownlint-enable line-length no-inline-html -->
 
 Falkon
 ------
 
-<!-- markdownlint-disable line-length no-inline-html -->
 <table>
     <thead>
         <tr>
@@ -407,12 +382,10 @@ Falkon
         </tr>
     </tbody>
 </table>
-<!-- markdownlint-enable line-length no-inline-html -->
 
 Firefox
 -------
 
-<!-- markdownlint-disable line-length no-inline-html -->
 <table>
     <thead>
         <tr>
@@ -463,12 +436,10 @@ Firefox
         </tr>
     </tbody>
 </table>
-<!-- markdownlint-enable line-length no-inline-html -->
 
 Firefox Focus
 -------------
 
-<!-- markdownlint-disable line-length no-inline-html -->
 <table>
     <thead>
         <tr>
@@ -487,12 +458,10 @@ Firefox Focus
         </tr>
     </tbody>
 </table>
-<!-- markdownlint-enable line-length no-inline-html -->
 
 Firefox Preview
 ---------------
 
-<!-- markdownlint-disable line-length no-inline-html -->
 <table>
     <thead>
         <tr>
@@ -527,12 +496,10 @@ Firefox Preview
         </tr>
     </tbody>
 </table>
-<!-- markdownlint-enable line-length no-inline-html -->
 
 Firefox Reality
 ---------------
 
-<!-- markdownlint-disable line-length no-inline-html -->
 <table>
     <thead>
         <tr>
@@ -551,12 +518,10 @@ Firefox Reality
         </tr>
     </tbody>
 </table>
-<!-- markdownlint-enable line-length no-inline-html -->
 
 GeckoView
 ---------
 
-<!-- markdownlint-disable line-length no-inline-html -->
 <table>
     <thead>
         <tr>
@@ -575,12 +540,10 @@ GeckoView
         </tr>
     </tbody>
 </table>
-<!-- markdownlint-enable line-length no-inline-html -->
 
 Hermes
 ------
 
-<!-- markdownlint-disable line-length no-inline-html -->
 <table>
     <thead>
         <tr>
@@ -599,12 +562,10 @@ Hermes
         </tr>
     </tbody>
 </table>
-<!-- markdownlint-enable line-length no-inline-html -->
 
 IceCat
 ------
 
-<!-- markdownlint-disable line-length no-inline-html -->
 <table>
     <thead>
         <tr>
@@ -623,12 +584,10 @@ IceCat
         </tr>
     </tbody>
 </table>
-<!-- markdownlint-enable line-length no-inline-html -->
 
 jsdom
 -----
 
-<!-- markdownlint-disable line-length no-inline-html -->
 <table>
     <thead>
         <tr>
@@ -647,12 +606,10 @@ jsdom
         </tr>
     </tbody>
 </table>
-<!-- markdownlint-enable line-length no-inline-html -->
 
 Konqueror
 ---------
 
-<!-- markdownlint-disable line-length no-inline-html -->
 <table>
     <thead>
         <tr>
@@ -671,12 +628,10 @@ Konqueror
         </tr>
     </tbody>
 </table>
-<!-- markdownlint-enable line-length no-inline-html -->
 
 Maxthon
 -------
 
-<!-- markdownlint-disable line-length no-inline-html -->
 <table>
     <thead>
         <tr>
@@ -695,12 +650,10 @@ Maxthon
         </tr>
     </tbody>
 </table>
-<!-- markdownlint-enable line-length no-inline-html -->
 
 Midori
 ------
 
-<!-- markdownlint-disable line-length no-inline-html -->
 <table>
     <thead>
         <tr>
@@ -719,12 +672,10 @@ Midori
         </tr>
     </tbody>
 </table>
-<!-- markdownlint-enable line-length no-inline-html -->
 
 NetSurf
 -------
 
-<!-- markdownlint-disable line-length no-inline-html -->
 <table>
     <thead>
         <tr>
@@ -743,12 +694,10 @@ NetSurf
         </tr>
     </tbody>
 </table>
-<!-- markdownlint-enable line-length no-inline-html -->
 
 NW.js
 -----
 
-<!-- markdownlint-disable line-length no-inline-html -->
 <table>
     <thead>
         <tr>
@@ -767,12 +716,10 @@ NW.js
         </tr>
     </tbody>
 </table>
-<!-- markdownlint-enable line-length no-inline-html -->
 
 Opera
 -----
 
-<!-- markdownlint-disable line-length no-inline-html -->
 <table>
     <thead>
         <tr>
@@ -807,12 +754,10 @@ Opera
         </tr>
     </tbody>
 </table>
-<!-- markdownlint-enable line-length no-inline-html -->
 
 Opera GX
 --------
 
-<!-- markdownlint-disable line-length no-inline-html -->
 <table>
     <thead>
         <tr>
@@ -831,12 +776,10 @@ Opera GX
         </tr>
     </tbody>
 </table>
-<!-- markdownlint-enable line-length no-inline-html -->
 
 Opera Mini
 ----------
 
-<!-- markdownlint-disable line-length no-inline-html -->
 <table>
     <thead>
         <tr>
@@ -863,12 +806,10 @@ Opera Mini
         </tr>
     </tbody>
 </table>
-<!-- markdownlint-enable line-length no-inline-html -->
 
 Opera Neon
 ----------
 
-<!-- markdownlint-disable line-length no-inline-html -->
 <table>
     <thead>
         <tr>
@@ -887,12 +828,10 @@ Opera Neon
         </tr>
     </tbody>
 </table>
-<!-- markdownlint-enable line-length no-inline-html -->
 
 Opera Touch
 -----------
 
-<!-- markdownlint-disable line-length no-inline-html -->
 <table>
     <thead>
         <tr>
@@ -911,12 +850,10 @@ Opera Touch
         </tr>
     </tbody>
 </table>
-<!-- markdownlint-enable line-length no-inline-html -->
 
 Otter
 -----
 
-<!-- markdownlint-disable line-length no-inline-html -->
 <table>
     <thead>
         <tr>
@@ -935,12 +872,10 @@ Otter
         </tr>
     </tbody>
 </table>
-<!-- markdownlint-enable line-length no-inline-html -->
 
 Pale Moon
 ---------
 
-<!-- markdownlint-disable line-length no-inline-html -->
 <table>
     <thead>
         <tr>
@@ -959,12 +894,10 @@ Pale Moon
         </tr>
     </tbody>
 </table>
-<!-- markdownlint-enable line-length no-inline-html -->
 
 Puffin
 ------
 
-<!-- markdownlint-disable line-length no-inline-html -->
 <table>
     <thead>
         <tr>
@@ -983,12 +916,10 @@ Puffin
         </tr>
     </tbody>
 </table>
-<!-- markdownlint-enable line-length no-inline-html -->
 
 Safari
 ------
 
-<!-- markdownlint-disable line-length no-inline-html -->
 <table>
     <thead>
         <tr>
@@ -1015,12 +946,10 @@ Safari
         </tr>
     </tbody>
 </table>
-<!-- markdownlint-enable line-length no-inline-html -->
 
 Safari (iOS)
 ------------
 
-<!-- markdownlint-disable line-length no-inline-html -->
 <table>
     <thead>
         <tr>
@@ -1039,12 +968,10 @@ Safari (iOS)
         </tr>
     </tbody>
 </table>
-<!-- markdownlint-enable line-length no-inline-html -->
 
 Samsung Internet
 ----------------
 
-<!-- markdownlint-disable line-length no-inline-html -->
 <table>
     <thead>
         <tr>
@@ -1079,12 +1006,10 @@ Samsung Internet
         </tr>
     </tbody>
 </table>
-<!-- markdownlint-enable line-length no-inline-html -->
 
 SeaMonkey
 ---------
 
-<!-- markdownlint-disable line-length no-inline-html -->
 <table>
     <thead>
         <tr>
@@ -1103,12 +1028,10 @@ SeaMonkey
         </tr>
     </tbody>
 </table>
-<!-- markdownlint-enable line-length no-inline-html -->
 
 Servo
 -----
 
-<!-- markdownlint-disable line-length no-inline-html -->
 <table>
     <thead>
         <tr>
@@ -1127,12 +1050,10 @@ Servo
         </tr>
     </tbody>
 </table>
-<!-- markdownlint-enable line-length no-inline-html -->
 
 Silk
 ----
 
-<!-- markdownlint-disable line-length no-inline-html -->
 <table>
     <thead>
         <tr>
@@ -1151,12 +1072,10 @@ Silk
         </tr>
     </tbody>
 </table>
-<!-- markdownlint-enable line-length no-inline-html -->
 
 Sogou (Mobile)
 --------------
 
-<!-- markdownlint-disable line-length no-inline-html -->
 <table>
     <thead>
         <tr>
@@ -1175,12 +1094,10 @@ Sogou (Mobile)
         </tr>
     </tbody>
 </table>
-<!-- markdownlint-enable line-length no-inline-html -->
 
 Tor
 ---
 
-<!-- markdownlint-disable line-length no-inline-html -->
 <table>
     <thead>
         <tr>
@@ -1215,12 +1132,10 @@ Tor
         </tr>
     </tbody>
 </table>
-<!-- markdownlint-enable line-length no-inline-html -->
 
 UC
 --
 
-<!-- markdownlint-disable line-length no-inline-html -->
 <table>
     <thead>
         <tr>
@@ -1239,12 +1154,10 @@ UC
         </tr>
     </tbody>
 </table>
-<!-- markdownlint-enable line-length no-inline-html -->
 
 UC Mini
 -------
 
-<!-- markdownlint-disable line-length no-inline-html -->
 <table>
     <thead>
         <tr>
@@ -1263,12 +1176,10 @@ UC Mini
         </tr>
     </tbody>
 </table>
-<!-- markdownlint-enable line-length no-inline-html -->
 
 V8
 --
 
-<!-- markdownlint-disable line-length no-inline-html -->
 <table>
     <thead>
         <tr>
@@ -1287,12 +1198,10 @@ V8
         </tr>
     </tbody>
 </table>
-<!-- markdownlint-enable line-length no-inline-html -->
 
 V8 Ignition
 -----------
 
-<!-- markdownlint-disable line-length no-inline-html -->
 <table>
     <thead>
         <tr>
@@ -1311,12 +1220,10 @@ V8 Ignition
         </tr>
     </tbody>
 </table>
-<!-- markdownlint-enable line-length no-inline-html -->
 
 V8 Liftoff
 ----------
 
-<!-- markdownlint-disable line-length no-inline-html -->
 <table>
     <thead>
         <tr>
@@ -1335,12 +1242,10 @@ V8 Liftoff
         </tr>
     </tbody>
 </table>
-<!-- markdownlint-enable line-length no-inline-html -->
 
 V8 Orinoco
 ----------
 
-<!-- markdownlint-disable line-length no-inline-html -->
 <table>
     <thead>
         <tr>
@@ -1359,12 +1264,10 @@ V8 Orinoco
         </tr>
     </tbody>
 </table>
-<!-- markdownlint-enable line-length no-inline-html -->
 
 V8 TurboFan
 -----------
 
-<!-- markdownlint-disable line-length no-inline-html -->
 <table>
     <thead>
         <tr>
@@ -1383,12 +1286,10 @@ V8 TurboFan
         </tr>
     </tbody>
 </table>
-<!-- markdownlint-enable line-length no-inline-html -->
 
 Vivaldi
 -------
 
-<!-- markdownlint-disable line-length no-inline-html -->
 <table>
     <thead>
         <tr>
@@ -1415,12 +1316,10 @@ Vivaldi
         </tr>
     </tbody>
 </table>
-<!-- markdownlint-enable line-length no-inline-html -->
 
 Web
 ---
 
-<!-- markdownlint-disable line-length no-inline-html -->
 <table>
     <thead>
         <tr>
@@ -1447,12 +1346,10 @@ Web
         </tr>
     </tbody>
 </table>
-<!-- markdownlint-enable line-length no-inline-html -->
 
 WebKit
 ------
 
-<!-- markdownlint-disable line-length no-inline-html -->
 <table>
     <thead>
         <tr>
@@ -1471,12 +1368,10 @@ WebKit
         </tr>
     </tbody>
 </table>
-<!-- markdownlint-enable line-length no-inline-html -->
 
 Yandex
 ------
 
-<!-- markdownlint-disable line-length no-inline-html -->
 <table>
     <thead>
         <tr>
@@ -1519,4 +1414,3 @@ Yandex
         </tr>
     </tbody>
 </table>
-<!-- markdownlint-enable line-length no-inline-html -->
