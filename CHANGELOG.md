@@ -3,6 +3,25 @@
 Changelog
 =========
 
+64.0.0 (June 14, 2020)
+----------------------
+
+### Breaking Changes
+
+* [[`165c45eeee`](https://github.com/alrra/browser-logos/commit/165c45eeeeadc1df293c474ecbc0daf10399e06b)] - 💥 Rename `android-webview-beta` to `android-webview` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+### Bug fixes / Improvements
+
+* [[`b6e216fb3c`](https://github.com/alrra/browser-logos/commit/b6e216fb3c7dd77161146277fb5652508d5a1505)] - 🗜️ Further losslessly optimize images (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+### New features
+
+* [[`f1e796e511`](https://github.com/alrra/browser-logos/commit/f1e796e5117df498490f03e4c1e0aa34b29615f4)] - ✨ Publish `Android Webview` logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`3bc4bce36d`](https://github.com/alrra/browser-logos/commit/3bc4bce36d67673c09e944860ede5af1fbbc864f)] - ✨ Publish `Android Webview Dev` logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`2cc8f732b3`](https://github.com/alrra/browser-logos/commit/2cc8f732b388917d2dfc5c0328e49e5d00272dc4)] - ✨ Publish `Android Webview Canary` logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`43dd97da74`](https://github.com/alrra/browser-logos/commit/43dd97da740665f25adfa285d69eaa7123f4705c)] - ✨ Add `Android WebView Canary` browser logo (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`6918e49ef1`](https://github.com/alrra/browser-logos/commit/6918e49ef107c5227c9a8ef36431a811bdd37d6e)] - ✨ Add `Android WebView Dev` browser logo (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 63.0.0 (June 13, 2020)
 ----------------------
 
