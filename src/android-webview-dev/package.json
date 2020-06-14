@@ -8,7 +8,6 @@
     "android-webview-dev",
     "android-webview-dev-logo"
   ],
-  "private": true,
   "name": "@browser-logos/android-webview-dev",
   "repository": {
     "directory": "src/android-webview-dev",
