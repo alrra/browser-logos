@@ -10,17 +10,26 @@ Android
     <thead>
         <tr>
             <th>
-                <a href="https://play.google.com/store/apps/details?id=com.google.android.webview">Android<br>WebView<br>Beta</a>
+                <a href="https://play.google.com/store/apps/details?id=com.google.android.webview">Android<br>WebView</a>
+            </th>
+             <th>
+                <a href="https://play.google.com/store/apps/details?id=com.google.android.webview.beta">Android<br>WebView<br>Beta</a>
             </th>
         </tr>
     </thead>
     <tbody>
         <tr height=170>
             <td>
+                <a href="android-webview">
+                    <img width=150 src="android-webview/android-webview_256x256.png" alt="Android WebView logo">
+                </a>
+            </td>
+            <td>
                 <a href="android-webview-beta">
                     <img width=150 src="android-webview-beta/android-webview-beta_256x256.png" alt="Android WebView Beta logo">
                 </a>
             </td>
+        </tr>
         </tr>
     </tbody>
 </table>
