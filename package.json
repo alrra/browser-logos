@@ -20,5 +20,5 @@
     "release": "./scripts/release.js",
     "test": "npm run lint-markdown"
   },
-  "version": "64.0.0"
+  "version": "64.0.1"
 }

@@ -3,6 +3,13 @@
 Changelog
 =========
 
+64.0.1 (June 14, 2020)
+----------------------
+
+### Bug fixes / Improvements
+
+* [[`b508ac33f2`](https://github.com/alrra/browser-logos/commit/b508ac33f23c21c9a8ddbf567be8ac2571a16bf4)] - 📚 Update `Android WebView` preview image (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 64.0.0 (June 14, 2020)
 ----------------------
 
