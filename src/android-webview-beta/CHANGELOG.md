@@ -3,6 +3,17 @@
 Changelog
 =========
 
+2.0.0 (June 14, 2020)
+---------------------
+
+### Breaking Changes
+
+* [[`165c45eeee`](https://github.com/alrra/browser-logos/commit/165c45eeeeadc1df293c474ecbc0daf10399e06b)] - 💥 Rename `android-webview-beta` to `android-webview` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+### Bug fixes / Improvements
+
+* [[`b6e216fb3c`](https://github.com/alrra/browser-logos/commit/b6e216fb3c7dd77161146277fb5652508d5a1505)] - 🗜️ Further losslessly optimize images (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 1.0.6 (November 30, 2019)
 -------------------------
 
