@@ -1,4 +1,4 @@
-Android Webview Dev
+Android WebView Dev
 ===================
 
 <!-- markdownlint-disable line-length no-inline-html -->
@@ -6,7 +6,7 @@ Android Webview Dev
     <tr height=240>
         <td>
             <a href="https://github.com/alrra/browser-logos/tree/e11a2f15743d71a1ccedf832765c611d88d60e90/src/android-webview-dev">
-                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/e11a2f15743d71a1ccedf832765c611d88d60e90/src/android-webview-dev/android-webview-dev_512x512.png" alt="Android Webview Dev browser logo">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/e11a2f15743d71a1ccedf832765c611d88d60e90/src/android-webview-dev/android-webview-dev_512x512.png" alt="Android WebView Dev browser logo">
             </a>
         </td>
     </tr>
