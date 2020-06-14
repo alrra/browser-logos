@@ -8,7 +8,6 @@
     "android-webview-canary",
     "android-webview-canary-logo"
   ],
-  "private": true,
   "name": "@browser-logos/android-webview-canary",
   "repository": {
     "directory": "src/android-webview-canary",
