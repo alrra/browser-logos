@@ -12,8 +12,11 @@ Android
             <th>
                 <a href="https://play.google.com/store/apps/details?id=com.google.android.webview">Android<br>WebView</a>
             </th>
-             <th>
+            <th>
                 <a href="https://play.google.com/store/apps/details?id=com.google.android.webview.beta">Android<br>WebView<br>Beta</a>
+            </th>
+            <th>
+                <a href="https://play.google.com/store/apps/details?id=com.google.android.webview.dev">Android<br>WebView<br>Dev</a>
             </th>
         </tr>
     </thead>
@@ -27,6 +30,11 @@ Android
             <td>
                 <a href="android-webview-beta">
                     <img width=150 src="android-webview-beta/android-webview-beta_256x256.png" alt="Android WebView Beta logo">
+                </a>
+            </td>
+            <td>
+                <a href="android-webview-dev">
+                    <img width=150 src="android-webview-dev/android-webview-dev_256x256.png" alt="Android WebView Dev logo">
                 </a>
             </td>
         </tr>
