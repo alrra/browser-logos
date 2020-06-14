@@ -18,6 +18,9 @@ Android
             <th>
                 <a href="https://play.google.com/store/apps/details?id=com.google.android.webview.dev">Android<br>WebView<br>Dev</a>
             </th>
+            <th>
+                <a href="https://play.google.com/store/apps/details?id=com.google.android.webview.canary">Android<br>WebView<br>Canary</a>
+            </th>
         </tr>
     </thead>
     <tbody>
@@ -35,6 +38,11 @@ Android
             <td>
                 <a href="android-webview-dev">
                     <img width=150 src="android-webview-dev/android-webview-dev_256x256.png" alt="Android WebView Dev logo">
+                </a>
+            </td>
+            <td>
+                <a href="android-webview-canary">
+                    <img width=150 src="android-webview-canary/android-webview-canary_256x256.png" alt="Android WebView Canary logo">
                 </a>
             </td>
         </tr>
