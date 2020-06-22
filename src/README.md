@@ -462,28 +462,6 @@ Firefox
     </tbody>
 </table>
 
-Firefox Focus
--------------
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://www.mozilla.org/en-US/firefox/focus/">Firefox<br>Focus</a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="firefox-focus">
-                    <img width=150 src="firefox-focus/firefox-focus_256x256.png" alt="Firefox Focus browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
 Firefox Preview
 ---------------
 

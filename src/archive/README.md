@@ -908,13 +908,22 @@ Firefox Focus
                 <a href="https://en.wikipedia.org/wiki/Firefox_Focus">Firefox<br>Focus</a>
                 <a href="#note"><code>*</code></a>
             </th>
+            <th>
+                <a href="https://en.wikipedia.org/wiki/Firefox_Focus">Firefox<br>Focus</a>
+                <a href="#note"><code>*</code></a>
+            </th>
         </tr>
     </thead>
     <tbody>
         <tr height=170>
             <td>
-                <a href="firefox-focus">
-                    <img width=150 src="firefox-focus/firefox-focus_256x256.png" alt="Firefox Focus browser logo">
+                <a href="firefox-focus_1">
+                    <img width=150 src="firefox-focus_1/firefox-focus_1_256x256.png" alt="Firefox Focus browser logo">
+                </a>
+            </td>
+            <td>
+                <a href="firefox-focus_2">
+                    <img width=150 src="firefox-focus_2/firefox-focus_2_256x256.png" alt="Firefox Focus browser logo">
                 </a>
             </td>
         </tr>
