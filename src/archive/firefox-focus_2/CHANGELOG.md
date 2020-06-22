@@ -3,6 +3,13 @@
 Changelog
 =========
 
+2.0.0 (June 21, 2020)
+---------------------
+
+### Breaking Changes
+
+* [[`1041fd0578`](https://github.com/alrra/browser-logos/commit/1041fd0578413b64b559a28467c8108245ba4a68)] - 💥 Rename images contained by package (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 1.0.11 (November 30, 2019)
 --------------------------
 
