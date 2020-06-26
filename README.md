@@ -8,10 +8,10 @@ Browser Logos [![Build Status][build icon]][build url]
     <tbody>
         <tr>
             <td height=320>
-                <a href="https://raw.githubusercontent.com/alrra/browser-logos/master/src/main-desktop-browser-logos.png">
+                <a href="https://raw.githubusercontent.com/alrra/browser-logos/main/src/main-desktop-browser-logos.png">
                     <img src="src/main-desktop-browser-logos.png" alt="Main desktop browsers">
                 </a>
-                <a href="https://raw.githubusercontent.com/alrra/browser-logos/master/src/main-mobile-browser-logos.png">
+                <a href="https://raw.githubusercontent.com/alrra/browser-logos/main/src/main-mobile-browser-logos.png">
                     <img src="src/main-mobile-browser-logos.png" alt="Main mobile browsers">
                 </a>
             </td>

@@ -307,7 +307,7 @@ const gitGetFirstCommitSHASinceLastRelease = async (ctx) => {
 
 const getCommitSHAsSinceLastRelease = async (ctx) => {
     const firstCommitSinceLastRelease = await gitGetFirstCommitSHASinceLastRelease(ctx);
-    const commitSHAsSinceLastRelease = (await exec(`git rev-list master...${firstCommitSinceLastRelease}^ ${ctx.isPackage ? ctx.packagePath : 'src'}`)).stdout;
+    const commitSHAsSinceLastRelease = (await exec(`git rev-list main...${firstCommitSinceLastRelease}^ ${ctx.isPackage ? ctx.packagePath : '.'}`)).stdout;
 
     if (!commitSHAsSinceLastRelease) {
         ctx.skipRemainingTasks = true;
@@ -327,7 +327,7 @@ const getCommitSHAsSinceLastRelease = async (ctx) => {
 };
 
 const gitPush = async (ctx) => {
-    await exec(`git push origin master --tags`);
+    await exec(`git push origin main --tags`);
 };
 
 const gitTagNewVersion = async (ctx) => {

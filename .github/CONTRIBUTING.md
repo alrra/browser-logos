@@ -37,7 +37,7 @@ Guidelines for bug reports:
 
 2. **Check if the issue has been fixed** &mdash; verify if the issue is
    still present using the latest content from the
-   [`master`](https://github.com/alrra/browser-logos/tree/master) branch.
+   [`main`](https://github.com/alrra/browser-logos/tree/main) branch.
 
 A good bug report shouldn't leave others needing to chase you up for
 more information. Please try to be as detailed as possible in your
