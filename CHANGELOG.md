@@ -3,6 +3,13 @@
 Changelog
 =========
 
+66.0.0 (June 25, 2020)
+----------------------
+
+### Breaking Changes
+
+* [[`bb0ea0e661`](https://github.com/alrra/browser-logos/commit/bb0ea0e661b5806943d52e23dd9898c9124804ca)] - 💥 Use `main` instead of `master` as the name for the main branch (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 65.0.0 (June 21, 2020)
 ----------------------
 
