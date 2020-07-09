@@ -1372,6 +1372,28 @@ WebKit
     </tbody>
 </table>
 
+WebKit Nightly
+--------------
+
+<table>
+    <thead>
+        <tr>
+            <th>
+                <a href="https://webkit.org/downloads/">WebKit<br>Nightly</a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=170>
+            <td>
+                <a href="webkit-nightly">
+                    <img width=150 src="webkit-nightly/webkit-nightly_256x256.png" alt="WebKit Nightly browser logo">
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 Yandex
 ------
 

@@ -2127,7 +2127,7 @@ WebKit Nightly
                 <a href="https://en.wikipedia.org/wiki/WebKit">WebKit<br>Nightly<br>8-9</a>
             </th>
             <th>
-                <a href="https://en.wikipedia.org/wiki/WebKit">WebKit<br>Nightly<br>10-11</a></a>
+                <a href="https://en.wikipedia.org/wiki/WebKit">WebKit<br>Nightly<br>10-13</a></a>
             </th>
         </tr>
     </thead>
@@ -2144,8 +2144,8 @@ WebKit Nightly
                 </a>
             </td>
             <td>
-                <a href="webkit-nightly_10-11">
-                    <img width=150 src="webkit-nightly_10-11/webkit-nightly_10-11_256x256.png" alt="WebKit Nightly 10-11 browser logo">
+                <a href="webkit-nightly_10-13">
+                    <img width=150 src="webkit-nightly_10-13/webkit-nightly_10-13_256x256.png" alt="WebKit Nightly 10-13 browser logo">
                 </a>
             </td>
         </tr>
