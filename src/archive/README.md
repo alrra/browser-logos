@@ -1676,6 +1676,28 @@ Safari
     </tbody>
 </table>
 
+Safari Technology Preview
+-------------------------
+
+<table>
+    <thead>
+        <tr>
+            <th>
+                <a href="https://en.wikipedia.org/wiki/Safari_%28web_browser%29#Safari_Technology_Preview">Safari<br>Technology Preview<br>9-13</a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=170>
+            <td>
+                <a href="safari-technology-preview_9-13">
+                    <img width=150 src="safari-technology-preview_9-13/safari-technology-preview_9-13_256x256.png" alt="Safari 9-13 browser logo">
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 Safari (iOS)
 ------------
 
