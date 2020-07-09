@@ -1,0 +1,19 @@
+{
+  "bugs": "https://github.com/alrra/browser-logos/issues",
+  "description": "Safari Technology Preview v9-13 browser logo",
+  "homepage": "https://github.com/alrra/browser-logos",
+  "keywords": [
+    "browser-logos",
+    "logo",
+    "safari-technology-preview",
+    "safari-technology-preview-logo"
+  ],
+  "private": true,
+  "name": "@browser-logos/safari-technology-preview_9-13",
+  "repository": {
+    "directory": "src/archive/safari-technology-preview_9-13/",
+    "type": "git",
+    "url": "https://github.com/alrra/browser-logos.git"
+  },
+  "version": "1.0.0"
+}
