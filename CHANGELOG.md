@@ -3,6 +3,19 @@
 Changelog
 =========
 
+67.0.0 (July 8, 2020)
+---------------------
+
+### Breaking Changes
+
+* [[`5e2017686e`](https://github.com/alrra/browser-logos/commit/5e2017686ebe7c7ada592a8d95eab70ce4e69157)] - 💥 Update `WebKit Nightly` logo (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`117e4fc4aa`](https://github.com/alrra/browser-logos/commit/117e4fc4aaf3c852fff74556019fd02f152c75d1)] - 💥 Update `Safari Technology Preview` logo (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+### New features
+
+* [[`3ae9e64122`](https://github.com/alrra/browser-logos/commit/3ae9e6412266e8bf384a7943ae5d091b1bc97b15)] - ✨ Publish `Webkit Nightly_10 13` logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`3da092dda6`](https://github.com/alrra/browser-logos/commit/3da092dda6fbf2c83b8a836fad65fa8d28fe31f9)] - ✨ Publish `Safari Technology Preview_9 13` logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 66.0.1 (June 27, 2020)
 ----------------------
 
