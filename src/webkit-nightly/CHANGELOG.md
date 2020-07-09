@@ -3,6 +3,13 @@
 Changelog
 =========
 
+2.0.0 (July 8, 2020)
+--------------------
+
+### Breaking Changes
+
+* [[`5e2017686e`](https://github.com/alrra/browser-logos/commit/5e2017686ebe7c7ada592a8d95eab70ce4e69157)] - 💥 Update `WebKit Nightly` logo (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 1.0.7 (November 30, 2019)
 -------------------------
 
