@@ -8,7 +8,6 @@
     "webkit-nightly",
     "webkit-nightly-logo"
   ],
-  "private": true,
   "name": "@browser-logos/webkit-nightly_10-13",
   "repository": {
     "directory": "src/archive/webkit-nightly_10-13/",
