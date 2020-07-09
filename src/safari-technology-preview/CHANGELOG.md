@@ -3,6 +3,13 @@
 Changelog
 =========
 
+2.0.0 (July 8, 2020)
+--------------------
+
+### Breaking Changes
+
+* [[`117e4fc4aa`](https://github.com/alrra/browser-logos/commit/117e4fc4aaf3c852fff74556019fd02f152c75d1)] - 💥 Update `Safari Technology Preview` logo (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 1.0.8 (November 30, 2019)
 -------------------------
 
