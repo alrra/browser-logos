@@ -3,10 +3,10 @@ Chrome v1-11
 
 <!-- markdownlint-disable line-length no-inline-html -->
 <table>
-    <tr height=230>
+    <tr height=240>
         <td>
             <a href="https://github.com/alrra/browser-logos/tree/44bdeb7598712d8b17822c75bd1d1f00f9153e79/src/archive/chrome_1-11">
-                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/44bdeb7598712d8b17822c75bd1d1f00f9153e79/src/archive/chrome_1-11/chrome_1-11.svg?sanitize=true" alt="Chrome v1-11 browser logo">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/44bdeb7598712d8b17822c75bd1d1f00f9153e79/src/archive/chrome_1-11/chrome_1-11.svg?sanitize=true" alt="Chrome v1-11 browser logo">
             </a>
         </td>
     </tr>

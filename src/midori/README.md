@@ -3,10 +3,10 @@ Midori
 
 <!-- markdownlint-disable line-length no-inline-html -->
 <table>
-    <tr height=230>
+    <tr height=240>
         <td>
             <a href="https://github.com/alrra/browser-logos/tree/87686e23da5e8e16c9344d6790ddff0b7c16b815/src/midori">
-                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/87686e23da5e8e16c9344d6790ddff0b7c16b815/src/midori/midori.svg?sanitize=true" alt="Midori browser logo">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/87686e23da5e8e16c9344d6790ddff0b7c16b815/src/midori/midori.svg?sanitize=true" alt="Midori browser logo">
             </a>
         </td>
     </tr>

@@ -3,10 +3,10 @@ K-Meleon
 
 <!-- markdownlint-disable line-length no-inline-html -->
 <table>
-    <tr height=230>
+    <tr height=240>
         <td>
             <a href="https://github.com/alrra/browser-logos/tree/587a188744079d9bcb19c64a4d7534ead7d5a950/src/archive/k-meleon">
-                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/587a188744079d9bcb19c64a4d7534ead7d5a950/src/archive/k-meleon/k-meleon.svg?sanitize=true" alt="K-Meleon browser logo">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/587a188744079d9bcb19c64a4d7534ead7d5a950/src/archive/k-meleon/k-meleon.svg?sanitize=true" alt="K-Meleon browser logo">
             </a>
         </td>
     </tr>

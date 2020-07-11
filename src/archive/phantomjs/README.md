@@ -3,10 +3,10 @@ PhantomJS
 
 <!-- markdownlint-disable line-length no-inline-html -->
 <table>
-    <tr height=230>
+    <tr height=240>
         <td>
             <a href="https://github.com/alrra/browser-logos/tree/3c089908ccf8b3b939a9e1eea123303b0b9b0389/src/archive/phantomjs">
-                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/3c089908ccf8b3b939a9e1eea123303b0b9b0389/src/archive/phantomjs/phantomjs.svg?sanitize=true" alt="PhantomJS browser logo">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/3c089908ccf8b3b939a9e1eea123303b0b9b0389/src/archive/phantomjs/phantomjs.svg?sanitize=true" alt="PhantomJS browser logo">
             </a>
         </td>
     </tr>

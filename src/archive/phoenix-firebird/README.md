@@ -3,10 +3,10 @@ Phoenix/Firebird
 
 <!-- markdownlint-disable line-length no-inline-html -->
 <table>
-    <tr height=230>
+    <tr height=240>
         <td>
             <a href="https://github.com/alrra/browser-logos/tree/abfdf44a2714bf6b8009b7162ad114302731020e/src/archive/phoenix-firebird">
-                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/abfdf44a2714bf6b8009b7162ad114302731020e/src/archive/phoenix-firebird/phoenix-firebird.svg?sanitize=true" alt="Phoenix/Firebird browser logo">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/abfdf44a2714bf6b8009b7162ad114302731020e/src/archive/phoenix-firebird/phoenix-firebird.svg?sanitize=true" alt="Phoenix/Firebird browser logo">
             </a>
         </td>
     </tr>

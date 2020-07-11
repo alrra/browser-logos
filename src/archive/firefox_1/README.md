@@ -3,10 +3,10 @@ Firefox v1
 
 <!-- markdownlint-disable line-length no-inline-html -->
 <table>
-    <tr height=230>
+    <tr height=240>
         <td>
             <a href="https://github.com/alrra/browser-logos/tree/896ab303b43decd25c518ea5dc0081e6974d344a/src/archive/firefox_1">
-                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/896ab303b43decd25c518ea5dc0081e6974d344a/src/archive/firefox_1/firefox_1_512x512.png" alt="Firefox v1 browser logo">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/896ab303b43decd25c518ea5dc0081e6974d344a/src/archive/firefox_1/firefox_1_512x512.png" alt="Firefox v1 browser logo">
             </a>
         </td>
     </tr>

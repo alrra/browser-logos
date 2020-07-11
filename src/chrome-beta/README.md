@@ -3,10 +3,10 @@ Chrome Beta
 
 <!-- markdownlint-disable line-length no-inline-html -->
 <table>
-    <tr height=230>
+    <tr height=240>
         <td>
             <a href="https://github.com/alrra/browser-logos/tree/2f636fee42f00753466f80740144fb8a49bf85ad/src/chrome-beta">
-                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/2f636fee42f00753466f80740144fb8a49bf85ad/src/chrome-beta/chrome-beta.svg?sanitize=true" alt="Chrome Beta browser logo">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/2f636fee42f00753466f80740144fb8a49bf85ad/src/chrome-beta/chrome-beta.svg?sanitize=true" alt="Chrome Beta browser logo">
             </a>
         </td>
     </tr>

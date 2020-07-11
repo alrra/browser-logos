@@ -3,10 +3,10 @@ Opera Next v15-24
 
 <!-- markdownlint-disable line-length no-inline-html -->
 <table>
-    <tr height=230>
+    <tr height=240>
         <td>
             <a href="https://github.com/alrra/browser-logos/tree/6309aa9ce36e479e8b7dcf43e3c4c1d9e3a43a83/src/archive/opera-next_15-24">
-                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/6309aa9ce36e479e8b7dcf43e3c4c1d9e3a43a83/src/archive/opera-next_15-24/opera-next_15-24.svg?sanitize=true" alt="Opera Next v15-24 browser logo">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/6309aa9ce36e479e8b7dcf43e3c4c1d9e3a43a83/src/archive/opera-next_15-24/opera-next_15-24.svg?sanitize=true" alt="Opera Next v15-24 browser logo">
             </a>
         </td>
     </tr>

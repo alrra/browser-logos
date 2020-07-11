@@ -3,10 +3,10 @@ Safari for iOS
 
 <!-- markdownlint-disable line-length no-inline-html -->
 <table>
-    <tr height=230>
+    <tr height=240>
         <td>
             <a href="https://github.com/alrra/browser-logos/tree/f1b97575ca6aca932a6d2f0c6357b21b8a17202e/src/safari-ios">
-                <img width=220 src="https://raw.githubusercontent.com/alrra/browser-logos/f1b97575ca6aca932a6d2f0c6357b21b8a17202e/src/safari-ios/safari-ios.svg?sanitize=true" alt="Safari for iOS browser logo">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/f1b97575ca6aca932a6d2f0c6357b21b8a17202e/src/safari-ios/safari-ios.svg?sanitize=true" alt="Safari for iOS browser logo">
             </a>
         </td>
     </tr>
