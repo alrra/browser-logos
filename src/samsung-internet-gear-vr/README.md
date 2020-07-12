@@ -16,12 +16,17 @@ Samsung Internet Gear VR
 How to get the logo
 -------------------
 
-Get it using:
+You can either:
 
-* [`npm`][npm]: `npm install --save-dev @browser-logos/samsung-internet-gear-vr`
-* [`Yarn`][yarn]: `yarn add --dev @browser-logos/samsung-internet-gear-vr`
+* Install it using:
+
+  * [`npm`][npm]: `npm install --save-dev @browser-logos/samsung-internet-gear-vr`
+  * [`Yarn`][yarn]: `yarn add --dev @browser-logos/samsung-internet-gear-vr`
+
+* Use [`cdnjs`][cdnjs].
 
 <!-- Link labels: -->
 
+[cdnjs]: https://cdnjs.com/libraries/browser-logos
 [npm]: https://www.npmjs.com/
 [yarn]: https://yarnpkg.com/

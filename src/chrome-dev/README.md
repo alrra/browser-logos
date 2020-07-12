@@ -16,12 +16,17 @@ Chrome Dev
 How to get the logo
 -------------------
 
-Get it using:
+You can either:
 
-* [`npm`][npm]: `npm install --save-dev @browser-logos/chrome-dev`
-* [`Yarn`][yarn]: `yarn add --dev @browser-logos/chrome-dev`
+* Install it using:
+
+  * [`npm`][npm]: `npm install --save-dev @browser-logos/chrome-dev`
+  * [`Yarn`][yarn]: `yarn add --dev @browser-logos/chrome-dev`
+
+* Use [`cdnjs`][cdnjs].
 
 <!-- Link labels: -->
 
+[cdnjs]: https://cdnjs.com/libraries/browser-logos
 [npm]: https://www.npmjs.com/
 [yarn]: https://yarnpkg.com/

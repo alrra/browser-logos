@@ -77,13 +77,18 @@ ${'='.repeat(data.prettifiedName.length)}
 How to get the logo
 -------------------
 
-Get it using:
+You can either:
 
-* [\`npm\`][npm]: \`npm install --save-dev @browser-logos/${data.packageName}\`
-* [\`yarn\`][yarn]: \`yarn add --dev @browser-logos/${data.packageName}\`
+* Install it using:
+
+  * [\`npm\`][npm]: \`npm install --save-dev @browser-logos/${data.packageName}\`
+  * [\`yarn\`][yarn]: \`yarn add --dev @browser-logos/${data.packageName}\`
+
+* Use [\`cdnjs\`][cdnjs].
 
 <!-- Link labels: -->
 
+[cdnjs]: https://cdnjs.com/libraries/browser-logos
 [npm]: https://www.npmjs.com/
 [yarn]: https://yarnpkg.com/
 `;

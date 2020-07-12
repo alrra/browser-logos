@@ -16,12 +16,17 @@ Chrome DevTools
 How to get the logo
 -------------------
 
-Get it using:
+You can either:
 
-* [`npm`][npm]: `npm install --save-dev @browser-logos/chrome-devtools`
-* [`Yarn`][yarn]: `yarn add --dev @browser-logos/chrome-devtools`
+* Install it using:
+
+  * [`npm`][npm]: `npm install --save-dev @browser-logos/chrome-devtools`
+  * [`Yarn`][yarn]: `yarn add --dev @browser-logos/chrome-devtools`
+
+* Use [`cdnjs`][cdnjs].
 
 <!-- Link labels: -->
 
+[cdnjs]: https://cdnjs.com/libraries/browser-logos
 [npm]: https://www.npmjs.com/
 [yarn]: https://yarnpkg.com/

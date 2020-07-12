@@ -16,12 +16,17 @@ Maxthon
 How to get the logo
 -------------------
 
-Get it using:
+You can either:
 
-* [`npm`][npm]: `npm install --save-dev @browser-logos/maxthon`
-* [`Yarn`][yarn]: `yarn add --dev @browser-logos/maxthon`
+* Install it using:
+
+  * [`npm`][npm]: `npm install --save-dev @browser-logos/maxthon`
+  * [`Yarn`][yarn]: `yarn add --dev @browser-logos/maxthon`
+
+* Use [`cdnjs`][cdnjs].
 
 <!-- Link labels: -->
 
+[cdnjs]: https://cdnjs.com/libraries/browser-logos
 [npm]: https://www.npmjs.com/
 [yarn]: https://yarnpkg.com/
