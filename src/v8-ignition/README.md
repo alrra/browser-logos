@@ -5,8 +5,8 @@ V8 Ignition
 <table>
     <tr height=240>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/aed7cd6660db8a12af299ae9c99f9d6a77cfe468/src/v8-ignition">
-                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/aed7cd6660db8a12af299ae9c99f9d6a77cfe468/src/v8-ignition/v8-ignition.svg?sanitize=true" alt="V8 Ignition browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/a94987f29719142668cdf960b3f624ce1a3c6aa8/src/v8-ignition">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/a94987f29719142668cdf960b3f624ce1a3c6aa8/src/v8-ignition/v8-ignition.svg?sanitize=true" alt="V8 Ignition browser logo">
             </a>
         </td>
     </tr>
