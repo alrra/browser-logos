@@ -5,8 +5,8 @@ Servo
 <table>
     <tr height=240>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/34c6bb2adab318a4a813029826774ffd95d343a8/src/servo">
-                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/34c6bb2adab318a4a813029826774ffd95d343a8/src/servo/servo_512x512.png" alt="Servo browser engine logo">
+            <a href="https://github.com/alrra/browser-logos/tree/a94987f29719142668cdf960b3f624ce1a3c6aa8/src/servo">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/a94987f29719142668cdf960b3f624ce1a3c6aa8/src/servo/servo_512x512.png" alt="Servo browser engine logo">
             </a>
         </td>
     </tr>
