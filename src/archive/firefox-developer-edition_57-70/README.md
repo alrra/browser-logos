@@ -5,8 +5,8 @@ Firefox Developer Edition v57-70
 <table>
     <tr height=240>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/eae7aae0114ff946b934d6721c4125acb67f2e93/src/archive/firefox-developer-edition_57-70">
-                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/eae7aae0114ff946b934d6721c4125acb67f2e93/src/archive/firefox-developer-edition_57-70/firefox-developer-edition_57-70_512x512.png" alt="Firefox Developer Edition v57-70 browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/a94987f29719142668cdf960b3f624ce1a3c6aa8/src/archive/firefox-developer-edition_57-70">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/a94987f29719142668cdf960b3f624ce1a3c6aa8/src/archive/firefox-developer-edition_57-70/firefox-developer-edition_57-70_512x512.png" alt="Firefox Developer Edition v57-70 browser logo">
             </a>
         </td>
     </tr>
