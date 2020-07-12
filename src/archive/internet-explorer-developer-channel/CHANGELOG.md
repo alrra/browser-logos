@@ -3,6 +3,15 @@
 Changelog
 =========
 
+1.1.14 (July 11, 2020)
+----------------------
+
+### Bug fixes / Improvements
+
+* [[`a94987f297`](https://github.com/alrra/browser-logos/commit/a94987f29719142668cdf960b3f624ce1a3c6aa8)] - 📚 Add `cdnjs` usage recommendation (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`80c30110bf`](https://github.com/alrra/browser-logos/commit/80c30110bfb1915e77d4f67e5bb2636f009b520a)] - 🗜 Further optimize `internet-explorer-developer-channel.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`21a95c011d`](https://github.com/alrra/browser-logos/commit/21a95c011d8ee325bbc850048b75425afdea5c4f)] - 📚 Make minor consistency changes in `README.md` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 1.1.13 (June 27, 2020)
 ----------------------
 
