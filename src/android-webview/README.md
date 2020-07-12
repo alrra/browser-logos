@@ -5,8 +5,8 @@ Android WebView
 <table>
     <tr height=240>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/b508ac33f23c21c9a8ddbf567be8ac2571a16bf4/src/android-webview">
-                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/b508ac33f23c21c9a8ddbf567be8ac2571a16bf4/src/android-webview/android-webview_512x512.png" alt="Android WebView browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/a94987f29719142668cdf960b3f624ce1a3c6aa8/src/android-webview">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/a94987f29719142668cdf960b3f624ce1a3c6aa8/src/android-webview/android-webview_512x512.png" alt="Android WebView browser logo">
             </a>
         </td>
     </tr>
