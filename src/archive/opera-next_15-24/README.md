@@ -5,8 +5,8 @@ Opera Next v15-24
 <table>
     <tr height=240>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/6309aa9ce36e479e8b7dcf43e3c4c1d9e3a43a83/src/archive/opera-next_15-24">
-                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/6309aa9ce36e479e8b7dcf43e3c4c1d9e3a43a83/src/archive/opera-next_15-24/opera-next_15-24.svg?sanitize=true" alt="Opera Next v15-24 browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/a94987f29719142668cdf960b3f624ce1a3c6aa8/src/archive/opera-next_15-24">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/a94987f29719142668cdf960b3f624ce1a3c6aa8/src/archive/opera-next_15-24/opera-next_15-24.svg?sanitize=true" alt="Opera Next v15-24 browser logo">
             </a>
         </td>
     </tr>
