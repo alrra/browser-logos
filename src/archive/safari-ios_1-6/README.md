@@ -5,8 +5,8 @@ Safari v1-6 for iOS
 <table>
     <tr height=240>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/896ab303b43decd25c518ea5dc0081e6974d344a/src/archive/safari-ios_1-6">
-                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/896ab303b43decd25c518ea5dc0081e6974d344a/src/archive/safari-ios_1-6/safari-ios_1-6_512x512.png" alt="Safari v1-6 for iOS browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/a94987f29719142668cdf960b3f624ce1a3c6aa8/src/archive/safari-ios_1-6">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/a94987f29719142668cdf960b3f624ce1a3c6aa8/src/archive/safari-ios_1-6/safari-ios_1-6_512x512.png" alt="Safari v1-6 for iOS browser logo">
             </a>
         </td>
     </tr>
