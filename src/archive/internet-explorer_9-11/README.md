@@ -5,8 +5,8 @@ Internet Explorer v9-11
 <table>
     <tr height=240>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/7c4655c5a3f4caf063ac141f747a1e19fbbfe8f1/src/archive/internet-explorer_9-11">
-                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/7c4655c5a3f4caf063ac141f747a1e19fbbfe8f1/src/archive/internet-explorer_9-11/internet-explorer_9-11.svg?sanitize=true" alt="Internet Explorer v9-11 browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/a94987f29719142668cdf960b3f624ce1a3c6aa8/src/archive/internet-explorer_9-11">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/a94987f29719142668cdf960b3f624ce1a3c6aa8/src/archive/internet-explorer_9-11/internet-explorer_9-11.svg?sanitize=true" alt="Internet Explorer v9-11 browser logo">
             </a>
         </td>
     </tr>
