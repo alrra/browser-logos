@@ -5,8 +5,8 @@ WebPositive
 <table>
     <tr height=240>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/392d6280ac55b69c706a57f8ce378f9fcfb554a5/src/archive/webpositive">
-                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/392d6280ac55b69c706a57f8ce378f9fcfb554a5/src/archive/webpositive/webpositive.svg?sanitize=true" alt="WebPositive browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/a94987f29719142668cdf960b3f624ce1a3c6aa8/src/archive/webpositive">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/a94987f29719142668cdf960b3f624ce1a3c6aa8/src/archive/webpositive/webpositive.svg?sanitize=true" alt="WebPositive browser logo">
             </a>
         </td>
     </tr>
