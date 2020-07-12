@@ -5,8 +5,8 @@ Safari for iOS
 <table>
     <tr height=240>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/f1b97575ca6aca932a6d2f0c6357b21b8a17202e/src/safari-ios">
-                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/f1b97575ca6aca932a6d2f0c6357b21b8a17202e/src/safari-ios/safari-ios.svg?sanitize=true" alt="Safari for iOS browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/a94987f29719142668cdf960b3f624ce1a3c6aa8/src/safari-ios">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/a94987f29719142668cdf960b3f624ce1a3c6aa8/src/safari-ios/safari-ios.svg?sanitize=true" alt="Safari for iOS browser logo">
             </a>
         </td>
     </tr>
