@@ -5,8 +5,8 @@ WebKit Nightly v10-11
 <table>
     <tr height=240>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/5e2017686ebe7c7ada592a8d95eab70ce4e69157/src/archive/webkit-nightly_10-11">
-                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/5e2017686ebe7c7ada592a8d95eab70ce4e69157/src/archive/webkit-nightly_10-11/webkit-nightly_10-11_512x512.png" alt="WebKit Nightly v10-11 browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/a94987f29719142668cdf960b3f624ce1a3c6aa8/src/archive/webkit-nightly_10-11">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/a94987f29719142668cdf960b3f624ce1a3c6aa8/src/archive/webkit-nightly_10-11/webkit-nightly_10-11_512x512.png" alt="WebKit Nightly v10-11 browser logo">
             </a>
         </td>
     </tr>
