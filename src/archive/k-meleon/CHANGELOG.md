@@ -3,6 +3,14 @@
 Changelog
 =========
 
+1.0.13 (July 11, 2020)
+----------------------
+
+### Bug fixes / Improvements
+
+* [[`a94987f297`](https://github.com/alrra/browser-logos/commit/a94987f29719142668cdf960b3f624ce1a3c6aa8)] - 📚 Add `cdnjs` usage recommendation (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`21a95c011d`](https://github.com/alrra/browser-logos/commit/21a95c011d8ee325bbc850048b75425afdea5c4f)] - 📚 Make minor consistency changes in `README.md` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 1.0.12 (December 22, 2019)
 --------------------------
 
