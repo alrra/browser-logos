@@ -5,8 +5,8 @@ Chrome DevTools
 <table>
     <tr height=240>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/de8d05a3390ceca805afa23bb17756f0c1becdfd/src/chrome-devtools">
-                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/de8d05a3390ceca805afa23bb17756f0c1becdfd/src/chrome-devtools/chrome-devtools.svg?sanitize=true" alt="Chrome DevTools browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/a94987f29719142668cdf960b3f624ce1a3c6aa8/src/chrome-devtools">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/a94987f29719142668cdf960b3f624ce1a3c6aa8/src/chrome-devtools/chrome-devtools.svg?sanitize=true" alt="Chrome DevTools browser logo">
             </a>
         </td>
     </tr>
