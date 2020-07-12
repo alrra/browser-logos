@@ -5,8 +5,8 @@ Chrome
 <table>
     <tr height=240>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/b9dbb88a5cbecac2809b34f903eff855a28cf56e/src/chrome">
-                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/b9dbb88a5cbecac2809b34f903eff855a28cf56e/src/chrome/chrome.svg?sanitize=true" alt="Chrome browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/a94987f29719142668cdf960b3f624ce1a3c6aa8/src/chrome">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/a94987f29719142668cdf960b3f624ce1a3c6aa8/src/chrome/chrome.svg?sanitize=true" alt="Chrome browser logo">
             </a>
         </td>
     </tr>
