@@ -5,8 +5,8 @@ Arora
 <table>
     <tr height=240>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/a6a8e71405fa76699022ed29347ca849f53a4813/src/archive/arora">
-                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/a6a8e71405fa76699022ed29347ca849f53a4813/src/archive/arora/arora.svg?sanitize=true" alt="Arora browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/a94987f29719142668cdf960b3f624ce1a3c6aa8/src/archive/arora">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/a94987f29719142668cdf960b3f624ce1a3c6aa8/src/archive/arora/arora.svg?sanitize=true" alt="Arora browser logo">
             </a>
         </td>
     </tr>
