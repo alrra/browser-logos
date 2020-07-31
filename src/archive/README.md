@@ -1663,6 +1663,9 @@ Safari
             <th>
                 <a href="https://en.wikipedia.org/wiki/Safari_%28web_browser%29">Safari<br>1-7</a>
             </th>
+            <th>
+                <a href="https://en.wikipedia.org/wiki/Safari_%28web_browser%29">Safari<br>8-13</a>
+            </th>
         </tr>
     </thead>
     <tbody>
@@ -1670,6 +1673,11 @@ Safari
             <td>
                 <a href="safari_1-7">
                     <img width=150 src="safari_1-7/safari_1-7_256x256.png" alt="Safari 1-7 browser logo">
+                </a>
+            </td>
+            <td>
+                <a href="safari_8-13">
+                    <img width=150 src="safari_8-13/safari_8-13_256x256.png" alt="Safari 8-13 browser logo">
                 </a>
             </td>
         </tr>
