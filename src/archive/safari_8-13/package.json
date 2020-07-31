@@ -8,7 +8,6 @@
     "safari",
     "safari-logo"
   ],
-  "private": true,
   "name": "@browser-logos/safari_8-13",
   "repository": {
     "directory": "src/archive/safari_8-13",
