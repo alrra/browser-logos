@@ -3,6 +3,13 @@
 Changelog
 =========
 
+2.0.0 (July 31, 2020)
+---------------------
+
+### Breaking Changes
+
+* [[`1eeb11560f`](https://github.com/alrra/browser-logos/commit/1eeb11560f680dc2a0ce556cd2a27ecdf34290b8)] - 💥 Update `Safari` logo (by [`Cătălin Mariș`](https://github.com/alrra) / see also: [`#184`](https://github.com/alrra/browser-logos/issues/184)).
+
 1.0.8 (July 11, 2020)
 ---------------------
 
