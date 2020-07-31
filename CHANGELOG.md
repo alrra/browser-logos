@@ -3,6 +3,17 @@
 Changelog
 =========
 
+68.0.0 (July 31, 2020)
+----------------------
+
+### Breaking Changes
+
+* [[`1eeb11560f`](https://github.com/alrra/browser-logos/commit/1eeb11560f680dc2a0ce556cd2a27ecdf34290b8)] - 💥 Update `Safari` logo (by [`Cătălin Mariș`](https://github.com/alrra) / see also: [`#184`](https://github.com/alrra/browser-logos/issues/184)).
+
+### New features
+
+* [[`ca8103d3c8`](https://github.com/alrra/browser-logos/commit/ca8103d3c8457f0ea9c9459d5e5c7c36a915169d)] - ✨ Publish `Safari v8-13` logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 67.0.2 (July 11, 2020)
 ----------------------
 
