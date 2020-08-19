@@ -876,28 +876,6 @@ Otter
     </tbody>
 </table>
 
-Pale Moon
----------
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://www.palemoon.org/">Pale Moon</a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="pale-moon">
-                    <img width=150 src="pale-moon/pale-moon_256x256.png" alt="Pale Moon browser logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
 Puffin
 ------
 

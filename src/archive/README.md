@@ -1533,6 +1533,29 @@ Orca
     </tbody>
 </table>
 
+Pale Moon
+---------
+
+<table>
+    <thead>
+        <tr>
+            <th>
+                <a href="https://en.wikipedia.org/wiki/Pale_Moon_%28web_browser%29">Pale Moon</a>
+                <a href="#note"><code>*</code></a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=170>
+            <td>
+                <a href="pale-moon">
+                    <img width=150 src="pale-moon/pale-moon_256x256.png" alt="Pale Moon browser logo">
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 PhantomJS
 ---------
 
