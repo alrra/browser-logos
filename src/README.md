@@ -962,9 +962,6 @@ Samsung Internet
             <th>
                 <a href="https://samsunginter.net/">Samsung<br>Internet<br>Beta</a>
             </th>
-            <th>
-                <a href="https://samsunginter.net/">Samsung<br>Internet<br>for Gear VR</a>
-            </th>
         </tr>
     </thead>
     <tbody>
@@ -977,11 +974,6 @@ Samsung Internet
             <td>
                 <a href="samsung-internet-beta">
                     <img width=150 src="samsung-internet-beta/samsung-internet-beta_256x256.png" alt="Samsung Internet Beta browser logo">
-                </a>
-            </td>
-            <td>
-                <a href="samsung-internet-gear-vr">
-                    <img width=150 src="samsung-internet-gear-vr/samsung-internet-gear-vr_256x256.png" alt="Samsung Internet for Gear VR browser logo">
                 </a>
             </td>
         </tr>

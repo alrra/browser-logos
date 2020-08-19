@@ -1842,6 +1842,28 @@ Samsung Internet Beta
     </tbody>
 </table>
 
+Samsung Internet for Gear VR
+----------------------------
+
+<table>
+    <thead>
+        <tr>
+            <th>
+                <a href="https://en.wikipedia.org/wiki/Samsung_Internet">Samsung<br>Internet<br>for Gear VR</a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=170>
+            <td>
+                <a href="samsung-internet-gear-vr">
+                    <img width=150 src="samsung-internet-gear-vr/samsung-internet-gear-vr_256x256.png" alt="Samsung Internet for Gear VR browser logo">
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 Shiira
 ------
 
