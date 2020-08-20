@@ -3,6 +3,15 @@
 Changelog
 =========
 
+69.0.0 (August 20, 2020)
+------------------------
+
+### Breaking Changes
+
+* [[`ce9b920121ef`](https://github.com/alrra/browser-logos/commit/ce9b920121efa2383eab3c8ef91fe5dcbf36a003)] - 💥 Move `Firefox Preview` logos into the `archive` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`fdb20a107a7e`](https://github.com/alrra/browser-logos/commit/fdb20a107a7e30d60a055a12fe5bd8c9fb2439ac)] - 💥 Move `Samsung Internet for Gear VR` logo into the `archive` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`443dca8e135c`](https://github.com/alrra/browser-logos/commit/443dca8e135ca42aae11bec24fb6903073e58388)] - 💥 Move `Pale Moon` logo into the `archive` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 68.0.0 (July 31, 2020)
 ----------------------
 
