@@ -3,6 +3,17 @@
 Changelog
 =========
 
+69.0.1 (September 27, 2020)
+---------------------------
+
+### Bug fixes / Improvements
+
+* [[`73e1d9fb79`](https://github.com/alrra/browser-logos/commit/73e1d9fb79bb75439278ea323b8439a4157b6bc9)] - 🗜 Further optimize `chromium.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`c48d8f9805`](https://github.com/alrra/browser-logos/commit/c48d8f9805110d0ab1628a84a1d02eebbf7d8875)] - 🗜 Further optimize `chrome-dev.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`35b701f275`](https://github.com/alrra/browser-logos/commit/35b701f275b03edf3c239e4c83f33b4f1704ad73)] - 🗜 Further optimize `chrome-canary.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`b4be300571`](https://github.com/alrra/browser-logos/commit/b4be3005715f9d67c2b57d4bd0ad71c0b492f450)] - 🗜 Further optimize `chrome-beta.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`92cd628bbe`](https://github.com/alrra/browser-logos/commit/92cd628bbeb11dcad2583796295a1098b11c764e)] - 🗜 Further losslessly optimize `firefox-developer-edition_57-70.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 69.0.0 (August 20, 2020)
 ------------------------
 
