@@ -3,6 +3,13 @@
 Changelog
 =========
 
+1.0.7 (September 27, 2020)
+--------------------------
+
+### Bug fixes / Improvements
+
+* [[`92cd628bbe`](https://github.com/alrra/browser-logos/commit/92cd628bbeb11dcad2583796295a1098b11c764e)] - 🗜 Further losslessly optimize `firefox-developer-edition_57-70.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 1.0.6 (July 11, 2020)
 ---------------------
 
