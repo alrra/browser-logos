@@ -3,6 +3,13 @@
 Changelog
 =========
 
+2.1.11 (September 27, 2020)
+---------------------------
+
+### Bug fixes / Improvements
+
+* [[`c48d8f9805`](https://github.com/alrra/browser-logos/commit/c48d8f9805110d0ab1628a84a1d02eebbf7d8875)] - 🗜 Further optimize `chrome-dev.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 2.1.10 (July 11, 2020)
 ----------------------
 
