@@ -5,8 +5,8 @@ Chromium
 <table>
     <tr height=240>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/73e1d9fb79bb75439278ea323b8439a4157b6bc9/src/chromium">
-                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/73e1d9fb79bb75439278ea323b8439a4157b6bc9/src/chromium/chromium_512x512.png" alt="Chromium browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/f806fb69963f31b7ead9a765ca4579ebb16d838f/src/chromium">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/f806fb69963f31b7ead9a765ca4579ebb16d838f/src/chromium/chromium_512x512.png" alt="Chromium browser logo">
             </a>
         </td>
     </tr>

@@ -3,6 +3,14 @@
 Changelog
 =========
 
+1.1.4 (October 30, 2020)
+------------------------
+
+### Bug fixes / Improvements
+
+* [[`f806fb6996`](https://github.com/alrra/browser-logos/commit/f806fb69963f31b7ead9a765ca4579ebb16d838f)] - 🗜️ Further optimize images (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`d098e7fcae`](https://github.com/alrra/browser-logos/commit/d098e7fcae4cd0639ed8ead49b3a240b444d9a58)] - 🗜 Further optimize `chromium.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 1.1.3 (September 27, 2020)
 --------------------------
 
