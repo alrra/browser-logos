@@ -5,8 +5,8 @@ Android WebView Canary
 <table>
     <tr height=240>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/a94987f29719142668cdf960b3f624ce1a3c6aa8/src/android-webview-canary">
-                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/a94987f29719142668cdf960b3f624ce1a3c6aa8/src/android-webview-canary/android-webview-canary_512x512.png" alt="Android WebView Canary browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/0f79ae0baddfcffd3bcf2390abfcf4d621585b70/src/android-webview-canary">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/0f79ae0baddfcffd3bcf2390abfcf4d621585b70/src/android-webview-canary/android-webview-canary_512x512.png" alt="Android WebView Canary browser logo">
             </a>
         </td>
     </tr>
