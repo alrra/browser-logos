@@ -5,8 +5,8 @@ QupZilla
 <table>
     <tr height=240>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/a94987f29719142668cdf960b3f624ce1a3c6aa8/src/archive/qupzilla">
-                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/a94987f29719142668cdf960b3f624ce1a3c6aa8/src/archive/qupzilla/qupzilla_512x512.png" alt="QupZilla browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/f806fb69963f31b7ead9a765ca4579ebb16d838f/src/archive/qupzilla">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/f806fb69963f31b7ead9a765ca4579ebb16d838f/src/archive/qupzilla/qupzilla_512x512.png" alt="QupZilla browser logo">
             </a>
         </td>
     </tr>
