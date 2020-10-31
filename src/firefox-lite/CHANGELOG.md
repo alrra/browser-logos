@@ -3,6 +3,13 @@
 Changelog
 =========
 
+2.0.5 (October 30, 2020)
+------------------------
+
+### Bug fixes / Improvements
+
+* [[`0f79ae0bad`](https://github.com/alrra/browser-logos/commit/0f79ae0baddfcffd3bcf2390abfcf4d621585b70)] - 🗜️ Further optimize images (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 2.0.4 (July 11, 2020)
 ---------------------
 
