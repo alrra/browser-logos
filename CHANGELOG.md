@@ -3,6 +3,18 @@
 Changelog
 =========
 
+69.0.2 (October 30, 2020)
+-------------------------
+
+### Bug fixes / Improvements
+
+* [[`5e9d2a979a`](https://github.com/alrra/browser-logos/commit/5e9d2a979aab6b8ff6cc0b662c4c5c7da7f417da)] - 🗜 Further optimize `firefox-focus_2.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`4bbc37e6cf`](https://github.com/alrra/browser-logos/commit/4bbc37e6cfaa048a6734c92673ffbf6f75459c39)] - 🗜 Further optimize `firefox-reality.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`f806fb6996`](https://github.com/alrra/browser-logos/commit/f806fb69963f31b7ead9a765ca4579ebb16d838f)] - 🗜️ Further optimize images (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`d098e7fcae`](https://github.com/alrra/browser-logos/commit/d098e7fcae4cd0639ed8ead49b3a240b444d9a58)] - 🗜 Further optimize `chromium.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`e39f7a0108`](https://github.com/alrra/browser-logos/commit/e39f7a0108e3f665f8c065cec547cb56f90a647f)] - 🗜 Further optimize `otter.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`0f79ae0bad`](https://github.com/alrra/browser-logos/commit/0f79ae0baddfcffd3bcf2390abfcf4d621585b70)] - 🗜️ Further optimize images (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 69.0.1 (September 27, 2020)
 ---------------------------
 
