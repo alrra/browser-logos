@@ -3,6 +3,13 @@
 Changelog
 =========
 
+2.0.2 (October 30, 2020)
+------------------------
+
+### Bug fixes / Improvements
+
+* [[`5e9d2a979a`](https://github.com/alrra/browser-logos/commit/5e9d2a979aab6b8ff6cc0b662c4c5c7da7f417da)] - 🗜 Further optimize `firefox-focus_2.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 2.0.1 (July 11, 2020)
 ---------------------
 
