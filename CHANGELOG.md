@@ -3,6 +3,15 @@
 Changelog
 =========
 
+69.0.3 (October 31, 2020)
+-------------------------
+
+### Bug fixes / Improvements
+
+* [[`ce3af4582e`](https://github.com/alrra/browser-logos/commit/ce3af4582e146cfa9a0039d266344e7fa6c3552a)] - 🗜 Further optimize `otter.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`68742ab6ff`](https://github.com/alrra/browser-logos/commit/68742ab6ff3ea212c7f7795c930f26f609cf4796)] - 🗜 Further losslessly optimize `chromium.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`481d08199e`](https://github.com/alrra/browser-logos/commit/481d08199efab04b98025f5893d5b93d7481d6d2)] - 🗜 Further optimize `chromium.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 69.0.2 (October 30, 2020)
 -------------------------
 
