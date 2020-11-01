@@ -3,6 +3,16 @@
 Changelog
 =========
 
+69.0.4 (October 31, 2020)
+-------------------------
+
+### Bug fixes / Improvements
+
+* [[`17acb075d4`](https://github.com/alrra/browser-logos/commit/17acb075d41f15455dc6735316af3ba7507e49ed)] - 🗜 Further losslessly optimize `internet-explorer_9-11.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`f0e6d32576`](https://github.com/alrra/browser-logos/commit/f0e6d32576b56a64b30672b01fa9829985837bbb)] - 🗜 Further losslessly optimize `internet-explorer-developer-channel.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`707f41d611`](https://github.com/alrra/browser-logos/commit/707f41d6117dcd81ff9ca1a2be3af986d51e1956)] - 🗜 Further losslessly optimize `firefox-reality.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`f093366ec1`](https://github.com/alrra/browser-logos/commit/f093366ec106b077f5dd04ee2cb22392715f5512)] - 🗜 Further losslessly optimize `firefox-focus_2.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 69.0.3 (October 31, 2020)
 -------------------------
 
