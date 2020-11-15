@@ -11,7 +11,7 @@ Old browser logos
         <tr>
             <th>
                 <a href="https://en.wikipedia.org/wiki/360_Secure_Browser">360<br>Secure</a>
-                <a href="#note"><code>*</code></a>
+                <a href="#notes"><code>*</code></a>
             </th>
         </tr>
     </thead>
@@ -34,7 +34,7 @@ Amigo
         <tr>
             <th>
                 <a href="https://ru.wikipedia.org/wiki/%D0%90%D0%BC%D0%B8%D0%B3%D0%BE_%28%D0%B1%D1%80%D0%B0%D1%83%D0%B7%D0%B5%D1%80%29">Amigo</a>
-                <a href="#note"><code>*</code></a>
+                <a href="#notes"><code>*</code></a>
             </th>
         </tr>
    </thead>
@@ -79,7 +79,7 @@ AOL Explorer
         <tr>
             <th>
                 <a href="https://en.wikipedia.org/wiki/AOL_Explorer">AOL<br>Explorer</a>
-                <a href="#note"><code>*</code></a>
+                <a href="#notes"><code>*</code></a>
             </th>
         </tr>
     </thead>
@@ -146,7 +146,7 @@ Beaker
         <tr>
             <th>
                 <a href="https://en.wikipedia.org/wiki/Beaker_%28web_browser%29">Beaker</a>
-                <a href="#note"><code>*</code></a>
+                <a href="#notes"><code>*</code></a>
             </th>
         </tr>
     </thead>
@@ -191,11 +191,11 @@ Brave
         <tr>
             <th>
                 <a href="https://en.wikipedia.org/wiki/Brave_%28web_browser%29">Brave</a>
-                <a href="#note"><code>*</code></a>
+                <a href="#notes"><code>*</code></a>
             </th>
             <th>
                 <a href="https://en.wikipedia.org/wiki/Brave_%28web_browser%29">Brave</a>
-                <a href="#note"><code>*</code></a>
+                <a href="#notes"><code>*</code></a>
             </th>
         </tr>
     </thead>
@@ -467,11 +467,11 @@ Dolphin
         <tr>
             <th>
                 <a href="https://en.wikipedia.org/wiki/Dolphin_Browser">Dolphin</a>
-                <a href="#note"><code>*</code></a>
+                <a href="#notes"><code>*</code></a>
             </th>
             <th>
                 <a href="https://en.wikipedia.org/wiki/Dolphin_Browser">Dolphin</a>
-                <a href="#note"><code>*</code></a>
+                <a href="#notes"><code>*</code></a>
             </th>
         </tr>
     </thead>
@@ -499,7 +499,7 @@ Dolphin Beta
         <tr>
             <th>
                 <a href="https://en.wikipedia.org/wiki/Dolphin_Browser">Dolphin<br>Beta</a>
-                <a href="#note"><code>*</code></a>
+                <a href="#notes"><code>*</code></a>
             </th>
         </tr>
     </thead>
@@ -522,11 +522,11 @@ Dolphin Zero
         <tr>
             <th>
                 <a href="https://en.wikipedia.org/wiki/Dolphin_Browser">Dolphin<br>Zero</a>
-                <a href="#note"><code>*</code></a>
+                <a href="#notes"><code>*</code></a>
             </th>
             <th>
                 <a href="https://en.wikipedia.org/wiki/Dolphin_Browser">Dolphin<br>Zero</a>
-                <a href="#note"><code>*</code></a>
+                <a href="#notes"><code>*</code></a>
             </th>
         </tr>
     </thead>
@@ -664,7 +664,7 @@ Epic
         <tr>
             <th>
                 <a href="https://en.wikipedia.org/wiki/Epic_%28web_browser%29">Epic</a>
-                <a href="#note"><code>*</code></a>
+                <a href="#notes"><code>*</code></a>
             </th>
         </tr>
     </thead>
@@ -845,7 +845,7 @@ Firefox Beta
         <tr>
             <th>
                 <a href="https://en.wikipedia.org/wiki/Firefox#Versions">Firefox<br>Beta</a>
-                <a href="#note"><code>*</code></a>
+                <a href="#notes"><code>*</code></a>
             </th>
             <th>
                 <a href="https://en.wikipedia.org/wiki/Firefox#Versions">Firefox<br>Beta<br>57-70</a>
@@ -906,11 +906,11 @@ Firefox Focus
         <tr>
             <th>
                 <a href="https://en.wikipedia.org/wiki/Firefox_Focus">Firefox<br>Focus</a>
-                <a href="#note"><code>*</code></a>
+                <a href="#notes"><code>*</code></a>
             </th>
             <th>
                 <a href="https://en.wikipedia.org/wiki/Firefox_Focus">Firefox<br>Focus</a>
-                <a href="#note"><code>*</code></a>
+                <a href="#notes"><code>*</code></a>
             </th>
         </tr>
     </thead>
@@ -938,7 +938,7 @@ Firefox Lite
         <tr>
             <th>
                 <a href="https://en.wikipedia.org/wiki/Firefox#Versions">Firefox<br>Lite</a>
-                <a href="#note"><code>*</code></a>
+                <a href="#notes"><code>*</code></a>
             </th>
         </tr>
     </thead>
@@ -999,7 +999,7 @@ Firefox Reality
         <tr>
             <th>
                 <a href="https://en.wikipedia.org/wiki/Firefox#Versions">Firefox<br>Reality</a>
-                <a href="#note"><code>*</code></a>
+                <a href="#notes"><code>*</code></a>
             </th>
         </tr>
     </thead>
@@ -1230,7 +1230,7 @@ Maxthon
         <tr>
             <th>
                 <a href="https://en.wikipedia.org/wiki/Maxthon">Maxthon</a>
-                <a href="#note"><code>*</code></a>
+                <a href="#notes"><code>*</code></a>
             </th>
         </tr>
     </thead>
@@ -1253,7 +1253,7 @@ Maxthon Beta
         <tr>
             <th>
                 <a href="https://en.wikipedia.org/wiki/Maxthon">Maxthon<br>Beta</a>
-                <a href="#note"><code>*</code></a>
+                <a href="#notes"><code>*</code></a>
             </th>
         </tr>
     </thead>
@@ -1464,11 +1464,11 @@ Opera Mini
         <tr>
             <th>
                 <a href="https://en.wikipedia.org/wiki/Opera_Mini">Opera<br>Mini</a>
-                <a href="#note"><code>*</code></a>
+                <a href="#notes"><code>*</code></a>
             </th>
             <th>
                 <a href="https://en.wikipedia.org/wiki/Opera_Mini">Opera<br>Mini</a>
-                <a href="#note"><code>*</code></a>
+                <a href="#notes"><code>*</code></a>
             </th>
         </tr>
     </thead>
@@ -1496,7 +1496,7 @@ Opera Mini Beta
         <tr>
             <th>
                 <a href="https://en.wikipedia.org/wiki/Opera_Mini">Opera<br>Mini<br>Beta</a>
-                <a href="#note"><code>*</code></a>
+                <a href="#notes"><code>*</code></a>
             </th>
         </tr>
     </thead>
@@ -1563,7 +1563,7 @@ Puffin
         <tr>
             <th>
                 <a href="https://web.archive.org/web/20170/https://www.puffinbrowser.com/index.php">Puffin</a>
-                <a href="#note"><code>*</code></a>
+                <a href="#notes"><code>*</code></a>
             </th>
             </th>
         </tr>
@@ -1587,7 +1587,7 @@ QupZilla
         <tr>
             <th>
                 <a href="https://en.wikipedia.org/wiki/Falkon">QupZilla</a>
-                <a href="#note"><code>*</code></a>
+                <a href="#notes"><code>*</code></a>
             </th>
         </tr>
     </thead>
@@ -1706,7 +1706,7 @@ Servo
         <tr>
             <th>
                 <a href="https://en.wikipedia.org/wiki/Servo_%28software%29">Servo</a>
-                <a href="#note"><code>*</code></a>
+                <a href="#notes"><code>*</code></a>
             </th>
         </tr>
     </thead>
@@ -1819,15 +1819,15 @@ Silk
         <tr>
             <th>
                 <a href="https://en.wikipedia.org/wiki/Amazon_Silk">Silk</a>
-                <a href="#note"><code>*</code></a>
+                <a href="#notes"><code>*</code></a>
             </th>
             <th>
                 <a href="https://en.wikipedia.org/wiki/Amazon_Silk">Silk</a>
-                <a href="#note"><code>*</code></a>
+                <a href="#notes"><code>*</code></a>
             </th>
             <th>
                 <a href="https://en.wikipedia.org/wiki/Amazon_Silk">Silk</a>
-                <a href="#note"><code>*</code></a>
+                <a href="#notes"><code>*</code></a>
             </th>
         </tr>
     </thead>
@@ -1890,15 +1890,15 @@ Sogou (Mobile)
         <tr>
             <th>
                 <a href="https://en.wikipedia.org/wiki/Sogou#Sogou_browser">Sogou<br>(Mobile)</a>
-                <a href="#note"><code>*</code></a>
+                <a href="#notes"><code>*</code></a>
             </th>
             <th>
                 <a href="https://en.wikipedia.org/wiki/Sogou#Sogou_browser">Sogou<br>(Mobile)</a>
-                <a href="#note"><code>*</code></a>
+                <a href="#notes"><code>*</code></a>
             </th>
             <th>
                 <a href="https://en.wikipedia.org/wiki/Sogou#Sogou_browser">Sogou<br>(Mobile)</a>
-                <a href="#note"><code>*</code></a>
+                <a href="#notes"><code>*</code></a>
             </th>
         </tr>
     </thead>
@@ -1953,7 +1953,7 @@ surf
         <tr>
             <th>
                 <a href="https://en.wikipedia.org/wiki/Surf_%28web_browser%29">surf</a>
-                <a href="#note"><code>*</code></a>
+                <a href="#notes"><code>*</code></a>
             </th>
         </tr>
     </thead>
@@ -1976,7 +1976,7 @@ Tor
         <tr>
             <th>
                 <a href="https://en.wikipedia.org/wiki/Tor_%28anonymity_network%29#Tor_Browser">Tor</a>
-                <a href="#note"><code>*</code></a>
+                <a href="#notes"><code>*</code></a>
             </th>
         </tr>
     </thead>
@@ -1999,7 +1999,7 @@ UC
         <tr>
             <th>
                 <a href="https://en.wikipedia.org/wiki/UC_Browser">UC</a>
-                <a href="#note"><code>*</code></a>
+                <a href="#notes"><code>*</code></a>
             </th>
         </tr>
     </thead>
@@ -2022,7 +2022,7 @@ Vivaldi
         <tr>
             <th>
                 <a href="https://en.wikipedia.org/wiki/Vivaldi_%28web_browser%29">Vivaldi</a>
-                <a href="#note"><code>*</code></a>
+                <a href="#notes"><code>*</code></a>
             </th>
         </tr>
     </thead>
@@ -2045,7 +2045,7 @@ Vivaldi Snapshot
         <tr>
             <th>
                 <a href="https://en.wikipedia.org/wiki/Vivaldi_%28web_browser%29">Vivaldi<br>Snapshot</a>
-                <a href="#note">
+                <a href="#notes">
                     <code>*</code>
                 </a>
             </th>
@@ -2068,11 +2068,11 @@ Web
         <tr>
             <th>
                 <a href="https://en.wikipedia.org/wiki/Web_%28web_browser%29">Web <br>(f.k.a. Epiphany)</a>
-                <a href="#note"><code>*</code></a>
+                <a href="#notes"><code>*</code></a>
             </th>
             <th>
                 <a href="https://en.wikipedia.org/wiki/Web_%28web_browser%29">Web <br>(f.k.a. Epiphany)</a>
-                <a href="#note"><code>*</code></a>
+                <a href="#notes"><code>*</code></a>
             </th>
         </tr>
     </thead>
@@ -2182,7 +2182,7 @@ Xpress
         <tr>
             <th>
                 <a href="https://en.wikipedia.org/wiki/Nokia_Xpress">Xpress</a>
-                <a href="#note"><code>*</code></a>
+                <a href="#notes"><code>*</code></a>
             </th>
         </tr>
     </thead>
@@ -2205,7 +2205,7 @@ Yandex
         <tr>
             <th>
                 <a href="https://en.wikipedia.org/wiki/Yandex_Browser">Yandex</a>
-                <a href="#note"><code>*</code></a>
+                <a href="#notes"><code>*</code></a>
             </th>
         </tr>
     </thead>
