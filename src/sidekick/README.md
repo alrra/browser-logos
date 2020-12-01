@@ -5,8 +5,8 @@ Sidekick
 <table>
     <tr height=240>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree//src/sidekick">
-                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos//src/sidekick/sidekick_512x512.png" alt="Sidekick browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/9b98b7b26654fc6729763ba338b6a73aec598e6b/src/sidekick">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/9b98b7b26654fc6729763ba338b6a73aec598e6b/src/sidekick/sidekick_512x512.png" alt="Sidekick browser logo">
             </a>
         </td>
     </tr>
