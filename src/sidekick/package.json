@@ -1,0 +1,19 @@
+{
+  "bugs": "https://github.com/alrra/browser-logos/issues",
+  "description": "Sidekick browser logo",
+  "homepage": "https://github.com/alrra/browser-logos",
+  "keywords": [
+    "browser-logos",
+    "logo",
+    "sidekick",
+    "sidekick-logo"
+  ],
+  "private": true,
+  "name": "@browser-logos/sidekick",
+  "repository": {
+    "directory": "src/sidekick",
+    "type": "git",
+    "url": "https://github.com/alrra/browser-logos.git"
+  },
+  "version": "1.0.0"
+}
