@@ -9,13 +9,11 @@ declare exitCode=0
 declare markdownFiles=$( \
     find . \
         -name "*.md" \
-        -not -name "CHANGELOG.md" \
-        -not -path "./changelogs/*" \
         -not -path "./node_modules/*" \
 );
 
 for file in $markdownFiles; do
-    markdown-link-check -pv "$file" \
+    markdown-link-check --progress --retry --verbose "$file" \
         || exitCode=1
 done
 
