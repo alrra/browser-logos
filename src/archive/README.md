@@ -701,6 +701,29 @@ Epiphany
     </tbody>
 </table>
 
+Epiphany Technology Preview
+---------------------------
+
+<table>
+    <thead>
+        <tr>
+            <th>
+                <a href="https://en.wikipedia.org/wiki/Web_%28web_browser%29">Epiphany Technology Preview</a>
+                <a href="#notes"><code>*</code></a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=170>
+            <td>
+                <a href="epiphany">
+                    <img width=150 src="epiphany-technology-preview_1/epiphany-technology-preview_1_256x256.png" alt="Epiphany Technology Preview browser logo">
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 Fake
 ----
 
