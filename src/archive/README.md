@@ -2187,6 +2187,10 @@ Web
                 <a href="https://en.wikipedia.org/wiki/Web_%28web_browser%29">Web <br>(f.k.a. Epiphany)</a>
                 <a href="#notes"><code>*</code></a>
             </th>
+            <th>
+                <a href="https://en.wikipedia.org/wiki/Web_%28web_browser%29">Web <br>(f.k.a. Epiphany)</a>
+                <a href="#notes"><code>*</code></a>
+            </th>
         </tr>
     </thead>
     <tbody>
@@ -2199,6 +2203,11 @@ Web
             <td>
                 <a href="web_2">
                     <img width=150 src="web_2/web_2_256x256.png" alt="Web (f.k.a. Epiphany) browser logo">
+                </a>
+            </td>
+            <td>
+                <a href="web_3">
+                    <img width=150 src="web_3/web_3_256x256.png" alt="Web (f.k.a. Epiphany) browser logo">
                 </a>
             </td>
         </tr>
