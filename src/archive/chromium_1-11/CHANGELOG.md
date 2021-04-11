@@ -3,6 +3,13 @@
 Changelog
 =========
 
+1.0.16 (April 10, 2021)
+-----------------------
+
+### Bug fixes / Improvements
+
+* [[`7d88d6c6cc`](https://github.com/alrra/browser-logos/commit/7d88d6c6cc3c144431d92853ebd351ce01dd16ea)] - 🗜 Further losslessly optimize `chromium_1-11.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 1.0.15 (July 11, 2020)
 ----------------------
 
