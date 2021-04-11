@@ -3,6 +3,13 @@
 Changelog
 =========
 
+2.0.7 (April 10, 2021)
+----------------------
+
+### Bug fixes / Improvements
+
+* [[`f52a9a87f4`](https://github.com/alrra/browser-logos/commit/f52a9a87f49c26139200efbea5b22f69241faa4e)] - 🗜️ Further optimize images (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 2.0.6 (July 11, 2020)
 ---------------------
 
