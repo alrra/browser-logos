@@ -3,6 +3,17 @@
 Changelog
 =========
 
+2.0.0 (April 10, 2021)
+----------------------
+
+### Breaking Changes
+
+* [[`9989d26975`](https://github.com/alrra/browser-logos/commit/9989d269753043855e1cd6b0950f74296019f888)] - 💥 Update `Epiphany Technology Preview` logo (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+### Bug fixes / Improvements
+
+* [[`9a42fd785a`](https://github.com/alrra/browser-logos/commit/9a42fd785a6f8b4ebcbe9277356eeb016c34cfcf)] - 🗜️ Further optimize images (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 1.0.2 (July 11, 2020)
 ---------------------
 
