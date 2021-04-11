@@ -10,7 +10,6 @@
 
 **/CHANGELOG.md export-ignore
 **/package-lock.json export-ignore
-**/package.json export-ignore
 **/README.md export-ignore
 .editorconfig export-ignore
 .gitattributes export-ignore
@@ -19,6 +18,7 @@
 .travis.yml export-ignore
 changelogs export-ignore
 scripts export-ignore
+src/**/package.json export-ignore
 src/browser-logos.gif export-ignore
 src/main-desktop-browser-logos.png export-ignore
 src/main-mobile-browser-logos.png export-ignore
