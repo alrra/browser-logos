@@ -3,6 +3,24 @@
 Changelog
 =========
 
+70.0.0 (April 10, 2021)
+-----------------------
+
+### Breaking Changes
+
+* [[`9989d26975`](https://github.com/alrra/browser-logos/commit/9989d269753043855e1cd6b0950f74296019f888)] - 💥 Update `Epiphany Technology Preview` logo (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`83ef8c4fbb`](https://github.com/alrra/browser-logos/commit/83ef8c4fbbffb1ed56e41148252e08f95c75181b)] - 💥 Update `Web` logo (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+### Bug fixes / Improvements
+
+* [[`9bae5de04f`](https://github.com/alrra/browser-logos/commit/9bae5de04fbe1701ed61fa9eea94cdc95ecd8350)] - 🐛 Include the main `package.json` file into the Git archive (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`ab5073fc58`](https://github.com/alrra/browser-logos/commit/ab5073fc58be6a07610fef9c5f681e58c448e14d)] - 🗜 Further optimize `firefox_23-56.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`7d88d6c6cc`](https://github.com/alrra/browser-logos/commit/7d88d6c6cc3c144431d92853ebd351ce01dd16ea)] - 🗜 Further losslessly optimize `chromium_1-11.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`3bd1fc82ad`](https://github.com/alrra/browser-logos/commit/3bd1fc82adf03f70513dac5fa11416295eb63e6c)] - 🗜 Further losslessly optimize `chrome-canary.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`9a42fd785a`](https://github.com/alrra/browser-logos/commit/9a42fd785a6f8b4ebcbe9277356eeb016c34cfcf)] - 🗜️ Further optimize images (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`f52a9a87f4`](https://github.com/alrra/browser-logos/commit/f52a9a87f49c26139200efbea5b22f69241faa4e)] - 🗜️ Further optimize images (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`147eb66ffa`](https://github.com/alrra/browser-logos/commit/147eb66ffa3ab762055f2126b27ed1d169cf514e)] - 📚 Fix broken links (by [`scribblemaniac`](https://github.com/scribblemaniac)).
+
 69.0.4 (October 31, 2020)
 -------------------------
 
