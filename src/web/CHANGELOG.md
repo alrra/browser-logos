@@ -3,6 +3,13 @@
 Changelog
 =========
 
+3.0.0 (April 10, 2021)
+----------------------
+
+### Breaking Changes
+
+* [[`83ef8c4fbb`](https://github.com/alrra/browser-logos/commit/83ef8c4fbbffb1ed56e41148252e08f95c75181b)] - 💥 Update `Web` logo (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 2.0.6 (July 11, 2020)
 ---------------------
 
