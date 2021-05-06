@@ -1068,6 +1068,28 @@ Tor
     </tbody>
 </table>
 
+SpiderMonkey
+------------
+
+<table>
+    <thead>
+        <tr>
+            <th>
+                <a href="https://spidermonkey.dev/">SpiderMonkey</a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=170>
+            <td>
+                <a href="spidermonkey">
+                    <img width=150 src="spidermonkey/spidermonkey_256x256.png" alt="SpiderMonkey JavaScript engine logo">
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 UC
 --
 
