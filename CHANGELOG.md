@@ -3,6 +3,14 @@
 Changelog
 =========
 
+70.1.0 (May 5, 2021)
+--------------------
+
+### New features
+
+* [[`e2c8fac04e`](https://github.com/alrra/browser-logos/commit/e2c8fac04e87f570e9f18fae8eb2ac827550161d)] - ✨ Publish `Spidermonkey` logo on `npm`.
+* [[`03117d2a88`](https://github.com/alrra/browser-logos/commit/03117d2a88eae9c81e4a9bdad062f5b639c50ce1)] - ✨ Add SpiderMonkey logo.
+
 70.0.0 (April 10, 2021)
 -----------------------
 
