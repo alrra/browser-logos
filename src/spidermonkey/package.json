@@ -8,7 +8,6 @@
     "spidermonkey",
     "spidermonkey-logo"
   ],
-  "private": true,
   "name": "@browser-logos/spidermonkey",
   "repository": {
     "directory": "src/spidermonkey",
