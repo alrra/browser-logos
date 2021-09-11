@@ -78,8 +78,8 @@ There are a few options for getting the browser logos:
 
 * Install using:
 
-  * [`npm`][npm]: `npm install alrra/browser-logos#70.1.0`
-  * [`Yarn`][yarn]: `yarn add browser-logos#70.1.0`
+  * [`npm`][npm]: `npm install alrra/browser-logos#70.2.0`
+  * [`Yarn`][yarn]: `yarn add browser-logos#70.2.0`
 
 * Download the [`zip` archive][archive].
 * Use [`cdnjs`][cdnjs].
@@ -116,7 +116,7 @@ paul] blog post.
 <!-- Link labels: -->
 
 [archive readme]: src/archive/README.md#readme
-[archive]: https://github.com/alrra/browser-logos/archive/70.1.0.zip
+[archive]: https://github.com/alrra/browser-logos/archive/70.2.0.zip
 [article paul]: https://www.paulirish.com/2010/high-res-browser-icons/
 [build icon]: https://github.com/alrra/browser-logos/workflows/test/badge.svg
 [build url]: https://github.com/alrra/browser-logos/actions

@@ -3,6 +3,19 @@
 Changelog
 =========
 
+70.2.0 (September 11, 2021)
+---------------------------
+
+### Bug fixes / Improvements
+
+* [[`70a3f1895a`](https://github.com/alrra/browser-logos/commit/70a3f1895a9d22ed3cae629803e0629a870a6376)] - 🗜 Further optimize `v8-turbofan.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`c2617f7eae`](https://github.com/alrra/browser-logos/commit/c2617f7eaec2a2342c94d957491737f4b215fbf8)] - 🗜 Further optimize `v8-ignition.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`b0e6f824ee`](https://github.com/alrra/browser-logos/commit/b0e6f824ee802f82c632ca5d0cc546f4e2f75b4c)] - 🗜 Further optimize `chrome-devtools.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+### New features
+
+* [[`f677ca64da`](https://github.com/alrra/browser-logos/commit/f677ca64dad259c173f1a2d6348808f2dcbab48b)] - ✨ Add `uc.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 70.1.0 (May 5, 2021)
 --------------------
 
