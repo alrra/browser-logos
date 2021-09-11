@@ -3,6 +3,13 @@
 Changelog
 =========
 
+1.0.12 (September 11, 2021)
+---------------------------
+
+### Bug fixes / Improvements
+
+* [[`b0e6f824ee`](https://github.com/alrra/browser-logos/commit/b0e6f824ee802f82c632ca5d0cc546f4e2f75b4c)] - 🗜 Further optimize `chrome-devtools.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 1.0.11 (July 11, 2020)
 ----------------------
 
