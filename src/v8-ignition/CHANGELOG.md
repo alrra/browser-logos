@@ -3,6 +3,13 @@
 Changelog
 =========
 
+2.0.7 (September 11, 2021)
+--------------------------
+
+### Bug fixes / Improvements
+
+* [[`c2617f7eae`](https://github.com/alrra/browser-logos/commit/c2617f7eaec2a2342c94d957491737f4b215fbf8)] - 🗜 Further optimize `v8-ignition.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 2.0.6 (July 11, 2020)
 ---------------------
 
