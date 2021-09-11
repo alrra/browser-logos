@@ -5,8 +5,8 @@ UC
 <table>
     <tr height=240>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/a94987f29719142668cdf960b3f624ce1a3c6aa8/src/uc">
-                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/a94987f29719142668cdf960b3f624ce1a3c6aa8/src/uc/uc_512x512.png" alt="UC browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/f677ca64dad259c173f1a2d6348808f2dcbab48b/src/uc">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/f677ca64dad259c173f1a2d6348808f2dcbab48b/src/uc/uc_512x512.png" alt="UC browser logo">
             </a>
         </td>
     </tr>

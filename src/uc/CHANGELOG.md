@@ -3,6 +3,13 @@
 Changelog
 =========
 
+1.1.0 (September 11, 2021)
+--------------------------
+
+### New features
+
+* [[`f677ca64da`](https://github.com/alrra/browser-logos/commit/f677ca64dad259c173f1a2d6348808f2dcbab48b)] - ✨ Add `uc.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 1.0.7 (July 11, 2020)
 ---------------------
 
