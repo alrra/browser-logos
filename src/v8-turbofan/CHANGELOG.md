@@ -3,6 +3,13 @@
 Changelog
 =========
 
+2.0.7 (September 11, 2021)
+--------------------------
+
+### Bug fixes / Improvements
+
+* [[`70a3f1895a`](https://github.com/alrra/browser-logos/commit/70a3f1895a9d22ed3cae629803e0629a870a6376)] - 🗜 Further optimize `v8-turbofan.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 2.0.6 (July 11, 2020)
 ---------------------
 
