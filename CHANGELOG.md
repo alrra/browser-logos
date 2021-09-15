@@ -3,6 +3,17 @@
 Changelog
 =========
 
+70.3.0 (September 15, 2021)
+---------------------------
+
+### Bug fixes / Improvements
+
+* [[`37a7763893`](https://github.com/alrra/browser-logos/commit/37a77638930dfd03d988d9dd833628fb3c86ef6e)] - 🔧 Tweak and further optimize `safari.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+### New features
+
+* [[`260d24e082`](https://github.com/alrra/browser-logos/commit/260d24e0829f26965e5736d6db9c0f02924eb280)] - ✨ Add `safari.svg` (by [`Eoghan Murray`](https://github.com/eoghanmurray)).
+
 70.2.0 (September 11, 2021)
 ---------------------------
 
