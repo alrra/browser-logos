@@ -5,8 +5,8 @@ Safari
 <table>
     <tr height=240>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/1eeb11560f680dc2a0ce556cd2a27ecdf34290b8/src/safari">
-                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/1eeb11560f680dc2a0ce556cd2a27ecdf34290b8/src/safari/safari_512x512.png" alt="Safari browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/37a77638930dfd03d988d9dd833628fb3c86ef6e/src/safari">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/37a77638930dfd03d988d9dd833628fb3c86ef6e/src/safari/safari_512x512.png" alt="Safari browser logo">
             </a>
         </td>
     </tr>
