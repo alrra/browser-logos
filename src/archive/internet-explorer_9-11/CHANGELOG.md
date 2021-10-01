@@ -3,6 +3,15 @@
 Changelog
 =========
 
+1.1.16 (September 30, 2021)
+---------------------------
+
+### Bug fixes / Improvements
+
+* [[`e2418e91ae`](https://github.com/alrra/browser-logos/commit/e2418e91ae0ad32bcd82a031d84c7ff198514558)] - 🔧 Further optimize `internet-explorer_9-11.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`b26528e6ab`](https://github.com/alrra/browser-logos/commit/b26528e6abccba25d4f5c32068e3b6e5076fd3f0)] - 🔧 Further optimize `internet-explorer_9-11.svg` by recreating it (by [`Eoghan Murray`](https://github.com/eoghanmurray)).
+* [[`fef1574b25`](https://github.com/alrra/browser-logos/commit/fef1574b255fe078912d1ecfbb460219b68f2e22)] - 🔧 Regenerate the IE 9-11 PNGs based on the SVG (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 1.1.15 (October 31, 2020)
 -------------------------
 
