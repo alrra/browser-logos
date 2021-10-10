@@ -660,6 +660,28 @@ NetSurf
     </tbody>
 </table>
 
+Node.js
+-------
+
+<table>
+    <thead>
+        <tr>
+            <th>
+                <a href="https://nodejs.org/">Node.js</a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=170>
+            <td>
+                <a href="node.js">
+                    <img width=150 src="node.js/node.js_256x256.png" alt="Node.js logo">
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 NW.js
 -----
 
