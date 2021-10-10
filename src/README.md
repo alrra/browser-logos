@@ -274,6 +274,28 @@ Cốc Cốc
     </tbody>
 </table>
 
+Deno
+----
+
+<table>
+    <thead>
+        <tr>
+            <th>
+                <a href="https://deno.land/">Deno</a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=170>
+            <td>
+                <a href="deno">
+                    <img width=150 src="deno/deno_256x256.png" alt="Deno logo">
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 Dolphin
 -------
 
