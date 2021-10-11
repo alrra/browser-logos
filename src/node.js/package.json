@@ -7,7 +7,6 @@
     "node.js",
     "node.js-logo"
   ],
-  "private": true,
   "name": "@browser-logos/node.js",
   "repository": {
     "directory": "src/node.js/",
