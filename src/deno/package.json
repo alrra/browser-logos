@@ -1,0 +1,18 @@
+{
+  "bugs": "https://github.com/alrra/browser-logos/issues",
+  "description": "Deno logo",
+  "homepage": "https://github.com/alrra/browser-logos",
+  "keywords": [
+    "logo",
+    "deno",
+    "deno-logo"
+  ],
+  "private": true,
+  "name": "@browser-logos/deno",
+  "repository": {
+    "directory": "src/deno/",
+    "type": "git",
+    "url": "https://github.com/alrra/browser-logos.git"
+  },
+  "version": "1.0.0"
+}
