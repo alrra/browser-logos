@@ -7,7 +7,6 @@
     "deno",
     "deno-logo"
   ],
-  "private": true,
   "name": "@browser-logos/deno",
   "repository": {
     "directory": "src/deno/",
