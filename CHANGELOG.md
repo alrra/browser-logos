@@ -3,6 +3,16 @@
 Changelog
 =========
 
+70.4.0 (October 10, 2021)
+-------------------------
+
+### New features
+
+* [[`3990c8d93e`](https://github.com/alrra/browser-logos/commit/3990c8d93e71f56b228d1c8ba18288abb0fd7193)] - ✨ Publish Node.js logo on npm (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`982a4ec4a1`](https://github.com/alrra/browser-logos/commit/982a4ec4a141616e878a13fc172583672738d507)] - ✨ Publish Deno logo on npm (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`6febd3c3dc`](https://github.com/alrra/browser-logos/commit/6febd3c3dc438ef7eee9521f5c243a9d7cb0f85f)] - ✨ Add Deno logo (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`32e9ac3499`](https://github.com/alrra/browser-logos/commit/32e9ac3499d98a2ae7ba953e5154d52a46016738)] - ✨ Add Node.js logo (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 70.3.1 (September 30, 2021)
 ---------------------------
 
