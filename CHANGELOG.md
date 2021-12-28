@@ -3,6 +3,14 @@
 Changelog
 =========
 
+70.4.1 (December 27, 2021)
+--------------------------
+
+### Bug fixes / Improvements
+
+* [[`2aa3d587c2`](https://github.com/alrra/browser-logos/commit/2aa3d587c2f353096c3030fa7ea4b92db5cce0f8)] - 🔧 Update Deno logo to reflect the recent official changes (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`fe43623710`](https://github.com/alrra/browser-logos/commit/fe4362371092bc6fcc869b59418252a559ad8833)] - 🗜 Further optimize `node.js.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 70.4.0 (October 10, 2021)
 -------------------------
 
