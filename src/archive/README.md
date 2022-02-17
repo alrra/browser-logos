@@ -383,6 +383,9 @@ Chromium
             <th>
                 <a href="https://en.wikipedia.org/wiki/Chromium_%28web_browser%29">Chromium<br>12-48</a>
             </th>
+            <th>
+                <a href="https://en.wikipedia.org/wiki/Chromium_%28web_browser%29">Chromium<br>49-99</a>
+            </th>
         </tr>
     </thead>
     <tbody>
@@ -395,6 +398,11 @@ Chromium
             <td>
                 <a href="chromium_12-48">
                     <img width=150 src="chromium_12-48/chromium_12-48_256x256.png" alt="Chromium 12-48 browser logo">
+                </a>
+            </td>
+            <td>
+                <a href="chromium_49-99">
+                    <img width=150 src="chromium_49-99/chromium_49-99_256x256.png" alt="Chromium 49-99 browser logo">
                 </a>
             </td>
         </tr>
