@@ -306,6 +306,9 @@ Chrome Canary
             <th>
                 <a href="https://en.wikipedia.org/wiki/Google_Chrome#Pre-releases">Chrome<br>Canary<br>19-48</a>
             </th>
+            <th>
+                <a href="https://en.wikipedia.org/wiki/Google_Chrome#Pre-releases">Chrome<br>Canary<br>48-99</a>
+            </th>
         </tr>
     </thead>
     <tbody>
@@ -313,6 +316,11 @@ Chrome Canary
             <td>
                 <a href="chrome-canary_19-48">
                     <img width=150 src="chrome-canary_19-48/chrome-canary_19-48_256x256.png" alt="Chrome Canary 19-49 browser logo">
+                </a>
+            </td>
+            <td>
+                <a href="chrome-canary_49-99">
+                    <img width=150 src="chrome-canary_49-99/chrome-canary_49-99_256x256.png" alt="Chrome Canary 49-99 browser logo">
                 </a>
             </td>
         </tr>
