@@ -3,6 +3,13 @@
 Changelog
 =========
 
+2.0.0 (February 16, 2022)
+-------------------------
+
+### Breaking Changes
+
+* [[`93c0e6c04d`](https://github.com/alrra/browser-logos/commit/93c0e6c04d6881a48c2501c344e182359dfd5b28)] - 💥 Update Chrome Canary logo (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 1.1.13 (April 10, 2021)
 -----------------------
 
