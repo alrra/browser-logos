@@ -3,6 +3,13 @@
 Changelog
 =========
 
+2.0.0 (February 16, 2022)
+-------------------------
+
+### Breaking Changes
+
+* [[`ce0aac887b`](https://github.com/alrra/browser-logos/commit/ce0aac887b51c78c4f616adcdddfa08dbf0cd4a9)] - 💥 Update Chrome logo (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 1.0.18 (July 11, 2020)
 ----------------------
 
