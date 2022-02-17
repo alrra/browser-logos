@@ -3,6 +3,15 @@
 Changelog
 =========
 
+71.0.0 (February 16, 2022)
+--------------------------
+
+### Breaking Changes
+
+* [[`93c0e6c04d`](https://github.com/alrra/browser-logos/commit/93c0e6c04d6881a48c2501c344e182359dfd5b28)] - 💥 Update Chrome Canary logo (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`82cbe42d47`](https://github.com/alrra/browser-logos/commit/82cbe42d479237e110bf2f9c01cbbb89b8234a24)] - 💥 Update Chromium logo (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`ce0aac887b`](https://github.com/alrra/browser-logos/commit/ce0aac887b51c78c4f616adcdddfa08dbf0cd4a9)] - 💥 Update Chrome logo (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 70.4.1 (December 27, 2021)
 --------------------------
 
