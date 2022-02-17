@@ -3,6 +3,13 @@
 Changelog
 =========
 
+2.0.0 (February 16, 2022)
+-------------------------
+
+### Breaking Changes
+
+* [[`82cbe42d47`](https://github.com/alrra/browser-logos/commit/82cbe42d479237e110bf2f9c01cbbb89b8234a24)] - 💥 Update Chromium logo (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 1.1.5 (October 31, 2020)
 ------------------------
 
