@@ -249,6 +249,9 @@ Chrome
             <th>
                 <a href="https://en.wikipedia.org/wiki/Google_Chrome">Chrome<br>12-48</a>
             </th>
+            <th>
+                <a href="https://en.wikipedia.org/wiki/Google_Chrome">Chrome<br>49-99</a>
+            </th>
         </tr>
     </thead>
     <tbody>
@@ -261,6 +264,11 @@ Chrome
             <td>
                 <a href="chrome_12-48">
                     <img width=150 src="chrome_12-48/chrome_12-48_256x256.png" alt="Chrome 12-48 browser logo">
+                </a>
+            </td>
+            <td>
+                <a href="chrome_49-99">
+                    <img width=150 src="chrome_49-99/chrome_49-99_256x256.png" alt="Chrome 49-99 browser logo">
                 </a>
             </td>
         </tr>
