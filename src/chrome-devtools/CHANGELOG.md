@@ -3,6 +3,17 @@
 Changelog
 =========
 
+2.0.0 (April 6, 2022)
+---------------------
+
+### Breaking Changes
+
+* [[`a94d06c110`](https://github.com/alrra/browser-logos/commit/a94d06c110aa6ab808975719c0c927e4400844e3)] - 💥 Update Chrome DevTools logo (by [`Mathias Bynens`](https://github.com/mathiasbynens)).
+
+### Bug fixes / Improvements
+
+* [[`0f5ccce244`](https://github.com/alrra/browser-logos/commit/0f5ccce244c0daee384dda6d2cb7d7794a86c88d)] - 🗜 Further optimize `chrome-devtools.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 1.0.12 (September 11, 2021)
 ---------------------------
 
