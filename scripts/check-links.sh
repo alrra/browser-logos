@@ -13,8 +13,13 @@ declare markdownFiles=$( \
 );
 
 for file in $markdownFiles; do
-    markdown-link-check --progress --retry --verbose "$file" \
-        || exitCode=1
+    markdown-link-check \
+        --config scripts/markdown-link-check.json \
+        --progress \
+        --retry \
+        --verbose \
+        "$file" \
+            || exitCode=1
 done
 
 exit $exitCode

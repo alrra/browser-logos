@@ -1,0 +1,13 @@
+{
+    "fallbackRetryDelay": "30s",
+    "httpHeaders": [
+        {
+            "urls": ["https://help.github.com"],
+            "headers": {
+                "Accept-Encoding": "br, gzip, deflate"
+            }
+        }
+    ],
+    "retryCount": 5,
+    "retryOn429": true
+}
