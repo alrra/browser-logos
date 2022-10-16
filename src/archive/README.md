@@ -344,6 +344,9 @@ Chrome Dev
             <th>
                 <a href="https://en.wikipedia.org/wiki/Google_Chrome">Chrome<br>Dev<br>37-59<br></a>
             </th>
+            <th>
+                <a href="https://en.wikipedia.org/wiki/Google_Chrome">Chrome<br>Dev<br>60-99<br></a>
+            </th>
         </tr>
     </thead>
     <tbody>
@@ -351,6 +354,11 @@ Chrome Dev
             <td>
                 <a href="chrome-dev_37-59">
                     <img width=150 src="chrome-dev_37-59/chrome-dev_37-59_256x256.png" alt="Chrome Dev 37-59 browser logo">
+                </a>
+            </td>
+            <td>
+                <a href="chrome-dev_60-99">
+                    <img width=150 src="chrome-dev_60-99/chrome-dev_60-99_256x256.png" alt="Chrome Dev 60-99 browser logo">
                 </a>
             </td>
         </tr>
