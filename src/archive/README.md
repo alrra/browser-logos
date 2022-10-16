@@ -284,6 +284,9 @@ Chrome Beta
             <th>
                 <a href="https://en.wikipedia.org/wiki/Google_Chrome">Chrome<br>Beta<br>37-58<br></a>
             </th>
+            <th>
+                <a href="https://en.wikipedia.org/wiki/Google_Chrome">Chrome<br>Beta<br>59-99<br></a>
+            </th>
         </tr>
     </thead>
     <tbody>
@@ -291,6 +294,11 @@ Chrome Beta
             <td>
                 <a href="chrome-beta_37-58">
                     <img width=150 src="chrome-beta_37-58/chrome-beta_37-58_256x256.png" alt="Chrome Beta 37-58 browser logo">
+                </a>
+            </td>
+            <td>
+                <a href="chrome-beta_59-99">
+                    <img width=150 src="chrome-beta_59-99/chrome-beta_59-99_256x256.png" alt="Chrome Beta 59-99 browser logo">
                 </a>
             </td>
         </tr>
