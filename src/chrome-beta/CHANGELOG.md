@@ -3,6 +3,13 @@
 Changelog
 =========
 
+3.0.0 (October 15, 2022)
+------------------------
+
+### Breaking Changes
+
+* [[`6b42ed9ac2`](https://github.com/alrra/browser-logos/commit/6b42ed9ac273f208879c765b566d0e77202c35eb)] - 💥 Update Chrome Beta logo (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 2.1.10 (September 27, 2020)
 ---------------------------
 
