@@ -3,6 +3,18 @@
 Changelog
 =========
 
+73.0.0 (October 15, 2022)
+-------------------------
+
+### Breaking Changes
+
+* [[`14609a5705`](https://github.com/alrra/browser-logos/commit/14609a570544c5801e1c967b85f27add334ac42c)] - 💥 Update Chrome Dev logo (by [`Cătălin`](https://github.com/alrra)).
+* [[`6b42ed9ac2`](https://github.com/alrra/browser-logos/commit/6b42ed9ac273f208879c765b566d0e77202c35eb)] - 💥 Update Chrome Beta logo (by [`Cătălin`](https://github.com/alrra)).
+
+### Bug fixes / Improvements
+
+* [[`be238edcae`](https://github.com/alrra/browser-logos/commit/be238edcaebaa6fc9255492993e254d948689fa9)] - 📚 Remove recommendation of installing all logos via `npm`/`yarn` (by [`Cătălin`](https://github.com/alrra)).
+
 72.0.0 (April 6, 2022)
 ----------------------
 

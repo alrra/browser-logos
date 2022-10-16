@@ -111,7 +111,7 @@ paul] blog post.
 <!-- Link labels: -->
 
 [archive readme]: src/archive/README.md#readme
-[archive]: https://github.com/alrra/browser-logos/archive/72.0.0.zip
+[archive]: https://github.com/alrra/browser-logos/archive/73.0.0.zip
 [article paul]: https://www.paulirish.com/2010/high-res-browser-icons/
 [build icon]: https://github.com/alrra/browser-logos/workflows/test/badge.svg
 [build url]: https://github.com/alrra/browser-logos/actions
