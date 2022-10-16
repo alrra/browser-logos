@@ -5,8 +5,8 @@ Chrome Dev
 <table>
     <tr height=240>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/c48d8f9805110d0ab1628a84a1d02eebbf7d8875/src/chrome-dev">
-                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/c48d8f9805110d0ab1628a84a1d02eebbf7d8875/src/chrome-dev/chrome-dev.svg?sanitize=true" alt="Chrome Dev browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/14609a570544c5801e1c967b85f27add334ac42c/src/chrome-dev">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/14609a570544c5801e1c967b85f27add334ac42c/src/chrome-dev/chrome-dev.svg?sanitize=true" alt="Chrome Dev browser logo">
             </a>
         </td>
     </tr>
