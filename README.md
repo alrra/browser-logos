@@ -113,12 +113,11 @@ paul] blog post.
 [archive readme]: src/archive/README.md#readme
 [archive]: https://github.com/alrra/browser-logos/archive/73.0.0.zip
 [article paul]: https://www.paulirish.com/2010/high-res-browser-icons/
-[build icon]: https://github.com/alrra/browser-logos/workflows/test/badge.svg
-[build url]: https://github.com/alrra/browser-logos/actions
+[build icon]: https://github.com/alrra/browser-logos/actions/workflows/test.yml/badge.svg
+[build url]: https://github.com/alrra/browser-logos/actions/workflows/test.yml
 [cdnjs]: https://cdnjs.com/libraries/browser-logos
 [contributors]: https://github.com/alrra/browser-logos/graphs/contributors
 [github paul]: https://github.com/paulirish/
-[issues]: https://github.com/alrra/browser-logos/issues/new
 [license]: LICENSE.txt
 [npm]: https://www.npmjs.com/
 [packages]: https://www.npmjs.com/org/browser-logos
