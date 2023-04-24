@@ -5,8 +5,8 @@ Firefox Focus
 <table>
     <tr height=240>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/f093366ec106b077f5dd04ee2cb22392715f5512/src/firefox-focus">
-                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/f093366ec106b077f5dd04ee2cb22392715f5512/src/firefox-focus/firefox-focus_512x512.png" alt="Firefox Focus browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/82affb2c5555a3db9cb17c04fdea03833b5c72dc/src/firefox-focus">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/82affb2c5555a3db9cb17c04fdea03833b5c72dc/src/firefox-focus/firefox-focus_512x512.png" alt="Firefox Focus browser logo">
             </a>
         </td>
     </tr>
