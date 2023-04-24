@@ -5,8 +5,8 @@ Firefox Nightly v57-70
 <table>
     <tr height=240>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/a94987f29719142668cdf960b3f624ce1a3c6aa8/src/archive/firefox-nightly_57-70">
-                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/a94987f29719142668cdf960b3f624ce1a3c6aa8/src/archive/firefox-nightly_57-70/firefox-nightly_57-70_512x512.png" alt="Firefox Nightly v57-70 browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/739b151c7a48d5acc4207b527eba06548fd21ddd/src/archive/firefox-nightly_57-70">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/739b151c7a48d5acc4207b527eba06548fd21ddd/src/archive/firefox-nightly_57-70/firefox-nightly_57-70_512x512.png" alt="Firefox Nightly v57-70 browser logo">
             </a>
         </td>
     </tr>
