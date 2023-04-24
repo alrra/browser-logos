@@ -3,6 +3,13 @@
 Changelog
 =========
 
+3.0.6 (April 24, 2023)
+----------------------
+
+### Bug fixes / Improvements
+
+* [[`53f48d03bd`](https://github.com/alrra/browser-logos/commit/53f48d03bdcae22961a8bb71c66db529136ecdad)] - 🗜 Further losslessly optimize `firefox-developer-edition.svg` (by [`Cătălin`](https://github.com/alrra)).
+
 3.0.5 (July 11, 2020)
 ---------------------
 
