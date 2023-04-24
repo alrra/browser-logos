@@ -3,6 +3,13 @@
 Changelog
 =========
 
+2.0.1 (April 24, 2023)
+----------------------
+
+### Bug fixes / Improvements
+
+* [[`716595bf54`](https://github.com/alrra/browser-logos/commit/716595bf54b27b6b2e8a4bfc422f18fd24adc7a7)] - 🗜 Further losslessly optimize `epiphany-technology-preview.svg` (by [`Cătălin`](https://github.com/alrra)).
+
 2.0.0 (April 10, 2021)
 ----------------------
 

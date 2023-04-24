@@ -5,8 +5,8 @@ Epiphany Technology Preview
 <table>
     <tr height=240>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/9a42fd785a6f8b4ebcbe9277356eeb016c34cfcf/src/epiphany-technology-preview">
-                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/9a42fd785a6f8b4ebcbe9277356eeb016c34cfcf/src/epiphany-technology-preview/epiphany-technology-preview_512x512.png" alt="Epiphany Technology Preview browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/716595bf54b27b6b2e8a4bfc422f18fd24adc7a7/src/epiphany-technology-preview">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/716595bf54b27b6b2e8a4bfc422f18fd24adc7a7/src/epiphany-technology-preview/epiphany-technology-preview_512x512.png" alt="Epiphany Technology Preview browser logo">
             </a>
         </td>
     </tr>
