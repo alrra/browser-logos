@@ -5,8 +5,8 @@ Brave Beta
 <table>
     <tr height=240>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/a94987f29719142668cdf960b3f624ce1a3c6aa8/src/brave-beta">
-                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/a94987f29719142668cdf960b3f624ce1a3c6aa8/src/brave-beta/brave-beta.svg?sanitize=true" alt="Brave Beta browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/74dad757036cd0db1ab01918d346f78546146ae3/src/brave-beta">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/74dad757036cd0db1ab01918d346f78546146ae3/src/brave-beta/brave-beta.svg?sanitize=true" alt="Brave Beta browser logo">
             </a>
         </td>
     </tr>

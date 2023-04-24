@@ -3,6 +3,13 @@
 Changelog
 =========
 
+1.0.12 (April 24, 2023)
+-----------------------
+
+### Bug fixes / Improvements
+
+* [[`74dad75703`](https://github.com/alrra/browser-logos/commit/74dad757036cd0db1ab01918d346f78546146ae3)] - 🗜 Further losslessly optimize `brave-beta.svg` (by [`Cătălin`](https://github.com/alrra)).
+
 1.0.11 (July 11, 2020)
 ----------------------
 
