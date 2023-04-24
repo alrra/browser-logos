@@ -5,8 +5,8 @@ SpiderMonkey
 <table>
     <tr height=240>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/951bea82607799d426c3f8672eeb7b09c3c07507/src/spidermonkey">
-                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/951bea82607799d426c3f8672eeb7b09c3c07507/src/spidermonkey/spidermonkey_512x512.png" alt="SpiderMonkey JavaScript engine logo">
+            <a href="https://github.com/alrra/browser-logos/tree/e2c8fac04e87f570e9f18fae8eb2ac827550161d/src/spidermonkey">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/e2c8fac04e87f570e9f18fae8eb2ac827550161d/src/spidermonkey/spidermonkey_512x512.png" alt="SpiderMonkey JavaScript engine logo">
             </a>
         </td>
     </tr>
