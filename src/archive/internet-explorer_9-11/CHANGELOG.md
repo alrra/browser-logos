@@ -3,6 +3,13 @@
 Changelog
 =========
 
+1.1.17 (April 24, 2023)
+-----------------------
+
+### Bug fixes / Improvements
+
+* [[`0d5a96ea5f`](https://github.com/alrra/browser-logos/commit/0d5a96ea5f83c68dda06ab5cf36dfe63a7f58917)] - 🗜 Further losslessly optimize `internet-explorer_9-11.svg` (by [`Cătălin`](https://github.com/alrra)).
+
 1.1.16 (September 30, 2021)
 ---------------------------
 
