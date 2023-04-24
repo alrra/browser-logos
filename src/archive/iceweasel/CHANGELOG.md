@@ -3,6 +3,13 @@
 Changelog
 =========
 
+1.0.15 (April 24, 2023)
+-----------------------
+
+### Bug fixes / Improvements
+
+* [[`6d3cd3a980`](https://github.com/alrra/browser-logos/commit/6d3cd3a98016babb270938d64f1ae1b6bbc2e9ed)] - 🗜 Further losslessly optimize `iceweasel.svg` (by [`Cătălin`](https://github.com/alrra)).
+
 1.0.14 (July 11, 2020)
 ----------------------
 

@@ -5,8 +5,8 @@ Iceweasel
 <table>
     <tr height=240>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/a94987f29719142668cdf960b3f624ce1a3c6aa8/src/archive/iceweasel">
-                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/a94987f29719142668cdf960b3f624ce1a3c6aa8/src/archive/iceweasel/iceweasel.svg?sanitize=true" alt="Iceweasel browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/6d3cd3a98016babb270938d64f1ae1b6bbc2e9ed/src/archive/iceweasel">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/6d3cd3a98016babb270938d64f1ae1b6bbc2e9ed/src/archive/iceweasel/iceweasel.svg?sanitize=true" alt="Iceweasel browser logo">
             </a>
         </td>
     </tr>
