@@ -5,8 +5,8 @@ Firefox Reality
 <table>
     <tr height=240>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/a94987f29719142668cdf960b3f624ce1a3c6aa8/src/firefox-reality">
-                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/a94987f29719142668cdf960b3f624ce1a3c6aa8/src/firefox-reality/firefox-reality.svg?sanitize=true" alt="Firefox Reality browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/bedf0e9606bdbbf55e953e4dc26e9a9e239d7e71/src/firefox-reality">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/bedf0e9606bdbbf55e953e4dc26e9a9e239d7e71/src/firefox-reality/firefox-reality.svg?sanitize=true" alt="Firefox Reality browser logo">
             </a>
         </td>
     </tr>
