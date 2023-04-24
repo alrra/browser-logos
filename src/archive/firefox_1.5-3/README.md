@@ -5,8 +5,8 @@ Firefox v1.5-3
 <table>
     <tr height=240>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/a94987f29719142668cdf960b3f624ce1a3c6aa8/src/archive/firefox_1.5-3">
-                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/a94987f29719142668cdf960b3f624ce1a3c6aa8/src/archive/firefox_1.5-3/firefox_1.5-3.svg?sanitize=true" alt="Firefox v1.5-3 browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/f345a5813c7165be9b7373b4ca945a05a11d0f34/src/archive/firefox_1.5-3">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/f345a5813c7165be9b7373b4ca945a05a11d0f34/src/archive/firefox_1.5-3/firefox_1.5-3.svg?sanitize=true" alt="Firefox v1.5-3 browser logo">
             </a>
         </td>
     </tr>
