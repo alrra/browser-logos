@@ -5,8 +5,8 @@ Epiphany
 <table>
     <tr height=240>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/a94987f29719142668cdf960b3f624ce1a3c6aa8/src/archive/epiphany">
-                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/a94987f29719142668cdf960b3f624ce1a3c6aa8/src/archive/epiphany/epiphany.svg?sanitize=true" alt="Epiphany browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/a89af572254c37ccb92d6e01d1f2390032be4462/src/archive/epiphany">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/a89af572254c37ccb92d6e01d1f2390032be4462/src/archive/epiphany/epiphany.svg?sanitize=true" alt="Epiphany browser logo">
             </a>
         </td>
     </tr>
