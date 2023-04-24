@@ -5,8 +5,8 @@ BeZillaBrowser
 <table>
     <tr height=240>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/a94987f29719142668cdf960b3f624ce1a3c6aa8/src/archive/bezillabrowser">
-                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/a94987f29719142668cdf960b3f624ce1a3c6aa8/src/archive/bezillabrowser/bezillabrowser_512x512.png" alt="BeZillaBrowser browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/40864b23375fd5cb6fdbda6b6a225dcafaf730ec/src/archive/bezillabrowser">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/40864b23375fd5cb6fdbda6b6a225dcafaf730ec/src/archive/bezillabrowser/bezillabrowser_512x512.png" alt="BeZillaBrowser browser logo">
             </a>
         </td>
     </tr>
