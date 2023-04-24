@@ -3,6 +3,13 @@
 Changelog
 =========
 
+1.0.13 (April 24, 2023)
+-----------------------
+
+### Bug fixes / Improvements
+
+* [[`103a388a12`](https://github.com/alrra/browser-logos/commit/103a388a12db94bc25c89c443214bfb250314990)] - 🗜 Further losslessly optimize `konqueror_1-3.svg` (by [`Cătălin`](https://github.com/alrra)).
+
 1.0.12 (July 11, 2020)
 ----------------------
 
