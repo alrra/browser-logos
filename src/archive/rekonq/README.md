@@ -5,8 +5,8 @@ Rekonq
 <table>
     <tr height=240>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/a94987f29719142668cdf960b3f624ce1a3c6aa8/src/archive/rekonq">
-                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/a94987f29719142668cdf960b3f624ce1a3c6aa8/src/archive/rekonq/rekonq.svg?sanitize=true" alt="Rekonq browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/613fd5226afad8d25bc50eb3fe8b8a947da39726/src/archive/rekonq">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/613fd5226afad8d25bc50eb3fe8b8a947da39726/src/archive/rekonq/rekonq.svg?sanitize=true" alt="Rekonq browser logo">
             </a>
         </td>
     </tr>

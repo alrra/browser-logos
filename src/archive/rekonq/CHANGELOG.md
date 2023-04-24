@@ -3,6 +3,13 @@
 Changelog
 =========
 
+1.0.14 (April 24, 2023)
+-----------------------
+
+### Bug fixes / Improvements
+
+* [[`613fd5226a`](https://github.com/alrra/browser-logos/commit/613fd5226afad8d25bc50eb3fe8b8a947da39726)] - 🗜 Further losslessly optimize `rekonq.svg` (by [`Cătălin`](https://github.com/alrra)).
+
 1.0.13 (July 11, 2020)
 ----------------------
 
