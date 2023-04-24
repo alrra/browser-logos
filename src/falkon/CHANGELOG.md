@@ -3,6 +3,13 @@
 Changelog
 =========
 
+1.0.10 (April 24, 2023)
+-----------------------
+
+### Bug fixes / Improvements
+
+* [[`c39514660d`](https://github.com/alrra/browser-logos/commit/c39514660d5d32ccddfa87f32187aed0650b328e)] - 🗜 Further losslessly optimize `falkon.svg` (by [`Cătălin`](https://github.com/alrra)).
+
 1.0.9 (July 11, 2020)
 ---------------------
 

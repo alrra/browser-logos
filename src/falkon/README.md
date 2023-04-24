@@ -5,8 +5,8 @@ Falkon
 <table>
     <tr height=240>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/a94987f29719142668cdf960b3f624ce1a3c6aa8/src/falkon">
-                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/a94987f29719142668cdf960b3f624ce1a3c6aa8/src/falkon/falkon_512x512.png" alt="Falkon browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/c39514660d5d32ccddfa87f32187aed0650b328e/src/falkon">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/c39514660d5d32ccddfa87f32187aed0650b328e/src/falkon/falkon_512x512.png" alt="Falkon browser logo">
             </a>
         </td>
     </tr>
