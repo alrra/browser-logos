@@ -5,8 +5,8 @@ Node.js
 <table>
     <tr height=240>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/fe4362371092bc6fcc869b59418252a559ad8833/src/node.js/">
-                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/fe4362371092bc6fcc869b59418252a559ad8833/src/node.js//node.js_512x512.png" alt="Node.js logo">
+            <a href="https://github.com/alrra/browser-logos/tree/12fc668330d44674e0a905a5076954ab8a97f0d1/src/node.js/">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/12fc668330d44674e0a905a5076954ab8a97f0d1/src/node.js//node.js_512x512.png" alt="Node.js logo">
             </a>
         </td>
     </tr>

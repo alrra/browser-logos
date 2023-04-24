@@ -3,6 +3,13 @@
 Changelog
 =========
 
+1.0.2 (April 24, 2023)
+----------------------
+
+### Bug fixes / Improvements
+
+* [[`12fc668330`](https://github.com/alrra/browser-logos/commit/12fc668330d44674e0a905a5076954ab8a97f0d1)] - 🗜 Further losslessly optimize `node.js.svg` (by [`Cătălin`](https://github.com/alrra)).
+
 1.0.1 (December 27, 2021)
 -------------------------
 
