@@ -3,6 +3,51 @@
 Changelog
 =========
 
+73.0.1 (April 24, 2023)
+-----------------------
+
+### Bug fixes / Improvements
+
+* [[`095cf8524a`](https://github.com/alrra/browser-logos/commit/095cf8524a47077f023aecb7a61d859e279f7f2a)] - 🗜 Further losslessly optimize `firefox-lite.svg` (by [`Cătălin`](https://github.com/alrra)).
+* [[`49849820e6`](https://github.com/alrra/browser-logos/commit/49849820e6ac949dc7e220f6915e4a3014291a4f)] - 🗜 Further optimize `konqueror_4.svg` (by [`Cătălin`](https://github.com/alrra)).
+* [[`f345a5813c`](https://github.com/alrra/browser-logos/commit/f345a5813c7165be9b7373b4ca945a05a11d0f34)] - 🗜 Further optimize `firefox_1.5-3.svg` (by [`Cătălin`](https://github.com/alrra)).
+* [[`56c1af06ad`](https://github.com/alrra/browser-logos/commit/56c1af06ad9e88a9b8ea2dabc28b8ec965f05e2d)] - 🗜 Further losslessly optimize `otter.svg` (by [`Cătălin`](https://github.com/alrra)).
+* [[`6b568b46c5`](https://github.com/alrra/browser-logos/commit/6b568b46c5b124ee538996ff570c6797506b717b)] - 🗜 Further losslessly optimize `webkit.svg` (by [`Cătălin`](https://github.com/alrra)).
+* [[`6240b88274`](https://github.com/alrra/browser-logos/commit/6240b882744629eef75f7707b2c10150903ea851)] - 🗜 Further losslessly optimize `v8-turbofan.svg` (by [`Cătălin`](https://github.com/alrra)).
+* [[`12fc668330`](https://github.com/alrra/browser-logos/commit/12fc668330d44674e0a905a5076954ab8a97f0d1)] - 🗜 Further losslessly optimize `node.js.svg` (by [`Cătălin`](https://github.com/alrra)).
+* [[`88410fc85b`](https://github.com/alrra/browser-logos/commit/88410fc85b5a408b75a8c7712c79d01a4e7018f5)] - 🗜 Further losslessly optimize `firefox.svg` (by [`Cătălin`](https://github.com/alrra)).
+* [[`bedf0e9606`](https://github.com/alrra/browser-logos/commit/bedf0e9606bdbbf55e953e4dc26e9a9e239d7e71)] - 🗜 Further losslessly optimize `firefox-reality.svg` (by [`Cătălin`](https://github.com/alrra)).
+* [[`488bb1f9a2`](https://github.com/alrra/browser-logos/commit/488bb1f9a2358b5b5a479b896fcb962170c72dc1)] - 🗜 Further losslessly optimize `firefox-nightly.svg` (by [`Cătălin`](https://github.com/alrra)).
+* [[`53f48d03bd`](https://github.com/alrra/browser-logos/commit/53f48d03bdcae22961a8bb71c66db529136ecdad)] - 🗜 Further losslessly optimize `firefox-developer-edition.svg` (by [`Cătălin`](https://github.com/alrra)).
+* [[`adacfe9c3e`](https://github.com/alrra/browser-logos/commit/adacfe9c3e28bef9f07f722608e293bcef567df8)] - 🗜 Further losslessly optimize `firefox-beta.svg` (by [`Cătălin`](https://github.com/alrra)).
+* [[`c39514660d`](https://github.com/alrra/browser-logos/commit/c39514660d5d32ccddfa87f32187aed0650b328e)] - 🗜 Further losslessly optimize `falkon.svg` (by [`Cătălin`](https://github.com/alrra)).
+* [[`716595bf54`](https://github.com/alrra/browser-logos/commit/716595bf54b27b6b2e8a4bfc422f18fd24adc7a7)] - 🗜 Further losslessly optimize `epiphany-technology-preview.svg` (by [`Cătălin`](https://github.com/alrra)).
+* [[`81abb84517`](https://github.com/alrra/browser-logos/commit/81abb84517456f4893213a9339bb724d34cb2d30)] - 🗜 Further losslessly optimize `edge.svg` (by [`Cătălin`](https://github.com/alrra)).
+* [[`9346b19c4a`](https://github.com/alrra/browser-logos/commit/9346b19c4acc6a1ec74def78d139b69fe64830ad)] - 🗜 Further losslessly optimize `brave-dev.svg` (by [`Cătălin`](https://github.com/alrra)).
+* [[`74dad75703`](https://github.com/alrra/browser-logos/commit/74dad757036cd0db1ab01918d346f78546146ae3)] - 🗜 Further losslessly optimize `brave-beta.svg` (by [`Cătălin`](https://github.com/alrra)).
+* [[`3b6f3e4a44`](https://github.com/alrra/browser-logos/commit/3b6f3e4a44097808e5a1785561ab0d7cb50973ed)] - 🗜 Further losslessly optimize `web_1.svg` (by [`Cătălin`](https://github.com/alrra)).
+* [[`613fd5226a`](https://github.com/alrra/browser-logos/commit/613fd5226afad8d25bc50eb3fe8b8a947da39726)] - 🗜 Further losslessly optimize `rekonq.svg` (by [`Cătălin`](https://github.com/alrra)).
+* [[`41e7dc7186`](https://github.com/alrra/browser-logos/commit/41e7dc7186c4d4663c73d064c0066b626d74f038)] - 🗜 Further losslessly optimize `opera-next_15-24.svg` (by [`Cătălin`](https://github.com/alrra)).
+* [[`528b07c3ba`](https://github.com/alrra/browser-logos/commit/528b07c3ba68b05e335e7b379943298f312021ea)] - 🗜 Further losslessly optimize `netscape_9.svg` (by [`Cătălin`](https://github.com/alrra)).
+* [[`103a388a12`](https://github.com/alrra/browser-logos/commit/103a388a12db94bc25c89c443214bfb250314990)] - 🗜 Further losslessly optimize `konqueror_1-3.svg` (by [`Cătălin`](https://github.com/alrra)).
+* [[`0d5a96ea5f`](https://github.com/alrra/browser-logos/commit/0d5a96ea5f83c68dda06ab5cf36dfe63a7f58917)] - 🗜 Further losslessly optimize `internet-explorer_9-11.svg` (by [`Cătălin`](https://github.com/alrra)).
+* [[`94c5de5e95`](https://github.com/alrra/browser-logos/commit/94c5de5e95742ab551dc54c8c5d530772bd8e52e)] - 🗜 Further losslessly optimize `internet-explorer-developer-channel.svg` (by [`Cătălin`](https://github.com/alrra)).
+* [[`6d3cd3a980`](https://github.com/alrra/browser-logos/commit/6d3cd3a98016babb270938d64f1ae1b6bbc2e9ed)] - 🗜 Further losslessly optimize `iceweasel.svg` (by [`Cătălin`](https://github.com/alrra)).
+* [[`70c62b605f`](https://github.com/alrra/browser-logos/commit/70c62b605f8b47a09b53ddc84a89a23e33c01806)] - 🗜 Further losslessly optimize `iceape.svg` (by [`Cătălin`](https://github.com/alrra)).
+* [[`ed34965a12`](https://github.com/alrra/browser-logos/commit/ed34965a1211f95ef4b9e06551d6c16342025e25)] - 🗜 Further losslessly optimize `firefox_23-56.svg` (by [`Cătălin`](https://github.com/alrra)).
+* [[`325e5df350`](https://github.com/alrra/browser-logos/commit/325e5df35003a83efafe4ba02e4d5e72e4a4cf8e)] - 🗜 Further losslessly optimize `firefox-reality.svg` (by [`Cătălin`](https://github.com/alrra)).
+* [[`b9cb09de0f`](https://github.com/alrra/browser-logos/commit/b9cb09de0f3675af9724d25acd20d3a489968b2f)] - 🗜 Further losslessly optimize `firefox-preview-beta.svg` (by [`Cătălin`](https://github.com/alrra)).
+* [[`739b151c7a`](https://github.com/alrra/browser-logos/commit/739b151c7a48d5acc4207b527eba06548fd21ddd)] - 🗜 Further losslessly optimize `firefox-nightly_57-70.svg` (by [`Cătălin`](https://github.com/alrra)).
+* [[`82affb2c55`](https://github.com/alrra/browser-logos/commit/82affb2c5555a3db9cb17c04fdea03833b5c72dc)] - 🗜 Further losslessly optimize `firefox-focus_2.svg` (by [`Cătălin`](https://github.com/alrra)).
+* [[`19c7f5425f`](https://github.com/alrra/browser-logos/commit/19c7f5425f29dfc716207ed1263e0756dd2e591a)] - 🗜 Further losslessly optimize `firefox-developer-edition_57-70.svg` (by [`Cătălin`](https://github.com/alrra)).
+* [[`e551ce3909`](https://github.com/alrra/browser-logos/commit/e551ce3909e29fa694f17746c5ddf8cad189aea0)] - 🗜 Further losslessly optimize `firefox-beta_57-70.svg` (by [`Cătălin`](https://github.com/alrra)).
+* [[`a89af57225`](https://github.com/alrra/browser-logos/commit/a89af572254c37ccb92d6e01d1f2390032be4462)] - 🗜 Further losslessly optimize `epiphany.svg` (by [`Cătălin`](https://github.com/alrra)).
+* [[`24b577e87d`](https://github.com/alrra/browser-logos/commit/24b577e87db034c01b007a82eb6f3c4c3a89a497)] - 🗜 Further losslessly optimize `epiphany-technology-preview_1.svg` (by [`Cătălin`](https://github.com/alrra)).
+* [[`0edd18b4ea`](https://github.com/alrra/browser-logos/commit/0edd18b4ea5dbbb4da5f2e48fde22b6ade63d948)] - 🗜 Further losslessly optimize `chromium_49-99.svg` (by [`Cătălin`](https://github.com/alrra)).
+* [[`4d57c3ee61`](https://github.com/alrra/browser-logos/commit/4d57c3ee612d66fabfd1db26f83a718137eb1065)] - 🗜 Further losslessly optimize `chrome-canary_49-99.svg` (by [`Cătălin`](https://github.com/alrra)).
+* [[`21a324cb5c`](https://github.com/alrra/browser-logos/commit/21a324cb5c2b0edc26c26af613ff45f5501a62c3)] - 🗜 Further optimize `chrome-beta_59-99.svg` (by [`Cătălin`](https://github.com/alrra)).
+* [[`40864b2337`](https://github.com/alrra/browser-logos/commit/40864b23375fd5cb6fdbda6b6a225dcafaf730ec)] - 🗜 Further losslessly optimize `bezillabrowser.svg` (by [`Cătălin`](https://github.com/alrra)).
+
 73.0.0 (October 15, 2022)
 -------------------------
 
