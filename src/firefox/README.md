@@ -5,8 +5,8 @@ Firefox
 <table>
     <tr height=240>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/a94987f29719142668cdf960b3f624ce1a3c6aa8/src/firefox">
-                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/a94987f29719142668cdf960b3f624ce1a3c6aa8/src/firefox/firefox.svg?sanitize=true" alt="Firefox browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/88410fc85b5a408b75a8c7712c79d01a4e7018f5/src/firefox">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/88410fc85b5a408b75a8c7712c79d01a4e7018f5/src/firefox/firefox.svg?sanitize=true" alt="Firefox browser logo">
             </a>
         </td>
     </tr>
