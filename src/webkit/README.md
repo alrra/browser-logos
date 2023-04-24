@@ -5,8 +5,8 @@ WebKit
 <table>
     <tr height=240>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/a94987f29719142668cdf960b3f624ce1a3c6aa8/src/webkit">
-                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/a94987f29719142668cdf960b3f624ce1a3c6aa8/src/webkit/webkit_512x512.png" alt="WebKit browser engine logo">
+            <a href="https://github.com/alrra/browser-logos/tree/6b568b46c5b124ee538996ff570c6797506b717b/src/webkit">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/6b568b46c5b124ee538996ff570c6797506b717b/src/webkit/webkit_512x512.png" alt="WebKit browser engine logo">
             </a>
         </td>
     </tr>
