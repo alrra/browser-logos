@@ -3,6 +3,26 @@
 Changelog
 =========
 
+73.0.2 (June 14, 2023)
+----------------------
+
+### Bug fixes / Improvements
+
+* [[`a6d5c90df7`](https://github.com/alrra/browser-logos/commit/a6d5c90df7a24f483edfa0e65105115f51b10526)] - 🗜 Further losslessly optimize `firefox_57-70.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`53a69260a5`](https://github.com/alrra/browser-logos/commit/53a69260a5864332ce7ac5c36c64a977e5482ca1)] - 🗜 Further losslessly optimize `epiphany-technology-preview.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`c6403aad89`](https://github.com/alrra/browser-logos/commit/c6403aad89c450b0401929863475a46bf03207e2)] - 🗜 Further losslessly optimize `firefox-developer-edition_57-70.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`bea341048e`](https://github.com/alrra/browser-logos/commit/bea341048e7b1ef84b7c4f63621ef0fc0d0444bb)] - 🗜 Further losslessly optimize `firefox-reality.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`d1a32e0a03`](https://github.com/alrra/browser-logos/commit/d1a32e0a039f64517493f1d34db19ee081d10b6f)] - 🗜 Further losslessly optimize `firefox-lite.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`cf2609793d`](https://github.com/alrra/browser-logos/commit/cf2609793d0e7738fdc6e7020bcace9f3fabebec)] - 🗜 Further losslessly optimize `opera-next_15-24.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`c9c70a8227`](https://github.com/alrra/browser-logos/commit/c9c70a822764a0feec85f53f3a86136802a2b95f)] - 🗜 Further losslessly optimize `web.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`4078ba8712`](https://github.com/alrra/browser-logos/commit/4078ba8712be79ad20559a36c44f675de86b37e9)] - 🗜 Further losslessly optimize `firefox-reality.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`e32385ca21`](https://github.com/alrra/browser-logos/commit/e32385ca21463e92510540dcc8893455968bd204)] - 🗜 Further losslessly optimize `firefox-preview-beta.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`471dd85142`](https://github.com/alrra/browser-logos/commit/471dd85142a7be5412b82b89ac0f77da5173b4e4)] - 🗜 Further losslessly optimize `firefox-focus_2.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`3e064ecac7`](https://github.com/alrra/browser-logos/commit/3e064ecac76886e4a1c3e855dcf4b5782917fb2c)] - 🗜 Further losslessly optimize `bezillabrowser.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`0d1c941520`](https://github.com/alrra/browser-logos/commit/0d1c941520a999ce0b002aac0c6b71bc509f691b)] - 🗜 Further losslessly optimize `edge.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`48e8bbc04c`](https://github.com/alrra/browser-logos/commit/48e8bbc04c6fa4dbab726e719c5ea2715093e5c4)] - 🗜 Further losslessly optimize `jsdom.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`1098510a73`](https://github.com/alrra/browser-logos/commit/1098510a73b0b5eaa7afac3e6b74bbc336aa7d77)] - 🗜 Further losslessly optimize `chromium.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 73.0.1 (April 24, 2023)
 -----------------------
 
