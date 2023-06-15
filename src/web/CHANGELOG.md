@@ -3,6 +3,13 @@
 Changelog
 =========
 
+3.0.1 (June 14, 2023)
+---------------------
+
+### Bug fixes / Improvements
+
+* [[`c9c70a8227`](https://github.com/alrra/browser-logos/commit/c9c70a822764a0feec85f53f3a86136802a2b95f)] - 🗜 Further losslessly optimize `web.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 3.0.0 (April 10, 2021)
 ----------------------
 
