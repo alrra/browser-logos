@@ -3,6 +3,13 @@
 Changelog
 =========
 
+2.0.1 (June 14, 2023)
+---------------------
+
+### Bug fixes / Improvements
+
+* [[`1098510a73`](https://github.com/alrra/browser-logos/commit/1098510a73b0b5eaa7afac3e6b74bbc336aa7d77)] - 🗜 Further losslessly optimize `chromium.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 2.0.0 (February 16, 2022)
 -------------------------
 
