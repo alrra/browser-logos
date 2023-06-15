@@ -3,6 +3,13 @@
 Changelog
 =========
 
+2.0.5 (June 14, 2023)
+---------------------
+
+### Bug fixes / Improvements
+
+* [[`471dd85142`](https://github.com/alrra/browser-logos/commit/471dd85142a7be5412b82b89ac0f77da5173b4e4)] - 🗜 Further losslessly optimize `firefox-focus_2.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 2.0.4 (April 24, 2023)
 ----------------------
 
