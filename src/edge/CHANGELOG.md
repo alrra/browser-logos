@@ -3,6 +3,13 @@
 Changelog
 =========
 
+2.0.7 (June 14, 2023)
+---------------------
+
+### Bug fixes / Improvements
+
+* [[`0d1c941520`](https://github.com/alrra/browser-logos/commit/0d1c941520a999ce0b002aac0c6b71bc509f691b)] - 🗜 Further losslessly optimize `edge.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 2.0.6 (April 24, 2023)
 ----------------------
 
