@@ -3,6 +3,13 @@
 Changelog
 =========
 
+1.0.10 (June 14, 2023)
+----------------------
+
+### Bug fixes / Improvements
+
+* [[`48e8bbc04c`](https://github.com/alrra/browser-logos/commit/48e8bbc04c6fa4dbab726e719c5ea2715093e5c4)] - 🗜 Further losslessly optimize `jsdom.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 1.0.9 (July 11, 2020)
 ---------------------
 

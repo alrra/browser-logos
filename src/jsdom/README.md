@@ -5,8 +5,8 @@ jsdom
 <table>
     <tr height=240>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/a94987f29719142668cdf960b3f624ce1a3c6aa8/src/jsdom">
-                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/a94987f29719142668cdf960b3f624ce1a3c6aa8/src/jsdom/jsdom.svg?sanitize=true" alt="jsdom browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/48e8bbc04c6fa4dbab726e719c5ea2715093e5c4/src/jsdom">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/48e8bbc04c6fa4dbab726e719c5ea2715093e5c4/src/jsdom/jsdom.svg?sanitize=true" alt="jsdom browser logo">
             </a>
         </td>
     </tr>
