@@ -3,6 +3,13 @@
 Changelog
 =========
 
+1.0.11 (June 14, 2023)
+----------------------
+
+### Bug fixes / Improvements
+
+* [[`3e064ecac7`](https://github.com/alrra/browser-logos/commit/3e064ecac76886e4a1c3e855dcf4b5782917fb2c)] - 🗜 Further losslessly optimize `bezillabrowser.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 1.0.10 (April 24, 2023)
 -----------------------
 
