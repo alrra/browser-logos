@@ -3,6 +3,13 @@
 Changelog
 =========
 
+1.0.18 (June 14, 2023)
+----------------------
+
+### Bug fixes / Improvements
+
+* [[`cf2609793d`](https://github.com/alrra/browser-logos/commit/cf2609793d0e7738fdc6e7020bcace9f3fabebec)] - 🗜 Further losslessly optimize `opera-next_15-24.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 1.0.17 (April 24, 2023)
 -----------------------
 
