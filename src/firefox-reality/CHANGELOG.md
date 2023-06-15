@@ -3,6 +3,13 @@
 Changelog
 =========
 
+2.0.8 (June 14, 2023)
+---------------------
+
+### Bug fixes / Improvements
+
+* [[`bea341048e`](https://github.com/alrra/browser-logos/commit/bea341048e7b1ef84b7c4f63621ef0fc0d0444bb)] - 🗜 Further losslessly optimize `firefox-reality.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 2.0.7 (April 24, 2023)
 ----------------------
 
