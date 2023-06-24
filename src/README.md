@@ -443,9 +443,6 @@ Firefox
                 <a href="https://www.mozilla.org/en-US/firefox/channel/desktop/#beta">Firefox<br>Beta</a>
             </th>
             <th>
-                <a href="https://play.google.com/store/apps/details?id=org.mozilla.rocket">Firefox<br>Lite</a>
-            </th>
-            <th>
                 <a href="https://www.mozilla.org/en-US/firefox/channel/#developer">Firefox<br>Developer<br>Edition</a>
             </th>
             <th>
@@ -463,11 +460,6 @@ Firefox
             <td>
                 <a href="firefox-beta">
                     <img width=150 src="firefox-beta/firefox-beta_256x256.png" alt="Firefox Beta browser logo">
-                </a>
-            </td>
-            <td>
-                <a href="firefox-lite">
-                   <img width=150 src="firefox-lite/firefox-lite_256x256.png" alt="Firefox Lite browser logo">
                 </a>
             </td>
             <td>

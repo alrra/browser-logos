@@ -1000,7 +1000,11 @@ Firefox Lite
     <thead>
         <tr>
             <th>
-                <a href="https://en.wikipedia.org/wiki/Firefox#Versions">Firefox<br>Lite</a>
+                <a href="https://en.wikipedia.org/wiki/Firefox_Lite">Firefox<br>Lite</a>
+                <a href="#notes"><code>*</code></a>
+            </th>
+            <th>
+                <a href="https://en.wikipedia.org/wiki/Firefox_Lite">Firefox<br>Lite</a>
                 <a href="#notes"><code>*</code></a>
             </th>
         </tr>
@@ -1008,8 +1012,13 @@ Firefox Lite
     <tbody>
         <tr height=170>
             <td>
-                <a href="firefox-lite">
-                    <img width=150 src="firefox-lite/firefox-lite_256x256.png" alt="Firefox Lite browser logo">
+                <a href="firefox-lite_1">
+                    <img width=150 src="firefox-lite_1/firefox-lite_1_256x256.png" alt="Firefox Lite browser logo">
+                </a>
+            </td>
+               <td>
+                <a href="firefox-lite_2">
+                    <img width=150 src="firefox-lite_2/firefox-lite_2_256x256.png" alt="Firefox Lite browser logo">
                 </a>
             </td>
         </tr>
