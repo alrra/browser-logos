@@ -3,6 +3,17 @@
 Changelog
 =========
 
+74.0.0 (June 23, 2023)
+----------------------
+
+### Breaking Changes
+
+* [[`8912d92038`](https://github.com/alrra/browser-logos/commit/8912d92038832c4641abb01169a938452d131dc2)] - 💥 Move Firefox Lite logo into the `archive` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+### Bug fixes / Improvements
+
+* [[`52a1d278da`](https://github.com/alrra/browser-logos/commit/52a1d278daf01ae4557a4307769e3fc972dda6ce)] - 📚 Fix broken links (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 73.0.2 (June 14, 2023)
 ----------------------
 
