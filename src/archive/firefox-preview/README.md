@@ -5,8 +5,8 @@ Firefox Preview
 <table>
     <tr height=240>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/f806fb69963f31b7ead9a765ca4579ebb16d838f/src/firefox-preview">
-                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/f806fb69963f31b7ead9a765ca4579ebb16d838f/src/firefox-preview/firefox-preview.svg?sanitize=true" alt="Firefox Preview browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/55ccaa5d804a8fa9c8b10d392c8985ee2fd52793/src/archive/firefox-preview">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/55ccaa5d804a8fa9c8b10d392c8985ee2fd52793/src/archive/firefox-preview/firefox-preview.svg?sanitize=true" alt="Firefox Preview browser logo">
             </a>
         </td>
     </tr>

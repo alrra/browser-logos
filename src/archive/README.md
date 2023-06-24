@@ -1651,7 +1651,7 @@ Pale Moon
         <tr>
             <th>
                 <a href="https://en.wikipedia.org/wiki/Pale_Moon_%28web_browser%29">Pale Moon</a>
-                <a href="#note"><code>*</code></a>
+                <a href="#notes"><code>*</code></a>
             </th>
         </tr>
     </thead>
@@ -1695,7 +1695,7 @@ Puffin
     <thead>
         <tr>
             <th>
-                <a href="https://web.archive.org/web/20170/https://www.puffinbrowser.com/index.php">Puffin</a>
+                <a href="https://en.wikipedia.org/wiki/Puffin_Browser">Puffin</a>
                 <a href="#notes"><code>*</code></a>
             </th>
             </th>
@@ -1876,7 +1876,7 @@ Servo
     <tbody>
         <tr height=170>
             <td>
-                <a href="servo">
+                <a href="servo_1">
                     <img width=150 src="servo_1/servo_1_256x256.png" alt="Servo browser logo">
                 </a>
             </td>

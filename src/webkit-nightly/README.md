@@ -1,12 +1,12 @@
-WebKit Nightly v10-11
-=====================
+WebKit Nightly
+==============
 
 <!-- markdownlint-disable line-length no-inline-html -->
 <table>
     <tr height=240>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/a94987f29719142668cdf960b3f624ce1a3c6aa8/src/archive/webkit-nightly_10-11">
-                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/a94987f29719142668cdf960b3f624ce1a3c6aa8/src/archive/webkit-nightly_10-11/webkit-nightly_10-11_512x512.png" alt="WebKit Nightly v10-11 browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/0894c3f12e8444f8f31e67fe23eb37de13f18117/src/webkit-nightly">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/0894c3f12e8444f8f31e67fe23eb37de13f18117/src/webkit-nightly/webkit-nightly_512x512.png" alt="WebKit Nightly browser logo">
             </a>
         </td>
     </tr>
@@ -20,8 +20,8 @@ You can either:
 
 * Install it using:
 
-  * [`npm`][npm]: `npm install --save-dev @browser-logos/webkit-nightly_10-11`
-  * [`Yarn`][yarn]: `yarn add --dev @browser-logos/webkit-nightly_10-11`
+  * [`npm`][npm]: `npm install --save-dev @browser-logos/webkit-nightly`
+  * [`Yarn`][yarn]: `yarn add --dev @browser-logos/webkit-nightly`
 
 * Use [`cdnjs`][cdnjs].
 
