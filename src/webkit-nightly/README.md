@@ -5,8 +5,8 @@ WebKit Nightly
 <table>
     <tr height=240>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/0894c3f12e8444f8f31e67fe23eb37de13f18117/src/webkit-nightly">
-                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/0894c3f12e8444f8f31e67fe23eb37de13f18117/src/webkit-nightly/webkit-nightly_512x512.png" alt="WebKit Nightly browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/52a1d278daf01ae4557a4307769e3fc972dda6ce/src/webkit-nightly">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/52a1d278daf01ae4557a4307769e3fc972dda6ce/src/webkit-nightly/webkit-nightly_512x512.png" alt="WebKit Nightly browser logo">
             </a>
         </td>
     </tr>
