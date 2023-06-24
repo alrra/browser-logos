@@ -3,6 +3,13 @@
 Changelog
 =========
 
+1.0.11 (June 23, 2023)
+----------------------
+
+### Bug fixes / Improvements
+
+* [[`52a1d278da`](https://github.com/alrra/browser-logos/commit/52a1d278daf01ae4557a4307769e3fc972dda6ce)] - 📚 Fix broken links (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 1.0.10 (June 14, 2023)
 ----------------------
 
