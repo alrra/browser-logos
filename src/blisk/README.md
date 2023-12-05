@@ -5,8 +5,8 @@ Blisk
 <table>
     <tr height=240>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/a94987f29719142668cdf960b3f624ce1a3c6aa8/src/blisk">
-                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/a94987f29719142668cdf960b3f624ce1a3c6aa8/src/blisk/blisk.svg?sanitize=true" alt="Blisk browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/cc36f31f854b8cb403613c7498bf270c751f572b/src/blisk">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/cc36f31f854b8cb403613c7498bf270c751f572b/src/blisk/blisk.svg?sanitize=true" alt="Blisk browser logo">
             </a>
         </td>
     </tr>
