@@ -1,12 +1,12 @@
 {
   "devDependencies": {
-    "@octokit/rest": "^16.43.1",
-    "inquirer": "^7.3.2",
-    "listr": "^0.14.3",
-    "listr-input": "^0.1.3",
-    "markdown-link-check": "^3.10.3",
-    "markdownlint-cli": "^0.32.2",
-    "shelljs": "^0.8.5"
+    "@octokit/rest": "16.43.1",
+    "inquirer": "7.3.2",
+    "listr": "0.14.3",
+    "listr-input": "0.1.3",
+    "markdown-link-check": "3.11.2",
+    "markdownlint-cli": "0.37.0",
+    "shelljs": "0.8.5"
   },
   "files": [
     "src/!(browser-logos.gif|main-desktop-browser-logos.png|main-mobile-browser-logos.png|old-browser-logos.gif)"
