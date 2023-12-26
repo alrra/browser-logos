@@ -180,6 +180,9 @@ Chrome
             <th>
                 <a href="https://www.google.com/intl/en/chrome/browser/canary.html">Chrome<br>Canary</a>
             </th>
+            <th>
+                <a href="https://googlechromelabs.github.io/chrome-for-testing/">Chrome<br>Test</a>
+            </th>
         </tr>
     </thead>
     <tbody>
@@ -202,6 +205,11 @@ Chrome
             <td>
                 <a href="chrome-canary">
                     <img width=150 src="chrome-canary/chrome-canary_256x256.png" alt="Chrome Canary browser logo">
+                </a>
+            </td>
+            <td>
+                <a href="chrome-test">
+                    <img width=150 src="chrome-test/chrome-test_256x256.png" alt="Chrome Test browser logo">
                 </a>
             </td>
         </tr>
