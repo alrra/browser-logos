@@ -3,6 +3,14 @@
 Changelog
 =========
 
+74.1.0 (December 26, 2023)
+--------------------------
+
+### New features
+
+* [[`7a09ad908e`](https://github.com/alrra/browser-logos/commit/7a09ad908e4f3142af873b24155041c014863c14)] - ✨ Publish `Chrome Test` logo on `npm` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`ec34485764`](https://github.com/alrra/browser-logos/commit/ec3448576479af8c025e688a04005e0071f1a7a1)] - ✨ Add `Chrome Test` logo (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 74.0.0 (June 23, 2023)
 ----------------------
 
