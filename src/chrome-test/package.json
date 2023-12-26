@@ -1,0 +1,18 @@
+{
+  "bugs": "https://github.com/alrra/browser-logos/issues",
+  "description": "Chrome Test browser logo",
+  "homepage": "https://github.com/alrra/browser-logos",
+  "keywords": [
+    "browser-logos",
+    "logo",
+    "chrome-test",
+    "chrome-test-logo"
+  ],
+  "name": "@browser-logos/chrome-test",
+  "repository": {
+    "directory": "src/chrome-test/",
+    "type": "git",
+    "url": "https://github.com/alrra/browser-logos.git"
+  },
+  "version": "1.0.0"
+}
