@@ -1,0 +1,19 @@
+{
+  "bugs": "https://github.com/alrra/browser-logos/issues",
+  "description": "Whale browser logo",
+  "homepage": "https://github.com/alrra/browser-logos",
+  "keywords": [
+    "browser-logos",
+    "logo",
+    "naver-whale",
+    "whale",    
+    "whale-logo"
+  ],
+  "name": "@browser-logos/whale",
+  "repository": {
+    "directory": "src/whale",
+    "type": "git",
+    "url": "https://github.com/alrra/browser-logos.git"
+  },
+  "version": "2.0.0"
+}
