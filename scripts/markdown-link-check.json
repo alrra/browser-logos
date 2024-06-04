@@ -1,5 +1,4 @@
 {
-    "fallbackRetryDelay": "30s",
     "httpHeaders": [
         {
             "urls": ["https://help.github.com"],
@@ -7,6 +6,9 @@
                 "Accept-Encoding": "br, gzip, deflate"
             }
         }
+    ],
+    "ignorePatterns": [
+      { "pattern": "https:\/\/github\\.com\/[^\/]*\/browser-logos\/commit\/.*" }
     ],
     "retryCount": 5,
     "retryOn429": true

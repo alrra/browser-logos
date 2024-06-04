@@ -267,7 +267,7 @@ Cốc Cốc
     <thead>
         <tr>
             <th>
-                <a href="https://coccoc.com/">Cốc Cốc</a>
+                <a href="https://en.wikipedia.org/wiki/C%E1%BB%91c_C%E1%BB%91c">Cốc Cốc</a>
             </th>
         </tr>
     </thead>

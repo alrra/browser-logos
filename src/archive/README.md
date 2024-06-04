@@ -1627,9 +1627,7 @@ Orca
 <table>
     <thead>
         <tr>
-            <th>
-                <a href="https://en.wikipedia.org/wiki/Avant_Browser#History_and_development">Orca</a>
-            </th>
+            <th>Orca</th>
         </tr>
     </thead>
     <tbody>
@@ -1741,9 +1739,7 @@ rekonq
 <table>
     <thead>
         <tr>
-            <th>
-                <a href="https://en.wikipedia.org/wiki/Rekonq">rekonq</a>
-            </th>
+            <th>rekonq</th>
         </tr>
     </thead>
     <tbody>
