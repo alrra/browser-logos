@@ -1392,6 +1392,28 @@ WebKit Nightly
     </tbody>
 </table>
 
+Whale
+--------------
+
+<table>
+    <thead>
+        <tr>
+            <th>
+                <a href="https://whale.naver.com/">Whale</a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=170>
+            <td>
+                <a href="whale">
+                    <img width=150 src="whale/whale_256x256.png" alt="Whale browser logo">
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 Yandex
 ------
 
