@@ -1,0 +1,18 @@
+{
+  "bugs": "https://github.com/alrra/browser-logos/issues",
+  "description": "Replay.io browser logo",
+  "homepage": "https://github.com/alrra/browser-logos",
+  "keywords": [
+    "browser-logos",
+    "logo",
+    "replayio",    
+    "replayio-logo"
+  ],
+  "name": "@browser-logos/replayio",
+  "repository": {
+    "directory": "src/replayio",
+    "type": "git",
+    "url": "https://github.com/alrra/browser-logos.git"
+  },
+  "version": "2.0.0"
+}
