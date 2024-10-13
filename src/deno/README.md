@@ -5,8 +5,8 @@ Deno
 <table>
     <tr height=240>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/2aa3d587c2f353096c3030fa7ea4b92db5cce0f8/src/deno/">
-                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/2aa3d587c2f353096c3030fa7ea4b92db5cce0f8/src/deno//deno_512x512.png" alt="Deno logo">
+            <a href="https://github.com/alrra/browser-logos/tree/26697eac93b043831afe12ab122abf89f586bf12/src/deno/">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/26697eac93b043831afe12ab122abf89f586bf12/src/deno//deno_512x512.png" alt="Deno logo">
             </a>
         </td>
     </tr>
