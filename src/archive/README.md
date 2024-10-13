@@ -499,6 +499,28 @@ Cruz
     </tbody>
 </table>
 
+Deno
+----
+
+<table>
+    <thead>
+        <tr>
+            <th>
+                <a href="https://en.wikipedia.org/wiki/Deno_%28software%29">Deno 1</a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=170>
+            <td>
+                <a href="deno">
+                    <img width=150 src="deno_1/deno_1_256x256.png" alt="Deno 1 logo">
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 Dolphin
 -------
 
