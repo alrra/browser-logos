@@ -3,6 +3,13 @@
 Changelog
 =========
 
+75.0.0 (October 12, 2024)
+-------------------------
+
+### Breaking Changes
+
+* [[`26697eac93`](https://github.com/alrra/browser-logos/commit/26697eac93b043831afe12ab122abf89f586bf12)] - 💥 Update Deno logo (by [`Cătălin Mariș`](https://github.com/alrra)).
+
 74.1.0 (December 26, 2023)
 --------------------------
 
