@@ -513,7 +513,7 @@ Deno
     <tbody>
         <tr height=170>
             <td>
-                <a href="deno">
+                <a href="deno_1">
                     <img width=150 src="deno_1/deno_1_256x256.png" alt="Deno 1 logo">
                 </a>
             </td>
