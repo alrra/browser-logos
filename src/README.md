@@ -209,7 +209,7 @@ Chrome
             </td>
             <td>
                 <a href="chrome-test">
-                    <img width=150 src="chrome-test/chrome-test_256x256.png" alt="Chrome Test browser logo">
+                    <img width=150 src="chrome-test/chrome-test_256x256.png" alt="Chrome for Testing browser logo">
                 </a>
             </td>
         </tr>

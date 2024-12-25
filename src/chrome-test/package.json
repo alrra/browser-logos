@@ -1,12 +1,12 @@
 {
   "bugs": "https://github.com/alrra/browser-logos/issues",
-  "description": "Chrome Test browser logo",
+  "description": "Chrome for Testing browser logo",
   "homepage": "https://github.com/alrra/browser-logos",
   "keywords": [
     "browser-logos",
     "logo",
-    "chrome-test",
-    "chrome-test-logo"
+    "chrome-for-testing",
+    "chrome-for-testing-logo"
   ],
   "name": "@browser-logos/chrome-test",
   "repository": {
