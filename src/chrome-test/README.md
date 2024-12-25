@@ -5,8 +5,8 @@ Chrome for Testing
 <table>
     <tr height=240>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/89e548908ec06d61af5b5510bb34a967acb72e8f/src/chrome-test/">
-                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/ec3448576479af8c025e688a04005e0071f1a7a1/src/chrome-test//chrome-test_512x512.png" alt="Chrome for Testing browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/2138667a8d2145880b93fd40812cbfc8105c003a/src/chrome-test/">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/2138667a8d2145880b93fd40812cbfc8105c003a/src/chrome-test//chrome-test_512x512.png" alt="Chrome for Testing browser logo">
             </a>
         </td>
     </tr>
