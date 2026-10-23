@@ -54,9 +54,9 @@ const extractDataFromCommit = async (sha) => {
 
     commitBodyLines.shift();
     commitBodyLines.forEach((line) => {
-        const match = regex.exec(line);
+        let match;
 
-        if (match) {
+        while ((match = regex.exec(line)) !== null) {
             associatedIssues.push(match[2]);
         }
     });
